@@ -129,7 +129,10 @@ MORE_LEAGUES = [
   'VB EM H',  # Volleyball Europameisterschaft Herren
   'TEN ATP',  # Tennis ATP
   'TEN WTA',  # Tennis WTA
+  'TEN AUT',  # Austrian Pro, Einzel, Herren
   'F1',       # Formel 1
+  'DART HO',  # Darts, PDC Home Tour (best of 9 Legs)
+  'DART CZ',  # Czech Darts Premier League
 ]
 
 
@@ -164,6 +167,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'CL DAM',     # UEFA Champions League Damen
   'AUT DA',     # Österreich Frauen Bundesliga
   'DA CUP',     # Österreich Damen Cup
+  'GER DA',     # Deutschland Frauen Bundesliga
 
   ## misc
   'FS',       # Freundschaftsspiele International (Klub)

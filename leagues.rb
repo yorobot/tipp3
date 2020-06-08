@@ -23,12 +23,12 @@ PROGRAMS_2020.each do |program|
              BASKETBALL_LEAGUES.include?( league_code ) ||
              HANDBALL_LEAGUES.include?( league_code ) ||
              MORE_LEAGUES.include?( league_code ) ||      ## skip amercian football, etc.
-             WINTER_LEAGUES.include?( league_code )       ## skip ski alpin 
+             WINTER_LEAGUES.include?( league_code )       ## skip ski alpin
 
 
-      ## remove leading "Fussball -" from title (before 2020 format change)   
+      ## remove leading "Fussball -" from title (before 2020 format change)
       league_title = league_title.sub('Fussball - ','')  if league_title =~ %r{Fussball -}
-   
+
       puts "#{league_code} | #{league_title}"
 
       leagues[ league_code ] ||= [0, league_title]
@@ -48,10 +48,10 @@ end
 require 'sportdb/config'
 
 ## use (switch to) "external" datasets
-SportDb::Import.config.clubs_dir   = "../../../openfootball/clubs"
-SportDb::Import.config.leagues_dir = "../../../openfootball/leagues"
+SportDb::Import.config.clubs_dir   = "../../openfootball/clubs"
+SportDb::Import.config.leagues_dir = "../../openfootball/leagues"
 
-LEAGUES = SportDb::Import.config.leagues
+LEAGUES = SportDb::Import.catalog.leagues
 
 
 

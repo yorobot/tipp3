@@ -2,13 +2,13 @@
 require 'sportdb/config'
 
 ## use (switch to) "external" datasets
-SportDb::Import.config.clubs_dir   = "../../../openfootball/clubs"
-SportDb::Import.config.leagues_dir = '../../../openfootball/leagues'
+SportDb::Import.config.leagues_dir = '../../openfootball/leagues'
+SportDb::Import.config.clubs_dir   = '../../openfootball/clubs'
 
 
-leagues   = SportDb::Import.config.leagues
-clubs     = SportDb::Import.config.clubs
-countries = SportDb::Import.config.countries
+leagues   = SportDb::Import.catalog.leagues
+clubs     = SportDb::Import.catalog.clubs
+countries = SportDb::Import.catalog.countries
 
 ## pp clubs.match( 'Juventus Turin' )
 ## pp clubs.match_by( name: 'Juventus Turin', country: countries['it'] )
@@ -30,7 +30,7 @@ EXTRA_COUNTRY_MAPPINGS = {
 
 league_titles = {}   ## lookup league title by league code
 
-PROGRAMS_2019.each do |program|
+PROGRAMS_2020.each do |program|
    recs = CsvHash.read( "o/#{program}.csv", :header_converters => :symbol )
    pp recs.size
 
@@ -43,12 +43,12 @@ PROGRAMS_2019.each do |program|
              BASKETBALL_LEAGUES.include?( league_code ) ||
              HANDBALL_LEAGUES.include?( league_code ) ||
              MORE_LEAGUES.include?( league_code ) ||      ## skip amercian football, etc.
-             WINTER_LEAGUES.include?( league_code )       ## skip ski alpin 
+             WINTER_LEAGUES.include?( league_code )       ## skip ski alpin
 
      ## skip national (selection) teams / matches e.g. wm, em, u21, u20, int fs, etc.
      next if EXCLUDE_LEAGUES.include?( league_code )
 
-      ## remove leading "Fussball -" from title (before 2020 format change)   
+      ## remove leading "Fussball -" from title (before 2020 format change)
       league_title = league_title.sub('Fussball - ','')  if league_title =~ %r{Fussball -}
 
 
@@ -165,7 +165,7 @@ PROGRAMS_2019.each do |program|
             # bingo; match
           end
         end
-    
+
   end
 end
 
@@ -185,6 +185,6 @@ end
 puts buf
 
 ## save to missing_clubs.txt
-File.open( 'missing_clubs.txt', 'w:utf-8' ) do |f|
+File.open( 'missing_clubs_2020.txt', 'w:utf-8' ) do |f|
   f.write buf
 end

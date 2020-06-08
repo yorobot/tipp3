@@ -1,0 +1,63 @@
+        86 GER BL   Deutschland Bundesliga
+        45 GER 2    Deutschland 2. Bundesliga
+        30 AUT BL   Österreich Bundesliga
+        27 ENG FA   England FA Cup
+        27 ISR 2    Israel National League
+        25 CZE 1    Tschechien Gambrinus Liga
+(*)     24 FS       Freundschaftsspiele International (Klub)
+        23 CRC 1    Costa Rica Primera División
+        20 CZE 2    Tschechien 1. Division
+        18 GER 3    Deutschland 3. Liga
+        17 BLR 1    Weißrussland Premier League
+        13 ENG CS   England Championship
+        13 ENG PL   England Premier League
+        12 ENG 3    England League One
+        12 ESP 2    Spanien Segunda Division
+        12 FRO 1    Färöer Inseln Premier League
+        12 ISR 1    Israel Winner League
+        12 POR 1    Portugal Primeira Liga
+        10 ESP 1    Spanien Primera Division
+        10 ITA A    Italien Serie A
+         9 EGY 1    Ägypten Premier League
+         9 EST 1    Estland Meistriliiga
+         9 POL 2    Polen I Liga
+         8 AUT 2    Österreich Zweite Liga
+         8 DEN 1    Dänemark Superligaen
+         8 GRE CUP  Griechenland Cup
+         8 POL 1    Polen Orange Ekstraklasa
+         8 RSA PL   Südafrika, Premier League
+         8 SERB 1   Serbien Meridijan Superliga
+         7 BLR RES  Weißrussland Reserve Liga
+         7 FRA CUP  Frankreich Coupe de France
+         7 HUN 1    Ungarn NB I
+         5 AUT CUP  Österreich ÖFB Cup
+         5 ENG LTR  England Football League Trophy
+         5 KOR 1    Südkorea K-League 1
+         5 TURK 1   Turkmenistan 1. Liga
+         5 VIE CUP  Vietnam Cup
+         5 WAL 1    Wales Premier League
+         4 CYP CUP  Zypern Cup
+         4 ENG LC   England Liga Cup
+         4 ESP SC   Spanien Supercopa
+         4 FRA LC   Frankreich Coupe de la Ligue
+         4 SER CUP  Serbien Cup
+         3 FA TRO   England FA Trophy
+         3 HUN CUP  Ungarn Cup
+         3 UKR 1    Ukraine Premier League
+         2 AUS 1    Australien Hyundai A-League
+         2 BLR 2    Weißrussland Pervaya Liga
+         2 CRO CUP  Kroatien Croatian Cup
+         2 CYP 1    Zypern 1. Division
+         2 GRE 1    Griechenland Super League
+         2 POL CUP  Polen Cup
+         1 BLR CUP  Weißrussland Cup
+         1 BUR 1    Burundi 1.Liga
+(*)      1 COPA CA  Copa Centroamericana
+         1 DEN 2    Dänemark 1. Division
+(*)      1 GER DA   Deutschland Frauen Bundesliga
+         1 ITA CUP  Italien Coppa Italia
+         1 JPN CUP  Japan Emperor Cup
+         1 LIT 1    Litauen A lyga
+         1 TUN 1    Tunesien, Ligue 1
+
+(*): national team and/or women leagues - AFR CQ, AFR CUP, AUT DA, CCC NL, CL DAM, COPA AM, COPA CA, DA CUP, EM Q, EMQDA, EMR CUP, FS, FS U20, FS U21, G-CUP, GER DA, GOLF-C, INT CHC, INT FS, INT FSD, PL ASIA, U19 DAQ, U19 EM, U19 EMQ, U20 WM, U21 EM, U21 EMQ, UEFA NL, WM DAM, WM Q

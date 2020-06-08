@@ -1,0 +1,98 @@
+League TURK 1 (8) - >Turkmenistan 1. Liga<:
+  Ahal FC
+  Altyn Asyr FC
+  FC Asgabat
+  Merw Mary
+  FC Energetik Mary
+  Nebitci Balkanabat
+  Kopetdag Asgabat
+  Shagadam Turkmen.
+League EST 1 (2) - >Estland Meistriliiga<:
+  Tallinna JK Legion
+  Paide Linnameesk.
+League BLR RES (14) - >Weißrussland Reserve Liga<:
+  Neman Grodno Res.
+  Torpedo Zhodino Re
+  Sh. Soligorsk Rese
+  Belshina B. Res.
+  Dinamo Brest Reser
+  Bate Borisov Reser
+  Sl. Mozyr Reserve
+  Gorodeya Reserve
+  FC Isloch Reserve
+  Energetik Minsk Re
+  FC Slutsk Reserve
+  Rukh Brest Reserve
+  FC Vitebsk Reserve
+  Din Minsk Reserve
+League CRC 1 (1) - >Costa Rica Primera División<:
+  Uni. de Costa Rica
+League BUR 1 (2) - >Burundi 1.Liga<:
+  Musongati FC
+  Athletico Olympic
+League KOR 1 (4) - >Südkorea K-League 1<:
+  Pohang Steelers FC
+  Sangju Sangmu Pho.
+  Gwangju FC
+  Jeonbuk Hyundai
+League FRO 1 (2) - >Färöer Inseln Premier League<:
+  Vikingur Gota
+  TB Tvoeroyri
+League BLR 1 (4) - >Weißrussland Premier League<:
+  FC Slutsk
+  FC Rukh Brest
+  Energet. BGU Minsk
+  FC Smolevichi
+League BLR 2 (3) - >Weißrussland Pervaya Liga<:
+  FC Granit Mikashev
+  FC Lida
+  FK Volna Pinsk
+League VIE CUP (10) - >Vietnam Cup<:
+  FC Dong Thap
+  Hai Phong FC
+  Pho Hien FC
+  FC Thanh Hoa
+  Sanna Khanh Hoa FC
+  The Cong
+  CLB Binh Phuoc
+  Dak Lak FC
+  Hong Linh Ha Tinh
+  XM Fico TAY Ninh
+League CZE 2 (9) - >Tschechien 1. Division<:
+  FK Varnsdorf
+  FK Banik Sokolov
+  FK Slavoj Vysehrad
+  FK Fotbal Trinec
+  AFK Chrudim
+  SK Lisen
+  FC Graffin Vlasim
+  Pardubice
+  1.SK Prostejov
+League HUN CUP (2) - >Ungarn Cup<:
+  Mezokovesd Zsory S
+  MTK Budapest FC
+League SERB 1 (5) - >Serbien Meridijan Superliga<:
+  FK Indija
+  Cukaricki Belgrad
+  FK Rad Belgrad
+  FK Radnik Surdulic
+  FK Backa Topola
+League HUN 1 (2) - >Ungarn NB I<:
+  Diosgyör VTK
+  Mezokovesd Zsory S
+League ISR 2 (2) - >Israel National League<:
+  Katamon Jerusalem
+  Umm al-Fahm
+League POL 2 (8) - >Polen I Liga<:
+  Pusz. Niepolomice
+  Chojnicz. Chojnice
+  Sandecja
+  Nieciecza KS
+  Wigry Suwalki
+  Jastrzebie Zdroj
+  Olimpia Grudziadz
+  Radomiak Radom
+League SER CUP (3) - >Serbien Cup<:
+  FK Indija
+  Cukaricki Belgrad
+  FK Radnik Surdulic
