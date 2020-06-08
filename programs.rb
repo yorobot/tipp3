@@ -7,7 +7,7 @@ EXTRA_LEAGUE_MAPPINGS = {
   ## 'RL TIR' => 'AUT RL T',   ## or use AUT RLT or AUT RL TIR ???
   ## 'RL SBG' => 'AUT RL S',
   ## 'RL VBG' => 'AUT RL V',
-  
+
   ## 'FA TRO' => 'ENG FA TRO',  ## England FA Trophy
 }
 
@@ -52,7 +52,9 @@ PROGRAMS_2019 = %w[
 PROGRAMS_2020 = %w[
   01a_mon-dec-30   01b_fri-jan-3
   02a_tue-jan-7
-].map { |name| "2020-#{name}" } 
+
+  23a_tue-jun-2
+].map { |name| "2020-#{name}" }
 
 
 PROGRAMS = PROGRAMS_2019 + PROGRAMS_2020
@@ -101,7 +103,7 @@ BASKETBALL_LEAGUES = [
   'BB ITA',  # Italien A1
   'BB FRA',  # Frankreich Pro A
   'BB POR',  # Portugal, LPB
-  'BB WM',   # FIBA Weltmeisterschaft 
+  'BB WM',   # FIBA Weltmeisterschaft
   'BB EL',   # Euroleague
   'BB BEL',  # Belgien Scooore League
   'BB CL',   # Basketball Champions League

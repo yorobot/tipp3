@@ -1,10 +1,10 @@
 
 require 'sportdb/config'
 
-SportDb::Import.config.leagues_dir = '../../../openfootball/leagues'
+SportDb::Import.config.leagues_dir = '../../openfootball/leagues'
 
 
-leagues = SportDb::Import.config.leagues
+leagues = SportDb::Import.catalog.leagues
 leagues.dump_duplicates
 
 

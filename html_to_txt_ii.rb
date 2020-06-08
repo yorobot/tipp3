@@ -8,7 +8,7 @@ def parse_tipp3_ii( html )
   table = doc.css( 'div.t3-list__entries' ).first    ## get table
   trs = table.css( 'div.t3-list-entry' )
   puts trs.size
- 
+
 
   trs.each_with_index do |tr,i|
 
@@ -51,7 +51,7 @@ time = el2.text.strip
     el2 = el.css( 'div.t3-list-entry__league-name--long' )[0]
     assert( el1, "no league name short found" )
     assert( el2, "no league name long found" )
-    
+
     liga       = el1.text.strip
     liga_title = el2.text.strip
     liga_title = liga_title.gsub( /[ ]+/, ' ' ).strip
@@ -74,7 +74,7 @@ time = el2.text.strip
 
       players << player
     end
- 
+
 
     el  = tr.css( 'div.t3-list-entry__result' )[0]
     assert( el, "no result found" )
@@ -106,7 +106,8 @@ if __FILE__ == $0
 
   # html = File.open( "dl/2020-01b_fri-jan-3.html", 'r:utf-8' ).read
   # html = File.open( "dl/2020-01a_mon-dec-30.html", 'r:utf-8' ).read
-  html = File.open( "dl/2020-02a_tue-jan-7.html", 'r:utf-8' ).read
-  
+  # html = File.open( "dl/2020-02a_tue-jan-7.html", 'r:utf-8' ).read
+  html = File.open( "dl/2020-23a_tue-jun-2.html", 'r:utf-8' ).read
+
   recs = parse_tipp3_ii( html )
 end

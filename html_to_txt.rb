@@ -20,16 +20,6 @@ end
 
 
 
-def parse_tipp3( html )
-
-  if html =~ %r{class="t3-list-entry}
-    parse_tipp3_ii( html )
-  else  ## assume old "classic" format (before 2020)
-    parse_tipp3_i( html )
-  end
-
-end # parse_tipp3
-
 
 
 def csv_encode( values )
@@ -62,7 +52,13 @@ end
 PROGRAMS_2020.each do |program|
    html = File.open( "dl/#{program}.html", 'r:utf-8' ).read
    ## pp html
-   recs = parse_tipp3( html )
+
+   recs = if html =~ %r{class="t3-list-entry}
+            parse_tipp3_ii( html )
+          else  ## assume old "classic" format (before 2020)
+            parse_tipp3_i( html )
+          end
+
    ##  sort by num (1st record filed e.g. 001, 002, 003, etc. - is sometimes out of order (and sorted by date))
    recs = recs.sort_by {|rec| rec[0]}
    pp recs
