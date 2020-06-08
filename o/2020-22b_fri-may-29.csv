@@ -1,0 +1,120 @@
+Num,Date,Liga,Team 1,Score,Team 2,Result,Liga Title
+001,29.05. 14:00,FS,FC Liefering,0:2,Austria Klagenfurt,?,Freundschaftsspiele Österreich
+002,29.05. 15:00,SERB 1,FK Indija,1:2,Spartak Subotica,?,Serbien Meridijan Superliga
+003,29.05. 15:30,FS,FC Dornbirn,2:3,Wacker Innsbruck,?,Freundschaftsspiele Österreich
+004,29.05. 16:00,FS,SV Ried,2:0,SKU Amstetten,?,Freundschaftsspiele Österreich
+005,29.05. 16:00,CZE 2,FC Jihlava,1:2,FK Varnsdorf,?,Tschechien 1. Division
+006,29.05. 17:00,SERB 1,FK Vojvodina,1:1,Cukaricki Belgrad,?,Serbien Meridijan Superliga
+007,29.05. 17:00,BLR 1,FC Torpedo Zhodino,2:1,FC Smolevichi,?,Weißrussland Premier League
+008,29.05. 18:00,DEN 2,Viborg FF,1:1,Skive IK,?,Dänemark 1. Division
+009,29.05. 18:00,POL 1,Slask Wroclaw,1:1,Rakow Czestochowa,?,Polen Orange Ekstraklasa
+010,29.05. 18:30,GER 2,VfL Osnabrück,2:2,Jahn Regensburg,?,Deutschland 2. Bundesliga
+011,29.05. 18:30,GER 2,SV Darmstadt 98,1:1,Greuther Fürth,?,Deutschland 2. Bundesliga
+012,29.05. 19:00,DEN 1,Silkeborg IF,0:2,FC Nordsjaelland,?,Dänemark Superligaen
+013,29.05. 19:00,BLR 1,FC Gorodeya,0:2,Neman Grodno,?,Weißrussland Premier League
+014,29.05. 19:30,SERB 1,FK Rad Belgrad,0:5,Roter Stern B.,?,Serbien Meridijan Superliga
+015,29.05. 20:00,HUN 1,Kaposvari Rakoczi,0:6,Zalaegerszegi TE,?,Ungarn NB I
+016,29.05. 20:30,GER BL,SC Freiburg,0:1,Bayer Leverkusen,?,Deutschland Bundesliga
+017,29.05. 20:30,GER BL,SC Freiburg+1,1:1,Bayer Leverkusen,?,Deutschland Bundesliga
+018,29.05. 20:30,POL 1,Pogon Szczecin,0:3,Zaglebie Lubin,?,Polen Orange Ekstraklasa
+019,29.05. 20:45,AUT CUP,RB Salzburg*,5:0,Austria Lustenau,?,Österreich ÖFB Cup
+020,29.05. 20:45,AUT CUP,RB Salzburg,5:1,Austria Lustenau+1,?,Österreich ÖFB Cup
+021,29.05. 20:45,AUT CUP,RB Salzburg,5:2,Austria Lustenau+2,?,Österreich ÖFB Cup
+022,30.05. 13:00,GER 2,1. FC Nürnberg,0:0,VfL Bochum,?,Deutschland 2. Bundesliga
+023,30.05. 13:00,GER 2,Karlsruher SC,1:1,FC St. Pauli,?,Deutschland 2. Bundesliga
+024,30.05. 13:00,GER 2,Holstein Kiel,1:2,Arminia Bielefeld,?,Deutschland 2. Bundesliga
+025,30.05. 13:00,GER 2,SV Sandhausen,3:1,Hannover 96,?,Deutschland 2. Bundesliga
+026,30.05. 14:00,GER 3,W. Mannheim,1:2,KFC Uerdingen 05,?,Deutschland 3. Liga
+027,30.05. 14:00,GER 3,Großaspach,0:2,Unterhaching,?,Deutschland 3. Liga
+028,30.05. 14:00,GER 3,FSV Zwickau,2:2,Hansa Rostock,?,Deutschland 3. Liga
+029,30.05. 14:00,GER 3,SV Meppen,1:3,Kickers Würzburg,?,Deutschland 3. Liga
+030,30.05. 14:00,GER 3,FC Ingolstadt,1:2,Bayern München Am.,?,Deutschland 3. Liga
+031,30.05. 14:00,GER 3,FC Magdeburg,0:1,FC Kaiserslautern,?,Deutschland 3. Liga
+032,30.05. 14:00,GER 3,E. Braunschweig,4:2,FC Viktoria Köln,?,Deutschland 3. Liga
+033,30.05. 14:00,CZE 1,SK Sigma Olmütz,1:2,1. FK Pribram,?,Tschechien Gambrinus Liga
+034,30.05. 14:30,FS,SK Vorwärts Steyr,3:0,FC Juniors OÖ,?,Freundschaftsspiele Österreich
+035,30.05. 15:00,POL 1,LKS Lodz,0:1,Gornik Zabrze,?,Polen Orange Ekstraklasa
+036,30.05. 15:00,SERB 1,FK Radnik Surdulic,1:1,FK Proleter,?,Serbien Meridijan Superliga
+037,30.05. 15:30,GER BL,FSV Mainz 05,0:1,TSG Hoffenheim,?,Deutschland Bundesliga
+038,30.05. 15:30,GER BL,FSV Mainz 05+1,1:1,TSG Hoffenheim,?,Deutschland Bundesliga
+039,30.05. 15:30,GER BL,VfL Wolfsburg,1:2,Eintr. Frankfurt,?,Deutschland Bundesliga
+040,30.05. 15:30,GER BL,VfL Wolfsburg,1:3,Eintr. Frankfurt+1,?,Deutschland Bundesliga
+041,30.05. 15:30,GER BL,Hertha BSC,2:0,FC Augsburg,?,Deutschland Bundesliga
+042,30.05. 15:30,GER BL,Hertha BSC,2:1,FC Augsburg+1,?,Deutschland Bundesliga
+043,30.05. 15:30,GER BL,FC Schalke 04,0:1,Werder Bremen,?,Deutschland Bundesliga
+044,30.05. 15:30,GER BL,FC Schalke 04,0:2,W. Bremen+1,?,Deutschland Bundesliga
+045,30.05. 16:00,UKR 1,FC Oleksandria,1:0,FC Zorya Lugansk,?,Ukraine Premier League
+046,30.05. 16:00,CZE 1,FC Slovan Liberec,3:1,1. FC Slovacko,?,Tschechien Gambrinus Liga
+047,30.05. 16:00,CZE 1,FC Fastav Zlin,1:1,FC Banik Ostrava,?,Tschechien Gambrinus Liga
+048,30.05. 16:00,BLR 1,Belshina Bobruisk,2:3,Slavia Mozyr,?,Weißrussland Premier League
+049,30.05. 16:55,HUN 1,Varda SE,1:0,Ujpest FC,?,Ungarn NB I
+050,30.05. 17:30,POL 1,Piast Gliwice,4:0,Wisla Krakau,?,Polen Orange Ekstraklasa
+051,30.05. 17:30,SERB 1,Partizan Belgrad,4:1,FK Mladost Lucani,?,Serbien Meridijan Superliga
+052,30.05. 18:00,CZE 1,Viktoria Pilsen,7:1,FK Mlada Boleslav,?,Tschechien Gambrinus Liga
+053,30.05. 18:00,BLR 1,FC Dinamo Minsk,0:1,Shakhter Soligorsk,?,Weißrussland Premier League
+054,30.05. 18:30,GER BL,FC Bayern München,5:0,Fortuna Düsseldorf,?,Deutschland Bundesliga
+055,30.05. 18:30,GER BL,FC Bayern München,5:2,Fort. Düsseldorf+2,?,Deutschland Bundesliga
+056,30.05. 19:00,ISR 1,Maccabi Tel Aviv,2:0,Hapoel Haifa,?,Israel Winner League
+057,30.05. 19:00,HUN 1,Diosgyör VTK,1:0,Mezokovesd Zsory S,?,Ungarn NB I
+058,30.05. 19:45,ISR 1,Beitar Jerusalem,1:1,Hap. Beer Sheva,?,Israel Winner League
+059,30.05. 19:30,SERB 1,FK Napredak,1:1,FK Radnicki Nis,?,Serbien Meridijan Superliga
+060,30.05. 20:00,ISR 1,Maccabi Haifa,1:2,Hapoel Tel Aviv,?,Israel Winner League
+061,30.05. 20:00,CZE 1,SK Slavia Prag,5:0,FK Baumit Jablonec,?,Tschechien Gambrinus Liga
+062,30.05. 20:00,POL 1,Lech Posen,0:1,Legia Warschau,?,Polen Orange Ekstraklasa
+063,30.05. 20:15,CRO CUP,NK Slaven Belupo,1:3,Lok Zagreb,?,Kroatien Croatian Cup
+064,30.05. 21:05,HUN 1,Paksi FC,0:0,Fehervar FC,?,Ungarn NB I
+065,30.05. 23:00,CRC 1,Municipal Grecia,2:0,Guadalupe FC,?,Costa Rica Primera División
+066,31.05. 12:30,POL 1,Wisla Plock,1:4,Korona Kielce,?,Polen Orange Ekstraklasa
+067,31.05. 13:00,GER 3,TSV 1860 München,3:2,MSV Duisburg,?,Deutschland 3. Liga
+068,31.05. 13:00,UKR 1,Karpaty Lemberg,abgesagt,FK Mariupol,?,Ukraine Premier League
+069,31.05. 13:30,GER 2,FC Heidenheim,3:0,Erzgebirge Aue,?,Deutschland 2. Bundesliga
+070,31.05. 13:30,GER 2,Dynamo Dresden,0:2,VfB Stuttgart,?,Deutschland 2. Bundesliga
+071,31.05. 13:30,GER 2,Hamburger SV,3:2,Wehen Wiesbaden,?,Deutschland 2. Bundesliga
+072,31.05. 14:00,CZE 1,FK Teplice,2:2,SFC Opava,?,Tschechien Gambrinus Liga
+073,31.05. 15:00,POL 1,Cracovia Krakau,0:1,Jagiellonia Bial.,?,Polen Orange Ekstraklasa
+074,31.05. 15:00,BLR 1,Energet. BGU Minsk,3:3,FC Vitebsk,?,Weißrussland Premier League
+075,31.05. 15:30,GER BL,Mönchengladbach,4:1,FC Union Berlin,?,Deutschland Bundesliga
+076,31.05. 15:30,GER BL,Mönchengladbach,4:2,FC Union Berlin+1,?,Deutschland Bundesliga
+077,31.05. 16:00,UKR 1,Shakhtar Donetsk*,3:1,FC Dynamo Kiev,?,Ukraine Premier League
+078,31.05. 16:00,CZE 1,Bohem.Prag 1905,3:2,SK Dynamo Budweis,?,Tschechien Gambrinus Liga
+079,31.05. 17:00,CZE 2,FC Graffin Vlasim,1:1,FK Banik Sokolov,?,Tschechien 1. Division
+080,31.05. 17:00,CZE 2,Pardubice,5:0,FK Usti nad Labem,?,Tschechien 1. Division
+081,31.05. 17:00,BLR 1,FC BATE Borisov,1:0,Isloch,?,Weißrussland Premier League
+082,31.05. 17:30,POL 1,KS Lechia Gdansk,4:3,Arka Gdynia 1929,?,Polen Orange Ekstraklasa
+083,31.05. 17:30,SERB 1,FK Backa Topola,6:1,FK Javor,?,Serbien Meridijan Superliga
+084,31.05. 18:00,GER BL,SC Paderborn,1:6,Bor. Dortmund,?,Deutschland Bundesliga
+085,31.05. 18:00,GER BL,SC Paderborn+1,2:6,Bor. Dortmund,?,Deutschland Bundesliga
+086,31.05. 18:00,DEN 1,Esbjerg FB,1:1,Aalborg BK,?,Dänemark Superligaen
+087,31.05. 18:00,CZE 1,MFK Karvina,1:4,Sparta Prag,?,Tschechien Gambrinus Liga
+088,31.05. 18:55,HUN 1,Honved Budapest,3:1,Debreceni VSC,?,Ungarn NB I
+089,31.05. 19:00,BLR 1,FC Rukh Brest,1:4,Dinamo Brest,?,Weißrussland Premier League
+090,31.05. 19:30,SERB 1,Macva Sabac,0:1,FK Vozdovac,?,Serbien Meridijan Superliga
+091,31.05. 20:15,CRO CUP,HNK Rijeka,3:2,NK Osijek,?,Kroatien Croatian Cup
+092,31.05. 21:05,HUN 1,Puskas Akademia FC,1:1,Ferencvaros,?,Ungarn NB I
+093,01.06. 14:00,DEN 1,Randers FC,0:1,Hobro IK,?,Dänemark Superligaen
+094,01.06. 16:00,FRO 1,B36 Torshavn,2:4,HB Torshavn,?,Färöer Inseln Premier League
+095,01.06. 16:00,FRO 1,Vikingur Gota,0:0,TB Tvoeroyri,?,Färöer Inseln Premier League
+096,01.06. 20:00,FRO 1,AB Argir,0:6,KI Klaksvik,?,Färöer Inseln Premier League
+097,01.06. 16:00,DEN 1,FC Midtjylland,0:1,AC Horsens,?,Dänemark Superligaen
+098,01.06. 17:00,BLR 1,FC Minsk,1:0,FC Slutsk,?,Weißrussland Premier League
+099,01.06. 17:00,LIT 1,Suduva Marijampole,1:0,FK Zalgiris Kaunas,?,Litauen A lyga
+100,01.06. 18:00,DEN 1,Lyngby BK,1:4,FC Kopenhagen,?,Dänemark Superligaen
+101,01.06. 19:00,ISR 2,Hapoel Ramat Gan,1:0,Hapoel Afula FC,?,Israel National League
+102,01.06. 19:00,ISR 2,Hapoel Nof HaGalil,1:1,Hapoel Umm al-Fahm,?,Israel National League
+103,01.06. 19:00,ISR 2,H. Petach Tikva,4:2,M. Ahi Nazareth,?,Israel National League
+104,01.06. 19:00,ISR 2,Bnei Sakhnin FC,1:2,I. Ramat Hasharon,?,Israel National League
+105,01.06. 19:00,ISR 2,Hapoel Akko,0:1,Katamon Jerusalem,?,Israel National League
+106,01.06. 19:00,ISR 2,Beitar Tel Aviv,3:0,Hapoel Bnei Lod,?,Israel National League
+107,01.06. 19:00,ISR 2,Hap. Rishon LeZion,1:1,Hapoel Ashkelon,?,Israel National League
+108,01.06. 19:00,ISR 2,SC Kfar Qasem,0:3,Macc. Petach Tikva,?,Israel National League
+109,01.06. 19:00,CZE 2,Zbrojovka Brno,0:0,FK Dukla Prag,?,Tschechien 1. Division
+110,01.06. 19:15,ISR 1,Bnei Yehuda,0:0,Hapoel Kfar Saba,?,Israel Winner League
+111,01.06. 20:00,DEN 1,AGF Aarhus,1:0,Odense BK,?,Dänemark Superligaen
+112,01.06. 20:30,GER BL,1. FC Köln,2:4,RB Leipzig,?,Deutschland Bundesliga
+113,01.06. 20:30,GER BL,1. FC Köln+1,3:4,RB Leipzig,?,Deutschland Bundesliga
+114,02.06. 18:30,AUT BL,SV Mattersburg,1:1,SCR Altach,?,"Österreich Bundesliga, Qualifikationsgruppe"
+115,02.06. 18:30,AUT BL,WSG Swarovs. Tirol,0:5,SKN St. Pölten,?,"Österreich Bundesliga, Qualifikationsgruppe"
+116,02.06. 20:30,AUT BL,FK Austria Wien,1:0,Admira Wacker,?,"Österreich Bundesliga, Qualifikationsgruppe"
+117,03.06. 18:30,AUT BL,SK Sturm Graz,1:2,Wolfsberger AC,?,Österreich Bundesliga
+118,03.06. 18:30,AUT BL,LASK Linz,1:2,TSV Hartberg,?,Österreich Bundesliga
+119,03.06. 20:30,AUT BL,RB Salzburg,2:0,SK Rapid Wien,?,Österreich Bundesliga

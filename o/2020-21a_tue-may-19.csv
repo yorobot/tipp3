@@ -1,0 +1,58 @@
+Num,Date,Liga,Team 1,Score,Team 2,Result,Liga Title
+001,19.05. 11:00,FS,V. Zizkov CZE,3:6,MAS Taborsko CZE,?,Freundschaftsspiele International (Klub)
+002,19.05. 14:00,FS,1. FC Slovacko CZE,1:0,Fotbal Trinec CZE,?,Freundschaftsspiele International (Klub)
+003,19.05. 15:30,TURK 1,Ahal FC,1:2,Altyn Asyr FC,?,Turkmenistan 1. Liga
+004,19.05. 17:00,FS,Slavoj Vysehra CZE,5:0,FC Pisek CZE,?,Freundschaftsspiele International (Klub)
+005,19.05. 17:00,FS,Hap. Ashkelon ISR*,0:3,Hap. Tel Aviv ISR,?,Freundschaftsspiele International (Klub)
+006,19.05. 18:00,EST 1,FC Kuressaare,0:2,JK Nomme Kalju,?,Estland Meistriliiga
+007,19.05. 18:00,EST 1,Tallinna JK Legion,0:2,FC Levadia Tallinn,?,Estland Meistriliiga
+008,19.05. 23:00,CRC 1,Guadalupe FC,1:0,Limon FC,?,Costa Rica Primera División
+009,20.05. 04:00,CRC 1,CS Cartagines,0:2,LD Alajuelense,?,Costa Rica Primera División
+010,20.05. 11:00,FS,Zbrojovka Brno CZE,0:5,FC Fastav Zlin CZE,?,Freundschaftsspiele International (Klub)
+011,20.05. 11:00,FS,SFC Opava CZE,1:1,Banik Ostrava CZE,?,Freundschaftsspiele International (Klub)
+012,20.05. 11:00,FS,FK Indija SRB,1:0,FK Vozdovac SRB,?,Freundschaftsspiele International (Klub)
+013,20.05. 14:00,FS,Ujpest FC HUN,1:2,Paksi FC HUN,?,Freundschaftsspiele International (Klub)
+014,20.05. 16:00,FS,Dynamo Budweis CZE,1:4,Vikt. Pilsen CZE,?,Freundschaftsspiele International (Klub)
+015,20.05. 16:00,BLR RES,Neman Grodno Res.,abgesagt,Torpedo Zhodino Re,?,Weißrussland Reserve Liga
+016,20.05. 17:30,FS,FK Vojvodina SRB,1:1,FK Backa Palanka,?,Freundschaftsspiele International (Klub)
+017,20.05. 18:00,BLR 1,Dinamo Brest,1:3,FC BATE Borisov,?,Weißrussland Premier League
+018,20.05. 18:00,BLR 1,Dinamo Brest+1,2:3,FC BATE Borisov,?,Weißrussland Premier League
+019,20.05. 18:00,EST 1,JK Tallinna Kalev,1:1,JK Narva Trans,?,Estland Meistriliiga
+020,20.05. 18:00,EST 1,FC Flora Tallinn,0:0,Tammeka Tartu,?,Estland Meistriliiga
+021,20.05. 20:00,DART CZ,"Sedlak, Vitezslav",7:4,"Barborak, Daniel",?,Czech Darts Premier League
+022,20.05. 20:35,DART CZ,"Gawlas, A.",7:0,"Smejda, Michal",?,Czech Darts Premier League
+023,20.05. 21:10,DART CZ,"Pisek, David",7:3,"Kysilka, Ondrej",?,Czech Darts Premier League
+024,20.05. 21:45,DART CZ,"Masek, Alexander",7:1,"Ondo, Michal",?,Czech Darts Premier League
+025,20.05. 23:00,CRC 1,Municipal Grecia,1:0,Perez Zeledon,?,Costa Rica Primera División
+026,20.05. 23:00,CRC 1,Uni. de Costa Rica,1:3,Santos de Guapiles,?,Costa Rica Primera División
+027,21.05. 04:00,CRC 1,Deportivo Saprissa,1:0,CS Herediano,?,Costa Rica Primera División
+028,21.05. 04:00,CRC 1,Deportivo Saprissa,1:1,CS Herediano+1,?,Costa Rica Primera División
+029,21.05. 01:05,CRC 1,AD San Carlos,0:1,ADR Jicaral,?,Costa Rica Primera División
+030,21.05. 10:00,FS,FC Ashdod ISR,abgesagt,Beitar Jerus. ISR,?,Freundschaftsspiele International (Klub)
+031,21.05. 15:30,BUR 1,Musongati FC,3:3,Athletico Olympic,?,Burundi 1.Liga
+032,21.05. 13:00,BLR RES,Sh. Soligorsk Rese,2:1,Belshina B. Res.,?,Weißrussland Reserve Liga
+033,19.05. 12:00,BLR RES,Dinamo Brest Reser,2:6,Bate Borisov Reser,?,Weißrussland Reserve Liga
+034,21.05. 13:00,BLR RES,Sl. Mozyr Reserve,1:0,Gorodeya Reserve,?,Weißrussland Reserve Liga
+035,21.05. 18:00,BLR 1,Neman Grodno,3:1,FC Torpedo Zhodino,?,Weißrussland Premier League
+036,21.05. 18:00,BLR 1,Neman Grodno,3:2,Torpedo Zhodino+1,?,Weißrussland Premier League
+037,21.05. 20:00,DART CZ,"Smejda, Michal",7:5,"Masek, Alexander",?,Czech Darts Premier League
+038,21.05. 20:40,DART CZ,"Barborak, Daniel",4:7,"Pisek, David",?,Czech Darts Premier League
+039,21.05. 21:20,DART CZ,"Sedlak, Vitezslav",7:2,"Ondo, Michal",?,Czech Darts Premier League
+040,21.05. 21:55,DART CZ,"Kysilka, Ondrej",4:7,"Gawlas, A.",?,Czech Darts Premier League
+041,22.05. 20:30,GER BL,Hertha BSC,4:0,FC Union Berlin,?,Deutschland Bundesliga
+042,23.05. 15:30,GER BL,SC Freiburg,0:1,Werder Bremen,?,Deutschland Bundesliga
+043,23.05. 15:30,GER BL,SC Paderborn,1:1,TSG Hoffenheim,?,Deutschland Bundesliga
+044,23.05. 15:30,GER BL,VfL Wolfsburg,0:2,Bor. Dortmund,?,Deutschland Bundesliga
+045,23.05. 15:30,GER BL,Mönchengladbach,1:3,Bayer Leverkusen,?,Deutschland Bundesliga
+046,23.05. 18:30,GER BL,FC Bayern München,5:2,Eintr. Frankfurt,?,Deutschland Bundesliga
+047,24.05. 13:30,GER BL,FC Schalke 04,0:3,FC Augsburg,?,Deutschland Bundesliga
+048,24.05. 15:30,GER BL,FSV Mainz 05,0:5,RB Leipzig,?,Deutschland Bundesliga
+049,24.05. 18:00,GER BL,1. FC Köln,2:2,Fortuna Düsseldorf,?,Deutschland Bundesliga
+050,22.05. 18:30,GER 2,1. FC Nürnberg,1:1,Erzgebirge Aue,?,Deutschland 2. Bundesliga
+051,22.05. 18:30,GER 2,FC Heidenheim,1:0,Wehen Wiesbaden,?,Deutschland 2. Bundesliga
+052,23.05. 13:00,GER 2,SV Darmstadt 98,4:0,FC St. Pauli,?,Deutschland 2. Bundesliga
+053,23.05. 13:00,GER 2,SV Sandhausen,0:0,Jahn Regensburg,?,Deutschland 2. Bundesliga
+054,23.05. 13:00,GER 2,VfL Osnabrück,2:4,Hannover 96,?,Deutschland 2. Bundesliga
+055,24.05. 13:30,GER 2,Hamburger SV,0:0,Arminia Bielefeld,?,Deutschland 2. Bundesliga
+056,24.05. 13:30,GER 2,Holstein Kiel,3:2,VfB Stuttgart,?,Deutschland 2. Bundesliga
+057,24.05. 13:30,GER 2,Karlsruher SC,0:0,VfL Bochum,?,Deutschland 2. Bundesliga
