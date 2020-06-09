@@ -1,5 +1,13 @@
+################
+# exclude tmp
+tmp
+tmp/
+temp
+temp/
+
+
 ##############
-# exclude sqlite dbs
+# exclude sqlite dbs  e.g. tipp3.db
 *.db
 
 ###############

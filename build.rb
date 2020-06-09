@@ -43,7 +43,7 @@ PROGRAMS_2020 = %w[
   22a_tue-may-26   22b_fri-may-29
   23a_tue-jun-2
 ].each do |name|
-  path = "./o/2020-#{name}.csv"
+  path = "./datasets/2020-#{name}.csv"
 
   recs = CsvHash.read( path, :header_converters => :symbol )
   recs.each do |rec|
