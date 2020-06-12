@@ -1,0 +1,90 @@
+Num,Date,Liga,Team 1,Score,Team 2,Result,Liga Title
+001,15.05. 11:00,FS,MFK Karvina CZE,2:2,Banik Ostrava CZE,?,Freundschaftsspiele International (Klub)
+002,15.05. 12:30,BLR RES,Bate Borisov Reser,3:0,FC Slutsk Reserve,?,Weißrussland Reserve Liga
+003,15.05. 13:00,BLR RES,Energetik Minsk Re,2:1,Dinamo Brest Reser,?,Weißrussland Reserve Liga
+004,15.05. 13:00,BLR RES,Sh. Soligorsk Rese,4:1,Sl. Mozyr Reserve,?,Weißrussland Reserve Liga
+005,15.05. 17:00,BLR 1,FC Torpedo Zhodino,3:1,FC Gorodeya,?,Weißrussland Premier League
+006,15.05. 17:00,BLR 1,FC Torpedo Zhodino,3:2,FC Gorodeya+1,?,Weißrussland Premier League
+007,15.05. 20:30,DART HO,"Noppert, Danny",5:2,"Meikle, Ryan",?,"Darts, PDC Home Tour (best of 9 Legs)"
+008,15.05. 21:00,DART HO,"Henderson, John",4:5,"Reyes, Cristo",?,"Darts, PDC Home Tour (best of 9 Legs)"
+009,15.05. 21:35,DART HO,"Meikle, Ryan",4:5,"Reyes, Cristo",?,"Darts, PDC Home Tour (best of 9 Legs)"
+010,15.05. 22:00,DART HO,"Noppert, Danny",4:5,"Henderson, John",?,"Darts, PDC Home Tour (best of 9 Legs)"
+011,15.05. 22:30,DART HO,"Henderson, John",5:0,"Meikle, Ryan",?,"Darts, PDC Home Tour (best of 9 Legs)"
+012,15.05. 22:50,DART HO,"Reyes, Cristo",5:2,"Noppert, Danny",?,"Darts, PDC Home Tour (best of 9 Legs)"
+013,16.05. 07:00,KOR 1,Sangju Sangmu Pho.,2:0,Gangwon FC,?,Südkorea K-League 1
+014,16.05. 09:00,KOR 2,Ansan Greeners,0:2,Suwon FC,?,"Südkorea, K-League 2"
+015,16.05. 09:00,KOR 2,Jeonnam Dragons,1:0,Jeju United FC,?,"Südkorea, K-League 2"
+016,16.05. 09:30,KOR 1,Daegu FC,1:1,Pohang Steelers FC,?,Südkorea K-League 1
+017,16.05. 11:30,KOR 2,FC Bucheon,2:1,FC Anyang,?,"Südkorea, K-League 2"
+018,16.05. 12:00,KOR 1,Busan I Park,1:2,Jeonbuk Hyundai,?,Südkorea K-League 1
+019,16.05. 12:00,BLR RES,Din Minsk Reserve,0:0,FC Isloch Reserve,?,Weißrussland Reserve Liga
+020,16.05. 13:00,BLR RES,Rukh Brest Reserve,0:1,FC Smolevichi Res,?,Weißrussland Reserve Liga
+021,16.05. 13:00,BLR RES,Belshina B. Res.,3:3,FC Vitebsk Reserve,?,Weißrussland Reserve Liga
+022,16.05. 13:00,GER 2,Jahn Regensburg,2:2,Holstein Kiel,?,Deutschland 2. Bundesliga
+023,16.05. 13:00,GER 2,Jahn Regensburg+1,3:2,Holstein Kiel,?,Deutschland 2. Bundesliga
+024,16.05. 13:00,GER 2,Karlsruher SC,2:0,SV Darmstadt 98,?,Deutschland 2. Bundesliga
+025,16.05. 13:00,GER 2,Karlsruher SC,2:1,SV Darmstadt 98+1,?,Deutschland 2. Bundesliga
+026,16.05. 13:00,GER 2,VfL Bochum,3:0,FC Heidenheim,?,Deutschland 2. Bundesliga
+027,16.05. 13:00,GER 2,VfL Bochum,3:1,FC Heidenheim+1,?,Deutschland 2. Bundesliga
+028,16.05. 13:00,GER 2,Erzgebirge Aue,3:1,SV Sandhausen,?,Deutschland 2. Bundesliga
+029,16.05. 13:00,GER 2,Erzgebirge Aue,3:2,SV Sandhausen+1,?,Deutschland 2. Bundesliga
+030,16.05. 14:00,BLR 1,Energet. BGU Minsk,2:1,Dinamo Brest,?,Weißrussland Premier League
+031,16.05. 15:00,BLR 2,FC Orsha,2:1,FC Granit Mikashev,?,Weißrussland Pervaya Liga
+032,16.05. 15:00,FRO 1,TB Tvoeroyri,1:2,KI Klaksvik,?,Färöer Inseln Premier League
+033,16.05. 15:30,GER BL,Fortuna Düsseldorf,0:0,SC Paderborn,?,Deutschland Bundesliga
+034,16.05. 15:30,GER BL,Fortuna Düsseldorf,0:1,SC Paderborn+1,?,Deutschland Bundesliga
+035,16.05. 15:30,GER BL,Bor. Dortmund,4:0,FC Schalke 04,?,Deutschland Bundesliga
+036,16.05. 15:30,GER BL,Bor. Dortmund,4:1,FC Schalke 04+1,?,Deutschland Bundesliga
+037,16.05. 15:30,GER BL,Bor. Dortmund,4:2,FC Schalke 04+2,?,Deutschland Bundesliga
+038,16.05. 15:30,GER BL,RB Leipzig,1:1,SC Freiburg,?,Deutschland Bundesliga
+039,16.05. 15:30,GER BL,RB Leipzig,1:2,SC Freiburg+1,?,Deutschland Bundesliga
+040,16.05. 15:30,GER BL,TSG Hoffenheim,0:3,Hertha BSC,?,Deutschland Bundesliga
+041,16.05. 15:30,GER BL,TSG Hoffenheim,0:4,Hertha BSC+1,?,Deutschland Bundesliga
+042,16.05. 15:30,GER BL,FC Augsburg,1:2,VfL Wolfsburg,?,Deutschland Bundesliga
+043,16.05. 15:30,GER BL,FC Augsburg+1,2:2,VfL Wolfsburg,?,Deutschland Bundesliga
+044,16.05. 16:00,BLR 1,Shakhter Soligorsk,2:0,Slavia Mozyr,?,Weißrussland Premier League
+045,16.05. 17:00,BLR 2,FC Lida,3:1,FC Oshmyany,?,Weißrussland Pervaya Liga
+046,16.05. 18:00,BLR 1,FC BATE Borisov,3:0,FC Slutsk,?,Weißrussland Premier League
+047,16.05. 18:30,GER BL,Eintr. Frankfurt,1:3,Mönchengladbach,?,Deutschland Bundesliga
+048,16.05. 18:30,GER BL,Eintr. Frankfurt,1:4,Mönchengladbach+1,?,Deutschland Bundesliga
+049,16.05. 18:30,GER BL,Eintr. Frankfurt+1,2:3,Mönchengladbach,?,Deutschland Bundesliga
+050,17.05. 09:00,KOR 2,Seoul E-Land FC,2:2,Gyeongnam FC,?,"Südkorea, K-League 2"
+051,17.05. 09:30,KOR 1,Suwon Blue Wings,2:3,Ulsan Hyundai,?,Südkorea K-League 1
+052,17.05. 10:00,TWN 1,Taichung Futuro FC,4:0,FC Taicheng Lions,?,Taiwan Football Premier League
+053,17.05. 10:00,TWN 1,National Taiwan Un,2:1,Taiwan Power Co.,?,Taiwan Football Premier League
+054,17.05. 10:00,TWN 1,Tainan City FC,0:1,Hang Yuen,?,Taiwan Football Premier League
+055,17.05. 10:00,TWN 1,Ming Chuan Univ.,1:4,Tatung FC,?,Taiwan Football Premier League
+056,17.05. 11:00,FS,Ferencvaros HUN,0:1,Mezokovesd Zso HUN,?,Freundschaftsspiele International (Klub)
+057,17.05. 11:30,KOR 2,Daejeon Citizen FC,2:2,Chungnam Asan FC,?,"Südkorea, K-League 2"
+058,17.05. 12:00,KOR 1,FC Seoul,1:0,Gwangju FC,?,Südkorea K-League 1
+059,17.05. 12:00,KOR 1,Seongnam Ilhwa,0:0,Incheon United FC,?,Südkorea K-League 1
+060,17.05. 13:00,BLR 2,FC NFK Minsk,1:0,Naftan Novopolotsk,?,Weißrussland Pervaya Liga
+061,17.05. 13:30,GER 2,FC St. Pauli,1:0,1. FC Nürnberg,?,Deutschland 2. Bundesliga
+062,17.05. 13:30,GER 2,FC St. Pauli,1:1,1. FC Nürnberg+1,?,Deutschland 2. Bundesliga
+063,17.05. 13:30,GER 2,Greuther Fürth,2:2,Hamburger SV,?,Deutschland 2. Bundesliga
+064,17.05. 13:30,GER 2,Greuther Fürth+1,3:2,Hamburger SV,?,Deutschland 2. Bundesliga
+065,17.05. 13:30,GER 2,Wehen Wiesbaden,2:1,VfB Stuttgart,?,Deutschland 2. Bundesliga
+066,17.05. 13:30,GER 2,Wehen+1,3:1,VfB Stuttgart,?,Deutschland 2. Bundesliga
+067,17.05. 13:30,GER 2,Arminia Bielefeld,1:1,VfL Osnabrück,?,Deutschland 2. Bundesliga
+068,17.05. 13:30,GER 2,Arminia Bielefeld,1:2,VfL Osnabrück+1,?,Deutschland 2. Bundesliga
+069,17.05. 14:00,BLR 1,Belshina Bobruisk,1:1,FC Vitebsk,?,Weißrussland Premier League
+070,17.05. 15:00,BLR 2,FC Slonim,0:1,FK Smorgon,?,Weißrussland Pervaya Liga
+071,17.05. 15:30,GER BL,1. FC Köln,2:2,FSV Mainz 05,?,Deutschland Bundesliga
+072,17.05. 15:30,GER BL,1. FC Köln,2:3,FSV Mainz 05+1,?,Deutschland Bundesliga
+073,17.05. 16:00,BLR 1,FC Dinamo Minsk,1:0,Isloch,?,Weißrussland Premier League
+074,17.05. 16:00,FRO 1,B36 Torshavn,3:0,AB Argir,?,Färöer Inseln Premier League
+075,17.05. 16:00,FRO 1,Vikingur Gota,5:2,Skala IF,?,Färöer Inseln Premier League
+076,17.05. 17:00,BLR 2,Sputnik Rechica,0:4,FC Gomel,?,Weißrussland Pervaya Liga
+077,17.05. 18:00,GER BL,FC Union Berlin,0:2,FC Bayern München,?,Deutschland Bundesliga
+078,17.05. 18:00,GER BL,FC Union Berlin+1,1:2,FC Bayern München,?,Deutschland Bundesliga
+079,17.05. 18:00,GER BL,FC Union Berlin+2,2:2,FC Bayern München,?,Deutschland Bundesliga
+080,17.05. 18:00,BLR 1,FC Rukh Brest,0:0,FC Smolevichi,?,Weißrussland Premier League
+081,17.05. 18:00,FRO 1,EB/Streymur,0:3,NSI Runavik,?,Färöer Inseln Premier League
+082,18.05. 16:00,TURK 1,Kopetdag Asgabat,1:1,FC Asgabat,?,Turkmenistan 1. Liga
+083,18.05. 16:00,TURK 1,Kopetdag Asgabat,1:2,FC Asgabat+1,?,Turkmenistan 1. Liga
+084,18.05. 14:15,TURK 1,Shagadam Turkmen.,abgesagt,Nebitci Balkanabat,?,Turkmenistan 1. Liga
+085,18.05. 14:15,TURK 1,Shagadam Turkmen.,abgesagt,Nebitci Balkanab+1,?,Turkmenistan 1. Liga
+086,18.05. 15:00,TURK 1,FC Energetik Mary,1:2,Merw Mary,?,Turkmenistan 1. Liga
+087,18.05. 20:30,GER BL,Werder Bremen,1:4,Bayer Leverkusen,?,Deutschland Bundesliga
+088,18.05. 20:30,GER BL,W. Bremen+1,2:4,Bayer Leverkusen,?,Deutschland Bundesliga
+089,18.05. 20:30,GER BL,W. Bremen+2,3:4,Bayer Leverkusen,?,Deutschland Bundesliga

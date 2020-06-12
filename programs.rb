@@ -53,9 +53,11 @@ PROGRAMS_2020 = %w[
   01a_mon-dec-30   01b_fri-jan-3
   02a_tue-jan-7
 
+  20a_tue-may-12   20b_fri-may-15
   21a_tue-may-19   21b_fri-may-22
   22a_tue-may-26   22b_fri-may-29
-  23a_tue-jun-2
+  23a_tue-jun-2    23b_fri-jun-5
+  24a_tue-jun-9
 ].map { |name| "2020-#{name}" }
 
 

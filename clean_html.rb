@@ -1,4 +1,5 @@
 
+require_relative 'programs'
 
 ## clean-up html source a little
 
@@ -19,24 +20,22 @@ A_LINK_RE =  %r{<a [ ]+
 def clean_html( path )
   html = File.open( path, 'r:utf-8' ) { |f| f.read }
 
-  html = html.gsub( DIV_TOOLTIP_RE, '' )
-  html = html.gsub( A_LINK_RE, '' )
+  # note: skip old format for now; only process current/new format/style
+  if html =~ %r{class="t3-list-entry}
+    html = html.gsub( DIV_TOOLTIP_RE, '' )
+    html = html.gsub( A_LINK_RE, '' )
 
-  html = html.gsub( /\n{2,}/, "\n" )   ## remove empty lines
+    html = html.gsub( /\n[ ]*\n/, "\n" )   ## remove empty lines
 
-  File.open( path, 'w:utf-8' ) { |f| f.write( html ) }
+    File.open( path, 'w:utf-8' ) { |f| f.write( html ) }
+  end
+
   html   # return html for now
 end
 
 
 
-PROGRAMS_2020 = %w[
-  21a_tue-may-19   21b_fri-may-22
-  22a_tue-may-26   22b_fri-may-29
-  23a_tue-jun-2
-].each do |name|
-  path = "./dl/2020-#{name}.html"
-
-  clean_html( path )
+PROGRAMS_2020.each do |name|
+  clean_html( "./dl/#{name}.html" )
 end
 
