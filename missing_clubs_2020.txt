@@ -1,52 +1,78 @@
 League TURK 1 (8) - >Turkmenistan 1. Liga<:
+  Nebitci Balkanabat
   Ahal FC
+  Merw Mary
   Altyn Asyr FC
   FC Asgabat
-  Merw Mary
-  FC Energetik Mary
-  Nebitci Balkanabat
-  Kopetdag Asgabat
   Shagadam Turkmen.
+  FC Energetik Mary
+  Kopetdag Asgabat
+League BLR RES (16) - >Weißrussland Reserve Liga<:
+  FC Minsk Reserve
+  Neman Grodno Res.
+  Torpedo Zhodino Re
+  Gorodeya Reserve
+  Bate Borisov Reser
+  FC Slutsk Reserve
+  Energetik Minsk Re
+  Dinamo Brest Reser
+  Sh. Soligorsk Rese
+  Sl. Mozyr Reserve
+  Din Minsk Reserve
+  FC Isloch Reserve
+  Rukh Brest Reserve
+  FC Smolevichi Res
+  Belshina B. Res.
+  FC Vitebsk Reserve
+League KOR 1 (4) - >Südkorea K-League 1<:
+  Sangju Sangmu Pho.
+  Pohang Steelers FC
+  Jeonbuk Hyundai
+  Gwangju FC
+League KOR 2 (7) - >Südkorea, K-League 2<:
+  Ansan Greeners
+  Suwon FC
+  Jeonnam Dragons
+  FC Bucheon
+  FC Anyang
+  Seoul E-Land FC
+  Chungnam Asan FC
+League BLR 1 (4) - >Weißrussland Premier League<:
+  Energet. BGU Minsk
+  FC Slutsk
+  FC Rukh Brest
+  FC Smolevichi
+League BLR 2 (10) - >Weißrussland Pervaya Liga<:
+  FC Orsha
+  FC Granit Mikashev
+  FC Lida
+  FC Oshmyany
+  FC NFK Minsk
+  Naftan Novopolotsk
+  FC Slonim
+  FK Smorgon
+  Sputnik Rechica
+  FK Volna Pinsk
+League FRO 1 (2) - >Färöer Inseln Premier League<:
+  TB Tvoeroyri
+  Vikingur Gota
+League TWN 1 (8) - >Taiwan Football Premier League<:
+  Taichung Futuro FC
+  FC Taicheng Lions
+  National Taiwan Un
+  Taiwan Power Co.
+  Tainan City FC
+  Hang Yuen
+  Ming Chuan Univ.
+  Tatung FC
 League EST 1 (2) - >Estland Meistriliiga<:
   Tallinna JK Legion
   Paide Linnameesk.
-League BLR RES (14) - >Weißrussland Reserve Liga<:
-  Neman Grodno Res.
-  Torpedo Zhodino Re
-  Sh. Soligorsk Rese
-  Belshina B. Res.
-  Dinamo Brest Reser
-  Bate Borisov Reser
-  Sl. Mozyr Reserve
-  Gorodeya Reserve
-  FC Isloch Reserve
-  Energetik Minsk Re
-  FC Slutsk Reserve
-  Rukh Brest Reserve
-  FC Vitebsk Reserve
-  Din Minsk Reserve
 League CRC 1 (1) - >Costa Rica Primera División<:
   Uni. de Costa Rica
 League BUR 1 (2) - >Burundi 1.Liga<:
   Musongati FC
   Athletico Olympic
-League KOR 1 (4) - >Südkorea K-League 1<:
-  Pohang Steelers FC
-  Sangju Sangmu Pho.
-  Gwangju FC
-  Jeonbuk Hyundai
-League FRO 1 (2) - >Färöer Inseln Premier League<:
-  Vikingur Gota
-  TB Tvoeroyri
-League BLR 1 (4) - >Weißrussland Premier League<:
-  FC Slutsk
-  FC Rukh Brest
-  Energet. BGU Minsk
-  FC Smolevichi
-League BLR 2 (3) - >Weißrussland Pervaya Liga<:
-  FC Granit Mikashev
-  FC Lida
-  FK Volna Pinsk
 League VIE CUP (10) - >Vietnam Cup<:
   FC Dong Thap
   Hai Phong FC
@@ -71,12 +97,13 @@ League CZE 2 (9) - >Tschechien 1. Division<:
 League HUN CUP (2) - >Ungarn Cup<:
   Mezokovesd Zsory S
   MTK Budapest FC
-League SERB 1 (5) - >Serbien Meridijan Superliga<:
+League SERB 1 (6) - >Serbien Meridijan Superliga<:
   FK Indija
   Cukaricki Belgrad
   FK Rad Belgrad
   FK Radnik Surdulic
   FK Backa Topola
+  FK Javor Ivanjica
 League HUN 1 (2) - >Ungarn NB I<:
   Diosgyör VTK
   Mezokovesd Zsory S
@@ -89,10 +116,20 @@ League POL 2 (8) - >Polen I Liga<:
   Sandecja
   Nieciecza KS
   Wigry Suwalki
-  Jastrzebie Zdroj
+  GKS Jastrzebie Z.
   Olimpia Grudziadz
   Radomiak Radom
 League SER CUP (3) - >Serbien Cup<:
   FK Indija
   Cukaricki Belgrad
   FK Radnik Surdulic
+League UKR 1 (1) - >Ukraine Premier League<:
+  Desna Tschernihiw
+League GRE 1 (1) - >Griechenland Super League<:
+  OFI Kreta
+League ARM 1 (1) - >Armenien Premier League<:
+  FC Pyunik Yerevan
+League ISR CUP (1) - >Israel Cup<:
+  M. Petach Tikva
+League BUL 1 (1) - >Bulgarien Premier League<:
+  FK Arda Kurdzhali

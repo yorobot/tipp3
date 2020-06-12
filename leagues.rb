@@ -11,7 +11,7 @@ require_relative 'programs'
 leagues = {}    ## track league usage & names
 
 PROGRAMS_2020.each do |program|
-   recs = CsvHash.read( "o/#{program}.csv", :header_converters => :symbol )
+   recs = CsvHash.read( "datasets/#{program}.csv", :header_converters => :symbol )
    pp recs.size
    ## pp recs[0]
 

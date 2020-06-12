@@ -133,6 +133,7 @@ MORE_LEAGUES = [
   'TEN WTA',  # Tennis WTA
   'TEN AUT',  # Austrian Pro, Einzel, Herren
   'F1',       # Formel 1
+  'DA INT',   # Darts, International
   'DART HO',  # Darts, PDC Home Tour (best of 9 Legs)
   'DART CZ',  # Czech Darts Premier League
 ]

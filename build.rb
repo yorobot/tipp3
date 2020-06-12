@@ -32,6 +32,10 @@ SportDb.create_all
 LEAGUES_INCLUDE = [
   'GER BL', 'GER 2', 'GER 3',
   'AUT BL', 'AUT 2',
+  'ENG PL', 'ENG CS',
+  'ESP 1',  'ESP 2',
+  'ITA A',  'ITA B',
+  'FRA 1',
 ]
 
 
@@ -39,9 +43,11 @@ season = Import::Season.new( '2019/20' )
 start = Date.new( season.start_year, 7, 1 )
 
 PROGRAMS_2020 = %w[
+  20a_tue-may-12   20b_fri-may-15
   21a_tue-may-19   21b_fri-may-22
   22a_tue-may-26   22b_fri-may-29
-  23a_tue-jun-2
+  23a_tue-jun-2    23b_fri-jun-5
+  24a_tue-jun-9
 ].each do |name|
   path = "./datasets/2020-#{name}.csv"
 

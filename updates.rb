@@ -31,6 +31,18 @@ def self.week( week=Date.today.cweek, year=Date.today.year )
 
   between( start_date, end_date )
 end
+
+def self.matchweek( week, year )
+  # quick hack?  - use matchweek - starts on TUESDAY and ends on MONDAY
+  #  add +1 to "classic" start and end date
+
+  start_date = Date.commercial(year, week, 1)+1  ## +1 - move from Monday to Tuesday
+  end_date   = Date.commercial(year, week, 7)+1  ## +1 - move from Sunday to Monday
+
+  between( start_date, end_date )
+end
+
+
 end # class Match
 end # module Model
 end # module SportDb
@@ -54,13 +66,13 @@ puts
 
 (20..30).each do |week|
   # puts Model::Match.includes( event: [:league] )
-  #                  .week( week, year )
+  #                  .matchweek( week, year )
   #                  .order( 'date ASC, leagues.key' ).to_sql
 
   recs = []
 
   matches = Model::Match.includes( event: [:league] )
-                    .week( week, year )
+                    .matchweek( week, year )
                     .order( 'date ASC' )
                     .order( 'leagues.key' ).to_a
    puts "Week #{'%02d' % week}  | #{matches.size}"
@@ -72,7 +84,7 @@ puts
      print "  #{match.team2.name}"
      print "\n"
 
-     recs << [match.date.strftime('(%a) %-d %b %Y'),
+     recs << [match.date.strftime('%a %b %-d %Y'),
               match.event.league.key.upcase.gsub('.', ' '),
               match.team1.name,
               "#{match.score1}-#{match.score2}",
