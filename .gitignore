@@ -5,6 +5,8 @@ tmp/
 temp
 temp/
 
+o/
+
 
 ##############
 # exclude sqlite dbs  e.g. tipp3.db
