@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+003,27.10.,14:00,ATPWIEN,"De Minaur, Alex",abgesagt,"Medvedev, Daniil","Tennis ATP Wien, Einzel"
+005,27.10.,14:00,ATPWIEN,"Dimitrov, Grigor",2:0,"Khachanov, Karen","Tennis ATP Wien, Einzel"
+006,27.10.,14:00,ATPWIEN,"Lajovic, Dusan",abgesagt,Schwartzman D.,"Tennis ATP Wien, Einzel"
+001,27.10.,15:45,ATPWIEN,"Djokovic, Novak",2:0,"Krajinovic, Filip","Tennis ATP Wien, Einzel"
+007,27.10.,18:00,ATPWIEN,"Nishikori, Kei",abgesagt,"Thiem, Dominic","Tennis ATP Wien, Einzel"
+008,27.10.,18:45,NL CUP,Twente Enschede,1:3,De Graafschap,Niederlande KNVB Cup
+009,27.10.,18:55,CL,Lok Moskau RUS,1:2,Bayern München GER,UEFA Champions League
+010,27.10.,18:55,CL,Lok Moskau+1,2:2,FC Bayern München,UEFA Champions League
+011,27.10.,18:55,CL,Shakhtar Don. UKR,0:0,Inter Mailand ITA,UEFA Champions League
+012,27.10.,19:00,AUT RLO,SV Stripfing,abgesagt,SC Wiener Neustadt,Österreich Regionalliga Ost
+013,27.10.,19:00,ESP 2,FC Girona,2:1,FC Cartagena,Spanien Segunda Division
+014,27.10.,19:00,NOR 1,Viking FK,0:1,FK Haugesund,Norwegen Tippeligaen
+015,27.10.,19:45,NL CUP,VVV Venlo,4:2,FC Den Bosch,Niederlande KNVB Cup
+016,27.10.,20:00,ENG 1,Bristol Rovers,1:3,Hull City,England League One
+017,27.10.,20:00,ENG 1,MK Dons,2:0,Wigan Athletic,England League One
+018,27.10.,20:00,ENG 1,Ipswich Town,1:0,FC Gillingham,England League One
+019,27.10.,20:00,ENG 1,FC Crewe Alexandra,0:1,Lincoln City,England League One
+020,27.10.,20:00,ENG 1,Charlton Athletic,2:0,Oxford United,England League One
+021,27.10.,20:00,ENG 1,Peterborough Utd.,2:2,Burton Albion,England League One
+022,27.10.,20:00,ENG 1,AFC Wimbledon,1:0,FC Blackpool,England League One
+023,27.10.,20:00,ENG CS,FC Barnsley,3:0,Queens Park R.,England Championship
+004,27.10.,20:20,ATPWIEN,"Garin, Cristian",2:1,"Wawrinka, Stan","Tennis ATP Wien, Einzel"
+024,27.10.,20:45,ENG CS,Swansea City,2:0,Stoke City,England Championship
+025,27.10.,20:45,ENG CS,Wycombe Wanderers,1:1,FC Watford,England Championship
+026,27.10.,20:45,ENG CS,Blackburn Rovers,2:4,FC Reading,England Championship
+027,27.10.,20:45,ENG CS,FC Middlesbrough,2:0,Coventry City,England Championship
+028,27.10.,20:45,ENG CS,FC Brentford,1:1,Norwich City,England Championship
+029,27.10.,20:45,ENG 1,FC Portsmouth,4:0,Northampton,England League One
+030,27.10.,20:45,ENG 1,Fleetwood Town,1:0,Shrewsbury Town,England League One
+031,27.10.,20:45,ENG 1,FC Rochdale,2:2,AFC Sunderland,England League One
+032,27.10.,21:00,CL,FC Porto POR,2:0,Olympiakos P. GRE,UEFA Champions League
+033,27.10.,21:00,CL,Atalanta BC ITA,2:2,Ajax Amsterd. NED,UEFA Champions League
+034,27.10.,21:00,CL,Ol. Marseille FRA,0:3,Man. City ENG,UEFA Champions League
+035,27.10.,21:00,CL,Atl. Madrid ESP,3:2,RB Salzburg AUT,UEFA Champions League
+036,27.10.,21:00,CL,Atletico Madrid,3:3,RB Salzburg+1,UEFA Champions League
+037,27.10.,21:00,CL,Atletico Madrid,3:4,RB Salzburg+2,UEFA Champions League
+038,27.10.,21:00,CL,M'gladbach GER,2:2,Real Madrid ESP,UEFA Champions League
+039,27.10.,21:00,CL,Mönchengladbach+1,3:2,Real Madrid,UEFA Champions League
+040,27.10.,21:00,CL,FC Liverpool ENG,2:0,FC Midtjylland DEN,UEFA Champions League
+041,27.10.,21:00,CL,FC Liverpool,2:2,FC Midtjylland+2,UEFA Champions League
+042,27.10.,21:00,EMQDA,Österreich Damen,0:0,Frankreich Damen,"EM Qualifikation, Damen"
+002,28.10.,15:25,ATPWIEN,"Tsitsipas, Stefan.",2:1,"Struff, Jan-L.","Tennis ATP Wien, Einzel"
+043,28.10.,16:00,ITA CUP,Benevento Calcio,2:4,FC Empoli,Italien Coppa Italia
+044,28.10.,16:00,ITA CUP,Brescia Calcio,3:0,Perugia Calcio,Italien Coppa Italia
+045,28.10.,17:00,ITA CUP,Hellas Verona,2:2,SSC Venezia,Italien Coppa Italia
+046,28.10.,17:00,ITA CUP,FC Genua,2:1,US Catanzaro,Italien Coppa Italia
+047,28.10.,17:00,ITA CUP,FC Crotone,0:0,Spal Ferrara,Italien Coppa Italia
+048,28.10.,17:30,ITA CUP,AC Fiorentina,2:1,Padua Calcio,Italien Coppa Italia
+049,28.10.,18:00,ITA CUP,FC Parma,3:1,Delfino Pescara,Italien Coppa Italia
+050,28.10.,18:00,ITA CUP,Udinese Calcio,3:1,Vicenza Calcio,Italien Coppa Italia
+051,28.10.,18:00,NOR 2,Raufoss IL,2:0,Lilleström SK,Norwegen Adeccoligaen
+052,28.10.,18:30,GER 2,VfL Osnabrück,1:1,SV Darmstadt 98,Deutschland 2. Bundesliga
+053,28.10.,18:45,NL CUP,ADO Den Haag,1:1,Sparta Rotterdam,Niederlande KNVB Cup
+054,28.10.,18:55,CL,Ist.Basaks TUR,0:2,Paris SG FRA,UEFA Champions League
+055,28.10.,18:55,CL,FC Krasnodar RUS,0:4,FC Chelsea ENG,UEFA Champions League
+056,28.10.,19:00,AUT RLO,SC Team Wr. Linien,2:1,FC Mauerwerk,Österreich Regionalliga Ost
+057,28.10.,19:00,ESP 2,Albacete Balompie,1:1,Las Palmas UD,Spanien Segunda Division
+058,28.10.,19:00,ESP 2,Espanyol Barcelona,2:0,Ponferradina SD,Spanien Segunda Division
+059,28.10.,19:00,ESP 2,CD Castellon,1:2,UD Almeria,Spanien Segunda Division
+060,28.10.,19:00,SWE 1,BK Häcken,0:2,Djurgardens IF,Schweden Allsvenskan
+061,28.10.,19:45,NL CUP,RKC Waalwijk,2:2,SC Cambuur,Niederlande KNVB Cup
+062,28.10.,19:45,NL CUP,Heracles Almelo,3:0,SC Telstar,Niederlande KNVB Cup
+063,28.10.,19:45,NL CUP,FC Emmen,2:0,FC Eindhoven,Niederlande KNVB Cup
+064,28.10.,20:00,ENG CS,Preston North End,0:2,FC Millwall,England Championship
+065,28.10.,20:45,ENG CS,Luton Town,1:1,Nottingham Forest,England Championship
+066,28.10.,20:45,ENG CS,Birmingham City,2:1,Huddersfield Town,England Championship
+067,28.10.,20:45,ENG CS,Derby County,1:1,Cardiff City,England Championship
+068,28.10.,20:45,ENG CS,Rotherham United,3:0,Sheffield Wednes.,England Championship
+069,28.10.,20:45,ENG CS,AFC Bournemouth,1:0,Bristol City,England Championship
+070,28.10.,21:00,CL,FC Sevilla ESP,1:0,Stade Rennes FRA,UEFA Champions League
+071,28.10.,21:00,CL,Ferencvaros HUN,2:2,Dynamo Kiev UKR,UEFA Champions League
+072,28.10.,21:00,CL,Club Brügge BEL,1:1,Lazio Rom ITA,UEFA Champions League
+073,28.10.,21:00,CL,Manchester U. ENG,5:0,RB Leipzig GER,UEFA Champions League
+074,28.10.,21:00,CL,Manchester United,5:1,RB Leipzig+1,UEFA Champions League
+075,28.10.,21:00,CL,Bor. Dortmund GER,2:0,Zenit St.Peter RUS,UEFA Champions League
+076,28.10.,21:00,CL,Bor. Dortmund,2:1,Zenit St.Petersb+1,UEFA Champions League
+077,28.10.,21:00,CL,Juventus Turin ITA,0:2,FC Barcelona ESP,UEFA Champions League
+078,28.10.,21:00,CL,Juventus Turin,0:3,FC Barcelona+1,UEFA Champions League
+079,28.10.,21:00,CL,Juventus Turin+1,1:2,FC Barcelona,UEFA Champions League
+080,28.10.,21:00,NL CUP,Roda JC Kerkrade,0:2,Fortuna Sittard,Niederlande KNVB Cup
+081,28.10.,21:30,ESP 2,Real Oviedo,2:3,UD Logrones,Spanien Segunda Division
+082,28.10.,22:45,POR 1,Sporting Lissabon,3:1,Gil Vicente FC,Portugal Primeira Liga
+083,29.10.,16:30,ESP 2,Alcorcon AD,1:2,Sporting Gijon,Spanien Segunda Division
+084,29.10.,18:55,EL,AEK Athen GRE,1:2,Leicester City ENG,UEFA Europa League
+085,29.10.,18:55,EL,Zorya Lugansk UKR,1:2,Sporting Braga POR,UEFA Europa League
+086,29.10.,18:55,EL,AC Milan ITA,3:0,Sparta Prag CZE,UEFA Europa League
+087,29.10.,18:55,EL,Lille OSC FRA,2:2,Celtic Glasgow SCO,UEFA Europa League
+088,29.10.,18:55,EL,Qarabag FK AZE*,1:3,Villarreal CF ESP,UEFA Europa League
+089,29.10.,18:55,EL,R. Antwerpen BEL,1:0,Tottenham ENG,UEFA Europa League
+090,29.10.,18:55,EL,Roter Stern B. SRB,5:1,Slovan Liberec CZE,UEFA Europa League
+091,29.10.,18:55,EL,LASK Linz AUT,4:3,Ludog. Razgrad BUL,UEFA Europa League
+092,29.10.,18:55,EL,LASK Linz,4:4,Ludogor. Razgrad+1,UEFA Europa League
+093,29.10.,18:55,EL,Sivasspor TUR,1:2,Macc. Tel Aviv ISR,UEFA Europa League
+094,29.10.,18:55,EL,KAA Gent BEL,1:4,Hoffenheim GER,UEFA Europa League
+095,29.10.,18:55,EL,KAA Gent+1,2:4,TSG Hoffenheim,UEFA Europa League
+096,29.10.,18:55,EL,ZSKA Moskau RUS,0:0,Dinamo Zagreb CRO,UEFA Europa League
+097,29.10.,18:55,EL,Feyenoord NED,1:4,Wolfsberger AC AUT,UEFA Europa League
+098,29.10.,18:55,EL,Feyenoord,1:5,Wolfsberger AC+1,UEFA Europa League
+099,29.10.,19:00,ESP 2,RCD Mallorca,3:1,Malaga CF,Spanien Segunda Division
+100,29.10.,19:00,ESP 2,CD Mirandes,1:0,Real Saragossa,Spanien Segunda Division
+101,29.10.,19:00,ESP 2,Teneriffa CD,1:1,CD Lugo,Spanien Segunda Division
+102,29.10.,19:00,SWE 1,IK Sirius FK,0:0,AIK Stockholm,Schweden Allsvenskan
+103,29.10.,20:00,SUI 2,FC Stade Ls Ouchy,1:2,Grasshoppers,Schweiz Challenge League
+104,29.10.,21:00,EL,FC CFR Cluj ROU,1:1,YB Bern SUI,UEFA Europa League
+105,29.10.,21:00,EL,AS Roma ITA,0:0,ZSKA Sofia BUL,UEFA Europa League
+106,29.10.,21:00,EL,Molde FK NOR,1:0,SK Rapid Wien AUT,UEFA Europa League
+107,29.10.,21:00,EL,Molde FK,1:1,SK Rapid Wien+1,UEFA Europa League
+108,29.10.,21:00,EL,Molde FK+1,2:0,SK Rapid Wien,UEFA Europa League
+109,29.10.,21:00,EL,FC Arsenal,3:2,FC Dundalk+2,UEFA Europa League
+110,29.10.,21:00,EL,Slavia Prag CZE,1:0,Leverkusen GER,UEFA Europa League
+111,29.10.,21:00,EL,SK Slavia Prag+1,2:0,Bayer Leverkusen,UEFA Europa League
+112,29.10.,21:00,EL,OGC Nizza FRA,1:0,H. Beer Sheva ISR,UEFA Europa League
+113,29.10.,21:00,EL,Benfica Lissab POR,3:0,Stand. Lüttich BEL,UEFA Europa League
+114,29.10.,21:00,EL,Gl.Rangers SCO,1:0,Lech Posen POL,UEFA Europa League
+115,29.10.,21:00,EL,Omonia Nikosia CYP,1:2,PSV Eindhoven NED,UEFA Europa League
+116,29.10.,21:00,EL,Granada CF ESP,0:0,PAOK Thessal. GRE,UEFA Europa League
+117,29.10.,21:00,EL,AZ Alkmaar NED,4:1,HNK Rijeka CRO,UEFA Europa League
+118,29.10.,21:00,EL,Real Sociedad ESP,0:1,SSC Napoli ITA,UEFA Europa League
+119,29.10.,21:30,ESP 2,Rayo Vallecano,2:0,Fuenlabrada,Spanien Segunda Division
+120,30.10.,01:20,NFL,Carolina Panthers,17:25,Atlanta Falcons,USA NFL

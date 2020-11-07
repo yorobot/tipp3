@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,16.10.,18:00,AUT CUP,Admira Wacker,1:1,Kapfenberger SV,Österreich ÖFB Cup
+002,16.10.,18:00,AUT CUP,Admira Wacker,1:2,Kapfenberger SV+1,Österreich ÖFB Cup
+003,16.10.,18:30,AUT CUP,WSG Swarovs. Tirol,0:1,Floridsdorfer AC,Österreich ÖFB Cup
+004,16.10.,18:30,AUT CUP,WSG Swarovs. Tirol,0:2,Floridsdorfer AC+1,Österreich ÖFB Cup
+005,16.10.,19:00,AUT CUP,SV Lafnitz,2:4,Austria Klagenfurt,Österreich ÖFB Cup
+006,16.10.,19:00,AUT RLO,SC Neusiedl,abgesagt,Wiener Viktoria,Österreich Regionalliga Ost
+007,16.10.,19:00,AUT RLM,SV Spittal/Drau,2:0,SC Weiz,Österreich Regionalliga Mitte
+008,16.10.,19:00,AUT RLM,FC Wels,1:4,WAC Amateure,Österreich Regionalliga Mitte
+010,16.10.,19:00,GER 3,FC Magdeburg,2:0,Türkgücü München,Deutschland 3. Liga
+011,16.10.,19:00,FRA 1,Dijon Football,1:1,Stade Rennes,Frankreich Ligue 1
+012,16.10.,19:00,RL SBG,SAK 1914 Salzburg,0:6,SV Grödig,Regionalliga Salzburg
+013,16.10.,19:15,EH AUT,Villacher SV,3:5,Fehervar,Österreich Eishockey Liga
+014,16.10.,19:15,EH AUT,Black Wings Linz,2:5,Bratislava Capital,Österreich Eishockey Liga
+015,16.10.,19:15,EH AUT,EC Dornbirn,0:4,Vienna Capitals,Österreich Eishockey Liga
+016,16.10.,19:15,EH AUT,HC Innsbruck,4:1,EC RB Salzburg,Österreich Eishockey Liga
+017,16.10.,19:30,AUT CUP,SV Horn,0:3,ASK Elektra,Österreich ÖFB Cup
+018,16.10.,19:30,AUT RLO,ASV Draßburg,abgesagt,Bruck/Leitha,Österreich Regionalliga Ost
+019,16.10.,19:45,EH AUT,HC Bozen Foxes,2:2,EC Graz 99ers,Österreich Eishockey Liga
+020,16.10.,20:00,ROU 1,FC Arges Pitesti,1:0,AFC Astra Giurgiu,Rumänien Liga 1
+021,16.10.,20:25,AUT CUP,Wiener Sport-Club,1:3,FK Austria Wien,Österreich ÖFB Cup
+022,16.10.,20:25,AUT CUP,Wr.Sport-Club+2,3:3,FK Austria Wien,Österreich ÖFB Cup
+023,16.10.,20:45,ENG CS,Derby County,0:1,FC Watford,England Championship
+024,16.10.,21:00,ITA B,Brescia Calcio,3:0,US Lecce,Italien Serie B
+025,16.10.,21:00,FRA 1,Olympique Nimes,0:4,Paris SG,Frankreich Ligue 1
+026,17.10.,13:00,GER 2,Greuther Fürth,0:1,Hamburger SV,Deutschland 2. Bundesliga
+027,17.10.,13:00,GER 2,Karlsruher SC,3:0,SV Sandhausen,Deutschland 2. Bundesliga
+028,17.10.,13:00,GER 2,E. Braunschweig,2:1,VfL Bochum,Deutschland 2. Bundesliga
+029,17.10.,13:00,ESP 1,Granada CF,1:0,FC Sevilla,Spanien Primera Division
+030,17.10.,13:30,ENG PL,FC Everton,2:2,FC Liverpool,England Premier League
+031,17.10.,13:30,SCO PS,Celtic Glasgow,0:2,Glasgow Rangers,Schottland Premiership
+032,17.10.,14:00,GER 3,Hansa Rostock,1:1,TSV 1860 München,Deutschland 3. Liga
+033,17.10.,14:45,AUT CUP,SKN St. Pölten,0:3,RB Salzburg,Österreich ÖFB Cup
+034,17.10.,14:45,AUT CUP,SKN St. Pölten+2,2:3,RB Salzburg,Österreich ÖFB Cup
+035,17.10.,15:00,AUT CUP,ASKÖ Gmünd,3:3,TSV Hartberg,Österreich ÖFB Cup
+036,17.10.,15:00,AUT CUP,VfB Hohenems,1:2,SK Sturm Graz,Österreich ÖFB Cup
+037,17.10.,15:00,ITA A,SSC Napoli,4:1,Atalanta Bergamo,Italien Serie A
+038,17.10.,15:30,GER BL,TSG Hoffenheim,0:1,Bor. Dortmund,Deutschland Bundesliga
+039,17.10.,15:30,GER BL,Hoffenheim+1,1:1,Bor. Dortmund,Deutschland Bundesliga
+040,17.10.,15:30,GER BL,SC Freiburg,1:1,Werder Bremen,Deutschland Bundesliga
+041,17.10.,15:30,GER BL,Hertha BSC,0:2,VfB Stuttgart,Deutschland Bundesliga
+042,17.10.,15:30,GER BL,FSV Mainz 05,0:1,Bayer Leverkusen,Deutschland Bundesliga
+043,17.10.,15:30,GER BL,FC Augsburg,0:2,RB Leipzig,Deutschland Bundesliga
+044,17.10.,16:00,ENG PL,FC Chelsea,3:3,FC Southampton,England Premier League
+045,17.10.,16:00,ENG CS,FC Middlesbrough,0:0,FC Reading,England Championship
+046,17.10.,16:00,ENG CS,Blackburn Rovers,0:1,Nottingham Forest,England Championship
+047,17.10.,16:00,ESP 1,Celta de Vigo,0:2,Atletico Madrid,Spanien Primera Division
+048,17.10.,17:00,AUT CUP,LASK Linz,3:3,SV Wörgl+3,Österreich ÖFB Cup
+049,17.10.,17:00,AUT CUP,SCR Altach,7:2,SV Seekirchen+2,Österreich ÖFB Cup
+050,17.10.,17:00,AUT CUP,Wiener Neustadt+3,4:5,SK Rapid Wien,Österreich ÖFB Cup
+051,17.10.,17:00,AUT CUP,Wacker Innsbruck,1:0,SV Stripfing,Österreich ÖFB Cup
+052,17.10.,18:00,ITA A,Inter Mailand,1:2,AC Milan,Italien Serie A
+053,17.10.,18:00,ITA A,Sampdoria Genua,3:0,Lazio Rom,Italien Serie A
+055,17.10.,18:30,GER BL,Arminia Bielefeld,1:4,FC Bayern München,Deutschland Bundesliga
+056,17.10.,18:30,GER BL,Arm. Bielefeld+2,3:4,FC Bayern München,Deutschland Bundesliga
+057,17.10.,18:30,ENG PL,Manchester City,1:0,FC Arsenal,England Premier League
+058,17.10.,18:30,ESP 1,Real Madrid,0:1,Cadiz CF,Spanien Primera Division
+059,17.10.,19:00,BB AUT,Swans Gmunden,90:72,Kapfenberg Bulls,Österreich Basketball Superliga
+054,17.10.,19:30,HB AUT,Handball Tirol,31:30,Fivers Margareten,Österreich HLA
+060,17.10.,20:25,AUT CUP,First Vienna FC,3:2,SK Vorwärts Steyr,Österreich ÖFB Cup
+061,17.10.,20:30,GER BL,Mönchengladbach,1:1,VfL Wolfsburg,Deutschland Bundesliga
+062,17.10.,20:45,ITA A,FC Crotone,1:1,Juventus Turin,Italien Serie A
+063,17.10.,21:00,ENG PL,Newcastle United,1:4,Manchester United,England Premier League
+064,17.10.,21:00,ESP 1,Getafe CF,1:0,FC Barcelona,Spanien Primera Division
+065,17.10.,21:00,FRA 1,Olymp. Marseille,3:1,Bordeaux,Frankreich Ligue 1
+066,17.10.,21:30,POR 1,Sporting Lissabon,2:2,FC Porto,Portugal Primeira Liga
+067,18.10.,10:00,HE-RTL,"Pinturault, Alexis",Pintura,Kristoffersen H.,"Ski Alpin, Herren Riesentorlauf"
+068,18.10.,12:00,ESP 1,SD Eibar,0:0,CA Osasuna,Spanien Primera Division
+069,18.10.,12:30,ITA A,Bologna FC,3:4,US Sassuolo,Italien Serie A
+070,18.10.,13:00,ENG PL,Sheffield United,1:1,FC Fulham,England Premier League
+071,18.10.,13:00,FRA 1,Racing Strasbourg,2:3,Olympique Lyon,Frankreich Ligue 1
+072,18.10.,13:30,GER 2,Fortuna Düsseldorf,2:2,Jahn Regensburg,Deutschland 2. Bundesliga
+073,18.10.,13:30,GER 2,SC Paderborn,1:0,Hannover 96,Deutschland 2. Bundesliga
+074,18.10.,13:30,GER 2,Erzgebirge Aue,2:1,FC Heidenheim,Deutschland 2. Bundesliga
+075,18.10.,13:30,GER 2,VfL Osnabrück,abgesagt,SV Darmstadt 98,Deutschland 2. Bundesliga
+076,18.10.,13:30,GER 2,Kickers Würzburg,0:2,Holstein Kiel,Deutschland 2. Bundesliga
+077,18.10.,14:00,ESP 1,Athletic Bilbao,2:0,Levante UD,Spanien Primera Division
+078,18.10.,15:00,ENG PL,Crystal Palace,1:1,Brighton & Hove,England Premier League
+079,18.10.,15:00,ITA A,Spezia Calcio,2:2,AC Fiorentina,Italien Serie A
+080,18.10.,15:00,ITA A,FC Torino,2:3,Cagliari Calcio,Italien Serie A
+081,18.10.,15:00,FRA 1,AS Monaco,1:1,HSC Montpellier,Frankreich Ligue 1
+082,18.10.,15:30,GER BL,1. FC Köln,1:1,Eintr. Frankfurt,Deutschland Bundesliga
+083,18.10.,16:00,ESP 1,Villarreal CF,2:1,FC Valencia,Spanien Primera Division
+084,18.10.,16:00,SUI SL,FC Zürich,abgesagt,FC Basel,Schweiz Axpo Super League
+085,18.10.,16:30,EH AUT,Vienna Capitals,4:1,EC RB Salzburg,Österreich Eishockey Liga
+086,18.10.,17:00,FRA 1,AS Saint Etienne,1:3,OGC Nizza,Frankreich Ligue 1
+087,18.10.,17:00,SERB 1,Partizan Belgrad,1:1,Roter Stern B.,Serbien Meridijan Superliga
+088,18.10.,17:15,AUT CUP,Wolfsberger AC,2:2,SV Ried,Österreich ÖFB Cup
+089,18.10.,17:15,AUT CUP,Wolfsberger AC,2:3,SV Ried+1,Österreich ÖFB Cup
+090,18.10.,17:30,ENG PL,Tottenham,3:3,West Ham United,England Premier League
+091,18.10.,17:30,EH AUT,KAC Klagenfurt,2:1,HC Innsbruck,Österreich Eishockey Liga
+009,18.10.,18:00,AUT RLM,FC Gleisdorf,1:0,WSC Hertha Wels,Österreich Regionalliga Mitte
+092,18.10.,18:00,GER BL,FC Schalke 04,1:1,FC Union Berlin,Deutschland Bundesliga
+093,18.10.,18:00,ITA A,Udinese Calcio,3:2,FC Parma,Italien Serie A
+094,18.10.,18:30,ESP 1,CD Alaves,0:2,Elche CF,Spanien Primera Division
+095,18.10.,20:15,ENG PL,Leicester City,0:1,Aston Villa,England Premier League
+096,18.10.,20:45,ITA A,AS Roma,5:2,Benevento Calcio,Italien Serie A
+097,18.10.,21:00,ESP 1,Betis Sevilla,0:3,Real Sociedad,Spanien Primera Division
+098,18.10.,21:00,FRA 1,Lille OSC,4:0,RC Lens,Frankreich Ligue 1
+099,18.10.,21:00,POR 1,Rio Ave FC,0:3,Benfica Lissabon,Portugal Primeira Liga
+100,18.10.,22:25,NFL,Tampa Bay Buccan.,38:10,Green Bay Packers,USA NFL
+101,19.10.,17:00,ROU 1,CS Voluntari,0:2,Viitorul Constanta,Rumänien Liga 1
+102,19.10.,17:30,FIN 1,FC Lahti,0:0,Haka Valkeakoski,Finnland Veikkausliiga
+103,19.10.,17:30,FIN 1,Turun Palloseura,4:1,Rovaniemi PS,Finnland Veikkausliiga
+104,19.10.,18:00,TUR 2,Akhisarspor,0:0,Menemenspor,Türkei TFF 1. Lig
+105,19.10.,18:00,POL 1,Podbeskidzie Biala,1:2,KS Warta Posen,Polen Orange Ekstraklasa
+106,19.10.,18:30,ENG PL,West Bromwich,0:0,FC Burnley,England Premier League
+107,19.10.,19:00,TUR 1,Galatasaray,1:2,Alanyaspor,Türkei Süper Lig
+108,19.10.,19:00,TUR 1,Genclerbirligi,1:2,Denizlispor,Türkei Süper Lig
+109,19.10.,19:00,DEN 1,FC Nordsjaelland,1:0,Randers FC,Dänemark Superligaen
+110,19.10.,19:00,SWE 1,Helsingborgs IF,0:0,BK Häcken,Schweden Allsvenskan
+111,19.10.,19:00,SWE 1,Djurgardens IF,3:2,Malmö FF,Schweden Allsvenskan
+112,19.10.,20:00,SUI 2,FC Schaffhausen,1:2,FC Aarau,Schweiz Challenge League
+113,19.10.,20:00,ROU 1,FC Academica Clinc,0:2,FCS Bukarest,Rumänien Liga 1
+114,19.10.,20:30,GER 2,FC St. Pauli,2:2,1. FC Nürnberg,Deutschland 2. Bundesliga
+115,19.10.,20:30,POL 1,KS Lechia Gdansk,0:1,Pogon Szczecin,Polen Orange Ekstraklasa
+116,19.10.,20:45,ITA A,Hellas Verona,0:0,FC Genua,Italien Serie A
+117,19.10.,20:45,FRA 2,EA Guingamp,2:0,AJ Auxerre,Frankreich Ligue 2
+118,19.10.,20:45,BEL 1,Waasland-Beveren,abgesagt,KV Oostende,Belgien Jupiler Pro League
+119,19.10.,21:00,ENG PL,Leeds United,0:1,Wolverhampton,England Premier League
+120,19.10.,21:15,POR 1,Boavista FC,0:1,Vitoria Guimaraes,Portugal Primeira Liga
