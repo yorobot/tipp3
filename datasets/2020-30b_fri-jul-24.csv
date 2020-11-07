@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,24.07.,18:15,SUI 2,SC Kriens,4:4,Grasshoppers,Schweiz Challenge League
+003,24.07.,18:55,CRO 1,NK Dinamo Zagreb,2:0,NK Varazdin SN,Kroatien 1. HNL
+002,24.07.,19:00,SUI 2,FC Schaffhausen,2:2,FC Stade Ls Ouchy,Schweiz Challenge League
+004,24.07.,19:00,SWE 2,Örgryte Göteborg,1:1,Degerfors IF,Schweden Superettan
+005,24.07.,19:00,SWE 2,AFC Eskilstuna,2:0,GAIS Göteborg,Schweden Superettan
+006,24.07.,20:00,POR 1,CD Santa Clara*,2:2,Vitoria Guimaraes,Portugal Primeira Liga
+007,24.07.,20:00,TUR 1,Antalyaspor,2:2,Galatasaray,Türkei Süper Lig
+008,24.07.,20:00,POL CUP,Cracovia Krakau*,2:2,KS Lechia Gdansk,Polen Cup
+009,24.07.,20:30,AUT 2,SKU Amstetten,2:1,Austria Klagenfurt,Österreich Zweite Liga
+010,24.07.,20:30,AUT 2,SKU Amstetten+1,3:1,Austria Klagenfurt,Österreich Zweite Liga
+011,24.07.,20:30,AUT 2,SV Horn,2:3,SV Ried,Österreich Zweite Liga
+012,24.07.,20:30,AUT 2,SV Horn+1,3:3,SV Ried,Österreich Zweite Liga
+013,24.07.,20:30,AUT 2,FC Juniors OÖ,0:5,FC Liefering,Österreich Zweite Liga
+014,24.07.,20:30,AUT 2,SV Lafnitz,1:1,BW Linz,Österreich Zweite Liga
+015,24.07.,20:30,AUT 2,FC Dornbirn,1:1,Young Violets A.W.,Österreich Zweite Liga
+016,24.07.,20:30,AUT 2,Wacker Innsbruck,1:1,Austria Lustenau,Österreich Zweite Liga
+017,24.07.,20:30,SUI 2,FC Lausanne-Sport,1:2,FC Winterthur,Schweiz Challenge League
+018,24.07.,20:30,SUI 2,FC Wil 1900,3:1,FC Aarau,Schweiz Challenge League
+019,24.07.,21:00,ITA B,SSC Venezia,1:0,Juve Stabia,Italien Serie B
+020,24.07.,21:00,ITA B,Trapani Calcio,1:0,Delfino Pescara,Italien Serie B
+021,24.07.,21:00,ITA B,Frosinone Calcio,2:3,Benevento Calcio,Italien Serie B
+022,24.07.,21:00,ITA B,US Cremonese,0:0,Spezia Calcio,Italien Serie B
+023,24.07.,21:00,ITA B,Salernitana Calcio,2:4,FC Empoli,Italien Serie B
+024,24.07.,21:00,ITA B,Cosenza Calcio,2:1,SC Pisa,Italien Serie B
+025,24.07.,21:00,ITA B,Virtus Entella,0:2,Perugia Calcio,Italien Serie B
+026,24.07.,21:00,ITA B,AC Chievo Verona,4:1,AS Cittadella,Italien Serie B
+027,24.07.,21:00,ITA B,Ascoli FC,2:2,Pordenone Calcio,Italien Serie B
+028,24.07.,21:05,CRO 1,HNK Gorica,0:0,NK Slaven Belupo,Kroatien 1. HNL
+029,24.07.,21:10,FRA CUP,Paris SG*,1:0,AS Saint Etienne,Frankreich Coupe de France
+030,24.07.,21:10,FRA CUP,Paris SG,1:2,AS Saint Etienne+2,Frankreich Coupe de France
+031,24.07.,21:45,ITA A,AC Milan,1:1,Atalanta Bergamo,Italien Serie A
+032,24.07.,21:45,ITA A,AC Milan,1:2,Atalanta Bergamo+1,Italien Serie A
+033,24.07.,21:45,ITA A,AC Milan+1,2:1,Atalanta Bergamo,Italien Serie A
+034,24.07.,22:15,POR 1,Gil Vicente FC,3:3,FC Pacos Ferreira,Portugal Primeira Liga
+035,25.07.,09:00,AUS 1,Wellington Ph.*,1:1,Adelaide United FC,Australien Hyundai A-League
+036,25.07.,11:35,AUS 1,Melbourne Victory*,1:2,Western United FC,Australien Hyundai A-League
+037,25.07.,13:00,SWE 2,Umea FC,3:1,Ljungskile SK,Schweden Superettan
+038,25.07.,15:00,SWE 2,Östers IF,1:1,GIF Sundsvall,Schweden Superettan
+039,25.07.,15:00,SWE 2,Vasteraas SK,1:2,Norrby IF,Schweden Superettan
+040,25.07.,16:00,DEN 2,HB Köge,2:2,Naestved BK,Dänemark 1. Division
+041,25.07.,16:00,DEN 2,Hvidovre IF,0:0,FC Roskilde,Dänemark 1. Division
+042,25.07.,16:00,DEN 2,Vendsyssel FF,0:1,Skive IK,Dänemark 1. Division
+043,25.07.,16:00,DEN 2,BK Fremad Amager,4:1,Vejle BK,Dänemark 1. Division
+044,25.07.,16:00,DEN 2,Viborg FF,0:2,Kolding IF,Dänemark 1. Division
+045,25.07.,16:00,FIN 1,Turun Palloseura,1:3,FC Lahti,Finnland Veikkausliiga
+046,25.07.,16:00,RUS CUP,FK Khimki*,0:1,Zenit St.Petersb.,Russland Russian Cup
+047,25.07.,17:00,AUT 2,Floridsdorfer AC,2:0,Kapfenberger SV,Österreich Zweite Liga
+048,25.07.,17:15,ITA A,Brescia Calcio,1:2,FC Parma,Italien Serie A
+049,25.07.,17:30,SWE 2,Trelleborgs FF,4:1,Dalkurd FF,Schweden Superettan
+050,25.07.,17:30,SWE 2,Halmstads BK,2:3,Akropolis IF,Schweden Superettan
+051,25.07.,17:30,SWE 2,Jönköpings Södra,2:0,IK Brage,Schweden Superettan
+052,25.07.,17:30,FIN 1,HJK Helsinki,2:0,Tampereen Ilves,Finnland Veikkausliiga
+053,25.07.,18:00,NOR 1,Odds BK,3:2,Aalesunds FK,Norwegen Tippeligaen
+054,25.07.,18:15,SUI SL,FC Sion,1:1,FC Thun,Schweiz Axpo Super League
+055,25.07.,19:00,AUT 2,Grazer AK*,1:3,SK Vorwärts Steyr,Österreich Zweite Liga
+056,25.07.,19:30,ITA A,FC Genua,0:3,Inter Mailand,Italien Serie A
+057,25.07.,19:30,ITA A,FC Genua+1,1:3,Inter Mailand,Italien Serie A
+058,25.07.,20:00,TUR 1,Genclerbirligi,0:3,Besiktas Istanbul,Türkei Süper Lig
+059,25.07.,20:00,TUR 1,Kayserispor,1:2,Trabzonspor,Türkei Süper Lig
+060,25.07.,20:00,TUR 1,Fenerbahce,3:1,Caykur Rizespor,Türkei Süper Lig
+061,25.07.,20:00,ROU 1,Gaz Metan Medias,0:1,FCS Bukarest,Rumänien Liga 1
+062,25.07.,20:30,SUI SL,FC Zürich,1:3,FC St. Gallen,Schweiz Axpo Super League
+063,25.07.,20:30,NOR 1,SK Brann,1:1,Kristiansund BK,Norwegen Tippeligaen
+064,25.07.,21:05,CRO 1,NK Osijek,1:2,Lok Zagreb,Kroatien 1. HNL
+065,25.07.,21:45,ITA A,SSC Napoli,2:0,US Sassuolo,Italien Serie A
+066,25.07.,21:45,ITA A,SSC Napoli,2:1,US Sassuolo+1,Italien Serie A
+067,25.07.,22:15,POR 1,Benfica Lissabon,2:1,Sporting Lissabon,Portugal Primeira Liga
+068,25.07.,22:15,POR 1,Sporting Braga,2:1,FC Porto,Portugal Primeira Liga
+069,26.07.,14:30,SWE 1,IF Elfsborg,3:3,Varbergs BoIS,Schweden Allsvenskan
+070,26.07.,14:30,SWE 1,BK Häcken,0:0,IFK Göteborg,Schweden Allsvenskan
+071,26.07.,14:30,SWE 1,Falkenbergs FF,3:3,IFK Norrköping,Schweden Allsvenskan
+072,26.07.,16:00,SUI SL,FC Basel,4:4,FC Lugano,Schweiz Axpo Super League
+073,26.07.,16:00,SUI SL,Young Boys Bern,1:0,FC Luzern,Schweiz Axpo Super League
+074,26.07.,17:00,ENG PL,Leicester City,0:2,Manchester United,England Premier League
+075,26.07.,17:00,ENG PL,Leicester City+1,1:2,Manchester United,England Premier League
+076,26.07.,17:00,ENG PL,FC Chelsea,2:0,Wolverhampton,England Premier League
+077,26.07.,17:00,ENG PL,Newcastle United,1:3,FC Liverpool,England Premier League
+078,26.07.,17:00,ENG PL,Manchester City,5:0,Norwich City,England Premier League
+079,26.07.,17:00,ENG PL,Crystal Palace,1:1,Tottenham,England Premier League
+080,26.07.,17:00,ENG PL,FC Southampton,3:1,Sheffield United,England Premier League
+081,26.07.,17:00,ENG PL,FC Arsenal,3:2,FC Watford,England Premier League
+082,26.07.,17:00,ENG PL,West Ham United,1:1,Aston Villa,England Premier League
+083,26.07.,17:00,ENG PL,FC Everton,1:3,AFC Bournemouth,England Premier League
+084,26.07.,17:00,ENG PL,FC Burnley,1:2,Brighton & Hove,England Premier League
+085,26.07.,17:15,ITA A,Bologna FC,3:2,US Lecce,Italien Serie A
+086,26.07.,17:30,SWE 1,IK Sirius FK,2:5,Malmö FF,Schweden Allsvenskan
+087,26.07.,17:30,SWE 1,AIK Stockholm,0:1,Djurgardens IF,Schweden Allsvenskan
+088,26.07.,18:00,NOR 1,Valerenga IF,2:0,Strömsgodset,Norwegen Tippeligaen
+089,26.07.,18:00,NOR 1,IK Start,0:0,Stabaek IF,Norwegen Tippeligaen
+090,26.07.,18:00,NOR 1,Viking FK,3:0,Sarpsborg 08,Norwegen Tippeligaen
+091,26.07.,18:00,NOR 1,Sandefjord Fotball,1:0,Mjöndalen,Norwegen Tippeligaen
+092,26.07.,18:00,NOR 1,Bodö Glimt,3:1,Molde FK,Norwegen Tippeligaen
+093,26.07.,19:30,ENG CS,Swansea City,1:0,FC Brentford,England Championship
+094,26.07.,19:30,ITA A,Hellas Verona,1:5,Lazio Rom,Italien Serie A
+095,26.07.,19:30,ITA A,Cagliari Calcio,0:1,Udinese Calcio,Italien Serie A
+096,26.07.,19:30,ITA A,AS Roma,2:1,AC Fiorentina,Italien Serie A
+097,26.07.,19:30,ITA A,Spal Ferrara,1:1,FC Torino,Italien Serie A
+098,26.07.,20:30,NOR 1,FK Haugesund,1:0,Rosenborg BK,Norwegen Tippeligaen
+099,26.07.,21:45,ITA A,Juventus Turin,2:0,Sampdoria Genua,Italien Serie A
+100,27.07.,17:00,NIRLCUP,Ballymena United*,1:1,FC Coleraine,Nordirland JJB Sports Irish Cup
+101,27.07.,18:00,EST 1,FC Kuressaare,2:2,JK Tallinna Kalev,Estland Meistriliiga
+102,27.07.,18:00,NOR 2,Stjordals-Blink,2:1,Strömmen IF,Norwegen Adeccoligaen
+103,27.07.,18:00,NOR 2,Kfum Oslo,4:1,Sogndal IL,Norwegen Adeccoligaen
+104,27.07.,18:00,NOR 2,Aasane Fotball,3:1,Lilleström SK,Norwegen Adeccoligaen
+105,27.07.,18:00,NOR 2,Raufoss IL,2:0,Kongsvinger IL,Norwegen Adeccoligaen
+106,27.07.,18:00,NOR 2,Sandnes ULF,2:1,Ullensaker/Kisa,Norwegen Adeccoligaen
+107,27.07.,18:00,NOR 2,Tromsö IL,1:0,Oeygarden FK,Norwegen Adeccoligaen
+108,27.07.,18:00,NOR 2,Grorud IL,0:3,FK Jerv,Norwegen Adeccoligaen
+109,27.07.,19:00,SWE 1,Östersunds FK,0:0,Helsingborgs IF,Schweden Allsvenskan
+110,27.07.,19:00,SWE 1,Hammarby IF,3:0,Örebro SK,Schweden Allsvenskan
+111,27.07.,19:00,SWE 1,Mjällby AIF,2:2,Kalmar FF,Schweden Allsvenskan
+112,27.07.,20:00,ISL 1,Fylkir Reykjavik,3:2,HK Kopavogs,Island Urvalsdeild
+113,27.07.,20:00,ISL 2,IBV Vestmannaeyjar,3:0,Throttur Reykjavik,Island 2. Liga
+114,27.07.,20:45,ENG CS,Cardiff City,0:2,FC Fulham,England Championship
+115,27.07.,20:45,ENG CS,Cardiff City,0:3,FC Fulham+1,England Championship
+116,27.07.,20:45,ENG CS,Cardiff City+1,1:2,FC Fulham,England Championship
+117,27.07.,21:00,NIRLCUP,FC Cliftonville*,1:1,Glentoran Belfast,Nordirland JJB Sports Irish Cup
+118,27.07.,21:15,ISL 1,FH Hafnarfjördur,2:1,Grotta,Island Urvalsdeild
+119,27.07.,21:15,ISL 1,Fjölnir,1:3,Valur Reykjavik,Island Urvalsdeild
+120,27.07.,22:15,ISL 1,Stjarnan Gardab.,1:1,Vikingur Reykjavik,Island Urvalsdeild

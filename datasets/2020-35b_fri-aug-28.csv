@@ -1,0 +1,120 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,28.08.,17:00,ROU 1,Gaz Metan Medias,2:0,FC Arges Pitesti,Rumänien Liga 1
+002,28.08.,17:30,CYP 1,FC Pafos,0:1,Anorthosis,Zypern 1. Division
+003,28.08.,18:00,CZE 1,FC Banik Ostrava,2:2,SK Dynamo Budweis,Tschechien Gambrinus Liga
+004,28.08.,18:00,POL 1,Zaglebie Lubin,1:0,KS Warta Posen,Polen Orange Ekstraklasa
+005,28.08.,18:00,AUT CUP,Wolfsberger AC,2:5,SC Neusiedl+3,Österreich ÖFB Cup
+006,28.08.,19:00,AUT CUP,First Vienna FC,4:0,Marchfeld Donauaue,Österreich ÖFB Cup
+007,28.08.,19:00,AUT CUP,SV Wörgl,4:2,Union Vöcklamarkt,Österreich ÖFB Cup
+008,28.08.,19:00,AUT CUP,Austria Klagenfurt,7:3,ATSV Stadl-Paura+2,Österreich ÖFB Cup
+009,28.08.,19:00,AUT CUP,SK Treibach,1:2,SV Horn,Österreich ÖFB Cup
+010,28.08.,19:00,AUT CUP,FC Gleisdorf,1:1,SV Ried,Österreich ÖFB Cup
+011,28.08.,19:00,AUT CUP,SV Grödig,1:2,SKU Amstetten,Österreich ÖFB Cup
+012,28.08.,19:00,AUT CUP,WSC Hertha Wels,0:3,Admira Wacker,Österreich ÖFB Cup
+013,28.08.,19:30,AUT CUP,Kapfenberger SV,5:1,USK Anif,Österreich ÖFB Cup
+014,28.08.,19:30,CYP 1,AEL Limassol,2:1,Salamis Famagusta,Zypern 1. Division
+015,28.08.,20:00,AUT CUP,SK Vorwärts Steyr,abgesagt,Bruck/Leitha,Österreich ÖFB Cup
+016,28.08.,20:00,CRO 1,HNK Gorica,3:2,HNK Sibenik,Kroatien 1. HNL
+017,28.08.,20:00,HUN 1,Diosgyör VTK,1:1,MTK Budapest FC,Ungarn NB I
+018,28.08.,20:30,AUT CUP,SK Sturm Graz,8:3,SV Innsbruck+3,Österreich ÖFB Cup
+019,28.08.,20:30,POL 1,FKS Stal Mielec,0:2,Gornik Zabrze,Polen Orange Ekstraklasa
+020,28.08.,20:45,BEL 1,KV Oostende,2:2,RSC Anderlecht,Belgien Jupiler Pro League
+021,28.08.,20:45,IRL CUP,FC Galway United,2:5,Shelbourne Dublin,Irland FAI Ford Cup
+022,28.08.,20:45,IRL CUP,FC Athlone Town,3:3,Wexford Youths,Irland FAI Ford Cup
+023,28.08.,21:00,FRA 1,Olympique Lyon,4:1,Dijon Football,Frankreich Ligue 1
+024,28.08.,21:00,FRA 1,Olympique Lyon,4:2,Dijon Football+1,Frankreich Ligue 1
+025,28.08.,21:00,NL 2,SC Cambuur,2:0,NEC Nijmegen,Niederlande Jupiler League
+026,29.08.,15:00,FRA 2,AS Nancy,2:2,EA Guingamp,Frankreich Ligue 2
+027,29.08.,15:00,FRA 2,SM Caen,1:0,AC Ajaccio,Frankreich Ligue 2
+028,29.08.,16:00,ENG LC,FC Stevenage,3:3,FC Portsmouth,England Liga Cup
+029,29.08.,16:00,ENG LC,Blackburn Rovers,3:2,Doncaster Rovers,England Liga Cup
+030,29.08.,16:00,ENG LC,Preston North End,4:0,Mansfield Town,England Liga Cup
+031,29.08.,16:00,ENG LC,Stoke City,0:0,FC Blackpool,England Liga Cup
+032,29.08.,16:00,SCO PS,FC Kilmarnock,4:0,Dundee United,Schottland Premiership
+033,29.08.,16:00,SCO PS,FC Livingston,1:0,FC Ross County,Schottland Premiership
+034,29.08.,16:00,SCO PS,FC St. Johnstone,1:0,FC St. Mirren,Schottland Premiership
+035,29.08.,16:15,BEL 1,AS Eupen,1:1,St. Truiden VV,Belgien Jupiler Pro League
+036,29.08.,16:30,AUT CUP,SW Bregenz+5,abgesagt,RB Salzburg,Österreich ÖFB Cup
+037,29.08.,17:00,AUT CUP,FC Deutschkreutz,abgesagt,SC Wiener Neustadt,Österreich ÖFB Cup
+038,29.08.,17:00,AUT CUP,FC Dornbirn,1:3,SV Allerheiligen,Österreich ÖFB Cup
+039,29.08.,17:00,AUT CUP,ATSV Wolfsberg+2,3:3,SKN St. Pölten,Österreich ÖFB Cup
+040,29.08.,17:00,FRA 1,Stade Rennes,2:1,HSC Montpellier,Frankreich Ligue 1
+041,29.08.,17:00,RUS PL,FC Spartak Moskau,2:1,Arsenal Tula,Russland Premier League
+042,29.08.,17:30,ENG COM,FC Arsenal*,1:1,FC Liverpool,England Community Shield
+043,29.08.,17:30,ENG COM,FC Arsenal+1,2:1,FC Liverpool,England Community Shield
+044,29.08.,17:30,ENG COM,FC Arsenal+2,3:1,FC Liverpool,England Community Shield
+045,29.08.,17:30,AUT CUP,Floridsdorfer AC,3:0,ASV Draßburg,Österreich ÖFB Cup
+046,29.08.,18:00,AUT CUP,Austria Lustenau,1:2,SV Stripfing,Österreich ÖFB Cup
+047,29.08.,18:00,AUT CUP,ASV Schrems,1:3,Wacker Innsbruck,Österreich ÖFB Cup
+048,29.08.,18:00,AUT CUP,Bad Gleichenberg*,0:0,SV Lafnitz,Österreich ÖFB Cup
+049,29.08.,18:00,NOR 1,FK Haugesund,2:1,Valerenga IF,Norwegen Tippeligaen
+050,29.08.,18:30,BEL 1,Cercle Brügge KSV,0:1,KV Kortrijk,Belgien Jupiler Pro League
+051,29.08.,18:30,BEL 1,Waasland-Beveren,1:3,OH Leuven,Belgien Jupiler Pro League
+052,29.08.,18:30,SCO PS,Hamilton FC,0:2,Glasgow Rangers,Schottland Premiership
+053,29.08.,19:00,GRE 1,Apollon Smyrnis,3:1,Skoda Xanthi FC,Griechenland Super League
+054,29.08.,19:00,FRA 2,Le Havre AC,1:0,Amiens SC,Frankreich Ligue 2
+055,29.08.,19:00,FRA 2,Paris FC 98,1:0,FC Valenciennes,Frankreich Ligue 2
+056,29.08.,19:00,FRA 2,Dunkerque,1:1,Clermont Foot,Frankreich Ligue 2
+057,29.08.,19:00,FRA 2,FC Pau,1:1,Rodez Aveyron,Frankreich Ligue 2
+058,29.08.,19:00,FRA 2,Grenoble Foot,5:3,FC Toulouse,Frankreich Ligue 2
+059,29.08.,19:00,FRA 2,FC Chamois Niort,1:1,FC Chambly,Frankreich Ligue 2
+060,29.08.,19:00,FRA 2,LB Chateauroux,1:2,AJ Auxerre,Frankreich Ligue 2
+061,29.08.,19:00,FRA 2,FC Sochaux,2:1,Troyes AC,Frankreich Ligue 2
+062,29.08.,19:00,RUS PL,FK Khimki,1:1,FC Rotor Wolgograd,Russland Premier League
+063,29.08.,19:00,AUT CUP,WSG Swarovs. Tirol,3:4,St Anna/Aigen+3,Österreich ÖFB Cup
+064,29.08.,20:30,AUT CUP,ASV Siegendorf+4,4:3,LASK Linz,Österreich ÖFB Cup
+065,29.08.,20:30,NOR 1,SK Brann,1:1,Strömsgodset,Norwegen Tippeligaen
+066,29.08.,20:45,BEL 1,RE Mouscron,0:1,SV Zulte Waregem,Belgien Jupiler Pro League
+067,29.08.,21:00,FRA 1,Racing Strasbourg,0:2,OGC Nizza,Frankreich Ligue 1
+068,30.08.,11:00,AUT CUP,Dornbirner SV+3,3:7,TSV Hartberg,Österreich ÖFB Cup
+069,30.08.,11:15,AUT CUP,FK Austria Wien,5:4,SC Retz+4,Österreich ÖFB Cup
+070,30.08.,13:00,FRA 1,Stade de Reims,0:1,Lille OSC,Frankreich Ligue 1
+071,30.08.,13:00,RUS PL,FC Ufa,1:1,Dinamo Moskau,Russland Premier League
+072,30.08.,13:30,BEL 1,KRC Genk,1:2,Club Brügge,Belgien Jupiler Pro League
+073,30.08.,15:00,FRA 1,AS Saint Etienne,2:0,FC Lorient,Frankreich Ligue 1
+074,30.08.,15:00,FRA 1,FC Metz,0:1,AS Monaco,Frankreich Ligue 1
+075,30.08.,15:00,FRA 1,SCO Angers,0:2,Bordeaux,Frankreich Ligue 1
+076,30.08.,15:00,FRA 1,FC Nantes,2:1,Olympique Nimes,Frankreich Ligue 1
+077,30.08.,15:00,RUS PL,Lok Moskau,0:0,Zenit St.Petersb.,Russland Premier League
+078,30.08.,16:00,BEL 1,Beerschot Wilrijk,0:3,Standard Lüttich,Belgien Jupiler Pro League
+079,30.08.,16:00,SCO PS,Celtic Glasgow,3:0,FC Motherwell,Schottland Premiership
+080,30.08.,17:00,RUS PL,FK Achmat Grozny,0:3,ZSKA Moskau,Russland Premier League
+081,30.08.,17:00,RUS PL,FC Rubin Kazan,2:2,FK Tambow,Russland Premier League
+082,30.08.,17:00,AUT CUP,SC Schwaz,abgesagt,VfB Hohenems,Österreich ÖFB Cup
+083,30.08.,17:30,AUT CUP,SK Rapid Wien,5:3,TSV St. Johann+3,Österreich ÖFB Cup
+084,30.08.,17:30,AUT CUP,SK Rapid Wien,5:4,TSV St. Johann+4,Österreich ÖFB Cup
+085,30.08.,17:30,SCO PS,Hibernian FC,0:1,FC Aberdeen,Schottland Premiership
+086,30.08.,17:30,SUI CUP,FC Basel*,1:2,Young Boys Bern,Schweiz Cup
+087,30.08.,18:00,AUT CUP,Grazer AK,0:1,SV Seekirchen,Österreich ÖFB Cup
+088,30.08.,18:00,NOR 1,Rosenborg BK,2:2,Stabaek IF,Norwegen Tippeligaen
+090,30.08.,18:00,NOR 1,Odds BK,6:1,Mjöndalen,Norwegen Tippeligaen
+091,30.08.,18:00,NOR 1,IK Start,1:0,Aalesunds FK,Norwegen Tippeligaen
+092,30.08.,18:00,NOR 1,Sarpsborg 08,0:3,Bodö Glimt,Norwegen Tippeligaen
+093,30.08.,18:15,BEL 1,Sporting Charleroi,2:0,FC Royal Antwerpen,Belgien Jupiler Pro League
+094,30.08.,18:45,SERB 1,FK Vojvodina,3:2,Partizan Belgrad,Serbien Meridijan Superliga
+089,30.08.,19:00,NOR 1,Sandefjord Fotball,0:2,Kristiansund BK,Norwegen Tippeligaen
+095,30.08.,19:00,AUT CUP,BW Linz,5:1,SC Team Wr. Linien,Österreich ÖFB Cup
+096,30.08.,19:00,RUS PL,FC Krasnodar,1:1,FC Rostov,Russland Premier League
+097,30.08.,20:00,GRE CUP,AEK Athen*,abgesagt,Olympiakos Piräus,Griechenland Cup
+098,30.08.,20:05,CRO 1,NK Dinamo Zagreb,4:1,NK Osijek,Kroatien 1. HNL
+099,30.08.,20:30,NOR 1,Viking FK,3:2,Molde FK,Norwegen Tippeligaen
+100,30.08.,20:45,BEL 1,KAA Gent,1:0,YR KV Mechelen,Belgien Jupiler Pro League
+101,31.08.,14:00,CHN SL,SIPG Shanghai,4:1,FC Tianjin Taida,China Chinese Super League
+102,31.08.,17:00,RUS 2,FC Chayka,2:1,Fakel Worenesch,Russland 1. Division
+103,31.08.,17:30,FIN 1,FC Lahti,2:2,FC Inter Turku,Finnland Veikkausliiga
+105,31.08.,18:00,ISR 2,Sectzya Nes Ziona,1:1,M. Ahi Nazareth,Israel National League
+106,31.08.,18:00,NOR 3,FK Arendal,5:0,Odd Grenland 2,"Norwegen 2. Division, avd. 2"
+107,31.08.,18:00,NOR 3,Notodden FK,5:1,Rosenborg BK 2,"Norwegen 2. Division, avd. 2"
+108,31.08.,18:45,IRL CUP,FC Shamrock Rovers,2:1,Cork City FC,Irland FAI Ford Cup
+109,31.08.,19:00,SVK 1,AS Trencin,1:2,Slovan Bratislava,Slowakei Corgon Liga
+110,31.08.,19:00,SWE 2,Norrby IF,2:0,Örgryte Göteborg,Schweden Superettan
+104,31.08.,19:30,ISR 2,H. Petach Tikva,1:1,Hapoel Afula FC,Israel National League
+111,31.08.,19:30,ISR 2,Hap.Kfar Shalem,abgesagt,Hap. Rishon LeZion,Israel National League
+112,31.08.,20:00,NL 2,De Graafschap,4:2,FC Den Bosch,Niederlande Jupiler League
+113,31.08.,20:00,ROU 1,Chindia Targoviste,1:0,Dinamo Bukarest,Rumänien Liga 1
+114,31.08.,20:45,IRL CUP,Boh. Dublin,2:0,Cabinteely FC,Irland FAI Ford Cup
+115,31.08.,22:30,PAR 1,Sportivo Luqueno,0:0,Sp.San Lorenzo,Paraguay Primera Division
+117,02.09.,01:00,NHL,Philadelphia Fl.*,3:3,NY Islanders,USA NHL
+116,02.09.,03:45,NHL,Vegas G.Knights*,1:2,Vancouver Can.,USA NHL
+118,04.09.,20:45,UEFA NL,Norwegen,1:2,Österreich,UEFA Nations League
+119,07.09.,20:45,UEFA NL,Österreich,2:3,Rumänien,UEFA Nations League

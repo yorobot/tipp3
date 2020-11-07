@@ -1,0 +1,85 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,08.05.,12:00,KOR 1,Jeonbuk Hyundai,1:0,Suwon Blue Wings,Südkorea K-League 1
+002,08.05.,12:00,KOR 1,Jeonbuk Hyundai,1:1,Suwon Blue Wings+1,Südkorea K-League 1
+003,08.05.,13:00,BLR RES,Neman Grodno Res.,4:1,Rukh Brest Reserve,Weißrussland Reserve Liga
+004,08.05.,15:00,BLR RES,Sl. Mozyr Reserve,0:1,Torpedo Zhodino Re,Weißrussland Reserve Liga
+005,08.05.,15:00,TURK 1,Kopetdag Asgabat,3:1,Merw Mary,Turkmenistan 1. Liga
+006,08.05.,16:00,BLR 1,FC Slutsk,1:2,Energet. BGU Minsk,Weißrussland Premier League
+007,08.05.,16:00,BLR 1,FC Slutsk,1:3,E.BGU Minsk+1,Weißrussland Premier League
+008,08.05.,18:00,BLR 1,FC Gorodeya,1:1,FC Minsk,Weißrussland Premier League
+009,08.05.,18:00,BLR 1,FC Gorodeya,1:2,FC Minsk+1,Weißrussland Premier League
+010,08.05.,18:00,BLR 1,FC Gorodeya+1,2:1,FC Minsk,Weißrussland Premier League
+011,08.05.,20:30,DART HO,"White, Ian",3:5,"Noguera, Jesus","Darts, PDC Home Tour (best of 9 Legs)"
+012,08.05.,21:00,DART HO,"Noppert, Danny",5:4,"Wilson, James","Darts, PDC Home Tour (best of 9 Legs)"
+013,08.05.,21:30,DART HO,"Noguera, Jesus",5:2,"Wilson, James","Darts, PDC Home Tour (best of 9 Legs)"
+014,08.05.,22:00,DART HO,"White, Ian",5:2,"Noppert, Danny","Darts, PDC Home Tour (best of 9 Legs)"
+015,08.05.,22:30,DART HO,"Noppert, Danny",5:2,"Noguera, Jesus","Darts, PDC Home Tour (best of 9 Legs)"
+016,08.05.,23:00,DART HO,"Wilson, James",5:4,"White, Ian","Darts, PDC Home Tour (best of 9 Legs)"
+017,09.05.,07:00,KOR 1,Ulsan Hyundai,4:0,Sangju Sangmu Pho.,Südkorea K-League 1
+018,09.05.,07:00,KOR 1,Ulsan Hyundai,4:1,Sangju Sangmu Ph+1,Südkorea K-League 1
+019,09.05.,09:00,KOR 2,Suwon FC,1:2,Daejeon Citizen FC,"Südkorea, K-League 2"
+020,09.05.,09:30,KOR 1,Incheon United FC,0:0,Daegu FC,Südkorea K-League 1
+021,09.05.,12:00,KOR 1,Gwangju FC,0:2,Seongnam Ilhwa,Südkorea K-League 1
+022,09.05.,12:00,BLR RES,Dinamo Brest Reser,1:2,Din Minsk Reserve,Weißrussland Reserve Liga
+023,09.05.,13:00,BLR RES,FC Isloch Reserve,5:2,Belshina B. Res.,Weißrussland Reserve Liga
+024,09.05.,14:00,BLR RES,FC Smolevichi Res,2:0,Bate Borisov Reser,Weißrussland Reserve Liga
+025,09.05.,14:00,BLR RES,FC Vitebsk Reserve,3:0,Sh. Soligorsk Rese,Weißrussland Reserve Liga
+026,09.05.,14:00,BLR 1,Slavia Mozyr,0:0,FC Torpedo Zhodino,Weißrussland Premier League
+027,09.05.,14:00,BLR 1,Slavia Mozyr+1,1:0,FC Torpedo Zhodino,Weißrussland Premier League
+029,09.05.,14:30,TURK 1,Nebitci Balkanabat,1:0,Altyn Asyr FC,Turkmenistan 1. Liga
+028,09.05.,15:00,BLR 2,FK Smorgon,1:0,FC Lida,Weißrussland Pervaya Liga
+030,09.05.,15:00,TURK 1,FC Energetik Mary,0:1,Shagadam Turkmen.,Turkmenistan 1. Liga
+031,09.05.,15:30,TURK 1,FC Asgabat,abgesagt,Ahal FC,Turkmenistan 1. Liga
+032,09.05.,16:00,BLR 1,Neman Grodno,2:4,FC Rukh Brest,Weißrussland Premier League
+033,09.05.,16:00,BLR 1,Neman Grodno,2:5,FC Rukh Brest+1,Weißrussland Premier League
+034,09.05.,16:00,FRO 1,HB Torshavn,1:0,EB/Streymur,Färöer Inseln Premier League
+035,09.05.,18:00,FRO 1,KI Klaksvik,0:2,B36 Torshavn,Färöer Inseln Premier League
+036,09.05.,18:00,FRO 1,KI Klaksvik,0:3,B36 Torshavn+1,Färöer Inseln Premier League
+037,09.05.,20:00,FRO 1,AB Argir,0:0,Vikingur Gota,Färöer Inseln Premier League
+038,09.05.,20:00,FRO 1,AB Argir+1,1:0,Vikingur Gota,Färöer Inseln Premier League
+039,09.05.,20:30,DART HO,"Anderson, Kyle",2:5,"Larsson, Daniel","Darts, PDC Home Tour (best of 9 Legs)"
+040,09.05.,21:00,DART HO,"Schindler, Martin",1:5,Van Duijvenbode D.,"Darts, PDC Home Tour (best of 9 Legs)"
+041,09.05.,21:25,DART HO,"Larsson, Daniel",5:2,Van Duijvenbode D.,"Darts, PDC Home Tour (best of 9 Legs)"
+042,09.05.,21:50,DART HO,"Anderson, Kyle",0:5,"Schindler, Martin","Darts, PDC Home Tour (best of 9 Legs)"
+043,09.05.,22:10,DART HO,"Schindler, Martin",0:5,"Larsson, Daniel","Darts, PDC Home Tour (best of 9 Legs)"
+044,09.05.,22:35,DART HO,Van Duijvenbode D.,3:5,"Anderson, Kyle","Darts, PDC Home Tour (best of 9 Legs)"
+045,10.05.,03:00,NIC 1,Managua FC,1:3,Real Esteli FC,Nicaragua Primera Division
+046,10.05.,03:00,NIC 1,Managua FC,1:4,Real Esteli FC+1,Nicaragua Primera Division
+047,10.05.,07:00,KOR 1,Pohang Steelers FC,2:0,Busan I Park,Südkorea K-League 1
+048,10.05.,09:00,KOR 2,FC Anyang,0:1,Ansan Greeners,"Südkorea, K-League 2"
+049,10.05.,09:30,KOR 1,Gangwon FC,3:1,FC Seoul,Südkorea K-League 1
+050,10.05.,10:00,TWN 1,FC Taicheng Lions*,0:6,Ming Chuan Univ.,Taiwan Football Premier League
+051,10.05.,10:00,TWN 1,Tainan City FC,4:0,National Taiwan Un,Taiwan Football Premier League
+052,10.05.,10:00,TWN 1,Taichung Futuro FC,0:0,Taiwan Power Co.,Taiwan Football Premier League
+053,10.05.,10:00,TWN 1,Tatung FC,2:2,Hang Yuen,Taiwan Football Premier League
+054,10.05.,13:00,BLR 1,Isloch,2:1,Belshina Bobruisk,Weißrussland Premier League
+055,10.05.,13:00,BLR 1,Isloch,2:2,Bel. Bobruisk+1,Weißrussland Premier League
+056,10.05.,13:00,BLR 2,Sputnik Rechica,1:0,FC Khimik Svetlogo,Weißrussland Pervaya Liga
+057,10.05.,14:00,BLR 2,FC Oshmyany,0:0,FC Orsha,Weißrussland Pervaya Liga
+058,10.05.,15:00,BLR 1,FC Vitebsk,0:0,Shakhter Soligorsk,Weißrussland Premier League
+059,10.05.,15:00,BLR 1,FC Vitebsk+1,1:0,Shakhter Soligorsk,Weißrussland Premier League
+060,10.05.,15:00,BLR 2,Naftan Novopolotsk,2:1,FC Slonim,Weißrussland Pervaya Liga
+061,10.05.,16:00,BLR 2,FC Gomel,abgesagt,Arsenal Dzerzhinsk,Weißrussland Pervaya Liga
+062,10.05.,17:00,BLR 1,FC Smolevichi,3:5,FC BATE Borisov,Weißrussland Premier League
+063,10.05.,17:00,BLR 1,FC Smolevichi+1,4:5,FC BATE Borisov,Weißrussland Premier League
+064,10.05.,17:00,BLR 1,FC Smolevichi+2,5:5,FC BATE Borisov,Weißrussland Premier League
+065,10.05.,17:00,BLR 2,FC Granit Mikashev,0:1,FK Volna Pinsk,Weißrussland Pervaya Liga
+066,10.05.,19:00,BLR 1,Dinamo Brest,2:1,FC Dinamo Minsk,Weißrussland Premier League
+067,10.05.,19:00,BLR 1,Dinamo Brest,2:2,FC Dinamo Minsk+1,Weißrussland Premier League
+068,10.05.,19:00,BLR 1,Dinamo Brest+1,3:1,FC Dinamo Minsk,Weißrussland Premier League
+069,10.05.,20:30,DART HO,"Ratajski,Krzysztof",5:3,"Alcinas, Antonio","Darts, PDC Home Tour (best of 9 Legs)"
+070,10.05.,21:00,DART HO,"Hughes, Jamie",5:2,Labanauskas D.,"Darts, PDC Home Tour (best of 9 Legs)"
+072,10.05.,21:15,DART HO,"Ratajski,Krzysztof",2:5,"Hughes, Jamie","Darts, PDC Home Tour (best of 9 Legs)"
+071,10.05.,22:05,DART HO,"Alcinas, Antonio",0:5,Labanauskas D.,"Darts, PDC Home Tour (best of 9 Legs)"
+073,10.05.,22:20,DART HO,"Hughes, Jamie",5:4,"Alcinas, Antonio","Darts, PDC Home Tour (best of 9 Legs)"
+074,10.05.,22:55,DART HO,Labanauskas D.,3:5,"Ratajski,Krzysztof","Darts, PDC Home Tour (best of 9 Legs)"
+075,11.05.,17:00,BLR 2,Lokomotiv Gomel,4:0,FC NFK Minsk,Weißrussland Pervaya Liga
+076,11.05.,17:00,BLR 2,Lokomotiv Gomel,4:1,FC NFK Minsk+1,Weißrussland Pervaya Liga
+077,15.05.,17:00,BLR 1,FC Minsk,abgesagt,Neman Grodno,Weißrussland Premier League
+078,15.05.,17:00,BLR 1,FC Torpedo Zhodino,3:1,FC Gorodeya,Weißrussland Premier League
+079,16.05.,14:00,BLR 1,Energet. BGU Minsk,2:1,Dinamo Brest,Weißrussland Premier League
+080,16.05.,16:00,BLR 1,Shakhter Soligorsk,2:0,Slavia Mozyr,Weißrussland Premier League
+081,16.05.,18:00,BLR 1,FC BATE Borisov,3:0,FC Slutsk,Weißrussland Premier League
+082,17.05.,14:00,BLR 1,Belshina Bobruisk,1:1,FC Vitebsk,Weißrussland Premier League
+083,17.05.,16:00,BLR 1,FC Dinamo Minsk,1:0,Isloch,Weißrussland Premier League
+084,17.05.,18:00,BLR 1,FC Rukh Brest,0:0,FC Smolevichi,Weißrussland Premier League

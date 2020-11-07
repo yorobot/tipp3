@@ -1,0 +1,119 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,09.06.,16:30,BB GER,MHP Ludwigsburg*,80:77,Skyli. Frankfurt,Deutschland BBL
+002,09.06.,16:30,ARM 1,FC Pyunik Yerevan,1:2,FC Urartu,Armenien Premier League
+003,09.06.,16:55,HUN 1,Varda SE,1:1,Mezokovesd Zsory S,Ungarn NB I
+004,09.06.,17:00,CZE 2,FK Banik Sokolov,3:1,FK Usti nad Labem,Tschechien 1. Division
+005,09.06.,17:00,CZE 2,FK Varnsdorf,1:3,1.SK Prostejov,Tschechien 1. Division
+006,09.06.,17:30,SLO CUP,NK Aluminij*,0:4,NS Mura,Slowenien Cup
+007,09.06.,18:00,DEN 2,Vejle BK,1:2,Skive IK,Dänemark 1. Division
+008,09.06.,18:00,POL 1,Piast Gliwice,0:0,Gornik Zabrze,Polen Orange Ekstraklasa
+009,09.06.,18:00,POL 1,KS Lechia Gdansk,1:3,Cracovia Krakau,Polen Orange Ekstraklasa
+010,09.06.,18:30,AUT BL,SKN St. Pölten,0:3,Admira Wacker,"Österreich Bundesliga, Qualifikationsgruppe"
+011,09.06.,18:30,AUT BL,SKN St. Pölten,0:4,Admira Wacker+1,"Österreich Bundesliga, Qualifikationsgruppe"
+012,09.06.,18:30,AUT BL,WSG Swarovs. Tirol,1:1,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
+013,09.06.,18:30,AUT BL,WSG Swarovs. Tirol,1:2,SV Mattersburg+1,"Österreich Bundesliga, Qualifikationsgruppe"
+014,09.06.,18:30,GER 2,Dynamo Dresden,1:1,Greuther Fürth,Deutschland 2. Bundesliga
+015,09.06.,18:30,GER 2,Dynamo Dresden+1,2:1,Greuther Fürth,Deutschland 2. Bundesliga
+016,09.06.,19:00,GER 3,FC Viktoria Köln,1:3,SV Meppen,Deutschland 3. Liga
+017,09.06.,19:00,GER 3,Bayern München Am.,2:0,FSV Zwickau,Deutschland 3. Liga
+018,09.06.,19:00,GER 3,KFC Uerdingen 05,1:3,TSV 1860 München,Deutschland 3. Liga
+019,09.06.,19:00,DEN 2,Vendsyssel FF,1:1,Hvidovre IF,Dänemark 1. Division
+020,09.06.,19:00,DEN 2,Nyköbing FC,2:2,Kolding IF,Dänemark 1. Division
+021,09.06.,19:00,HUN 1,Ujpest FC,3:1,Debreceni VSC,Ungarn NB I
+022,09.06.,19:30,ISR CUP,M. Petach Tikva*,2:0,Hapoel Tel Aviv,Israel Cup
+023,09.06.,19:30,BUL CUP,Lokomotiv Plovdiv,2:0,Levski Sofia,Bulgarien Cup
+024,09.06.,20:30,AUT BL,FK Austria Wien,0:2,SCR Altach,"Österreich Bundesliga, Qualifikationsgruppe"
+025,09.06.,20:30,AUT BL,FK Austria Wien,0:3,SCR Altach+1,"Österreich Bundesliga, Qualifikationsgruppe"
+026,09.06.,20:30,GER 3,Hansa Rostock,3:1,FC Magdeburg,Deutschland 3. Liga
+027,09.06.,20:30,GER 3,Hallescher FC,3:0,W. Mannheim,Deutschland 3. Liga
+028,09.06.,20:30,POL 1,Zaglebie Lubin,1:1,Korona Kielce,Polen Orange Ekstraklasa
+029,09.06.,20:30,POL 1,Lech Posen,4:0,Pogon Szczecin,Polen Orange Ekstraklasa
+030,09.06.,20:30,BB GER,Alba Berlin*,98:91,BB Bamberg,Deutschland BBL
+031,09.06.,20:45,GER CUP,FC Saarbrücken,0:3,Bayer Leverkusen,Deutschland DFB Pokal
+032,09.06.,20:45,GER CUP,FC Saarbrücken+1,1:3,Bayer Leverkusen,Deutschland DFB Pokal
+033,09.06.,20:45,GER CUP,FC Saarbrücken+2,2:3,Bayer Leverkusen,Deutschland DFB Pokal
+034,09.06.,21:05,HUN 1,Honved Budapest,1:1,Fehervar FC,Ungarn NB I
+035,09.06.,22:00,POR 1,Gil Vicente FC,1:3,FC Famalicao,Portugal Primeira Liga
+036,10.06.,16:55,HUN 1,Diosgyör VTK,1:1,Zalaegerszegi TE,Ungarn NB I
+037,10.06.,17:00,DEN 2,HB Köge,2:2,FC Fredericia,Dänemark 1. Division
+038,10.06.,17:00,CZE 2,FK Fotbal Trinec,1:2,FK Slavoj Vysehrad,Tschechien 1. Division
+039,10.06.,17:00,CZE 2,FK Dukla Prag,0:1,Pardubice,Tschechien 1. Division
+040,10.06.,17:00,SER CUP,Cukaricki Belgrad,0:1,FK Vojvodina,Serbien Cup
+041,10.06.,17:30,SLO CUP,NK Radomlje*,1:1,NK Nafta 1903,Slowenien Cup
+042,10.06.,17:45,BUL 1,FK Arda Kurdzhali,1:1,Ludogorets,Bulgarien Premier League
+043,10.06.,18:00,POR 1,Vitoria Setubal,2:2,CD Santa Clara,Portugal Primeira Liga
+044,10.06.,18:00,DEN CUP,SönderjyskE,2:1,AC Horsens,Dänemark Landspokalturneringen
+045,10.06.,18:00,CZE 1,Sparta Prag,2:0,SFC Opava,Tschechien Gambrinus Liga
+046,10.06.,18:00,CZE 1,FK Baumit Jablonec,1:0,MFK Karvina,Tschechien Gambrinus Liga
+047,10.06.,18:00,CZE 1,FC Banik Ostrava,2:2,SK Slavia Prag,Tschechien Gambrinus Liga
+048,10.06.,18:00,CZE 1,1. FC Slovacko,1:2,Bohem.Prag 1905,Tschechien Gambrinus Liga
+049,10.06.,18:00,CZE 1,1. FK Pribram,2:1,FC Slovan Liberec,Tschechien Gambrinus Liga
+050,10.06.,18:00,CZE 1,Viktoria Pilsen,3:0,FC Fastav Zlin,Tschechien Gambrinus Liga
+051,10.06.,18:00,CZE 1,SK Dynamo Budweis,3:1,FK Teplice,Tschechien Gambrinus Liga
+052,10.06.,18:00,CZE 1,FK Mlada Boleslav,0:2,SK Sigma Olmütz,Tschechien Gambrinus Liga
+053,10.06.,18:00,POL 1,Wisla Krakau,3:2,Rakow Czestochowa,Polen Orange Ekstraklasa
+054,10.06.,18:00,POL 1,Wisla Plock,1:2,Slask Wroclaw,Polen Orange Ekstraklasa
+055,10.06.,18:30,AUT BL,LASK Linz,0:1,SK Rapid Wien,Österreich Bundesliga
+056,10.06.,18:30,AUT BL,LASK Linz,0:2,SK Rapid Wien+1,Österreich Bundesliga
+057,10.06.,18:30,AUT BL,Wolfsberger AC,2:4,TSV Hartberg,Österreich Bundesliga
+058,10.06.,18:30,AUT BL,Wolfsberger AC,2:5,TSV Hartberg+1,Österreich Bundesliga
+059,10.06.,18:30,AUT 2,Austria Lustenau,2:2,FC Juniors OÖ,Österreich Zweite Liga
+060,10.06.,18:30,AUT 2,SV Lafnitz,0:0,Young Violets A.W.,Österreich Zweite Liga
+061,10.06.,18:30,AUT 2,SK Vorwärts Steyr,2:2,SV Horn,Österreich Zweite Liga
+062,10.06.,18:30,AUT 2,Kapfenberger SV,0:1,FC Dornbirn,Österreich Zweite Liga
+063,10.06.,18:30,AUT 2,SKU Amstetten,2:3,Wacker Innsbruck,Österreich Zweite Liga
+064,10.06.,18:30,AUT 2,Grazer AK*,4:2,SV Ried,Österreich Zweite Liga
+065,10.06.,18:30,AUT 2,Grazer AK+1,5:2,SV Ried,Österreich Zweite Liga
+066,10.06.,19:00,GER 3,Chemnitzer FC,0:1,FC Ingolstadt,Deutschland 3. Liga
+067,10.06.,19:00,GER 3,Kickers Würzburg,4:2,FC Carl Zeiss Jena,Deutschland 3. Liga
+068,10.06.,19:00,GER 3,Großaspach,0:0,Preussen Münster,Deutschland 3. Liga
+069,10.06.,19:00,HUN 1,Puskas Akademia FC,2:1,Kaposvari Rakoczi,Ungarn NB I
+070,10.06.,19:30,ISR CUP,Hap. Beer Sheva*,1:1,Bnei Yehuda,Israel Cup
+071,10.06.,20:00,BUL CUP,Botev Plovdiv,0:0,ZSKA Sofia,Bulgarien Cup
+072,10.06.,20:00,SER CUP,Partizan Belgrad,1:0,Roter Stern B.,Serbien Cup
+073,10.06.,20:15,POR 1,Portimonense SC,2:2,Benfica Lissabon,Portugal Primeira Liga
+074,10.06.,20:30,AUT BL,SK Sturm Graz,1:5,RB Salzburg,Österreich Bundesliga
+075,10.06.,20:30,AUT BL,SK Sturm Graz+1,2:5,RB Salzburg,Österreich Bundesliga
+076,10.06.,20:30,GER 3,FC Kaiserslautern,1:3,MSV Duisburg,Deutschland 3. Liga
+077,10.06.,20:30,GER 3,Unterhaching,1:3,E. Braunschweig,Deutschland 3. Liga
+078,10.06.,20:30,POL 1,LKS Lodz,0:3,Jagiellonia Bial.,Polen Orange Ekstraklasa
+079,10.06.,20:30,POL 1,Legia Warschau,5:1,Arka Gdynia 1929,Polen Orange Ekstraklasa
+080,10.06.,20:30,BB GER,Ratiopharm Ulm*,92:80,Crailsheim Merlins,Deutschland BBL
+081,10.06.,20:45,GER CUP,FC Bayern München,2:1,Eintr. Frankfurt,Deutschland DFB Pokal
+082,10.06.,20:45,GER CUP,FC Bayern München,2:2,Eintr. Frankfurt+1,Deutschland DFB Pokal
+083,10.06.,20:45,GER CUP,FC Bayern München,2:3,Eintr. Frankfurt+2,Deutschland DFB Pokal
+084,10.06.,20:45,DEN CUP,Aalborg BK,3:2,AGF Aarhus,Dänemark Landspokalturneringen
+085,10.06.,21:05,HUN 1,Paksi FC,2:2,Ferencvaros,Ungarn NB I
+086,10.06.,22:30,POR 1,FC Porto,1:0,Maritimo Funchal,Portugal Primeira Liga
+087,11.06.,10:30,AUT 2,BW Linz,1:2,Austria Klagenfurt,Österreich Zweite Liga
+088,11.06.,16:30,BB GER,Skyli. Frankfurt*,63:59,SC Rasta Vechta,Deutschland BBL
+089,11.06.,17:00,CZE 2,AFK Chrudim,4:3,FC Jihlava,Tschechien 1. Division
+090,11.06.,17:00,CZE 2,MFK Vitkovice,0:2,FC Graffin Vlasim,Tschechien 1. Division
+091,11.06.,17:00,CZE 2,FC Hradec Kralove,5:0,FK Viktoria Zizkov,Tschechien 1. Division
+092,11.06.,18:00,CZE 2,SK Lisen,1:2,Zbrojovka Brno,Tschechien 1. Division
+093,11.06.,18:00,DEN 2,Viborg FF,4:2,FC Roskilde,Dänemark 1. Division
+094,11.06.,18:55,CRO 1,NK Inter Zapresic,0:3,HNK Gorica,Kroatien 1. HNL
+095,11.06.,19:30,BUL 1,Et. Veliko Tarnovo,5:3,FC Dunav 2010,Bulgarien Premier League
+096,11.06.,20:00,POR 1,Belenenses L.,1:1,Vitoria Guimaraes,Portugal Primeira Liga
+097,11.06.,20:25,AUT 2,FC Liefering,3:0,Floridsdorfer AC,Österreich Zweite Liga
+098,11.06.,20:25,AUT 2,FC Liefering,3:1,Floridsdorfer AC+1,Österreich Zweite Liga
+099,11.06.,20:30,BB GER,MHP Ludwigsburg*,103:74,BB Bamberg,Deutschland BBL
+100,11.06.,21:05,CRO 1,NK Istra 1961,0:1,HNK Hajduk Split,Kroatien 1. HNL
+101,11.06.,22:00,ESP 1,FC Sevilla,2:0,Betis Sevilla,Spanien Primera Division
+102,11.06.,22:00,ESP 1,FC Sevilla,2:1,Betis Sevilla+1,Spanien Primera Division
+103,11.06.,22:15,POR 1,CD Tondela,2:0,CD Aves,Portugal Primeira Liga
+111,12.06.,20:30,GER BL,TSG Hoffenheim,0:2,RB Leipzig,Deutschland Bundesliga
+112,13.06.,15:30,GER BL,Hertha BSC,1:4,Eintr. Frankfurt,Deutschland Bundesliga
+114,13.06.,15:30,GER BL,Fortuna Düsseldorf,0:1,Bor. Dortmund,Deutschland Bundesliga
+115,13.06.,15:30,GER BL,VfL Wolfsburg,2:2,SC Freiburg,Deutschland Bundesliga
+116,13.06.,15:30,GER BL,1. FC Köln,1:2,FC Union Berlin,Deutschland Bundesliga
+117,13.06.,15:30,GER BL,SC Paderborn,1:5,Werder Bremen,Deutschland Bundesliga
+107,13.06.,17:00,AUT BL,SV Mattersburg,1:4,FK Austria Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+108,13.06.,17:00,AUT BL,Admira Wacker,0:3,WSG Swarovs. Tirol,"Österreich Bundesliga, Qualifikationsgruppe"
+109,13.06.,17:00,AUT BL,SCR Altach,2:0,SKN St. Pölten,"Österreich Bundesliga, Qualifikationsgruppe"
+110,13.06.,18:30,GER BL,FC Bayern München,2:1,Mönchengladbach,Deutschland Bundesliga
+118,14.06.,15:30,GER BL,FSV Mainz 05,0:1,FC Augsburg,Deutschland Bundesliga
+105,14.06.,17:00,AUT BL,SK Rapid Wien,2:1,Wolfsberger AC,Österreich Bundesliga
+106,14.06.,17:00,AUT BL,TSV Hartberg,1:2,SK Sturm Graz,Österreich Bundesliga
+113,14.06.,18:00,GER BL,FC Schalke 04,1:1,Bayer Leverkusen,Deutschland Bundesliga
+104,14.06.,19:30,AUT BL,RB Salzburg,3:1,LASK Linz,Österreich Bundesliga

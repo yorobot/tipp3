@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+002,29.09.,11:00,TEN ATP,"Garin, Cristian",3:1,Kohlschreiber P.,Tennis ATP
+004,29.09.,17:45,ISL 2,UMF Grindavik,3:0,Vikingur Olafsvik,Island 2. Liga
+003,29.09.,18:00,TEN ATP,"Shapovalov, Denis",3:1,"Simon, Gilles",Tennis ATP
+005,29.09.,18:00,DEN 2,Hobro IK,2:1,Skive IK,Dänemark 1. Division
+006,29.09.,18:00,PER 1,Academia Cantolao,2:2,FC Carlos Stein,Peru Primera Division
+007,29.09.,18:00,KHL,Sev. Cherepovets,1:4,HK Dinamo Minsk,Kontinental Hockey League
+008,29.09.,18:00,KHL,Avangard Omsk,2:2,Jokerit Helsinki,Kontinental Hockey League
+009,29.09.,18:30,KHL,HC Sochi,2:4,Traktor Chelyab.,Kontinental Hockey League
+010,29.09.,18:30,AUT 2,BW Linz,2:0,SKU Amstetten,Österreich Zweite Liga
+011,29.09.,18:30,AUT 2,Young Violets A.W.,1:2,SV Horn,Österreich Zweite Liga
+012,29.09.,18:30,AUT 2,SV Lafnitz,0:1,Grazer AK,Österreich Zweite Liga
+013,29.09.,18:30,AUT 2,FC Juniors OÖ,1:1,FC Liefering,Österreich Zweite Liga
+014,29.09.,18:45,FRA 3,US Quevilly Rouen,2:0,FC Sete 34,Frankreich National
+015,29.09.,18:45,NL 2,FC Eindhoven,3:3,Roda JC Kerkrade,Niederlande Jupiler League
+016,29.09.,19:00,AUT RLM,Union Gurten,1:1,Deutschlandsberg,Österreich Regionalliga Mitte
+017,29.09.,19:00,RL SBG,TSV St. Johann,4:1,SV Seekirchen,Regionalliga Salzburg
+018,29.09.,19:00,ESP 1,Real Sociedad,0:1,FC Valencia,Spanien Primera Division
+019,29.09.,19:00,DEN 2,BK Fremad Amager,2:3,Esbjerg FB,Dänemark 1. Division
+020,29.09.,19:00,NOR 2,Ullensaker/Kisa,0:7,Tromsö IL,Norwegen Adeccoligaen
+001,29.09.,19:25,TEN ATP,"Bautista, Roberto",3:0,"Gasquet, Richard",Tennis ATP
+021,29.09.,20:00,ISL 2,Throttur Reykjavik,0:1,Magni,Island 2. Liga
+022,29.09.,20:25,AUT 2,Wacker Innsbruck,0:0,Austria Lustenau,Österreich Zweite Liga
+023,29.09.,20:25,AUT 2,Wacker Innsbruck,0:1,Austria Lustenau+1,Österreich Zweite Liga
+024,29.09.,20:45,ENG LC,Tottenham,1:1,FC Chelsea,England Liga Cup
+025,29.09.,20:45,ITA CUP,SSD Monza 1912,3:0,Triestina Calcio,Italien Coppa Italia
+026,29.09.,21:00,CL Q,Omonia Nikosia CYP,0:0,Olympiakos P. GRE,"UEFA Champions League, Qualifikation"
+027,29.09.,21:00,CL Q,Dynamo Kiev UKR,3:0,KAA Gent BEL,"UEFA Champions League, Qualifikation"
+028,29.09.,21:00,CL Q,Ferencvaros HUN,0:0,Molde FK NOR,"UEFA Champions League, Qualifikation"
+029,29.09.,21:00,POR 2,Academ. Coimbra,0:1,CD Feirense,Portugal Segunda Liga
+030,29.09.,21:30,ESP 1,Getafe CF,3:0,Betis Sevilla,Spanien Primera Division
+032,30.09.,11:30,TEN ATP,"Korda, Sebastian",3:1,"Isner, John",Tennis ATP
+035,30.09.,11:30,TEN ATP,"Wawrinka, Stan",3:1,"Koepfer, Dominik",Tennis ATP
+036,30.09.,12:00,JPN 1,Yokohama F Marinos,1:1,Sagan Tosu,Japan J.League
+037,30.09.,12:00,JPN 1,Vissel Kobe,1:0,Nagoya Grampus,Japan J.League
+038,30.09.,12:30,JPN 1,Urawa RD,0:1,FC Tokyo,Japan J.League
+033,30.09.,14:00,TEN ATP,"Gombos, Norbert",3:1,"Rodionov, Jurij",Tennis ATP
+039,30.09.,15:00,ITA CUP,Frosinone Calcio,1:3,Padua Calcio,Italien Coppa Italia
+040,30.09.,15:00,ITA CUP,AS Cittadella,3:1,Novara Calcio,Italien Coppa Italia
+031,30.09.,15:20,TEN ATP,"Nishikori, Kei",2:3,"Travaglia, Stefano",Tennis ATP
+041,30.09.,16:00,ITA CUP,Virtus Entella,2:1,UC Albinoleffe,Italien Coppa Italia
+034,30.09.,16:10,TEN ATP,"Paire, Benoit",1:3,"Coria, Federico",Tennis ATP
+043,30.09.,16:30,KHL,Salavat Yulaev Ufa,1:4,Avtomobilist,Kontinental Hockey League
+042,30.09.,17:00,ITA CUP,Vicenza Calcio,1:1,Pro Patria,Italien Coppa Italia
+046,30.09.,17:00,ITA CUP,FC Empoli,2:1,AC Renate,Italien Coppa Italia
+044,30.09.,18:00,ITA A,Benevento Calcio,2:5,Inter Mailand,Italien Serie A
+045,30.09.,18:00,ITA A,Udinese Calcio,0:2,Spezia Calcio,Italien Serie A
+047,30.09.,18:00,ITA CUP,Salernitana Calcio,3:0,FC Südtirol,Italien Coppa Italia
+048,30.09.,18:00,ITA CUP,AC Reggiana,1:1,AC Monopoli,Italien Coppa Italia
+049,30.09.,18:00,DEN 2,Viborg FF,3:1,Vendsyssel FF,Dänemark 1. Division
+050,30.09.,18:00,SVK 1,Slovan Bratislava,2:0,FK Senica,Slowakei Corgon Liga
+051,30.09.,18:30,ENG LC,Newport County,1:1,Newcastle United,England Liga Cup
+052,30.09.,18:30,AUT 2,Floridsdorfer AC,4:0,Kapfenberger SV,Österreich Zweite Liga
+053,30.09.,18:30,AUT 2,FC Dornbirn,1:2,SK Rapid Wien II,Österreich Zweite Liga
+054,30.09.,19:00,AUT CUP,SC Schwaz,1:3,VfB Hohenems,Österreich ÖFB Cup
+055,30.09.,19:00,ESP 1,SD Huesca,0:0,Atletico Madrid,Spanien Primera Division
+056,30.09.,19:00,ESP 1,Villarreal CF,3:1,CD Alaves,Spanien Primera Division
+057,30.09.,19:00,FRA 2,AC Ajaccio,1:0,Dunkerque,Frankreich Ligue 2
+058,30.09.,19:00,DEN 2,FC Helsingor,0:2,HB Köge,Dänemark 1. Division
+059,30.09.,19:00,BEL 2,KVC Westerlo,abgesagt,MSK Deinze,Belgium Tweede Klasse
+060,30.09.,19:00,RL SBG,Austria Salzburg,1:0,USK Anif,Regionalliga Salzburg
+061,30.09.,19:30,RL TIR,SC Imst 1933,3:2,SVG Reichenau,Regionalliga Tirol
+062,30.09.,20:00,ENG LC,FC Burnley,0:3,Manchester City,England Liga Cup
+063,30.09.,20:25,AUT 2,SK Vorwärts Steyr,2:2,Austria Klagenfurt,Österreich Zweite Liga
+064,30.09.,20:30,GER SC,Borussia Dortmund*,2:3,FC Bayern München,Deutschland Supercup
+065,30.09.,20:30,GER SC,Bor. Dortmund+1,3:3,FC Bayern München,Deutschland Supercup
+066,30.09.,20:45,ENG LC,Brighton & Hove,0:3,Manchester United,England Liga Cup
+067,30.09.,20:45,ENG LC,FC Everton,4:1,West Ham United,England Liga Cup
+068,30.09.,20:45,ITA A,Lazio Rom,1:4,Atalanta Bergamo,Italien Serie A
+069,30.09.,21:00,ITA CUP,Spal Ferrara,0:0,AS Bari,Italien Coppa Italia
+070,30.09.,21:00,CL Q,RB Salzburg AUT,3:1,Macc. Tel Aviv ISR,"UEFA Champions League, Qualifikation"
+071,30.09.,21:00,CL Q,RB Salzburg,3:2,Maccabi Tel Aviv+1,"UEFA Champions League, Qualifikation"
+072,30.09.,21:00,CL Q,RB Salzburg,3:3,Maccabi Tel Aviv+2,"UEFA Champions League, Qualifikation"
+073,30.09.,21:00,CL Q,FC Midtjylland DEN,4:1,Slavia Prag CZE,"UEFA Champions League, Qualifikation"
+074,30.09.,21:00,CL Q,PAOK Thessal. GRE,1:2,FC Krasnodar RUS,"UEFA Champions League, Qualifikation"
+075,30.09.,21:30,ESP 1,SD Eibar,0:1,Elche CF,Spanien Primera Division
+076,30.09.,21:30,ESP 1,Real Madrid,1:0,Real Valladolid,Spanien Primera Division
+077,01.10.,02:06,MEX 1,Club Tijuana,2:1,FC Juarez,Mexiko Primera Division
+078,01.10.,02:30,BRA 1,Botafogo FR RJ,1:2,EC Bahia BA,Brasilien Brasilero Serie A
+079,01.10.,02:30,BRA 1,Corinthians SP,0:0,Atletico GO,Brasilien Brasilero Serie A
+080,01.10.,03:00,NBA,LA Lakers,116:98,Miami Heat,USA NBA
+082,01.10.,17:30,EH FIN,HPK Hämeenlinna,2:4,Kärpät Oulu,Finnland SM-Liiga
+083,01.10.,17:30,EL,FC CFR Cluj ROU,3:1,Kuopio PS FIN,UEFA Europa League
+084,01.10.,18:30,ENG LC,FC Brentford,3:0,FC Fulham,England Liga Cup
+085,01.10.,18:30,CHI 1,Palestino,0:1,Univ. d.Concepcion,Chile Primera Divison
+086,01.10.,18:30,KHL,Spartak Moskau,4:5,HK CSKA Moskau,Kontinental Hockey League
+081,01.10.,19:00,EL,Ararat-Arm. ARM*,1:2,Roter Stern B. SRB,UEFA Europa League
+087,01.10.,19:00,EL,Malmö FF SWE,1:3,Granada CF ESP,UEFA Europa League
+088,01.10.,19:00,EL,Rosenborg BK NOR,0:2,PSV Eindhoven NED,UEFA Europa League
+089,01.10.,19:00,EL,Slovan Liberec CZE,1:0,APOEL Nikosia CYP,UEFA Europa League
+090,01.10.,19:00,EL,Sp. Charleroi BEL,1:2,Lech Posen POL,UEFA Europa League
+091,01.10.,19:00,EL,Dinamo Zagreb CRO,3:1,Flora Tallinn EST,UEFA Europa League
+092,01.10.,19:00,ESP 1,Athletic Bilbao,0:1,Cadiz CF,Spanien Primera Division
+093,01.10.,19:00,ESP 1,FC Sevilla,1:0,Levante UD,Spanien Primera Division
+094,01.10.,19:00,DEN 2,Hvidovre IF,0:3,FC Fredericia,Dänemark 1. Division
+095,01.10.,19:00,EH SWE,Djurgardens IF,3:0,Malmö IF,Schweden Elitserien
+096,01.10.,19:00,EH SWE,Linköpings HC,4:4,Brynas IF,Schweden Elitserien
+097,01.10.,19:00,EH SWE,Lulea Hockey,5:4,HV 71,Schweden Elitserien
+098,01.10.,19:00,EH SWE,IK Oskarshamn,4:2,Färjestads BK,Schweden Elitserien
+099,01.10.,19:00,EH SWE,Skelleftea AIK,3:1,Frölunda HC,Schweden Elitserien
+100,01.10.,19:30,EL,H. Beer Sheva ISR*,1:0,Vikt. Pilsen CZE,UEFA Europa League
+101,01.10.,20:00,EL,Legia Warschau POL,0:3,Qarabag FK AZE,UEFA Europa League
+102,01.10.,20:00,EL,FC Kopenhagen DEN,0:1,HNK Rijeka CRO,UEFA Europa League
+103,01.10.,20:00,EL,Dinamo Brest BLR*,0:2,Ludog. Razgrad BUL,UEFA Europa League
+104,01.10.,20:00,EL,FK Sarajevo BIH*,0:1,Celtic Glasgow SCO,UEFA Europa League
+105,01.10.,20:00,EL,Stand. Lüttich BEL,3:1,Fehervar FC HUN,UEFA Europa League
+106,01.10.,20:00,ENG LC,Aston Villa,0:1,Stoke City,England Liga Cup
+107,01.10.,20:00,ISL 1,Breidablik,1:1,KA Akureyri,Island Urvalsdeild
+108,01.10.,20:30,EL,FC Dundalk IRL*,3:1,KI Klaksvik FRO,UEFA Europa League
+109,01.10.,20:30,EL,FC Basel SUI,1:3,ZSKA Sofia BUL,UEFA Europa League
+110,01.10.,20:30,EL,YB Bern SUI,3:0,KF Tirana ALB,UEFA Europa League
+111,01.10.,20:45,EL,AEK Athen GRE,2:1,VfL Wolfsburg GER,UEFA Europa League
+112,01.10.,20:45,EL,Gl.Rangers SCO,2:1,Galatasaray TUR,UEFA Europa League
+113,01.10.,20:45,ENG LC,FC Liverpool,0:0,FC Arsenal,England Liga Cup
+114,01.10.,21:00,EL,Sporting Liss. POR,1:4,LASK Linz AUT,UEFA Europa League
+115,01.10.,21:00,EL,Sporting Lissabon,1:5,LASK Linz+1,UEFA Europa League
+116,01.10.,21:00,EL,Rio Ave FC POR,1:1,AC Milan ITA,UEFA Europa League
+117,01.10.,21:00,EL,Tottenham ENG,7:2,Maccabi Haifa ISR,UEFA Europa League
+118,01.10.,21:15,ISL 1,Vikingur Reykjavik,0:2,KR Reykjavik,Island Urvalsdeild
+120,01.10.,21:30,ESP 1,Celta de Vigo,0:3,FC Barcelona,Spanien Primera Division
+119,01.10.,22:15,ISL 1,Stjarnan Gardab.,1:1,FH Hafnarfjördur,Island Urvalsdeild

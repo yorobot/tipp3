@@ -1,0 +1,120 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,28.07.,16:00,ROU 2A,AFC Turris-Oltul,0:1,CS Mioveni,"Rumänien Liga 2, Seria 1"
+002,28.07.,17:00,LIT 1,FK Zalgiris Kaunas,2:3,FK Banga Gargzdai,Litauen A lyga
+003,28.07.,17:10,POL 2,Radomiak Radom,3:1,Miedz Legnica,Polen I Liga
+004,28.07.,17:30,POL 3,Bytovia Bytow,0:0,Resovia Rzeszow,"Polen, II Liga"
+005,28.07.,18:00,ROU 2A,Petrolul Ploiesti,1:2,FC Arges Pitesti,"Rumänien Liga 2, Seria 1"
+006,28.07.,18:00,LIT 1,FK Panevezys,1:2,Zalgiris Vilnius,Litauen A lyga
+007,28.07.,19:00,ISR 2,Hapoel Afula FC*,3:1,Hapoel Bnei Lod,Israel National League
+008,28.07.,19:00,NOR 2,Ham-Kam,3:4,Ranheim IL,Norwegen Adeccoligaen
+009,28.07.,19:00,FRO 1,HB Torshavn,4:1,TB Tvoeroyri,Färöer Inseln Premier League
+010,28.07.,19:00,LIT 1,FK Riteriai,1:2,Suduva Marijampole,Litauen A lyga
+011,28.07.,19:30,ITA A,FC Parma,1:2,Atalanta Bergamo,Italien Serie A
+012,28.07.,19:30,ITA A,FC Parma+1,2:2,Atalanta Bergamo,Italien Serie A
+013,28.07.,20:00,TUR PO,Tuzlaspor*,0:0,Manisa BB,Türkei 2. Liga Play Offs
+014,28.07.,20:15,POL 3,GKS Katowice,0:2,ZKS Stal Rzeszow,"Polen, II Liga"
+015,28.07.,20:30,SUI SL,FC Zürich,0:2,FC Sion,Schweiz Axpo Super League
+016,28.07.,20:30,ROU 1,FC CFR 1907 Cluj,1:0,FC Botosani,Rumänien Liga 1
+017,28.07.,20:40,POL 2,KS Warta Posen,1:0,Nieciecza KS,Polen I Liga
+018,28.07.,21:45,ITA A,Inter Mailand,2:0,SSC Napoli,Italien Serie A
+019,28.07.,21:45,ITA A,Inter Mailand,2:1,SSC Napoli+1,Italien Serie A
+020,28.07.,23:00,MAR 1,Wydad Casablanca,1:1,Mouloudia Oujd,"Marokko, 1. Liga"
+021,29.07.,02:00,MEX 1,CF Monterrey,3:1,Deportivo Toluca,Mexiko Primera Division
+022,29.07.,02:00,MLSBACK,Columbus Crew*,1:1,FC Minnesota Utd.,"USA, MLS is Back Tournament"
+023,29.07.,04:30,MLSBACK,Portland Timbers*,1:1,FC Cincinnati,"USA, MLS is Back Tournament"
+024,29.07.,11:30,AUS 1,Melbourne Victory*,1:2,Brisbane Roar,Australien Hyundai A-League
+025,29.07.,12:00,JPN 2,Thespakusatsu,0:1,Tochigi SC,Japan J.League 2
+026,29.07.,12:00,JPN 2,FC Ryukyu,2:2,Jubilo Iwata,Japan J.League 2
+027,29.07.,12:00,JPN 2,Zweigen Kanazawa,0:1,Omiya Ardija,Japan J.League 2
+028,29.07.,12:00,JPN 2,Montedio Yamagata,0:0,JEF Utd Ichihara,Japan J.League 2
+029,29.07.,12:00,JPN 2,Avispa Fukuoka,1:1,Ehime FC,Japan J.League 2
+030,29.07.,12:00,JPN 2,Tokyo Verdy,1:1,Niigata Albirex,Japan J.League 2
+031,29.07.,12:00,JPN 2,Fagiano Okayama,1:1,Kyoto Sanga FC,Japan J.League 2
+032,29.07.,12:00,JPN 2,Mito Hollyhock,2:2,Ventforet Kofu,Japan J.League 2
+033,29.07.,12:00,JPN 2,Giravanz Kitakyush,2:0,Tokushima Vortis,Japan J.League 2
+034,29.07.,12:00,JPN 2,Matsumoto Yamaga,0:2,Machida Zelvia,Japan J.League 2
+035,29.07.,12:00,JPN 2,Renofa Yamaguchi,1:2,V-Varen Nagasaki,Japan J.League 2
+036,29.07.,12:00,VIE 1,The Cong,abgesagt,Sai Gon FC,Vietnam V-League
+037,29.07.,12:00,KOR CUP,Busan I Park,1:5,Jeonbuk Hyundai,Südkorea FA Cup
+038,29.07.,12:00,KOR CUP,Seongnam Ilhwa,1:0,Suwon Blue Wings,Südkorea FA Cup
+039,29.07.,12:30,KOR CUP,FC Seoul,1:5,Pohang Steelers FC,Südkorea FA Cup
+040,29.07.,12:30,KOR CUP,Ulsan Hyundai,3:0,Gangwon FC,Südkorea FA Cup
+041,29.07.,16:00,ROU 1,Chindia Targoviste,3:1,FC Academica Clinc,Rumänien Liga 1
+043,29.07.,17:00,LAT 1,Rigas Futb.Skola,5:2,Valmiera FK,Lettland LMT Virsliga
+044,29.07.,18:00,ROU 1,AFC Hermannstadt,2:0,Viitorul Constanta,Rumänien Liga 1
+045,29.07.,18:00,NOR 1,Strömsgodset,3:1,SK Brann,Norwegen Tippeligaen
+046,29.07.,18:00,NOR 1,Mjöndalen,0:2,Odds BK,Norwegen Tippeligaen
+047,29.07.,18:00,NOR 1,Kristiansund BK,3:1,Sandefjord Fotball,Norwegen Tippeligaen
+048,29.07.,18:00,NOR 1,Sarpsborg 08,0:0,FK Haugesund,Norwegen Tippeligaen
+049,29.07.,18:00,NOR 1,Aalesunds FK,3:2,IK Start,Norwegen Tippeligaen
+042,29.07.,18:30,UKR 1,Kolos Kovalivka*,0:0,FK Mariupol,Ukraine Premier League
+050,29.07.,19:00,SWE 2,Jönköpings Södra,3:3,GIF Sundsvall,Schweden Superettan
+051,29.07.,19:00,SWE 2,GAIS Göteborg,1:1,Ljungskile SK,Schweden Superettan
+052,29.07.,19:00,SWE 2,Vasteraas SK,2:3,Halmstads BK,Schweden Superettan
+053,29.07.,19:00,SWE 2,Degerfors IF,3:1,Östers IF,Schweden Superettan
+054,29.07.,19:00,SWE 2,Dalkurd FF,0:0,Örgryte Göteborg,Schweden Superettan
+055,29.07.,19:00,SWE 2,Norrby IF,0:0,AFC Eskilstuna,Schweden Superettan
+057,29.07.,19:30,ITA A,Hellas Verona,3:0,Spal Ferrara,Italien Serie A
+058,29.07.,19:30,ITA A,Sampdoria Genua,1:4,AC Milan,Italien Serie A
+059,29.07.,19:30,ITA A,Sampdoria Genua+1,2:4,AC Milan,Italien Serie A
+060,29.07.,19:30,ITA A,Udinese Calcio,1:2,US Lecce,Italien Serie A
+061,29.07.,19:30,ITA A,Lazio Rom,2:0,Brescia Calcio,Italien Serie A
+062,29.07.,19:30,ITA A,US Sassuolo,5:0,FC Genua,Italien Serie A
+063,29.07.,20:30,TUR CUP,Trabzonspor*,2:0,Alanyaspor,Türkei Türkiye Kupasi
+065,29.07.,20:30,NOR 1,Molde FK,4:1,Valerenga IF,Norwegen Tippeligaen
+066,29.07.,20:45,ENG CS,FC Brentford,3:1,Swansea City,England Championship
+067,29.07.,20:45,ENG CS,FC Brentford,3:2,Swansea City+1,England Championship
+068,29.07.,21:45,ITA A,Cagliari Calcio,2:0,Juventus Turin,Italien Serie A
+069,29.07.,21:45,ITA A,Cagliari Calcio+1,3:0,Juventus Turin,Italien Serie A
+070,29.07.,21:45,ITA A,FC Torino,2:3,AS Roma,Italien Serie A
+071,29.07.,21:45,ITA A,AC Fiorentina,4:0,Bologna FC,Italien Serie A
+072,30.07.,11:30,AUS 1,Adelaide United F*,5:3,Perth Glory,Australien Hyundai A-League
+073,30.07.,12:00,CHN SL,Shenhua Shanghai*,3:2,Shenzhen FC,China Chinese Super League
+074,30.07.,14:00,CHN SL,Guangzhou R&F FC*,0:5,Guangzhou Ev.,China Chinese Super League
+075,30.07.,16:00,FS,RB Leipzig GER,1:1,VfL Wolfsburg GER,Freundschaftsspiele International (Klub)
+076,30.07.,17:00,SLO 1,NK Triglav,0:5,ND Gorica,Slowenien PrvaLiga Telekom
+077,30.07.,17:00,LAT 1,BFC Daugavpils,0:0,FK Jelgava,Lettland LMT Virsliga
+078,30.07.,17:00,LAT 1,FS Metta,2:1,FK Liepaja,Lettland LMT Virsliga
+079,30.07.,17:00,LAT 1,FK Tukums 2000,0:0,FK Ventspils,Lettland LMT Virsliga
+080,30.07.,17:45,SWE CUP,IFK Göteborg,1:1,Malmö FF,Schweden Cup
+081,30.07.,18:00,NOR 1,Stabaek IF,2:2,Bodö Glimt,Norwegen Tippeligaen
+082,30.07.,19:00,SWE 2,IK Brage,1:1,Akropolis IF,Schweden Superettan
+083,30.07.,19:00,SWE 2,Trelleborgs FF,1:1,Umea FC,Schweden Superettan
+084,30.07.,19:00,LAT 1,FC Riga,4:2,Spartaks Jurmala,Lettland LMT Virsliga
+085,30.07.,19:30,ROU 1,CSMS Iasi,2:1,CS Voluntari,Rumänien Liga 1
+086,30.07.,19:30,ISL CUP,KA Akureyri,1:1,IBV Vestmannaeyjar,Island Cup
+087,30.07.,20:00,ISL CUP,FH Hafnarfjördur,3:1,Thor Akureyri,Island Cup
+088,30.07.,20:30,SUI 2,FC Stade Ls Ouchy,0:4,FC Lausanne-Sport,Schweiz Challenge League
+089,30.07.,20:30,SUI 2,FC Winterthur,4:0,SC Kriens,Schweiz Challenge League
+090,30.07.,20:30,SUI 2,FC Vaduz,3:1,FC Schaffhausen,Schweiz Challenge League
+091,30.07.,20:30,SUI 2,FC Aarau,2:2,Grasshoppers,Schweiz Challenge League
+092,30.07.,20:30,SUI 2,FC Wil 1900,1:1,FC Chiasso,Schweiz Challenge League
+093,30.07.,20:30,NOR 1,Rosenborg BK,3:0,Viking FK,Norwegen Tippeligaen
+094,30.07.,20:45,ENG CS,FC Fulham,1:2,Cardiff City,England Championship
+095,30.07.,20:45,ENG CS,FC Fulham,1:3,Cardiff City+1,England Championship
+096,30.07.,21:00,MAR 1,Difaa Hassani J.,0:0,RSB Berkane,"Marokko, 1. Liga"
+097,30.07.,21:15,ISL CUP,Fram Reykjavik,1:1,Fylkir Reykjavik,Island Cup
+098,30.07.,21:15,ISL CUP,Breidablik,3:0,Grotta,Island Cup
+099,30.07.,21:15,ISL CUP,HK Kopavogs,6:2,Afturelding,Island Cup
+101,30.07.,21:15,ISL CUP,KR Reykjavik,2:0,Fjölnir,Island Cup
+102,30.07.,22:00,ISL CUP,Vikingur Reykjavik,1:2,Stjarnan Gardab.,Island Cup
+103,30.07.,23:00,MAR 1,Raja Casablanca At,3:1,Khemis Zemamra,"Marokko, 1. Liga"
+104,31.07.,00:30,NBA,New Orleans Pel.*,104:106,Utah Jazz,USA NBA
+105,31.07.,03:00,NBA,LA Lakers*,103:101,LA Clippers,USA NBA
+064,31.07.,17:45,ROU 1,AFC Astra Giurgiu,abgesagt,CS Uni Craiova,Rumänien Liga 1
+106,31.07.,20:30,AUT 2,SV Ried,9:0,Floridsdorfer AC,Österreich Zweite Liga
+107,31.07.,20:30,AUT 2,Austria Klagenfurt,6:1,Wacker Innsbruck,Österreich Zweite Liga
+108,31.07.,20:30,AUT 2,Grazer AK*,2:2,SV Lafnitz,Österreich Zweite Liga
+109,31.07.,20:30,AUT 2,SK Vorwärts Steyr,0:3,FC Liefering,Österreich Zweite Liga
+110,31.07.,20:30,AUT 2,FC Juniors OÖ,3:1,SV Horn,Österreich Zweite Liga
+111,31.07.,20:30,AUT 2,BW Linz,4:0,FC Dornbirn,Österreich Zweite Liga
+112,31.07.,20:30,AUT 2,Kapfenberger SV,0:3,Young Violets A.W.,Österreich Zweite Liga
+113,31.07.,20:30,AUT 2,Austria Lustenau,1:3,SKU Amstetten,Österreich Zweite Liga
+114,31.07.,21:10,FRA LC,Paris SG*,0:0,Olympique Lyon,Frankreich Coupe de la Ligue
+100,31.07.,21:15,ISL CUP,Valur Reykjavik,abgesagt,IA Akranes,Island Cup
+115,01.08.,18:30,ENG FA,FC Arsenal*,2:1,FC Chelsea,England FA Cup
+056,01.08.,19:00,IRI 1,Esteghlal Tehran,2:1,Foolad Mobarakeh S,Iran Pro League
+117,01.08.,20:45,ITA A,Atalanta Bergamo,0:2,Inter Mailand,Italien Serie A
+118,01.08.,20:45,ITA A,Juventus Turin,1:3,AS Roma,Italien Serie A
+119,01.08.,20:45,ITA A,SSC Napoli,3:1,Lazio Rom,Italien Serie A
+116,01.08.,21:45,POR CUP,Benfica Lissabon*,1:2,FC Porto,Portugal Taca de Portugal

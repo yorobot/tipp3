@@ -33,7 +33,8 @@ end
 
 
 
-prog_ids = (888..984).to_a.reverse.take(6)
+# prog_ids = (888..984).to_a.reverse.take(6)
+prog_ids = (888..984).to_a.reverse
 pp prog_ids
 
 prog_ids.each do |prog_id|

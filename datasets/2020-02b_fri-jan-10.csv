@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,10.01.,18:00,FS,Hamburger SV GER,0:4,FC Schalke 04 GER,Freundschaftsspiele International (Klub)
+002,10.01.,18:15,HB EM,Tschechien,29:32,Österreich,Handball Europameisterschaft
+003,10.01.,18:15,HB EM,Frankreich,25:28,Portugal,Handball Europameisterschaft
+004,10.01.,19:15,EH AUT,EC Dornbirn,0:3,KAC Klagenfurt,Österreich Eishockey Liga
+005,10.01.,19:15,EH AUT,EC RB Salzburg,2:2,Vienna Capitals,Österreich Eishockey Liga
+006,10.01.,19:15,EH AUT,Villacher SV,5:5,Fehervar,Österreich Eishockey Liga
+007,10.01.,19:15,EH AUT,Black Wings Linz,3:3,HC Innsbruck,Österreich Eishockey Liga
+008,10.01.,19:30,EH GER,DEG Metro Stars,2:1,Eisbären Berlin,Deutschland Deutsche Eishockey Liga
+009,10.01.,19:30,EH GER,EHC Wolfsburg,1:7,ERC Ingolstadt,Deutschland Deutsche Eishockey Liga
+010,10.01.,19:30,EH GER,Augsburger Panth.,3:1,Schwenninger W.W.,Deutschland Deutsche Eishockey Liga
+011,10.01.,19:30,EH GER,Iserlohn Roosters,5:2,Straubing Tigers,Deutschland Deutsche Eishockey Liga
+012,10.01.,19:30,EH GER,EHC München,4:1,Kölner Haie,Deutschland Deutsche Eishockey Liga
+013,10.01.,19:30,EH GER,Nürnberg Ice Tiger,1:0,Krefeld Pinguine,Deutschland Deutsche Eishockey Liga
+014,10.01.,19:45,EH AUT,HC Bozen Foxes,1:2,EC Graz 99ers,Österreich Eishockey Liga
+015,10.01.,20:00,FRA 2,FC Sochaux,1:1,Paris FC 98,Frankreich Ligue 2
+016,10.01.,20:00,FRA 2,Le Mans UC 72,0:1,AJ Auxerre,Frankreich Ligue 2
+017,10.01.,20:00,FRA 2,FC Chambly,1:0,US Orleans 45,Frankreich Ligue 2
+018,10.01.,20:00,FRA 2,Rodez Aveyron,1:2,LB Chateauroux,Frankreich Ligue 2
+019,10.01.,20:00,FRA 2,AC Ajaccio,3:1,Grenoble Foot,Frankreich Ligue 2
+020,10.01.,20:00,FRA 2,Clermont Foot,3:2,Troyes AC,Frankreich Ligue 2
+021,10.01.,20:00,FRA 2,AS Nancy,1:0,FC Valenciennes,Frankreich Ligue 2
+022,10.01.,20:00,FRA 2,FC Chamois Niort,0:1,Le Havre AC,Frankreich Ligue 2
+023,10.01.,20:00,POR 1,Benfica Lissabon,2:1,CD Aves,Portugal Primeira Liga
+024,10.01.,20:00,POR 1,CD Santa Clara,0:1,Rio Ave FC,Portugal Primeira Liga
+025,10.01.,20:30,BB EL,Bayern München GER,77:84,ZSKA Moskau RUS,Euroleague
+026,10.01.,20:30,HB EM,Nordmazedonien,26:25,Ukraine,Handball Europameisterschaft
+027,10.01.,20:30,HB EM,Schweden,34:21,Schweiz,Handball Europameisterschaft
+028,10.01.,20:45,FRA 1,Stade Rennes,0:1,Olymp. Marseille,Frankreich Ligue 1
+029,10.01.,21:00,ENG PL,Sheffield United,1:0,West Ham United,England Premier League
+030,10.01.,22:15,POR 1,Moreirense FC,2:4,FC Porto,Portugal Primeira Liga
+031,11.01.,13:30,ENG PL,Crystal Palace,1:1,FC Arsenal,England Premier League
+032,11.01.,13:30,ENG CS,FC Brentford,3:1,Queens Park R.,England Championship
+033,11.01.,15:00,ITA A,Cagliari Calcio,0:2,AC Milan,Italien Serie A
+034,11.01.,15:30,FS,1. FC Nürnberg GER,5:2,Bayern München GER,Freundschaftsspiele International (Klub)
+035,11.01.,16:00,ENG PL,FC Chelsea,3:0,FC Burnley,England Premier League
+036,11.01.,16:00,ENG PL,FC Everton,1:0,Brighton & Hove,England Premier League
+037,11.01.,16:00,ENG PL,Manchester United,4:0,Norwich City,England Premier League
+038,11.01.,16:00,ENG PL,Wolverhampton,1:1,Newcastle United,England Premier League
+039,11.01.,16:00,ENG PL,Leicester City,1:2,FC Southampton,England Premier League
+040,11.01.,16:00,ENG PL,Leicester City,1:3,FC Southampton+1,England Premier League
+041,11.01.,16:00,ENG CS,FC Barnsley,2:1,Huddersfield Town,England Championship
+042,11.01.,16:00,ENG CS,Blackburn Rovers,1:1,Preston North End,England Championship
+043,11.01.,16:00,ENG CS,Charlton Athletic,2:2,West Bromwich,England Championship
+044,11.01.,16:00,ENG CS,Hull City,0:1,FC Fulham,England Championship
+045,11.01.,16:00,ENG CS,Leeds United,0:2,Sheffield Wednes.,England Championship
+046,11.01.,16:00,ENG CS,Luton Town,1:2,Birmingham City,England Championship
+047,11.01.,16:00,ENG CS,FC Middlesbrough,2:2,Derby County,England Championship
+048,11.01.,16:00,ENG CS,FC Reading,1:1,Nottingham Forest,England Championship
+049,11.01.,16:00,ENG CS,Stoke City,0:0,FC Millwall,England Championship
+050,11.01.,16:00,ENG CS,Wigan Athletic,0:2,Bristol City,England Championship
+051,11.01.,16:00,HB EM,Ungarn,26:25,Russland,Handball Europameisterschaft
+052,11.01.,17:30,FRA 1,Bordeaux,1:2,Olympique Lyon,Frankreich Ligue 1
+053,11.01.,18:00,ITA A,Lazio Rom,1:0,SSC Napoli,Italien Serie A
+054,11.01.,18:15,HB EM,Montenegro,22:21,Serbien,Handball Europameisterschaft
+055,11.01.,18:15,HB EM,Spanien,33:26,Deutschland,Handball Europameisterschaft
+056,11.01.,18:15,HB EM,Dänemark,30:31,Island,Handball Europameisterschaft
+057,11.01.,18:30,ENG PL,Tottenham,0:1,FC Liverpool,England Premier League
+058,11.01.,18:30,ENG PL,Tottenham+1,1:1,FC Liverpool,England Premier League
+059,11.01.,19:00,POR 1,Boavista FC,0:1,FC Famalicao,Portugal Primeira Liga
+060,11.01.,20:00,FRA 1,FC Toulouse,2:5,Stade Brest,Frankreich Ligue 1
+061,11.01.,20:00,FRA 1,Amiens SC,1:2,HSC Montpellier,Frankreich Ligue 1
+062,11.01.,20:00,FRA 1,SCO Angers,1:1,OGC Nizza,Frankreich Ligue 1
+063,11.01.,20:45,ITA A,Inter Mailand,1:1,Atalanta Bergamo,Italien Serie A
+064,11.01.,21:30,POR 1,Vitoria Setubal,1:3,Sporting Lissabon,Portugal Primeira Liga
+065,11.01.,22:35,NFL,San Francisco 49,27:10,Minnesota Vikings,USA NFL
+066,12.01.,02:15,NFL,Baltimore Ravens,12:28,Tennessee Titans,USA NFL
+067,12.01.,10:30,HE-SL,Kristoffersen H.,Kristof,"Noel, Clement","Ski Alpin, Herren Slalom"
+068,12.01.,10:30,HE-SL,"Pinturault, Alexis",Zenhäus,"Zenhäusern, Ramon","Ski Alpin, Herren Slalom"
+069,12.01.,10:30,HE-SL,Foss-Solevaag S.,Foss-So,"Matt, Michael","Ski Alpin, Herren Slalom"
+070,12.01.,10:30,HE-SL,"Schwarz, Marco",abgesagt,"Mölgg, Manfred","Ski Alpin, Herren Slalom"
+071,12.01.,12:30,ITA A,Udinese Calcio,3:0,US Sassuolo,Italien Serie A
+072,12.01.,13:00,ENG CS,Cardiff City,0:0,Swansea City,England Championship
+073,12.01.,15:00,ENG PL,AFC Bournemouth,0:3,FC Watford,England Premier League
+074,12.01.,15:00,ITA A,Sampdoria Genua,5:1,Brescia Calcio,Italien Serie A
+075,12.01.,15:00,ITA A,FC Torino,1:0,Bologna FC,Italien Serie A
+076,12.01.,15:00,ITA A,AC Fiorentina,1:0,Spal Ferrara,Italien Serie A
+077,12.01.,15:00,FRA 1,AS Saint Etienne,0:2,FC Nantes,Frankreich Ligue 1
+078,12.01.,16:00,POR 1,Gil Vicente FC,2:0,Belenenses L.,Portugal Primeira Liga
+079,12.01.,16:00,EH AUT,EC Graz 99ers,4:1,HC Innsbruck,Österreich Eishockey Liga
+080,12.01.,16:00,EH AUT,KAC Klagenfurt,4:0,HC Znojmo,Österreich Eishockey Liga
+081,12.01.,16:00,HB EM,Tschechien,27:25,Nordmazedonien,Handball Europameisterschaft
+082,12.01.,17:00,FRA 1,Dijon Football,1:0,Lille OSC,Frankreich Ligue 1
+083,12.01.,17:30,ENG PL,Aston Villa,1:6,Manchester City,England Premier League
+084,12.01.,17:30,EH AUT,Black Wings Linz,1:2,EC RB Salzburg,Österreich Eishockey Liga
+085,12.01.,17:30,EH AUT,Vienna Capitals,4:2,Villacher SV,Österreich Eishockey Liga
+086,12.01.,17:30,EH AUT,Fehervar,1:3,EC Dornbirn,Österreich Eishockey Liga
+087,12.01.,18:15,ITA A,Hellas Verona,2:1,FC Genua,Italien Serie A
+088,12.01.,18:15,HB EM,Österreich,34:30,Ukraine,Handball Europameisterschaft
+089,12.01.,18:15,HB EM,Frankreich,26:28,Norwegen,Handball Europameisterschaft
+090,12.01.,18:15,HB EM,Schweden,19:21,Slowenien,Handball Europameisterschaft
+091,12.01.,18:30,GRE 1,PAOK Thessaloniki,1:0,AEK Athen,Griechenland Super League
+092,12.01.,19:00,ESP SC,Real Madrid,0:0,Atletico Madrid,Spanien Supercopa
+093,12.01.,20:45,ITA A,AS Roma,1:2,Juventus Turin,Italien Serie A
+094,12.01.,20:45,ITA A,AS Roma+1,2:2,Juventus Turin,Italien Serie A
+095,12.01.,21:00,FRA 1,Paris SG,3:3,AS Monaco,Frankreich Ligue 1
+096,12.01.,21:00,POR 1,Sporting Braga,2:1,CD Tondela,Portugal Primeira Liga
+097,12.01.,21:05,NFL,Kansas Chiefs,51:31,Houston Texans,USA NFL
+098,13.01.,00:40,NFL,Green Bay Packers,28:23,Seattle Seahawks,USA NFL
+100,13.01.,15:00,GRE 2,APO Levadiakos FC,1:0,AO Platanias,Griechenland Super League 2
+099,13.01.,16:00,FS,FC Basel SUI*,0:2,VfB Stuttgart GER,Freundschaftsspiele International (Klub)
+101,13.01.,16:00,EGY 1,Wadi Degla SC,1:1,El-Entag El-Harby,Ägypten Premier League
+102,13.01.,18:00,ISR 2,Hapoel Ashkelon,0:1,Hapoel Bnei Lod,Israel National League
+103,13.01.,18:00,ISR 2,Hapoel Akko,0:2,Hap. Rishon LeZion,Israel National League
+104,13.01.,18:00,ISR 2,Hapoel K. Jerusale,2:0,Beitar Tel Aviv,Israel National League
+105,13.01.,18:00,CYP 1,Enosis N.Paralimni,1:0,Doxa Katokopias,Zypern 1. Division
+106,13.01.,18:15,HB EM,Montenegro,27:36,Weißrussland,Handball Europameisterschaft
+107,13.01.,18:15,HB EM,Island,34:23,Russland,Handball Europameisterschaft
+108,13.01.,19:15,ISR 1,Maccabi Tel Aviv*,0:0,Beitar Jerusalem,Israel Winner League
+109,13.01.,20:30,HB EM,Serbien,21:24,Kroatien,Handball Europameisterschaft
+110,13.01.,20:30,HB EM,Dänemark,24:24,Ungarn,Handball Europameisterschaft
+111,13.01.,20:45,ITA A,FC Parma,2:0,US Lecce,Italien Serie A
+112,13.01.,20:45,ITA A,FC Parma,2:1,US Lecce+1,Italien Serie A
+113,13.01.,20:45,ITA C1A,AC Siena,1:1,U23 Juventus,"Italien Lega Pro Prima Divisione, Girone A"
+114,13.01.,20:45,FRA 2,FC Lorient,2:1,SM Caen,Frankreich Ligue 2
+115,13.01.,20:45,NIRL 1,FC Cliftonville,1:2,FC Linfield,Nordirland JJB Sports Premiership
+116,14.01.,01:00,NHL,Montreal Canad.,2:0,Calgary Flames,USA NHL
+117,14.01.,01:00,NHL,Washington Cap.,2:0,Carolina Hurric.,USA NHL
+118,14.01.,01:00,NHL,New York Rangers,6:2,NY Islanders,USA NHL
+119,14.01.,01:00,NHL,Philadelphia Fl.,5:5,Boston Bruins,USA NHL
+120,14.01.,02:00,NHL,St. Louis Blues,4:1,Anaheim Ducks,USA NHL

@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,15.09.,19:00,CL Q,Dynamo Kiev UKR,2:0,AZ Alkmaar NED,"UEFA Champions League, Qualifikation"
+002,15.09.,19:00,ENG LC,FC Gillingham,1:1,Coventry City,England Liga Cup
+003,15.09.,19:00,ENG LC,FC Middlesbrough,0:2,FC Barnsley,England Liga Cup
+004,15.09.,19:00,ENG LC,FC Millwall,3:1,Cheltenham Town,England Liga Cup
+005,15.09.,19:00,ENG LC,FC Reading,0:1,Luton Town,England Liga Cup
+006,15.09.,19:00,AUT RLM,Union Vöcklamarkt,4:1,SC Weiz,Österreich Regionalliga Mitte
+007,15.09.,19:00,AUT RLM,Deutschlandsberg,0:3,Bad Gleichenberg,Österreich Regionalliga Mitte
+008,15.09.,19:00,RL SBG,SAK 1914 Salzburg,0:4,USK Anif,Regionalliga Salzburg
+009,15.09.,19:00,RL SBG,Pinzgau Saalfelden,2:0,TSV St. Johann,Regionalliga Salzburg
+010,15.09.,19:00,RL SBG,SK Bischofshofen,1:2,SV Kuchl,Regionalliga Salzburg
+011,15.09.,19:00,RL TIR,FC Kufstein,0:2,FC Kitzbühel,Regionalliga Tirol
+012,15.09.,19:30,AUT RLO,Bruck/Leitha,2:1,FCM Traiskirchen,Österreich Regionalliga Ost
+013,15.09.,19:30,AUT RLO,SC Wiener Neustadt,2:0,SC Neusiedl,Österreich Regionalliga Ost
+014,15.09.,19:30,AUT RLO,Wiener Sport-Club,2:1,Marchfeld Donauaue,Österreich Regionalliga Ost
+015,15.09.,19:30,ENG LC,Derby County,1:2,Preston North End,England Liga Cup
+016,15.09.,20:00,ENG LC,Bradford City FC,0:5,Lincoln City,England Liga Cup
+017,15.09.,20:00,ENG LC,Fleetwood Town,2:1,Port Vale FC,England Liga Cup
+018,15.09.,20:00,ENG LC,Newport County,1:0,Cambridge United,England Liga Cup
+019,15.09.,20:00,ENG LC,Oxford United,1:1,FC Watford,England Liga Cup
+022,15.09.,20:00,CL Q,PAOK Thessal. GRE,2:1,Benfica Lissab POR,"UEFA Champions League, Qualifikation"
+020,15.09.,20:30,CL Q,KAA Gent BEL,2:1,SK Rapid Wien AUT,"UEFA Champions League, Qualifikation"
+021,15.09.,20:30,CL Q,KAA Gent,2:2,SK Rapid Wien+1,"UEFA Champions League, Qualifikation"
+023,15.09.,20:30,ENG LC,Newcastle United,1:0,Blackburn Rovers,England Liga Cup
+024,15.09.,20:30,ENG LC,West Ham United,3:0,Charlton Athletic,England Liga Cup
+025,15.09.,20:45,ENG LC,Burton Albion,1:3,Aston Villa,England Liga Cup
+026,15.09.,20:45,ENG LC,AFC Bournemouth,0:0,Crystal Palace,England Liga Cup
+027,15.09.,20:45,ENG LC,Leyton Orient,3:2,Plymouth Argyle,England Liga Cup
+028,15.09.,20:45,ENG LC,FC Morecambe,1:0,Oldham Athletic,England Liga Cup
+029,15.09.,20:45,ENG LC,FC Rochdale,0:2,Sheffield Wednes.,England Liga Cup
+030,15.09.,21:00,FRA 1,HSC Montpellier,2:1,Olympique Lyon,Frankreich Ligue 1
+031,16.09.,12:00,RUS CUP,Leningradets,0:1,FC Ufa,Russland Russian Cup
+032,16.09.,15:00,RUS CUP,Mashuk Pyatigorsk,1:2,FK Tambow,Russland Russian Cup
+033,16.09.,16:00,RUS CUP,FC Volga Ulyanovsk,0:3,Ural Jekaterinburg,Russland Russian Cup
+034,16.09.,17:00,CL Q,Omonia Nikosia CYP,1:1,Roter Stern B. SRB,"UEFA Champions League, Qualifikation"
+035,16.09.,18:00,RUS CUP,Rodina Moskau,1:5,FC Spartak Moskau,Russland Russian Cup
+036,16.09.,18:00,RUS CUP,Chernomorets N.,2:4,FC Rubin Kazan,Russland Russian Cup
+037,16.09.,18:30,EL,P. Niederkorn LUX,0:5,Willem II NED,UEFA Europa League
+038,16.09.,19:00,EL,Hammarby IF SWE,0:3,Lech Posen POL,UEFA Europa League
+039,16.09.,19:00,CL Q,Macc. Tel Aviv ISR,1:0,Dinamo Brest BLR,"UEFA Champions League, Qualifikation"
+040,16.09.,19:00,CL Q,Qarabag FK AZE*,0:0,Molde FK NOR,"UEFA Champions League, Qualifikation"
+041,16.09.,19:00,CL Q,Ferencvaros HUN,2:1,Dinamo Zagreb CRO,"UEFA Champions League, Qualifikation"
+042,16.09.,19:00,ENG LC,West Bromwich,3:0,Harrogate Town,England Liga Cup
+043,16.09.,19:00,AUT CUP,Union Gurten,1:3,SCR Altach,Österreich ÖFB Cup
+044,16.09.,19:00,AUT CUP,SC Schwaz,abgesagt,VfB Hohenems,Österreich ÖFB Cup
+045,16.09.,19:00,RL SBG,Austria Salzburg,1:3,SV Seekirchen,Regionalliga Salzburg
+046,16.09.,19:00,RL SBG,SV Grödig,3:1,SV Wals-Grünau,Regionalliga Salzburg
+047,16.09.,19:00,SWE 2,Degerfors IF,2:1,Dalkurd FF,Schweden Superettan
+048,16.09.,19:00,SWE 2,Jönköpings Södra,2:0,Örgryte Göteborg,Schweden Superettan
+049,16.09.,19:00,SWE 2,GIF Sundsvall,1:2,Akropolis IF,Schweden Superettan
+050,16.09.,19:00,SWE 2,Halmstads BK,4:0,Umea FC,Schweden Superettan
+051,16.09.,19:00,SWE 2,IK Brage,2:1,GAIS Göteborg,Schweden Superettan
+052,16.09.,20:00,ENG LC,Ipswich Town,0:1,FC Fulham,England Liga Cup
+053,16.09.,20:00,EL,B36 Torshavn FRO,1:1,The New Saints WAL,UEFA Europa League
+054,16.09.,20:30,CL Q,FC Midtjylland DEN,3:0,YB Bern SUI,"UEFA Champions League, Qualifikation"
+055,16.09.,20:45,ENG LC,Bristol City,4:0,Northampton,England Liga Cup
+056,16.09.,20:45,ENG LC,Leeds United,1:1,Hull City,England Liga Cup
+057,16.09.,20:45,ENG LC,FC Southampton,0:2,FC Brentford,England Liga Cup
+058,16.09.,20:45,SCO PS,FC St. Mirren,1:2,Celtic Glasgow,Schottland Premiership
+059,16.09.,21:00,FRA 1,Paris SG,1:0,FC Metz,Frankreich Ligue 1
+060,16.09.,21:15,ENG LC,FC Everton,3:0,Salford City,England Liga Cup
+061,17.09.,14:00,EL,FC Qaisar Qys KAZ*,1:4,APOEL Nikosia CYP,UEFA Europa League
+062,17.09.,14:15,EL,FK Ventspils LAT,1:5,Rosenborg BK NOR,UEFA Europa League
+063,17.09.,15:30,EL,FK Renova MKD*,0:1,Hajduk Split CRO,UEFA Europa League
+064,17.09.,16:00,EL,Ararat-Armenia ARM,3:3,CS Fola Esch LUX,UEFA Europa League
+065,17.09.,16:00,EL,Teuta Durres ALB,0:4,Granada CF ESP,UEFA Europa League
+066,17.09.,16:00,EL,FC Astana KAZ*,0:1,B.Podgorica MNE,UEFA Europa League
+067,17.09.,17:00,EL,Lincoln FC GIB,0:5,Gl.Rangers SCO,UEFA Europa League
+068,17.09.,17:30,EL,Kuopio PS FIN,0:0,Slov. Bratisl. SVK,UEFA Europa League
+069,17.09.,17:30,FIN 1,FC Lahti,1:1,Turun Palloseura,Finnland Veikkausliiga
+070,17.09.,17:45,EL,FC Botosani ROU,0:1,Shk.Tetovo MKD,UEFA Europa League
+071,17.09.,18:00,EL,FK Riteriai LTU,1:5,Slovan Liberec CZE,UEFA Europa League
+072,17.09.,18:00,EL,IFK Göteborg SWE,1:2,FC Kopenhagen DEN,UEFA Europa League
+073,17.09.,18:00,EL,Lok. Plovdiv BUL,1:2,Tottenham ENG,UEFA Europa League
+074,17.09.,18:00,EL,Neftchi Baku AZE,1:3,Galatasaray TUR,UEFA Europa League
+075,17.09.,18:00,EL,Bodö Glimt NOR,3:1,Zalg. Vilnius LTU,UEFA Europa League
+076,17.09.,18:30,EL,Ol. Ljubljana SLO,2:2,Zrinjs. Mostar BIH,UEFA Europa League
+077,17.09.,18:30,EL,Flora Tallinn EST,2:1,KR Reykjavik ISL,UEFA Europa League
+078,17.09.,18:30,ENG LC,FC Burnley,1:1,Sheffield United,England Liga Cup
+079,17.09.,19:00,SWE 1,IF Elfsborg,2:2,Mjällby AIF,Schweden Allsvenskan
+080,17.09.,19:00,SWE 1,Falkenbergs FF,2:0,Varbergs BoIS,Schweden Allsvenskan
+081,17.09.,19:00,SWE 2,Ljungskile SK,1:1,Norrby IF,Schweden Superettan
+082,17.09.,19:00,SWE 2,Vasteraas SK,0:1,AFC Eskilstuna,Schweden Superettan
+083,17.09.,19:00,EL,FC Lokomotivi GEO,2:1,Dinamo Moskau RUS,UEFA Europa League
+084,17.09.,19:00,EL,OFI Kreta GRE,0:1,Apollon L. CYP,UEFA Europa League
+085,17.09.,19:00,EL,FC Riga LAT,1:0,SP Tre Fiori SMR,UEFA Europa League
+086,17.09.,19:00,EL,Djurgardens IF SWE,2:1,Europa FC GIB,UEFA Europa League
+087,17.09.,19:00,EL,KF Laci ALB*,1:2,H. Beer Sheva ISR,UEFA Europa League
+088,17.09.,19:00,EL,Connah's Quay WAL*,0:1,Dinamo Tiflis GEO,UEFA Europa League
+089,17.09.,19:00,EL,Hibernians FC MLT,0:1,Fehervar FC HUN,UEFA Europa League
+090,17.09.,19:00,EL,ZSKA Sofia BUL,2:0,BATE Borisov BLR,UEFA Europa League
+091,17.09.,19:00,EL,FC Sfintul Gh MDA*,0:0,FK Partizan SRB,UEFA Europa League
+092,17.09.,19:00,EL,Maccabi Haifa ISR,2:1,Kairat Almaty KAZ,UEFA Europa League
+093,17.09.,19:30,EL,Inter Club DE AND,0:1,FC Dundalk IRL,UEFA Europa League
+094,17.09.,20:00,EL,Piast Gliwice POL,3:2,TSV Hartberg AUT,UEFA Europa League
+095,17.09.,20:00,EL,Piast Gliwice,3:3,TSV Hartberg+1,UEFA Europa League
+096,17.09.,20:00,EL,Shamrock IRL,0:2,AC Milan ITA,UEFA Europa League
+097,17.09.,20:00,EL,FK Sileks Kra MKD*,0:2,KF Drita KOS,UEFA Europa League
+098,17.09.,20:00,EL,Borac Banja L. BIH,0:2,Rio Ave FC POR,UEFA Europa League
+099,17.09.,20:00,EL,Stand. Lüttich BEL,2:0,Bala Town WAL,UEFA Europa League
+100,17.09.,20:00,EL,KS Kukesi ALB*,0:4,VfL Wolfsburg GER,UEFA Europa League
+101,17.09.,20:00,EL,Aris Saloniki GRE,1:2,Kolos Kovalivka,UEFA Europa League
+102,17.09.,20:00,ENG LC,Wolverhampton,0:1,Stoke City,England Liga Cup
+103,17.09.,20:15,EL,NS Mura SLO,3:0,AGF Aarhus DEN,UEFA Europa League
+104,17.09.,20:30,EL,Viking FK NOR,0:2,FC Aberdeen SCO,UEFA Europa League
+105,17.09.,20:30,EL,FC Coleraine NIR,2:2,FC Motherwell SCO,UEFA Europa League
+106,17.09.,20:45,EL,Dunajska Str. SVK,3:3,FK Jablonec CZE,UEFA Europa League
+107,17.09.,20:45,EL,FC Linfield NIR,0:1,Floriana FC MLT,UEFA Europa League
+108,17.09.,20:45,EL,Servette Genf SUI,0:1,Stade de Reims FRA,UEFA Europa League
+109,17.09.,20:45,EL,NK Osijek CRO,1:2,FC Basel SUI,UEFA Europa League
+110,17.09.,20:45,ENG LC,Brighton & Hove,4:0,FC Portsmouth,England Liga Cup
+111,17.09.,21:00,EL,FK Topola SRB,4:4,FCS Bukarest ROU,UEFA Europa League
+113,17.09.,21:00,FRA 1,Olymp. Marseille,0:2,AS Saint Etienne,Frankreich Ligue 1
+112,17.09.,21:05,EL,Honved Budap. HUN,0:2,Malmö FF SWE,UEFA Europa League
+114,17.09.,22:00,COPA L,Racing Club ARG,0:1,Club Nacional URU,Copa Libertadores
+115,18.09.,00:00,COPA L,Sao Paulo SP BRA,2:2,CA River Plate ARG,Copa Libertadores
+116,18.09.,00:00,COPA L,Defensa y Jus. ARG,3:0,Delfin SC ECU,Copa Libertadores
+117,18.09.,02:00,COPA L,Indep. d.Valle ECU,5:0,CR Flamengo RJ BRA,Copa Libertadores
+118,18.09.,02:00,COPA L,Club Libertad PAR,0:2,Boca Juniors ARG,Copa Libertadores
+119,18.09.,04:00,COPA L,Barcelona G. ECU,1:2,Atl. Junior COL,Copa Libertadores
+120,18.09.,04:00,COPA L,Guar. Asuncion PAR,4:1,CA Tigre ARG,Copa Libertadores

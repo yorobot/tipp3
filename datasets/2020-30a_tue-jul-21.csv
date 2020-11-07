@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,21.07.,11:30,AUS 1,Sydney FC,1:2,Newcastle Jets,Australien Hyundai A-League
+002,21.07.,15:00,MLSBACK,FC Toronto*,0:0,New England Rev.,"USA, MLS is Back Tournament"
+003,21.07.,17:00,LAT 1,FS Metta,2:2,Valmiera FK,Lettland LMT Virsliga
+004,21.07.,17:30,ROU 2A,Rapid Bukarest,1:2,FC Arges Pitesti,"Rumänien Liga 2, Seria 1"
+005,21.07.,17:30,FIN 1,Rovaniemi PS,1:1,Tampereen Ilves,Finnland Veikkausliiga
+006,21.07.,18:15,SUI 2,FC Vaduz,2:1,FC Lausanne-Sport,Schweiz Challenge League
+007,21.07.,18:15,SUI 2,FC Winterthur,2:2,FC Wil 1900,Schweiz Challenge League
+008,21.07.,18:15,SUI 2,FC Aarau,2:2,FC Chiasso,Schweiz Challenge League
+009,21.07.,18:30,AUT 2,BW Linz,1:2,SKU Amstetten,Österreich Zweite Liga
+010,21.07.,18:30,AUT 2,BW Linz,1:3,SKU Amstetten+1,Österreich Zweite Liga
+011,21.07.,19:00,ENG PL,FC Watford,0:4,Manchester City,England Premier League
+012,21.07.,19:00,ENG PL,FC Watford+1,1:4,Manchester City,England Premier League
+013,21.07.,19:00,FS,Paris SG FRA,4:0,Celtic Glasgow SCO,Freundschaftsspiele International (Klub)
+014,21.07.,19:00,NOR 2,Ranheim IL,1:2,Tromsö IL,Norwegen Adeccoligaen
+015,21.07.,19:00,LAT 1,FC Riga,1:0,FK Ventspils,Lettland LMT Virsliga
+016,21.07.,19:30,ITA A,Atalanta Bergamo,1:0,Bologna FC,Italien Serie A
+017,21.07.,19:30,ITA A,Atalanta Bergamo,1:1,Bologna FC+1,Italien Serie A
+018,21.07.,20:00,POR 1,Sporting Lissabon,0:0,Vitoria Setubal,Portugal Primeira Liga
+019,21.07.,20:00,ROU 2A,AFC Turris-Oltul,0:0,Petrolul Ploiesti,"Rumänien Liga 2, Seria 1"
+020,21.07.,20:30,SUI 2,Grasshoppers,5:3,FC Schaffhausen,Schweiz Challenge League
+021,21.07.,20:30,SUI 2,FC Stade Ls Ouchy,2:0,SC Kriens,Schweiz Challenge League
+022,21.07.,21:15,ISL 2,Throttur Reykjavik,2:2,Fram Reykjavik,Island 2. Liga
+023,21.07.,21:15,ISL 2,UMF Grindavik,2:2,Afturelding,Island 2. Liga
+024,21.07.,21:15,ENG PL,Aston Villa,1:0,FC Arsenal,England Premier League
+025,21.07.,21:15,ENG PL,Aston Villa+1,2:0,FC Arsenal,England Premier League
+026,21.07.,21:45,ITA A,US Sassuolo,1:2,AC Milan,Italien Serie A
+027,21.07.,21:45,ITA A,US Sassuolo+1,2:2,AC Milan,Italien Serie A
+028,21.07.,22:15,POR 1,CD Aves,0:4,Benfica Lissabon,Portugal Primeira Liga
+029,21.07.,23:30,MLSBACK,Atlanta United FC*,0:1,Columbus Crew,"USA, MLS is Back Tournament"
+030,21.07.,23:30,MLSBACK,Montreal Impact*,1:0,DC United,"USA, MLS is Back Tournament"
+031,22.07.,11:30,AUS 1,Perth Glory,1:2,Wellington Ph.,Australien Hyundai A-League
+032,22.07.,12:00,JPN 1,Shonan Bellmare,1:0,Kashima Antlers,Japan J.League
+033,22.07.,12:00,JPN 1,Gamba Osaka,1:0,Sanfr. Hiroshima,Japan J.League
+034,22.07.,12:00,JPN 1,Yokohama F Marinos,4:0,Yokohama FC,Japan J.League
+035,22.07.,12:00,JPN 1,Sagan Tosu,1:1,Shimizu S-Pulse,Japan J.League
+036,22.07.,12:05,JPN 1,Hokkaido Consadole,1:1,FC Tokyo,Japan J.League
+037,22.07.,12:30,JPN 1,Cerezo Osaka,0:0,Vissel Kobe,Japan J.League
+038,22.07.,12:30,JPN 1,Vegalta Sendai,2:3,Kawasaki Frontale,Japan J.League
+039,22.07.,12:30,JPN 1,Oita Trinita,0:3,Nagoya Grampus,Japan J.League
+040,22.07.,12:30,JPN 1,Urawa RD,0:4,Kashiwa Reysol,Japan J.League
+041,22.07.,15:00,MLSBACK,Real Salt Lake*,0:2,Sp. Kansas City,"USA, MLS is Back Tournament"
+042,22.07.,17:00,LAT 1,BFC Daugavpils,0:2,Spartaks Jurmala,Lettland LMT Virsliga
+043,22.07.,17:30,FIN 1,FC Honka,1:1,FC Inter Turku,Finnland Veikkausliiga
+044,22.07.,17:30,FIN 1,Kuopio PS,3:0,FC Lahti,Finnland Veikkausliiga
+045,22.07.,17:30,FIN 1,HIFK Helsinki,2:1,Seinajoen JK,Finnland Veikkausliiga
+046,22.07.,17:30,FIN 1,Turun Palloseura,0:2,HJK Helsinki,Finnland Veikkausliiga
+047,22.07.,17:30,FIN 1,IFK Mariehamn,2:2,Haka Valkeakoski,Finnland Veikkausliiga
+048,22.07.,18:00,RUS PL,FC Rubin Kazan,1:2,FC Spartak Moskau,Russland Premier League
+049,22.07.,18:00,RUS PL,Ural Jekaterinburg,0:1,Lok Moskau,Russland Premier League
+050,22.07.,18:00,RUS PL,ZSKA Moskau,2:0,FK Tambow,Russland Premier League
+051,22.07.,18:00,RUS PL,FC Rostov,1:2,Zenit St.Petersb.,Russland Premier League
+052,22.07.,18:00,RUS PL,Dinamo Moskau,0:1,Gazovik Orenburg,Russland Premier League
+053,22.07.,18:00,RUS PL,FC Ufa,0:0,Arsenal Tula,Russland Premier League
+054,22.07.,18:00,RUS PL,FC Krasnodar,4:0,FK Achmat Grozny,Russland Premier League
+055,22.07.,18:00,DEN 1,FC Nordsjaelland,1:1,AGF Aarhus,Dänemark Superligaen
+056,22.07.,18:00,LAT 1,FK Jelgava,1:5,FK Liepaja,Lettland LMT Virsliga
+084,22.07.,18:00,SLO 1,NK Aluminij,1:4,NK Maribor,Slowenien PrvaLiga Telekom
+057,22.07.,18:15,SUI SL,FC Thun,5:1,FC Servette Genf,Schweiz Axpo Super League
+058,22.07.,19:00,ROU CUP,Sepsi Sf.Gheorghe*,0:1,FCS Bukarest,Rumänien Cup
+059,22.07.,19:00,ENG PL,Manchester United,1:1,West Ham United,England Premier League
+060,22.07.,19:00,ENG PL,Manchester United,1:2,West Ham+1,England Premier League
+061,22.07.,19:00,SWE 1,Djurgardens IF,0:0,Östersunds FK,Schweden Allsvenskan
+062,22.07.,19:00,SWE 1,IFK Norrköping,2:0,Varbergs BoIS,Schweden Allsvenskan
+063,22.07.,19:00,SWE 1,BK Häcken,4:0,AIK Stockholm,Schweden Allsvenskan
+064,22.07.,19:30,ITA A,FC Parma,2:1,SSC Napoli,Italien Serie A
+065,22.07.,20:00,DEN 1,Bröndby IF,1:1,FC Midtjylland,Dänemark Superligaen
+066,22.07.,20:00,ISL 1,FH Hafnarfjördur,0:0,KA Akureyri,Island Urvalsdeild
+067,22.07.,20:25,AUT 2,Grazer AK,2:0,Kapfenberger SV,Österreich Zweite Liga
+068,22.07.,20:30,ENG CS,Leeds United,4:0,Charlton Athletic,England Championship
+069,22.07.,20:30,ENG CS,Wigan Athletic,1:1,FC Fulham,England Championship
+070,22.07.,20:30,ENG CS,Nottingham Forest,1:4,Stoke City,England Championship
+071,22.07.,20:30,ENG CS,Bristol City,1:1,Preston North End,England Championship
+072,22.07.,20:30,ENG CS,West Bromwich,2:2,Queens Park R.,England Championship
+073,22.07.,20:30,ENG CS,Luton Town,3:2,Blackburn Rovers,England Championship
+074,22.07.,20:30,ENG CS,Birmingham City,1:3,Derby County,England Championship
+075,22.07.,20:30,ENG CS,FC Reading,1:4,Swansea City,England Championship
+076,22.07.,20:30,ENG CS,Cardiff City,3:0,Hull City,England Championship
+077,22.07.,20:30,ENG CS,FC Millwall,4:1,Huddersfield Town,England Championship
+078,22.07.,20:30,ENG CS,FC Brentford,1:2,FC Barnsley,England Championship
+079,22.07.,20:30,ENG CS,Sheffield Wednes.,1:2,FC Middlesbrough,England Championship
+080,22.07.,20:30,SUI SL,FC St. Gallen,0:5,FC Basel,Schweiz Axpo Super League
+081,22.07.,20:30,SUI SL,FC Luzern,1:2,FC Sion,Schweiz Axpo Super League
+082,22.07.,20:45,ITA C1A,Reggio Audace FC,1:0,AS Bari,"Italien Lega Pro Prima Divisione, Girone A"
+083,22.07.,20:45,SLO 1,NK Celje,2:2,Olimpija Ljubljana,Slowenien PrvaLiga Telekom
+085,22.07.,21:15,ENG PL,FC Liverpool,5:3,FC Chelsea,England Premier League
+086,22.07.,21:15,ENG PL,FC Liverpool,5:4,FC Chelsea+1,England Premier League
+087,22.07.,21:45,ITA A,Inter Mailand,0:0,AC Fiorentina,Italien Serie A
+088,22.07.,21:45,ITA A,Inter Mailand,0:1,AC Fiorentina+1,Italien Serie A
+089,22.07.,21:45,ITA A,Sampdoria Genua,1:2,FC Genua,Italien Serie A
+090,22.07.,21:45,ITA A,Spal Ferrara,1:6,AS Roma,Italien Serie A
+091,22.07.,21:45,ITA A,FC Torino,1:1,Hellas Verona,Italien Serie A
+092,22.07.,21:45,ITA A,US Lecce,3:1,Brescia Calcio,Italien Serie A
+093,22.07.,22:15,ISL 1,KR Reykjavik,2:2,Fjölnir,Island Urvalsdeild
+094,23.07.,15:00,MLSBACK,Chicago Fire*,0:2,Vancouver W'caps,"USA, MLS is Back Tournament"
+095,23.07.,17:45,IRI 1,Shahr Khodro FC,0:0,Tractor Sazi,Iran Pro League
+096,23.07.,18:00,DEN 1,Odense BK,3:1,AC Horsens,Dänemark Superligaen
+099,23.07.,18:00,LIT 1,Suduva Marijampole,0:0,FK Banga Gargzdai,Litauen A lyga
+097,23.07.,18:30,IRI 1,Esteghlal Tehran,1:1,Nassaji Mazandaran,Iran Pro League
+098,23.07.,18:30,IRI 1,Peykan,0:0,Pars Jonoubi Jam,Iran Pro League
+100,23.07.,19:00,ROU 1,AFC Hermannstadt,abgesagt,Dinamo Bukarest,Rumänien Liga 1
+101,23.07.,19:00,SWE 1,Malmö FF,3:0,Hammarby IF,Schweden Allsvenskan
+102,23.07.,19:00,SWE 1,IFK Göteborg,2:2,Falkenbergs FF,Schweden Allsvenskan
+103,23.07.,19:00,SWE 1,Mjällby AIF,0:5,IF Elfsborg,Schweden Allsvenskan
+104,23.07.,19:00,SWE 1,Helsingborgs IF,1:1,Örebro SK,Schweden Allsvenskan
+105,23.07.,19:00,SWE 1,Kalmar FF,1:1,IK Sirius FK,Schweden Allsvenskan
+106,23.07.,19:00,SWE 3N,Nyköping BIS,3:2,Karlstad BK,Schweden Div 1 Norra
+107,23.07.,19:30,ITA A,Udinese Calcio,2:1,Juventus Turin,Italien Serie A
+108,23.07.,19:30,ITA A,Udinese Calcio+1,3:1,Juventus Turin,Italien Serie A
+109,23.07.,20:00,DEN 1,Aalborg BK,0:1,FC Kopenhagen,Dänemark Superligaen
+110,23.07.,20:00,ISL 1,IA Akranes,1:2,Stjarnan Gardab.,Island Urvalsdeild
+111,23.07.,20:30,SUI SL,Xamax Neuchatel,0:1,Young Boys Bern,Schweiz Axpo Super League
+112,23.07.,20:30,SUI SL,Xamax Neuchatel+1,1:1,Young Boys Bern,Schweiz Axpo Super League
+113,23.07.,21:15,ISL 1,Valur Reykjavik,3:0,Fylkir Reykjavik,Island Urvalsdeild
+114,23.07.,21:15,ISL 1,Grotta,1:1,Vikingur Reykjavik,Island Urvalsdeild
+115,23.07.,21:45,ITA A,Lazio Rom,2:1,Cagliari Calcio,Italien Serie A
+116,23.07.,21:45,ITA A,Lazio Rom,2:2,Cagliari Calcio+1,Italien Serie A
+117,23.07.,22:15,ISL 1,HK Kopavogs,1:0,Breidablik,Island Urvalsdeild
+118,24.07.,02:00,MLSBACK,LA Galaxy*,1:1,Houston Dynamo,"USA, MLS is Back Tournament"
+120,24.07.,04:00,MEX 1,San Luis,abgesagt,FC Juarez,Mexiko Primera Division
+119,24.07.,04:30,MLSBACK,Los Angeles FC*,2:2,Portland Timbers,"USA, MLS is Back Tournament"

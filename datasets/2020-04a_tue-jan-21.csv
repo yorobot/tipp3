@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,21.01.,16:00,HB EM,Portugal,24:29,Slowenien,Handball Europameisterschaft
+002,21.01.,18:15,HB EM,Norwegen,31:28,Island,Handball Europameisterschaft
+003,21.01.,18:30,NL CUP,FC Oss,0:2,AZ Alkmaar,Niederlande KNVB Cup
+004,21.01.,18:30,TUR CUP,Fenerbahce,2:0,Kayserispor,Türkei Türkiye Kupasi
+005,21.01.,19:00,ESP CUP,Recreativo Huelva,2:2,CA Osasuna,Spanien Copa del Rey
+006,21.01.,19:00,ESP CUP,Real Saragossa,3:1,RCD Mallorca,Spanien Copa del Rey
+007,21.01.,19:45,EH SUI,EV Zug,2:1,SCL Tigers Langnau,Schweiz National League A
+008,21.01.,19:45,EH SUI,EHC Biel Bienne,3:1,HC Ambri Piotta,Schweiz National League A
+009,21.01.,20:00,ENG LTR,Exeter City,3:0,FC Stevenage,England Football League Trophy
+010,21.01.,20:30,ENG PL,Aston Villa,2:1,FC Watford,England Premier League
+011,21.01.,20:30,ENG PL,AFC Bournemouth,3:1,Brighton & Hove,England Premier League
+012,21.01.,20:30,ENG PL,FC Everton,2:2,Newcastle United,England Premier League
+013,21.01.,20:30,ENG PL,Sheffield United,0:1,Manchester City,England Premier League
+014,21.01.,20:30,ENG PL,Crystal Palace,0:2,FC Southampton,England Premier League
+015,21.01.,20:30,HB EM,Ungarn,18:24,Schweden,Handball Europameisterschaft
+016,21.01.,20:45,ENG CS,FC Barnsley,0:3,Preston North End,England Championship
+017,21.01.,20:45,ENG CS,FC Middlesbrough,1:1,Birmingham City,England Championship
+018,21.01.,20:45,ENG 1,Peterborough Utd.,4:0,Wycombe Wanderers,England League One
+019,21.01.,20:45,ENG LTR,Salford City,2:1,Accrington Stanley,England Football League Trophy
+020,21.01.,20:45,ENG LTR,FC Portsmouth,2:1,Scunthorpe United,England Football League Trophy
+021,21.01.,20:45,ITA CUP,SSC Napoli,1:0,Lazio Rom,Italien Coppa Italia
+022,21.01.,20:45,POR LC,Sporting Braga,2:1,Sporting Lissabon,Portugal Carlsberg Cup
+023,21.01.,20:45,NL CUP,Fortuna Sittard,abgesagt,Feyenoord,Niederlande KNVB Cup
+024,21.01.,20:45,NL CUP,FC Eindhoven,1:1,FC Utrecht,Niederlande KNVB Cup
+025,21.01.,20:45,SCO CS,FC Alloa Athletic,2:0,FC Arbroath,Schottland Championship
+026,21.01.,21:00,ESP CUP,FC Sevilla,3:1,Levante UD,Spanien Copa del Rey
+027,21.01.,21:10,FRA LC,Olympique Lyon,2:2,Lille OSC,Frankreich Coupe de la Ligue
+028,21.01.,21:15,ENG PL,FC Chelsea,2:2,FC Arsenal,England Premier League
+029,21.01.,21:15,ENG PL,FC Chelsea,2:3,FC Arsenal+1,England Premier League
+030,21.01.,23:15,COPA L,Carabobo FC VEN*,1:1,Universitario PER,Copa Libertadores
+031,22.01.,12:00,TUR CUP,Kasimpasa,3:2,Alanyaspor,Türkei Türkiye Kupasi
+032,22.01.,15:00,TUR CUP,Göztepe,2:2,Antalyaspor,Türkei Türkiye Kupasi
+063,22.01.,15:30,ITA C1C,US Casertana 1908,0:0,Potenza SC,"Italien, Lega Pro Prima Divisione, Girone C"
+033,22.01.,16:00,ITA C1B,FC Südtirol,2:0,Vis Pesaro 1898,"Italien Lega Pro Prima Divisione, Girone B"
+034,22.01.,16:00,HB EM,Kroatien,22:22,Spanien,Handball Europameisterschaft
+035,22.01.,16:00,HB EM,Portugal,34:26,Ungarn,Handball Europameisterschaft
+036,22.01.,16:15,GRE 1,OFI Kreta,0:1,Olympiakos Piräus,Griechenland Super League
+037,22.01.,16:15,GRE 1,Volos NFC,1:3,AEK Athen,Griechenland Super League
+038,22.01.,18:00,ITA C1C,Teramo Calcio,1:0,US Catanzaro,"Italien, Lega Pro Prima Divisione, Girone C"
+039,22.01.,18:15,HB EM,Weißrussland,36:36,Österreich,Handball Europameisterschaft
+040,22.01.,18:15,HB EM,Norwegen,33:30,Slowenien,Handball Europameisterschaft
+041,22.01.,18:30,ITA C1A,Calcio Lecco,2:2,AC Arezzo,"Italien Lega Pro Prima Divisione, Girone A"
+042,22.01.,18:30,ITA C1A,Pergolettese 1932,0:0,Como Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+043,22.01.,18:30,ITA C1B,Imolese Calcio,1:0,Rimini Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+044,22.01.,18:30,ITA C1B,AC Cesena,0:1,Carpi FC,"Italien Lega Pro Prima Divisione, Girone B"
+045,22.01.,18:30,ITA C1C,Vibonese Calcio,0:1,AC Monopoli,"Italien, Lega Pro Prima Divisione, Girone C"
+046,22.01.,18:30,NL CUP,Heracles Almelo,0:2,Vitesse Arnheim,Niederlande KNVB Cup
+047,22.01.,18:30,TUR CUP,Besiktas Istanbul,2:3,Erzurum BB,Türkei Türkiye Kupasi
+048,22.01.,18:30,GRE 1,Panathinaikos,3:0,Atromitos Athen,Griechenland Super League
+049,22.01.,19:00,ESP CUP,UD Ibiza Eivissa+3,4:2,FC Barcelona,Spanien Copa del Rey
+050,22.01.,19:00,ESP CUP,Elche CF,1:1,Athletic Bilbao,Spanien Copa del Rey
+051,22.01.,20:30,ENG PL,Leicester City,4:1,West Ham United,England Premier League
+052,22.01.,20:30,ENG PL,Tottenham,2:1,Norwich City,England Premier League
+053,22.01.,20:30,HB EM,Tschechien,22:26,Deutschland,Handball Europameisterschaft
+054,22.01.,20:30,HB EM,Island,25:32,Schweden,Handball Europameisterschaft
+055,22.01.,20:45,ENG CS,Charlton Athletic,0:0,FC Fulham,England Championship
+056,22.01.,20:45,ENG CS,Nottingham Forest,1:1,FC Reading,England Championship
+057,22.01.,20:45,ITA C1A,Carrarese Calcio,2:1,Pontedera,"Italien Lega Pro Prima Divisione, Girone A"
+058,22.01.,20:45,ITA C1A,SSD Monza 1912,2:0,Pro Patria,"Italien Lega Pro Prima Divisione, Girone A"
+059,22.01.,20:45,ITA C1B,AC Feralpisalo,1:1,Reggio Audace FC,"Italien Lega Pro Prima Divisione, Girone B"
+060,22.01.,20:45,ITA C1B,Padua Calcio,3:2,V.Vecomp Verona,"Italien Lega Pro Prima Divisione, Girone B"
+061,22.01.,20:45,ITA C1B,Vicenza Calcio,1:0,FC Modena,"Italien Lega Pro Prima Divisione, Girone B"
+062,22.01.,20:45,ITA C1C,Reggina 1914,1:2,Virtus Francavilla,"Italien, Lega Pro Prima Divisione, Girone C"
+064,22.01.,20:45,ITA CUP,Juventus Turin,3:1,AS Roma,Italien Coppa Italia
+065,22.01.,20:45,ITA CUP,Juventus Turin,3:2,AS Roma+1,Italien Coppa Italia
+066,22.01.,20:45,POR LC,Vitoria Guimaraes,1:2,FC Porto,Portugal Carlsberg Cup
+067,22.01.,20:45,NL CUP,SC Heerenveen,2:2,Willem II Tilburg,Niederlande KNVB Cup
+068,22.01.,20:45,BEL CUP,Club Brügge,1:1,SV Zulte Waregem,Belgium Beker van Belgie
+069,22.01.,20:45,SCO PS,FC Kilmarnock,1:3,Celtic Glasgow,Schottland Premiership
+070,22.01.,20:45,SCO PS,FC Ross County,0:0,Heart of Midl.,Schottland Premiership
+071,22.01.,20:45,SCO PS,FC Aberdeen,0:1,FC Motherwell,Schottland Premiership
+072,22.01.,20:45,SCO PS,FC Livingston,1:0,FC St. Johnstone,Schottland Premiership
+073,22.01.,20:45,SCO PS,Hibernian FC,2:1,Hamilton FC,Schottland Premiership
+074,22.01.,20:45,SCO PS,Glasgow Rangers,1:0,FC St. Mirren,Schottland Premiership
+075,22.01.,21:00,ESP CUP,Unionistas CF+3,4:3,Real Madrid,Spanien Copa del Rey
+076,22.01.,21:00,ESP CUP,UD Logrones,0:1,FC Valencia,Spanien Copa del Rey
+077,22.01.,21:00,ESP CUP,CF Badalona,1:1,Granada CF,Spanien Copa del Rey
+078,22.01.,21:00,ESP CUP,Teneriffa CD,2:1,Real Valladolid,Spanien Copa del Rey
+079,22.01.,21:00,ESP CUP,FC Girona,0:3,Villarreal CF,Spanien Copa del Rey
+080,22.01.,21:00,ESP CUP,Real Sociedad,2:0,Espanyol Barcelona,Spanien Copa del Rey
+081,22.01.,21:00,FRA LC,Stade de Reims,0:3,Paris SG,Frankreich Coupe de la Ligue
+082,22.01.,21:15,ENG PL,Manchester United,0:2,FC Burnley,England Premier League
+083,23.01.,12:00,TUR CUP,Yeni Malatyaspor,2:1,Sivasspor,Türkei Türkiye Kupasi
+084,23.01.,15:00,TUR CUP,Denizlispor,2:0,Trabzonspor,Türkei Türkiye Kupasi
+085,23.01.,16:15,GRE 1,Asteras Tripolis,2:0,Panionios Athen,Griechenland Super League
+086,23.01.,17:00,KHL,Lok. Jaroslawl,0:3,HK CSKA Moskau,Kontinental Hockey League
+087,23.01.,17:30,KHL,Jokerit Helsinki,3:3,A. Vladivostok,Kontinental Hockey League
+088,23.01.,17:30,KHL,AK Bars Kasan,2:2,Salavat Yulaev Ufa,Kontinental Hockey League
+089,23.01.,17:30,KHL,SKA St. Petersburg,7:4,HC Barys,Kontinental Hockey League
+090,23.01.,17:30,KHL,Avangard Omsk,5:2,HC Sochi,Kontinental Hockey League
+091,23.01.,17:30,KHL,Spartak Moskau,3:0,Sev. Cherepovets,Kontinental Hockey League
+092,23.01.,18:00,ITA C1B,AS Gubbio,2:0,Triestina Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+093,23.01.,18:00,GRE 1,Lamia 1964,0:1,PAOK Thessaloniki,Griechenland Super League
+094,23.01.,18:00,BB EL,ZSKA Moskau RUS,81:70,Valencia Bask. ESP,Euroleague
+095,23.01.,18:00,BB EL,Zenit Petersb. RUS,91:87,Olympiakos P. GRE,Euroleague
+096,23.01.,18:30,NL CUP,VV Ijsselmeervogel,1:1,Go Ahead Eagles,Niederlande KNVB Cup
+097,23.01.,18:30,TUR CUP,Galatasaray,2:1,Caykur Rizespor,Türkei Türkiye Kupasi
+098,23.01.,18:30,GRE 1,Aris Thessaloniki,1:0,Skoda Xanthi FC,Griechenland Super League
+099,23.01.,19:00,ESP CUP,CD Ebro,0:1,CD Leganes,Spanien Copa del Rey
+100,23.01.,19:00,ESP CUP,CD Mirandes,1:1,Celta de Vigo,Spanien Copa del Rey
+101,23.01.,19:00,EH SWE,IK Oskarshamn,1:5,Malmö IF,Schweden Elitserien
+102,23.01.,19:00,EH SWE,Färjestads BK,3:3,Växjö Lakers,Schweden Elitserien
+103,23.01.,19:00,EH SWE,HC Örebro,3:2,Lulea Hockey,Schweden Elitserien
+104,23.01.,19:00,EH SWE,Linköpings HC,5:1,Rögle BK,Schweden Elitserien
+105,23.01.,19:00,EH SWE,Frölunda HC,8:4,Brynas IF,Schweden Elitserien
+106,23.01.,19:00,EH SWE,Leksands IF,2:4,Djurgardens IF,Schweden Elitserien
+107,23.01.,19:30,EH GER,Kölner Haie,2:3,Nürnberg Ice Tiger,Deutschland Deutsche Eishockey Liga
+108,23.01.,19:45,EH SUI,HC Servette Genf,6:9,Zürcher SC Lions,Schweiz National League A
+109,23.01.,20:00,FRA 3,AS Beziers,1:2,Dunkerque,Frankreich National
+110,23.01.,20:30,BB EL,Bayern München GER,80:68,M.Tel Aviv ISR,Euroleague
+111,23.01.,20:45,ENG FA,Tranmere Rovers,1:1,FC Watford,England FA Cup
+112,23.01.,20:45,NL CUP,NAC Breda,2:0,PSV Eindhoven,Niederlande KNVB Cup
+113,23.01.,20:45,BEL CUP,FC Royal Antwerpen,1:1,KV Kortrijk,Belgium Beker van Belgie
+114,23.01.,21:00,ENG PL,Wolverhampton,1:2,FC Liverpool,England Premier League
+115,23.01.,21:00,ENG PL,Wolverhampton+1,2:2,FC Liverpool,England Premier League
+116,23.01.,21:00,ESP CUP,Cultural Leonesa,1:1,Atletico Madrid,Spanien Copa del Rey
+117,23.01.,21:00,ESP CUP,CD Badajoz,3:1,SD Eibar,Spanien Copa del Rey
+118,23.01.,21:00,ESP CUP,Rayo Vallecano,1:1,Betis Sevilla,Spanien Copa del Rey
+119,23.01.,21:00,BB EL,Baskonia G. ESP,83:79,Khimki Moskau RUS,Euroleague
+120,23.01.,21:00,BB EL,FC Barcelona ESP,86:82,Roter Stern SRB,Euroleague

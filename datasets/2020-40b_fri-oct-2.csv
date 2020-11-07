@@ -1,0 +1,119 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,02.10.,11:00,TEN ATP,"Ruud, Casper",0:3,"Thiem, Dominic",Tennis ATP
+002,02.10.,12:45,TEN ATP,"Sonego, Lorenzo",3:0,"Fritz, Taylor",Tennis ATP
+005,02.10.,13:35,TEN WTA,"Halep, Simona",2:0,"Anisimova, Am.",Tennis WTA
+004,02.10.,17:00,TEN ATP,"Coria, Federico",0:3,"Sinner, Jannik",Tennis ATP
+006,02.10.,18:30,AUT 2,FC Liefering,1:1,Grazer AK,Österreich Zweite Liga
+007,02.10.,18:30,AUT 2,SV Horn,1:1,FC Juniors OÖ,Österreich Zweite Liga
+008,02.10.,18:30,GER 2,VfL Bochum,0:0,VfL Osnabrück,Deutschland 2. Bundesliga
+009,02.10.,18:30,GER 2,SV Sandhausen,1:0,FC St. Pauli,Deutschland 2. Bundesliga
+010,02.10.,19:00,GER 3,Bayern München Am.,3:0,Dynamo Dresden,Deutschland 3. Liga
+011,02.10.,19:00,TUR 1,Gazis. Gaziantep,1:1,Trabzonspor,Türkei Süper Lig
+012,02.10.,19:00,TUR 1,MKE Ankaragücü,0:1,Kayserispor,Türkei Süper Lig
+013,02.10.,19:00,DEN 1,Randers FC,1:2,Bröndby IF,Dänemark Superligaen
+003,02.10.,19:10,TEN ATP,"Zverev, Alexander",3:0,"Cecchinato, Marco",Tennis ATP
+014,02.10.,19:15,EH AUT,Vienna Capitals,5:3,Black Wings Linz,Österreich Eishockey Liga
+015,02.10.,19:15,EH AUT,EC Graz 99ers,1:2,EC Dornbirn,Österreich Eishockey Liga
+016,02.10.,19:15,EH AUT,Fehervar,1:4,KAC Klagenfurt,Österreich Eishockey Liga
+017,02.10.,20:00,POR 1,Moreirense FC,1:1,Boavista FC,Portugal Primeira Liga
+018,02.10.,20:00,NL 1,FC Utrecht,1:1,SC Heerenveen,Niederlande Eredivisie
+019,02.10.,20:25,AUT 2,SKU Amstetten,2:2,Wacker Innsbruck,Österreich Zweite Liga
+020,02.10.,20:30,GER BL,FC Union Berlin,4:0,FSV Mainz 05,Deutschland Bundesliga
+021,02.10.,20:30,POL 1,Slask Wroclaw,3:1,Cracovia Krakau,Polen Orange Ekstraklasa
+022,02.10.,20:45,ENG CS,Coventry City,1:3,AFC Bournemouth,England Championship
+023,02.10.,20:45,ITA A,AC Fiorentina,1:2,Sampdoria Genua,Italien Serie A
+024,02.10.,20:45,BEL 1,FC Royal Antwerpen,4:1,YR KV Mechelen,Belgien Jupiler Pro League
+025,02.10.,20:45,SCO PS,FC Aberdeen,2:1,FC St. Mirren,Schottland Premiership
+027,02.10.,20:45,SCO PS,Dundee United,1:2,FC Livingston,Schottland Premiership
+028,02.10.,20:45,SCO PS,Hibernian FC,3:2,Hamilton FC,Schottland Premiership
+029,02.10.,21:00,FRA 1,Paris SG,6:1,SCO Angers,Frankreich Ligue 1
+030,02.10.,22:15,POR 1,Vitoria Guimaraes,1:0,FC Pacos Ferreira,Portugal Primeira Liga
+031,03.10.,12:30,AUT 2,SK Rapid Wien II,2:3,SV Lafnitz,Österreich Zweite Liga
+032,03.10.,13:00,GER 2,FC Heidenheim,0:0,SC Paderborn,Deutschland 2. Bundesliga
+033,03.10.,13:00,GER 2,Hannover 96,4:1,E. Braunschweig,Deutschland 2. Bundesliga
+034,03.10.,13:00,GER 2,Jahn Regensburg,1:0,Karlsruher SC,Deutschland 2. Bundesliga
+035,03.10.,13:00,ESP 1,Real Valladolid,1:2,SD Eibar,Spanien Primera Division
+036,03.10.,13:30,ENG PL,FC Chelsea,4:0,Crystal Palace,England Premier League
+037,03.10.,13:30,ENG CS,Norwich City,0:1,Derby County,England Championship
+038,03.10.,14:30,AUT 2,BW Linz,1:2,FC Dornbirn,Österreich Zweite Liga
+039,03.10.,14:30,AUT 2,Austria Lustenau,4:0,SK Vorwärts Steyr,Österreich Zweite Liga
+040,03.10.,14:30,AUT 2,Kapfenberger SV,0:0,Young Violets A.W.,Österreich Zweite Liga
+041,03.10.,15:00,ITA A,US Sassuolo,4:1,FC Crotone,Italien Serie A
+042,03.10.,15:30,GER BL,Bor. Dortmund,4:0,SC Freiburg,Deutschland Bundesliga
+043,03.10.,15:30,GER BL,Eintr. Frankfurt,2:1,TSG Hoffenheim,Deutschland Bundesliga
+044,03.10.,15:30,GER BL,1. FC Köln,1:3,Mönchengladbach,Deutschland Bundesliga
+045,03.10.,15:30,GER BL,Werder Bremen,1:0,Arminia Bielefeld,Deutschland Bundesliga
+046,03.10.,15:30,GER BL,VfB Stuttgart,1:1,Bayer Leverkusen,Deutschland Bundesliga
+047,03.10.,16:00,ENG PL,FC Everton,4:2,Brighton & Hove,England Premier League
+048,03.10.,16:00,ESP 1,Atletico Madrid,0:0,Villarreal CF,Spanien Primera Division
+049,03.10.,17:00,AUT BL,WSG Swarovs. Tirol,0:2,FK Austria Wien,Österreich Bundesliga
+050,03.10.,17:00,AUT BL,Wolfsberger AC,2:4,SKN St. Pölten,Österreich Bundesliga
+051,03.10.,17:00,AUT BL,Admira Wacker,3:1,SV Ried,Österreich Bundesliga
+052,03.10.,17:00,FRA 1,RC Lens,2:0,AS Saint Etienne,Frankreich Ligue 1
+053,03.10.,18:00,ITA A,FC Genua,abgesagt,FC Torino,Italien Serie A
+054,03.10.,18:00,TUR 1,Fenerbahce,2:1,Fatih Karagumruk,Türkei Süper Lig
+055,03.10.,18:00,RUS PL,FC Spartak Moskau,1:1,Zenit St.Petersb.,Russland Premier League
+056,03.10.,18:30,GER BL,RB Leipzig,4:0,FC Schalke 04,Deutschland Bundesliga
+057,03.10.,18:30,ENG PL,Leeds United,1:1,Manchester City,England Premier League
+058,03.10.,18:30,ESP 1,Real Sociedad,3:0,Getafe CF,Spanien Primera Division
+059,03.10.,18:30,ESP 1,Elche CF,0:0,SD Huesca,Spanien Primera Division
+060,03.10.,19:15,EH AUT,EC RB Salzburg,5:1,Bratislava Capital,Österreich Eishockey Liga
+061,03.10.,20:45,ITA A,Udinese Calcio,0:1,AS Roma,Italien Serie A
+062,03.10.,21:00,ENG PL,Newcastle United,3:1,FC Burnley,England Premier League
+063,03.10.,21:00,ESP 1,FC Valencia,0:2,Betis Sevilla,Spanien Primera Division
+064,03.10.,21:00,FRA 1,OGC Nizza,2:1,FC Nantes,Frankreich Ligue 1
+065,04.10.,10:30,AUT 2,Austria Klagenfurt,5:0,Floridsdorfer AC,Österreich Zweite Liga
+066,04.10.,12:00,ESP 1,CA Osasuna,2:0,Celta de Vigo,Spanien Primera Division
+067,04.10.,12:15,NL 1,FC Groningen,1:0,Ajax Amsterdam,Niederlande Eredivisie
+068,04.10.,12:30,ITA A,Atalanta Bergamo,5:2,Cagliari Calcio,Italien Serie A
+069,04.10.,13:00,ENG PL,FC Southampton,2:0,West Bromwich,England Premier League
+070,04.10.,13:00,ENG PL,Leicester City,0:3,West Ham United,England Premier League
+071,04.10.,13:00,FRA 1,HSC Montpellier,0:1,Olympique Nimes,Frankreich Ligue 1
+072,04.10.,13:30,GER 2,Hamburger SV,abgesagt,Erzgebirge Aue,Deutschland 2. Bundesliga
+073,04.10.,13:30,GER 2,Holstein Kiel,2:1,Fortuna Düsseldorf,Deutschland 2. Bundesliga
+074,04.10.,13:30,GER 2,Kickers Würzburg,2:2,Greuther Fürth,Deutschland 2. Bundesliga
+075,04.10.,13:30,BEL 1,Club Brügge,3:0,RSC Anderlecht,Belgien Jupiler Pro League
+076,04.10.,14:00,ESP 1,CD Alaves,1:0,Athletic Bilbao,Spanien Primera Division
+077,04.10.,14:30,AUT BL,SK Sturm Graz,4:0,SCR Altach,Österreich Bundesliga
+078,04.10.,14:30,AUT BL,RB Salzburg,7:1,TSV Hartberg,Österreich Bundesliga
+079,04.10.,14:30,AUT BL,RB Salzburg,7:3,TSV Hartberg+2,Österreich Bundesliga
+080,04.10.,15:00,ENG PL,Wolverhampton,1:0,FC Fulham,England Premier League
+081,04.10.,15:00,ENG PL,FC Arsenal,2:1,Sheffield United,England Premier League
+082,04.10.,15:00,ITA A,FC Parma,1:0,Hellas Verona,Italien Serie A
+083,04.10.,15:00,ITA A,Lazio Rom,1:1,Inter Mailand,Italien Serie A
+084,04.10.,15:00,FRA 1,Stade Brest,1:0,AS Monaco,Frankreich Ligue 1
+085,04.10.,15:00,FRA 1,Bordeaux,3:0,Dijon Football,Frankreich Ligue 1
+086,04.10.,15:00,FRA 1,Racing Strasbourg,0:3,Lille OSC,Frankreich Ligue 1
+087,04.10.,15:30,GER BL,VfL Wolfsburg,0:0,FC Augsburg,Deutschland Bundesliga
+088,04.10.,16:00,ESP 1,Levante UD,0:2,Real Madrid,Spanien Primera Division
+089,04.10.,17:00,AUT BL,SK Rapid Wien,3:0,LASK Linz,Österreich Bundesliga
+090,04.10.,17:00,AUT BL,SK Rapid Wien,3:1,LASK Linz+1,Österreich Bundesliga
+091,04.10.,17:00,FRA 1,Stade Rennes,2:2,Stade de Reims,Frankreich Ligue 1
+092,04.10.,17:30,ENG PL,Manchester United,1:6,Tottenham,England Premier League
+093,04.10.,18:00,GER BL,FC Bayern München,4:3,Hertha BSC,Deutschland Bundesliga
+094,04.10.,18:00,ITA A,AC Milan,3:0,Spezia Calcio,Italien Serie A
+095,04.10.,20:15,ENG PL,Aston Villa,7:2,FC Liverpool,England Premier League
+096,04.10.,20:45,ITA A,Juventus Turin,abgesagt,SSC Napoli,Italien Serie A
+097,04.10.,21:00,ESP 1,FC Barcelona,1:1,FC Sevilla,Spanien Primera Division
+098,04.10.,21:00,FRA 1,Olympique Lyon,1:1,Olymp. Marseille,Frankreich Ligue 1
+100,05.10.,17:30,FIN 1,Kuopio PS,1:1,Tampereen Ilves,Finnland Veikkausliiga
+101,05.10.,17:30,EGY 1,EL Gouna FC*,0:2,Al-Masry Club,Ägypten Premier League
+102,05.10.,18:00,KHL,AK Bars Kasan,4:1,Salavat Yulaev Ufa,Kontinental Hockey League
+103,05.10.,18:00,KHL,Neftekhimik,1:4,Met. Magnitogorsk,Kontinental Hockey League
+104,05.10.,18:30,KHL,HC Sochi,4:2,HK Dinamo Riga,Kontinental Hockey League
+105,05.10.,18:45,NL 2,Excel. Rotterdam,1:2,De Graafschap,Niederlande Jupiler League
+106,05.10.,19:00,GER 3,Wehen Wiesbaden,2:2,FC Kaiserslautern,Deutschland 3. Liga
+107,05.10.,19:00,SWE 2,Trelleborgs FF,2:2,Norrby IF,Schweden Superettan
+108,05.10.,19:00,SWE 2,Degerfors IF,4:1,Vasteraas SK,Schweden Superettan
+109,05.10.,20:00,ROU 1,UTA Arad,0:0,FC Academica Clinc,Rumänien Liga 1
+110,05.10.,20:30,GER 2,1. FC Nürnberg,2:3,SV Darmstadt 98,Deutschland 2. Bundesliga
+112,05.10.,20:45,POR 2,FC Vizela,1:1,GD Chaves,Portugal Segunda Liga
+111,05.10.,21:00,ITA C1B,AC Arezzo,0:1,Perugia Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+113,05.10.,21:00,NL 2,FC Oss,2:0,FC Dordrecht,Niederlande Jupiler League
+099,06.10.,01:05,NFL,Kansas Chiefs,26:10,N.England Patriots,USA NFL
+114,06.10.,02:50,NFL,Green Bay Packers,30:16,Atlanta Falcons,USA NFL
+116,07.10.,20:30,INT FS,Österreich,2:1,Griechenland,Internationale Freundschaftsspiele
+115,07.10.,20:45,INT FS,Deutschland,3:3,Türkei,Internationale Freundschaftsspiele
+117,07.10.,20:45,INT FS,Portugal,0:0,Spanien,Internationale Freundschaftsspiele
+118,07.10.,20:45,INT FS,Schweiz,1:2,Kroatien,Internationale Freundschaftsspiele
+119,07.10.,21:10,INT FS,Frankreich,7:1,Ukraine,Internationale Freundschaftsspiele

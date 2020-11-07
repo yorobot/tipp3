@@ -1,0 +1,85 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,24.04.,11:00,BB TWN,Taiwan Beer,94:74,Yulon Dinos,Super Basketball League
+002,24.04.,12:00,BLR RES,Gorodeya Reserve,0:2,Bate Borisov Reser,Weißrussland Reserve Liga
+003,24.04.,12:00,BLR RES,Dinamo Brest Reser,2:4,Sh. Soligorsk Rese,Weißrussland Reserve Liga
+032,24.04.,14:00,BLR RES,Sl. Mozyr Reserve,0:1,FC Minsk Reserve,Weißrussland Reserve Liga
+004,24.04.,17:00,BLR 1,FC Smolevichi,1:3,FC Dinamo Minsk,Weißrussland Premier League
+005,24.04.,17:00,BLR 1,FC Smolevichi+1,2:3,FC Dinamo Minsk,Weißrussland Premier League
+006,24.04.,19:00,BLR 1,Neman Grodno,3:0,Energet. BGU Minsk,Weißrussland Premier League
+007,24.04.,19:00,BLR 1,Neman Grodno,3:1,E.BGU Minsk+1,Weißrussland Premier League
+008,24.04.,20:30,DART HO,"Clayton, Jonny",5:2,"Hunt, Adam","Darts, PDC Home Tour (best of 9 Legs)"
+009,24.04.,20:55,DART HO,"North, Richard",2:5,"Pallett, David","Darts, PDC Home Tour (best of 9 Legs)"
+010,24.04.,21:20,DART HO,"Hunt, Adam",5:3,"Pallett, David","Darts, PDC Home Tour (best of 9 Legs)"
+011,24.04.,21:50,DART HO,"Clayton, Jonny",5:3,"North, Richard","Darts, PDC Home Tour (best of 9 Legs)"
+012,24.04.,22:20,DART HO,"North, Richard",1:5,"Hunt, Adam","Darts, PDC Home Tour (best of 9 Legs)"
+013,24.04.,22:40,DART HO,"Pallett, David",2:5,"Clayton, Jonny","Darts, PDC Home Tour (best of 9 Legs)"
+014,25.04.,07:00,KOR PRE,Samsung Lions,3:0,Hanwha Eagles,"Baseball Südkorea, Preseason Friendlies"
+015,25.04.,11:00,KOR PRE,Doosan Bears,8:1,KT WIZ,"Baseball Südkorea, Preseason Friendlies"
+016,25.04.,11:00,KOR PRE,Kiwoom Heroes,8:2,SK Wyverns,"Baseball Südkorea, Preseason Friendlies"
+017,25.04.,11:00,KOR PRE,NC Dinos,2:1,KIA Tigers,"Baseball Südkorea, Preseason Friendlies"
+018,25.04.,11:05,BSB TWN,UNI Lions,8:7,Rakuten Monkeys,Taiwan CPBL
+019,25.04.,11:05,BSB TWN,Fubon Guardians,5:6,Chinatrust Brother,Taiwan CPBL
+020,25.04.,12:00,BLR 3,FC Ostrovets,2:0,FK Kronon Stolbtsy,Weißrussland Vtoraya Liga
+021,25.04.,13:00,BLR 3,Shakhtar2 Petrikov,5:2,Vik.Maryina Gorka,Weißrussland Vtoraya Liga
+023,25.04.,13:00,BLR 3,Smiavtotrans,4:2,Energetik Bgatu,Weißrussland Vtoraya Liga
+024,25.04.,13:00,BLR RES,FC Isloch Reserve,4:1,FC Vitebsk Reserve,Weißrussland Reserve Liga
+025,25.04.,13:00,BLR RES,FC Slutsk Reserve,0:0,Belshina B. Res.,Weißrussland Reserve Liga
+026,25.04.,13:00,BLR 2,FC Slonim,2:1,FC Orsha,Weißrussland Pervaya Liga
+061,25.04.,13:00,TURK 1,Kopetdag Asgabat,0:1,Ahal FC,Turkmenistan 1. Liga
+029,25.04.,13:30,TAJ 1,Faizkand,2:1,Istaravshan,Tadschikistan 1. Liga
+027,25.04.,14:00,TAJ 1,FK Istiklol,6:1,FC Kuktosh,Tadschikistan 1. Liga
+030,25.04.,14:00,BLR 1,Slavia Mozyr,1:3,FC Minsk,Weißrussland Premier League
+031,25.04.,14:00,BLR 1,Slavia Mozyr,1:4,FC Minsk+1,Weißrussland Premier League
+033,25.04.,14:00,BLR 3,FC Dnepr Mogilev,2:0,FC Osipovichi,Weißrussland Vtoraya Liga
+034,25.04.,14:00,BLR 3,FK Baranovichi,2:3,Dinamo Brest 1960,Weißrussland Vtoraya Liga
+035,25.04.,14:00,BLR 3,Dnepr Rohachev,1:1,FC Gorki,Weißrussland Vtoraya Liga
+036,25.04.,14:00,BLR 3,Stenles Pinsk,15:0,Chaika Zelva,Weißrussland Vtoraya Liga
+037,25.04.,14:00,BLR 3,FC Zhlobin,1:0,FK Polock 2019,Weißrussland Vtoraya Liga
+038,25.04.,14:00,BLR 2,Naftan Novopolotsk,1:1,FC Lida,Weißrussland Pervaya Liga
+060,25.04.,14:30,TURK 1,FC Energetik Mary,1:1,Altyn Asyr FC,Turkmenistan 1. Liga
+039,25.04.,15:00,BLR 2,FK Smorgon,2:0,FK Volna Pinsk,Weißrussland Pervaya Liga
+040,25.04.,15:00,BLR 3,Melio. Zhitkovichi,2:0,Ivatsevichi,Weißrussland Vtoraya Liga
+043,25.04.,16:00,BLR 2,FC Oshmyany,0:1,Sputnik Rechica,Weißrussland Pervaya Liga
+044,25.04.,16:00,BLR 1,FC Gorodeya,0:2,FC BATE Borisov,Weißrussland Premier League
+045,25.04.,16:00,BLR 1,FC Gorodeya+1,1:2,FC BATE Borisov,Weißrussland Premier League
+059,25.04.,16:00,BLR RES,Torpedo Zhodino Re,3:2,Rukh Brest Reserve,Weißrussland Reserve Liga
+022,25.04.,17:00,BLR 3,FC BGU Minsk,2:1,Pers.R.Kaverdyaki,Weißrussland Vtoraya Liga
+046,25.04.,18:00,BLR 1,Dinamo Brest,0:2,Shakhter Soligorsk,Weißrussland Premier League
+047,25.04.,18:00,BLR 1,Dinamo Brest,0:3,Shakh. Soligorsk+1,Weißrussland Premier League
+048,26.04.,10:00,TWN 1,Taichung Futuro FC,2:2,Tatung FC,Taiwan Football Premier League
+049,26.04.,10:00,TWN 1,Hang Yuen,2:0,National Taiwan,Taiwan Football Premier League
+050,26.04.,11:00,BB TWN,Yulon Dinos*,82:90,Taiwan Beer,Super Basketball League
+051,26.04.,13:00,BLR 1,FC Slutsk,3:2,Belshina Bobruisk,Weißrussland Premier League
+052,26.04.,13:00,BLR 1,FC Slutsk,3:3,Bel. Bobruisk+1,Weißrussland Premier League
+028,26.04.,13:30,TAJ 1,FC Khujand,2:1,Regar-TadAZ,Tadschikistan 1. Liga
+053,26.04.,13:30,TAJ 1,Lokomotiv-Pamir,2:3,FC Khatlon,Tadschikistan 1. Liga
+054,26.04.,13:30,TAJ 1,Dushanbe 83,2:1,CSKA Pamir Dushanb,Tadschikistan 1. Liga
+055,26.04.,14:00,BLR 2,FC Granit Mikashev,1:2,Arsenal Dzerzhinsk,Weißrussland Pervaya Liga
+041,26.04.,14:15,TURK 1,FC Asgabat,5:2,Nebitci Balkanabat,Turkmenistan 1. Liga
+042,26.04.,14:30,TURK 1,Shagadam Turkmen.,1:0,Merw Mary,Turkmenistan 1. Liga
+056,26.04.,15:00,BLR 2,FC Khimik Svetlogo,0:4,FC NFK Minsk,Weißrussland Pervaya Liga
+057,26.04.,15:00,BLR 1,FC Torpedo Zhodino,0:0,FC Rukh Brest,Weißrussland Premier League
+058,26.04.,15:00,BLR 1,FC Torpedo Zhodino,0:1,FC Rukh Brest+1,Weißrussland Premier League
+062,26.04.,16:00,BLR 2,FC Gomel,2:3,Lokomotiv Gomel,Weißrussland Pervaya Liga
+063,26.04.,17:00,BLR 1,Isloch,2:0,FC Vitebsk,Weißrussland Premier League
+064,26.04.,17:00,BLR 1,Isloch,2:1,FC Vitebsk+1,Weißrussland Premier League
+065,27.04.,07:00,KOR PRE,Samsung Lions,5:12,Lotte Giants,"Baseball Südkorea, Preseason Friendlies"
+066,27.04.,07:00,KOR PRE,Hanwha Eagles,abgesagt,KT WIZ,"Baseball Südkorea, Preseason Friendlies"
+068,27.04.,07:00,KOR PRE,SK Wyverns,5:7,Doosan Bears,"Baseball Südkorea, Preseason Friendlies"
+067,27.04.,11:00,KOR PRE,Kiwoom Heroes,3:2,LG Twins,"Baseball Südkorea, Preseason Friendlies"
+069,27.04.,11:00,KOR PRE,KIA Tigers,8:6,NC Dinos,"Baseball Südkorea, Preseason Friendlies"
+070,28.04.,12:35,BSB TWN,Fubon Guardians,0:3,Rakuten Monkeys,Taiwan CPBL
+071,29.04.,12:35,BSB TWN,UNI Lions,8:9,Chinatrust Brother,Taiwan CPBL
+072,29.04.,12:35,BSB TWN,Fubon Guardians,3:5,Rakuten Monkeys,Taiwan CPBL
+073,29.04.,17:00,BLR CUP,Shakhter Soligorsk,4:2,Dinamo Brest,Weißrussland Cup
+074,29.04.,17:00,BLR CUP,Shakhter Soligorsk,4:3,Dinamo Brest+1,Weißrussland Cup
+075,29.04.,19:00,BLR CUP,FC BATE Borisov,2:0,Slavia Mozyr,Weißrussland Cup
+076,29.04.,19:00,BLR CUP,FC BATE Borisov,2:1,Slavia Mozyr+1,Weißrussland Cup
+077,01.05.,15:00,BLR 1,E.BGU Minsk*,2:0,FC Smolevichi,Weißrussland Premier League
+078,02.05.,13:00,BLR 1,FC Minsk,2:5,FC Torpedo Zhodino,Weißrussland Premier League
+079,02.05.,15:00,BLR 1,FC Rukh Brest,1:1,FC Gorodeya,Weißrussland Premier League
+080,02.05.,17:00,BLR 1,FC Dinamo Minsk,1:2,FC Slutsk,Weißrussland Premier League
+081,03.05.,13:00,BLR 1,Belshina Bobruisk,0:3,Dinamo Brest,Weißrussland Premier League
+082,03.05.,15:00,BLR 1,FC Vitebsk,2:3,Slavia Mozyr,Weißrussland Premier League
+083,03.05.,17:00,BLR 1,FC BATE Borisov,3:1,Neman Grodno,Weißrussland Premier League
+084,03.05.,19:00,BLR 1,Shakhter Soligorsk,4:0,Isloch,Weißrussland Premier League

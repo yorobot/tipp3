@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,26.06.,17:45,BUL 1,Cherno More,2:2,Et. Veliko Tarnovo,Bulgarien Premier League
+002,26.06.,18:00,POL 1,Rakow Czestochowa,3:2,Arka Gdynia 1929,Polen Orange Ekstraklasa
+003,26.06.,18:15,SUI 2,FC Chiasso,1:3,FC Aarau,Schweiz Challenge League
+004,26.06.,18:15,SUI 2,FC Wil 1900,3:1,FC Winterthur,Schweiz Challenge League
+005,26.06.,18:30,AUT 2,Austria Lustenau,1:2,SV Horn,Österreich Zweite Liga
+006,26.06.,18:45,ITA B,Trapani Calcio,3:0,Pordenone Calcio,Italien Serie B
+007,26.06.,18:55,CRO 1,HNK Rijeka,1:2,HNK Gorica,Kroatien 1. HNL
+008,26.06.,19:00,GER 3,KFC Uerdingen 05,1:1,Chemnitzer FC,Deutschland 3. Liga
+009,26.06.,19:00,TUR 2,Bursaspor,1:0,Adanaspor,Türkei TFF 1. Lig
+010,26.06.,19:00,DEN 1,AGF Aarhus,1:4,Aalborg BK,Dänemark Superligaen
+011,26.06.,19:30,RUS PL,Zenit St.Petersb.,2:1,Kryliya Sovetov,Russland Premier League
+012,26.06.,20:00,TUR 1,Besiktas Istanbul,3:0,Konyaspor,Türkei Süper Lig
+013,26.06.,20:15,POR 1,Belenenses L.,1:3,Sporting Lissabon,Portugal Primeira Liga
+014,26.06.,20:25,AUT 2,SV Ried,1:3,BW Linz,Österreich Zweite Liga
+015,26.06.,20:25,AUT 2,SV Ried,1:4,BW Linz+1,Österreich Zweite Liga
+016,26.06.,20:30,SUI 2,Grasshoppers,3:1,FC Lausanne-Sport,Schweiz Challenge League
+017,26.06.,20:30,POL 1,Zaglebie Lubin,2:1,Korona Kielce,Polen Orange Ekstraklasa
+018,26.06.,20:30,BB GER,Alba Berlin*,88:65,MHP Ludwigsburg,Deutschland BBL
+019,26.06.,20:45,ENG CS,FC Brentford,1:0,West Bromwich,England Championship
+020,26.06.,21:00,ITA B,FC Empoli,0:0,Benevento Calcio,Italien Serie B
+021,26.06.,21:00,ITA B,Frosinone Calcio,0:2,AS Cittadella,Italien Serie B
+022,26.06.,21:00,ITA B,AC Chievo Verona,1:3,Spezia Calcio,Italien Serie B
+023,26.06.,21:00,ITA B,US Cremonese,0:2,Cosenza Calcio,Italien Serie B
+024,26.06.,21:00,ITA B,SC Pisa,2:1,Delfino Pescara,Italien Serie B
+025,26.06.,21:00,ITA B,Virtus Entella,1:0,Salernitana Calcio,Italien Serie B
+026,26.06.,21:00,ITA B,SSC Venezia,2:1,Ascoli FC,Italien Serie B
+027,26.06.,21:00,ITA B,Perugia Calcio,0:0,FC Crotone,Italien Serie B
+028,26.06.,21:05,CRO 1,HNK Hajduk Split,2:1,NK Slaven Belupo,Kroatien 1. HNL
+029,26.06.,21:45,ITA A,Juventus Turin,4:0,US Lecce,Italien Serie A
+030,26.06.,22:00,ESP 1,FC Sevilla,1:1,Real Valladolid,Spanien Primera Division
+031,27.06.,13:30,ENG PL,Aston Villa,0:1,Wolverhampton,England Premier League
+032,27.06.,13:30,ENG CS,Swansea City,0:1,Luton Town,England Championship
+033,27.06.,14:00,GER 3,TSV 1860 München,3:0,Unterhaching,Deutschland 3. Liga
+034,27.06.,14:00,ESP 1,Athletic Bilbao,3:1,RCD Mallorca,Spanien Primera Division
+035,27.06.,15:00,AUT 2,FC Juniors OÖ*,1:3,SKU Amstetten,Österreich Zweite Liga
+036,27.06.,15:00,AUT 2,FC Liefering,3:2,Kapfenberger SV,Österreich Zweite Liga
+037,27.06.,15:00,AUT 2,Grazer AK*,1:1,FC Dornbirn,Österreich Zweite Liga
+038,27.06.,15:00,AUT 2,Floridsdorfer AC,1:1,Young Violets A.W.,Österreich Zweite Liga
+039,27.06.,15:30,GER BL,VfL Wolfsburg,0:4,FC Bayern München,Deutschland Bundesliga
+040,27.06.,15:30,GER BL,Bor. Dortmund,0:4,TSG Hoffenheim,Deutschland Bundesliga
+041,27.06.,15:30,GER BL,FC Augsburg,1:2,RB Leipzig,Deutschland Bundesliga
+042,27.06.,15:30,GER BL,Mönchengladbach,2:1,Hertha BSC,Deutschland Bundesliga
+043,27.06.,15:30,GER BL,Bayer Leverkusen,1:0,FSV Mainz 05,Deutschland Bundesliga
+044,27.06.,15:30,GER BL,SC Freiburg,4:0,FC Schalke 04,Deutschland Bundesliga
+045,27.06.,15:30,GER BL,Eintr. Frankfurt,3:2,SC Paderborn,Deutschland Bundesliga
+046,27.06.,15:30,GER BL,Werder Bremen,6:1,1. FC Köln,Deutschland Bundesliga
+047,27.06.,15:30,GER BL,FC Union Berlin,3:0,Fortuna Düsseldorf,Deutschland Bundesliga
+048,27.06.,16:00,ENG CS,Leeds United,3:0,FC Fulham,England Championship
+049,27.06.,17:00,AUT BL,FK Austria Wien,2:5,SKN St. Pölten,"Österreich Bundesliga, Qualifikationsgruppe"
+050,27.06.,17:00,AUT BL,FK Austria Wien,2:6,SKN St. Pölten+1,"Österreich Bundesliga, Qualifikationsgruppe"
+051,27.06.,17:00,AUT BL,SV Mattersburg,1:2,Admira Wacker,"Österreich Bundesliga, Qualifikationsgruppe"
+052,27.06.,17:00,AUT BL,WSG Swarovs. Tirol,0:1,SCR Altach,"Österreich Bundesliga, Qualifikationsgruppe"
+053,27.06.,17:00,ESP 1,Celta de Vigo,2:2,FC Barcelona,Spanien Primera Division
+054,27.06.,17:15,ITA A,Brescia Calcio,2:2,FC Genua,Italien Serie A
+055,27.06.,17:30,TUR 1,Fenerbahce,3:2,Yeni Malatyaspor,Türkei Süper Lig
+056,27.06.,18:30,ENG FA,Norwich City,1:1,Manchester United,England FA Cup
+057,27.06.,19:30,ESP 1,CA Osasuna,2:1,CD Leganes,Spanien Primera Division
+058,27.06.,19:30,ITA A,Cagliari Calcio,4:2,FC Torino,Italien Serie A
+059,27.06.,20:00,TUR 1,Trabzonspor,1:1,MKE Ankaragücü,Türkei Süper Lig
+060,27.06.,20:25,AUT 2,SV Lafnitz,1:1,Wacker Innsbruck,Österreich Zweite Liga
+061,27.06.,20:30,SUI SL,Young Boys Bern,6:0,Xamax Neuchatel,Schweiz Axpo Super League
+062,27.06.,20:30,NOR 1,Valerenga IF,2:1,Viking FK,Norwegen Tippeligaen
+063,27.06.,21:45,ITA A,Lazio Rom,2:1,AC Fiorentina,Italien Serie A
+064,27.06.,22:00,ESP 1,Atletico Madrid,2:1,CD Alaves,Spanien Primera Division
+065,28.06.,10:30,AUT 2,SK Vorwärts Steyr,1:2,Austria Klagenfurt,Österreich Zweite Liga
+066,28.06.,14:00,ENG FA,Sheffield United,1:2,FC Arsenal,England FA Cup
+067,28.06.,14:00,ESP 1,Levante UD*,4:2,Betis Sevilla,Spanien Primera Division
+068,28.06.,15:30,GER 2,Arminia Bielefeld,3:0,FC Heidenheim,Deutschland 2. Bundesliga
+069,28.06.,15:30,GER 2,VfB Stuttgart,1:3,SV Darmstadt 98,Deutschland 2. Bundesliga
+070,28.06.,15:30,GER 2,Hamburger SV,1:5,SV Sandhausen,Deutschland 2. Bundesliga
+071,28.06.,15:30,GER 2,Hannover 96,2:0,VfL Bochum,Deutschland 2. Bundesliga
+072,28.06.,15:30,GER 2,Greuther Fürth,1:2,Karlsruher SC,Deutschland 2. Bundesliga
+073,28.06.,15:30,GER 2,Jahn Regensburg,1:2,Erzgebirge Aue,Deutschland 2. Bundesliga
+074,28.06.,15:30,GER 2,Holstein Kiel,1:1,1. FC Nürnberg,Deutschland 2. Bundesliga
+075,28.06.,15:30,GER 2,Wehen Wiesbaden,5:3,FC St. Pauli,Deutschland 2. Bundesliga
+076,28.06.,15:30,GER 2,Dynamo Dresden,2:2,VfL Osnabrück,Deutschland 2. Bundesliga
+077,28.06.,16:00,SUI SL,FC St. Gallen,3:2,FC Thun,Schweiz Axpo Super League
+078,28.06.,17:00,AUT BL,LASK Linz,0:1,Wolfsberger AC,Österreich Bundesliga
+079,28.06.,17:00,AUT BL,LASK Linz,0:2,Wolfsberger AC+1,Österreich Bundesliga
+080,28.06.,17:00,AUT BL,RB Salzburg,3:0,TSV Hartberg,Österreich Bundesliga
+081,28.06.,17:00,AUT BL,RB Salzburg,3:2,TSV Hartberg+2,Österreich Bundesliga
+082,28.06.,17:00,ENG FA,Leicester City,0:1,FC Chelsea,England FA Cup
+083,28.06.,17:00,ESP 1,Villarreal CF,2:0,FC Valencia,Spanien Primera Division
+084,28.06.,17:15,ITA A,AC Milan,2:0,AS Roma,Italien Serie A
+085,28.06.,17:30,ENG PL,FC Watford,1:3,FC Southampton,England Premier League
+086,28.06.,19:30,ENG FA,Newcastle United,0:2,Manchester City,England FA Cup
+087,28.06.,19:30,AUT BL,SK Sturm Graz,2:3,SK Rapid Wien,Österreich Bundesliga
+088,28.06.,19:30,AUT BL,SK Sturm Graz+1,3:3,SK Rapid Wien,Österreich Bundesliga
+089,28.06.,19:30,ESP 1,Granada CF,1:2,SD Eibar,Spanien Primera Division
+090,28.06.,19:30,ITA A,SSC Napoli,3:1,Spal Ferrara,Italien Serie A
+091,28.06.,19:30,ITA A,Sampdoria Genua,1:2,Bologna FC,Italien Serie A
+092,28.06.,19:30,ITA A,Udinese Calcio,2:3,Atalanta Bergamo,Italien Serie A
+093,28.06.,19:30,ITA A,US Sassuolo,3:3,Hellas Verona,Italien Serie A
+094,28.06.,20:00,TUR 1,Istanbul Basakseh.,1:1,Galatasaray,Türkei Süper Lig
+095,28.06.,20:30,GRE 1,AEK Athen,1:2,Olympiakos Piräus,Griechenland Super League
+096,28.06.,21:45,ITA A,FC Parma,1:2,Inter Mailand,Italien Serie A
+097,28.06.,22:00,ESP 1,Espanyol Barcelona,0:1,Real Madrid,Spanien Primera Division
+098,29.06.,18:00,POR 1,CD Aves,0:1,Moreirense FC,Portugal Primeira Liga
+099,29.06.,18:00,POL 1,Cracovia Krakau,2:1,Pogon Szczecin,Polen Orange Ekstraklasa
+100,29.06.,18:30,GRE 1,Volos NFC,0:0,Lamia 1964,Griechenland Super League
+101,29.06.,19:00,GRE 1,Atromitos Athen,3:0,AE Larissa,Griechenland Super League
+102,29.06.,19:00,ROU 1,AFC Astra Giurgiu,3:2,FCS Bukarest,Rumänien Liga 1
+103,29.06.,19:00,POR 1,Maritimo Funchal,2:0,Benfica Lissabon,Portugal Primeira Liga
+104,29.06.,19:00,DEN 1,Odense BK,3:1,Lyngby BK,Dänemark Superligaen
+105,29.06.,19:00,SWE 1,BK Häcken,1:0,Helsingborgs IF,Schweden Allsvenskan
+106,29.06.,19:00,SWE 1,Varbergs BoIS,3:1,Falkenbergs FF,Schweden Allsvenskan
+108,29.06.,20:00,TUR 1,Genclerbirligi,0:2,Kasimpasa,Türkei Süper Lig
+107,29.06.,21:00,ESP 2,Alcorcon AD,3:2,Rayo Vallecano,Spanien Segunda Division
+109,29.06.,21:00,ENG PL,Crystal Palace,0:1,FC Burnley,England Premier League
+110,29.06.,21:00,ITA B,Ascoli FC,1:1,FC Crotone,Italien Serie B
+111,29.06.,21:00,ITA B,AS Cittadella,2:0,Perugia Calcio,Italien Serie B
+112,29.06.,21:00,ITA B,Spezia Calcio,1:2,SC Pisa,Italien Serie B
+113,29.06.,21:00,ITA B,AC Chievo Verona,2:0,Frosinone Calcio,Italien Serie B
+114,29.06.,21:00,ITA B,Delfino Pescara,1:1,FC Empoli,Italien Serie B
+115,29.06.,21:15,ISL 1,Breidablik,3:1,Fjölnir,Island Urvalsdeild
+116,29.06.,21:15,ISL 1,Vikingur Reykjavik,4:1,FH Hafnarfjördur,Island Urvalsdeild
+117,29.06.,21:15,ISL 1,Fylkir Reykjavik,2:0,Grotta,Island Urvalsdeild
+118,29.06.,21:45,ESP 2,Real Saragossa,0:1,SD Huesca,Spanien Segunda Division
+119,29.06.,22:00,ESP 1,Getafe CF,2:1,Real Sociedad,Spanien Primera Division
+120,29.06.,22:15,POR 1,FC Pacos Ferreira,0:1,FC Porto,Portugal Primeira Liga

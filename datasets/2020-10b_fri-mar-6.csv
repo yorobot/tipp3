@@ -1,0 +1,120 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,06.03.,18:00,TUR 1,Besiktas Istanbul,2:1,MKE Ankaragücü,Türkei Süper Lig
+002,06.03.,18:30,EH AUT,HC Znojmo,0:4,HC Bozen Foxes,Österreich Eishockey Liga
+003,06.03.,18:30,GER 2,1. FC Nürnberg,0:3,Hannover 96,Deutschland 2. Bundesliga
+004,06.03.,18:30,GER 2,VfL Osnabrück,2:6,Wehen Wiesbaden,Deutschland 2. Bundesliga
+005,06.03.,19:00,GER 3,MSV Duisburg,1:0,FC Magdeburg,Deutschland 3. Liga
+006,06.03.,19:00,INT FSD,Österreich Damen*,1:1,Schweiz Damen,"Internationale Freundschaftsspiele, Damen"
+007,06.03.,19:00,AUT RLO,SV Mattersburg Am.,4:1,FC Mauerwerk,Österreich Regionalliga Ost
+008,06.03.,19:00,AUT RLO,SC Neusiedl,2:2,SK Rapid Wien II,Österreich Regionalliga Ost
+009,06.03.,19:00,AUT RLM,SC Weiz,3:0,St Anna am Aigen,Österreich Regionalliga Mitte
+010,06.03.,19:00,HB AUT,Fivers Margareten,35:29,UHK Krems,Österreich HLA
+011,06.03.,19:10,AUT 2,BW Linz,2:0,SK Vorwärts Steyr,Österreich Zweite Liga
+012,06.03.,19:10,AUT 2,SV Horn,4:2,Grazer AK,Österreich Zweite Liga
+013,06.03.,19:10,AUT 2,Kapfenberger SV,abgesagt,FC Juniors OÖ,Österreich Zweite Liga
+014,06.03.,19:15,EH AUT,Villacher SV,2:7,EC RB Salzburg,Österreich Eishockey Liga
+015,06.03.,19:15,EH AUT,Black Wings Linz,3:3,KAC Klagenfurt,Österreich Eishockey Liga
+016,06.03.,19:15,EH AUT,EC Graz 99ers,3:2,Vienna Capitals,Österreich Eishockey Liga
+018,06.03.,19:30,AUT RLO,Wiener Sport-Club,1:2,ASK Ebreichsdorf,Österreich Regionalliga Ost
+019,06.03.,20:00,GER BL,SC Paderborn,1:2,1. FC Köln,Deutschland Bundesliga
+020,06.03.,20:00,GER BL,SC Paderborn+1,2:2,1. FC Köln,Deutschland Bundesliga
+021,06.03.,20:00,FRA 2,Troyes AC,1:1,Paris FC 98,Frankreich Ligue 2
+022,06.03.,20:00,FRA 2,Clermont Foot,2:0,FC Sochaux,Frankreich Ligue 2
+023,06.03.,20:00,FRA 2,Le Havre AC,1:0,AJ Auxerre,Frankreich Ligue 2
+024,06.03.,20:00,FRA 2,Grenoble Foot,1:3,FC Valenciennes,Frankreich Ligue 2
+025,06.03.,20:00,NL 1,Fortuna Sittard,1:1,FC Zwolle,Niederlande Eredivisie
+026,06.03.,20:45,ENG CS,Nottingham Forest,0:3,FC Millwall,England Championship
+027,06.03.,21:00,ESP 1,CD Alaves,1:1,FC Valencia,Spanien Primera Division
+028,06.03.,21:00,ESP 2,CD Lugo,1:1,Cadiz CF,Spanien Segunda Division
+029,06.03.,21:00,FRA 1,Olymp. Marseille,2:2,Amiens SC,Frankreich Ligue 1
+030,06.03.,21:30,POR 1,Sporting Braga,3:1,Portimonense SC,Portugal Primeira Liga
+031,07.03.,13:00,GER 2,Hamburger SV,2:1,Jahn Regensburg,Deutschland 2. Bundesliga
+032,07.03.,13:00,GER 2,FC Heidenheim,3:1,Karlsruher SC,Deutschland 2. Bundesliga
+033,07.03.,13:00,GER 2,SV Darmstadt 98,0:0,VfL Bochum,Deutschland 2. Bundesliga
+034,07.03.,13:00,ESP 1,SD Eibar,1:2,RCD Mallorca,Spanien Primera Division
+035,07.03.,13:30,ENG PL,FC Liverpool,2:1,AFC Bournemouth,England Premier League
+036,07.03.,14:30,AUT 2,Austria Klagenfurt,1:1,FC Dornbirn,Österreich Zweite Liga
+037,07.03.,14:30,AUT 2,Austria Lustenau,2:3,Young Violets A.W.,Österreich Zweite Liga
+038,07.03.,14:30,AUT 2,FC Liefering*,4:1,SV Lafnitz,Österreich Zweite Liga
+039,07.03.,14:30,AUT 2,Wacker Innsbruck,1:0,Floridsdorfer AC,Österreich Zweite Liga
+040,07.03.,15:30,GER BL,VfL Wolfsburg,0:0,RB Leipzig,Deutschland Bundesliga
+041,07.03.,15:30,GER BL,VfL Wolfsburg+1,1:0,RB Leipzig,Deutschland Bundesliga
+042,07.03.,15:30,GER BL,Bayer Leverkusen,4:0,Eintr. Frankfurt,Deutschland Bundesliga
+043,07.03.,15:30,GER BL,Hertha BSC,2:2,Werder Bremen,Deutschland Bundesliga
+044,07.03.,15:30,GER BL,SC Freiburg,3:1,FC Union Berlin,Deutschland Bundesliga
+045,07.03.,15:30,GER BL,FC Schalke 04,1:1,TSG Hoffenheim,Deutschland Bundesliga
+046,07.03.,16:00,ENG PL,FC Southampton,0:1,Newcastle United,England Premier League
+047,07.03.,16:00,ENG PL,FC Arsenal,1:0,West Ham United,England Premier League
+048,07.03.,16:00,ENG PL,Wolverhampton,0:0,Brighton & Hove,England Premier League
+049,07.03.,16:00,ENG PL,Sheffield United,1:0,Norwich City,England Premier League
+050,07.03.,16:00,ENG PL,Crystal Palace,1:0,FC Watford,England Premier League
+051,07.03.,16:00,ENG CS,Leeds United,2:0,Huddersfield Town,England Championship
+052,07.03.,16:00,ESP 1,Atletico Madrid,2:2,FC Sevilla,Spanien Primera Division
+053,07.03.,17:00,AUT BL,Wolfsberger AC,2:2,SK Rapid Wien,Österreich Bundesliga
+054,07.03.,17:00,AUT BL,Wolfsberger AC,2:3,SK Rapid Wien+1,Österreich Bundesliga
+055,07.03.,17:00,AUT BL,Wolfsberger AC+1,3:2,SK Rapid Wien,Österreich Bundesliga
+056,07.03.,17:00,AUT BL,FK Austria Wien,0:0,SKN St. Pölten,Österreich Bundesliga
+057,07.03.,17:00,AUT BL,Admira Wacker,2:0,SCR Altach,Österreich Bundesliga
+058,07.03.,17:00,AUT BL,TSV Hartberg,0:3,WSG Swarovs. Tirol,Österreich Bundesliga
+059,07.03.,17:30,FRA 1,Racing Strasbourg,abgesagt,Paris SG,Frankreich Ligue 1
+060,07.03.,18:00,TUR 1,Fenerbahce,2:2,Denizlispor,Türkei Süper Lig
+061,07.03.,18:30,GER BL,Mönchengladbach,1:2,Bor. Dortmund,Deutschland Bundesliga
+062,07.03.,18:30,GER BL,Mönchengladbach,1:3,Bor. Dortmund+1,Deutschland Bundesliga
+063,07.03.,18:30,GER BL,Mönchengladbach+1,2:2,Bor. Dortmund,Deutschland Bundesliga
+064,07.03.,18:30,ENG PL,FC Burnley,1:1,Tottenham,England Premier League
+065,07.03.,18:30,ESP 1,FC Barcelona,1:0,Real Sociedad,Spanien Primera Division
+066,07.03.,19:00,POR 1,Vitoria Setubal,1:1,Benfica Lissabon,Portugal Primeira Liga
+067,07.03.,20:00,FRA 1,OGC Nizza,2:1,AS Monaco,Frankreich Ligue 1
+068,07.03.,20:00,FRA 1,Dijon Football,2:1,FC Toulouse,Frankreich Ligue 1
+069,07.03.,20:00,FRA 1,Stade de Reims,1:0,Stade Brest,Frankreich Ligue 1
+070,07.03.,20:45,NL 1,SC Heerenveen,1:3,Ajax Amsterdam,Niederlande Eredivisie
+071,07.03.,21:00,ESP 1,Getafe CF,0:0,Celta de Vigo,Spanien Primera Division
+072,07.03.,21:30,POR 1,FC Porto,1:1,Rio Ave FC,Portugal Primeira Liga
+073,08.03.,10:30,AUT 2,SKU Amstetten,1:2,SV Ried,Österreich Zweite Liga
+074,08.03.,12:00,ESP 1,CA Osasuna,1:0,Espanyol Barcelona,Spanien Primera Division
+075,08.03.,13:30,GER 2,Holstein Kiel,1:1,Greuther Fürth,Deutschland 2. Bundesliga
+076,08.03.,13:30,GER 2,Dynamo Dresden,2:1,Erzgebirge Aue,Deutschland 2. Bundesliga
+077,08.03.,13:30,GER 2,SV Sandhausen,2:2,FC St. Pauli,Deutschland 2. Bundesliga
+078,08.03.,14:00,ESP 1,Real Valladolid,1:4,Athletic Bilbao,Spanien Primera Division
+079,08.03.,14:30,AUT BL,RB Salzburg,2:0,SK Sturm Graz,Österreich Bundesliga
+080,08.03.,14:30,AUT BL,RB Salzburg,2:1,SK Sturm Graz+1,Österreich Bundesliga
+081,08.03.,14:30,AUT BL,SV Mattersburg,0:1,LASK Linz,Österreich Bundesliga
+082,08.03.,14:30,NL 1,Feyenoord,2:0,Willem II Tilburg,Niederlande Eredivisie
+083,08.03.,15:00,ENG PL,FC Chelsea,4:0,FC Everton,England Premier League
+084,08.03.,15:00,FRA 1,AS Saint Etienne,1:1,Bordeaux,Frankreich Ligue 1
+085,08.03.,15:30,GER BL,FC Bayern München,2:0,FC Augsburg,Deutschland Bundesliga
+086,08.03.,15:30,GER BL,FC Bayern München,2:2,FC Augsburg+2,Deutschland Bundesliga
+087,08.03.,16:00,ESP 1,Levante UD,1:1,Granada CF,Spanien Primera Division
+088,08.03.,16:45,NL 1,FC Groningen,0:1,PSV Eindhoven,Niederlande Eredivisie
+017,08.03.,17:00,AUT RLO,FCM Traiskirchen,1:3,Marchfeld Donauaue,Österreich Regionalliga Ost
+089,08.03.,17:00,FRA 1,Stade Rennes,5:0,HSC Montpellier,Frankreich Ligue 1
+090,08.03.,17:00,TUR 1,Sivasspor,2:2,Galatasaray,Türkei Süper Lig
+091,08.03.,17:30,ENG PL,Manchester United,2:0,Manchester City,England Premier League
+092,08.03.,17:30,ENG PL,Manchester Utd.+1,3:0,Manchester City,England Premier League
+093,08.03.,17:30,EH AUT,Vienna Capitals,3:2,EC Graz 99ers,Österreich Eishockey Liga
+094,08.03.,17:30,EH AUT,KAC Klagenfurt,2:3,Black Wings Linz,Österreich Eishockey Liga
+095,08.03.,17:30,EH AUT,EC RB Salzburg,4:0,Villacher SV,Österreich Eishockey Liga
+097,08.03.,18:00,GER BL,FSV Mainz 05,1:1,Fortuna Düsseldorf,Deutschland Bundesliga
+098,08.03.,18:30,ESP 1,Villarreal CF,1:2,CD Leganes,Spanien Primera Division
+099,08.03.,18:30,POR 1,Sporting Lissabon,2:0,CD Aves,Portugal Primeira Liga
+100,08.03.,21:00,ESP 1,Betis Sevilla,2:1,Real Madrid,Spanien Primera Division
+101,08.03.,21:00,FRA 1,Lille OSC,1:0,Olympique Lyon,Frankreich Ligue 1
+102,09.03.,12:00,RUS PL,FC Rostov,3:2,ZSKA Moskau,Russland Premier League
+103,09.03.,14:30,RUS PL,FC Spartak Moskau,0:1,FC Krasnodar,Russland Premier League
+104,09.03.,17:00,RUS PL,Zenit St.Petersb.,0:0,FC Ufa,Russland Premier League
+105,09.03.,17:00,ROU 1,CS Voluntari,1:1,AFC Hermannstadt,Rumänien Liga 1
+106,09.03.,18:00,TUR 1,Genclerbirligi,1:1,Antalyaspor,Türkei Süper Lig
+107,09.03.,18:00,CZE 1,FC Banik Ostrava,2:3,FK Mlada Boleslav,Tschechien Gambrinus Liga
+108,09.03.,18:00,CRO 1,HNK Gorica,1:3,Lok Zagreb,Kroatien 1. HNL
+109,09.03.,18:00,POL 1,Korona Kielce,1:0,LKS Lodz,Polen Orange Ekstraklasa
+110,09.03.,19:00,GER 3,Hansa Rostock,3:0,E. Braunschweig,Deutschland 3. Liga
+111,09.03.,19:00,DEN 1,Silkeborg IF,2:1,AGF Aarhus,Dänemark Superligaen
+112,09.03.,19:00,SWE CUP,AIK Stockholm,3:1,Kalmar FF,Schweden Cup
+113,09.03.,19:00,SWE CUP,Jönköpings Södra,2:0,Örgryte Göteborg,Schweden Cup
+114,09.03.,19:30,ROU 1,Gaz Metan Medias,0:0,FC CFR 1907 Cluj,Rumänien Liga 1
+115,09.03.,20:30,GER 2,VfB Stuttgart,1:1,Arminia Bielefeld,Deutschland 2. Bundesliga
+116,09.03.,20:30,GER 2,VfB Stuttgart,1:2,Arm. Bielefeld+1,Deutschland 2. Bundesliga
+117,09.03.,20:45,FRA 2,RC Lens,1:0,US Orleans 45,Frankreich Ligue 2
+118,09.03.,20:45,POR 2,Leixoes SC,1:1,SC Farense,Portugal Segunda Liga
+119,09.03.,21:00,ENG PL,Leicester City,4:0,Aston Villa,England Premier League
+120,09.03.,21:00,ENG PL,Leicester City,4:1,Aston Villa+1,England Premier League

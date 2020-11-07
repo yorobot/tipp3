@@ -1,0 +1,120 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+002,09.10.,15:00,TEN ATP,Schwartzman D.,0:3,"Nadal, Rafael",Tennis ATP
+003,09.10.,17:30,U21 EMQ,Island U21,abgesagt,Italien U21,U21 EM Qualifikation
+004,09.10.,17:30,U21 EMQ,Ukraine U21,1:0,Rumänien U21,U21 EM Qualifikation
+005,09.10.,18:00,U21 EMQ,Serbien U21,1:0,Polen U21,U21 EM Qualifikation
+006,09.10.,18:00,U21 EMQ,Georgien U21,0:3,Schweiz U21,U21 EM Qualifikation
+001,09.10.,18:20,TEN ATP,"Djokovic, Novak",3:2,"Tsitsipas, Stefan.",Tennis ATP
+007,09.10.,18:30,U21 EMQ,Schottland U21,2:0,Tschechien U21,U21 EM Qualifikation
+008,09.10.,18:45,IRL 1,Boh. Dublin,3:0,Cork City FC,Irland Premier Division
+009,09.10.,19:00,U21 EMQ,Kosovo U21,0:1,Österreich U21,U21 EM Qualifikation
+010,09.10.,19:00,U21 EMQ,Kosovo U21+1,1:1,Österreich U21,U21 EM Qualifikation
+011,09.10.,19:00,U21 EMQ,Nordirland U21,2:3,Finnland U21,U21 EM Qualifikation
+012,09.10.,19:00,AUT RLO,Bruck/Leitha,6:1,SC Neusiedl,Österreich Regionalliga Ost
+013,09.10.,19:00,AUT RLM,WSC Hertha Wels,4:1,FC Wels,Österreich Regionalliga Mitte
+014,09.10.,19:00,AUT RLM,SC Kalsdorf,3:2,SV Ried II,Österreich Regionalliga Mitte
+015,09.10.,19:00,AUT RLM,SV Spittal/Drau,abgesagt,SV Allerheiligen,Österreich Regionalliga Mitte
+016,09.10.,19:00,AUT RLM,Union Vöcklamarkt,1:1,Deutschlandsberg,Österreich Regionalliga Mitte
+017,09.10.,19:00,GER 3,MSV Duisburg,abgesagt,FC Saarbrücken,Deutschland 3. Liga
+018,09.10.,19:15,EH AUT,EC Graz 99ers,7:5,HC Innsbruck,Österreich Eishockey Liga
+019,09.10.,19:15,EH AUT,Fehervar,4:4,EC Dornbirn,Österreich Eishockey Liga
+020,09.10.,19:15,EH AUT,Black Wings Linz,3:6,EC RB Salzburg,Österreich Eishockey Liga
+021,09.10.,19:30,AUT RLO,Wiener Sport-Club,0:1,FC Mauerwerk,Österreich Regionalliga Ost
+022,09.10.,19:30,AUT RLO,Marchfeld Donauaue,2:1,SC Team Wr. Linien,Österreich Regionalliga Ost
+023,09.10.,19:30,AUT RLO,FCM Traiskirchen,0:1,SV Stripfing,Österreich Regionalliga Ost
+024,09.10.,19:30,EH AUT,KAC Klagenfurt,3:1,Villacher SV,Österreich Eishockey Liga
+025,09.10.,20:00,INT FS,Marokko,3:1,Senegal,Internationale Freundschaftsspiele
+026,09.10.,20:00,U21 EMQ,Belgien U21,5:0,Wales U21,U21 EM Qualifikation
+027,09.10.,20:15,POL SC,Legia Warschau,0:0,Cracovia Krakau,Polen Supercup
+028,09.10.,20:30,INT FS,Nigeria,0:1,Algerien,Internationale Freundschaftsspiele
+029,09.10.,20:30,U21 EMQ,Portugal U21,4:1,Norwegen U21,U21 EM Qualifikation
+030,09.10.,20:45,ENG 1,Fleetwood Town,4:1,Hull City,England League One
+031,10.10.,01:30,WM Q,Kolumbien,3:0,Venezuela,"WM Qualifikation, CONMEBOL"
+032,10.10.,02:30,WM Q,Brasilien,5:0,Bolivien,"WM Qualifikation, CONMEBOL"
+033,10.10.,03:00,NBA,LA Lakers*,108:111,Miami Heat,USA NBA
+034,10.10.,13:00,ESP 2,CE Sabadell,0:2,CD Mirandes,Spanien Segunda Division
+035,10.10.,14:00,GER 3,FC Kaiserslautern,1:1,W. Mannheim,Deutschland 3. Liga
+036,10.10.,14:00,GER 3,TSV 1860 München,4:1,VfB Lübeck,Deutschland 3. Liga
+037,10.10.,14:00,GER 3,SC Verl,2:3,Hansa Rostock,Deutschland 3. Liga
+038,10.10.,14:00,GER 3,KFC Uerdingen 05,1:1,Bayern München Am.,Deutschland 3. Liga
+039,10.10.,14:00,GER 3,Türkgücü München,0:0,Wehen Wiesbaden,Deutschland 3. Liga
+040,10.10.,14:00,GER 3,Dynamo Dresden,1:0,FC Magdeburg,Deutschland 3. Liga
+041,10.10.,14:00,ENG 1,FC Gillingham,3:1,Oxford United,England League One
+042,10.10.,15:00,UEFA NL,Montenegro,2:0,Aserbaidschan,UEFA Nations League
+043,10.10.,15:00,UEFA NL,Luxemburg,2:0,Zypern,UEFA Nations League
+044,10.10.,15:00,CZE CUP,SK Lisen,abgesagt,FK Baumit Jablonec,Tschechien Cup
+045,10.10.,15:00,TEN WTA,"Swiatek, Iga",2:0,"Kenin, Sofia",Tennis WTA
+046,10.10.,16:00,ENG 1,Accrington Stanley,2:1,FC Rochdale,England League One
+047,10.10.,16:00,ENG 1,FC Crewe Alexandra,3:0,Wigan Athletic,England League One
+048,10.10.,16:00,ENG 1,FC Portsmouth,2:1,MK Dons,England League One
+049,10.10.,16:00,ENG 1,Lincoln City,1:2,Bristol Rovers,England League One
+050,10.10.,16:00,ENG 1,Northampton,0:2,Peterborough Utd.,England League One
+051,10.10.,16:00,ENG 1,Plymouth Argyle,2:0,Burton Albion,England League One
+052,10.10.,16:00,ENG 1,Swindon Town,0:1,AFC Wimbledon,England League One
+053,10.10.,16:00,ENG 1,FC Blackpool,1:4,Ipswich Town,England League One
+054,10.10.,16:00,ESP 2,Espanyol Barcelona,1:0,Alcorcon AD,Spanien Segunda Division
+055,10.10.,16:00,ESP 2,UD Logrones,1:0,UD Almeria,Spanien Segunda Division
+056,10.10.,17:00,HB AUT,SG Westwien,24:24,Bregenz Handball,Österreich HLA
+057,10.10.,18:00,UEFA NL,Liechtenstein,0:1,Gibraltar,UEFA Nations League
+058,10.10.,18:00,UEFA NL,Färöer Inseln,1:1,Lettland,UEFA Nations League
+059,10.10.,18:30,ESP 2,Teneriffa CD,1:0,Rayo Vallecano,Spanien Segunda Division
+060,10.10.,18:30,EH AUT,Bratislava Capital,abgesagt,EC Dornbirn,Österreich Eishockey Liga
+061,10.10.,19:45,EH AUT,HC Bozen Foxes,3:2,Vienna Capitals,Österreich Eishockey Liga
+062,10.10.,20:45,UEFA NL,Ukraine,1:2,Deutschland,UEFA Nations League
+063,10.10.,20:45,UEFA NL,Ukraine+1,2:2,Deutschland,UEFA Nations League
+064,10.10.,20:45,UEFA NL,Spanien,1:0,Schweiz,UEFA Nations League
+065,10.10.,20:45,UEFA NL,Spanien,1:1,Schweiz+1,UEFA Nations League
+066,10.10.,20:45,UEFA NL,Andorra,0:0,Malta,UEFA Nations League
+095,11.10.,12:00,ESP 2,CD Lugo,0:1,RCD Mallorca,Spanien Segunda Division
+067,11.10.,13:00,GER 3,Unterhaching,2:1,SV Meppen,Deutschland 3. Liga
+068,11.10.,14:00,GER 3,FC Viktoria Köln,2:0,FC Ingolstadt,Deutschland 3. Liga
+069,11.10.,15:00,UEFA NL,Irland,0:0,Wales,UEFA Nations League
+070,11.10.,15:00,UEFA NL,Kasachstan,0:0,Albanien,UEFA Nations League
+071,11.10.,15:10,TEN ATP,"Djokovic, Novak",0:3,"Nadal, Rafael",Tennis ATP
+101,11.10.,16:00,ESP 2,CD Leganes,0:1,FC Girona,Spanien Segunda Division
+072,11.10.,16:30,EH AUT,EC RB Salzburg,4:2,KAC Klagenfurt,Österreich Eishockey Liga
+073,11.10.,17:30,EH AUT,Villacher SV,2:6,EC Graz 99ers,Österreich Eishockey Liga
+074,11.10.,17:30,EH AUT,HC Innsbruck,1:6,Vienna Capitals,Österreich Eishockey Liga
+075,11.10.,18:00,UEFA NL,Bosnien-Herzegow.,0:0,Niederlande,UEFA Nations League
+076,11.10.,18:00,UEFA NL,England,2:1,Belgien,UEFA Nations League
+077,11.10.,18:00,UEFA NL,Kroatien,2:1,Schweden,UEFA Nations League
+078,11.10.,18:00,UEFA NL,Norwegen,4:0,Rumänien,UEFA Nations League
+079,11.10.,18:00,UEFA NL,Finnland,2:0,Bulgarien,UEFA Nations League
+080,11.10.,18:00,UEFA NL,Armenien*,2:2,Georgien,UEFA Nations League
+081,11.10.,18:00,UEFA NL,Estland,3:3,Nordmazedonien,UEFA Nations League
+082,11.10.,18:00,UEFA NL,Litauen,2:2,Weißrussland,UEFA Nations League
+111,11.10.,18:00,ESP 2,Real Saragossa,1:0,Albacete Balompie,Spanien Segunda Division
+083,11.10.,20:45,UEFA NL,Russland,1:1,Türkei,UEFA Nations League
+084,11.10.,20:45,UEFA NL,Island,0:3,Dänemark,UEFA Nations League
+085,11.10.,20:45,UEFA NL,Polen,0:0,Italien,UEFA Nations League
+086,11.10.,20:45,UEFA NL,Frankreich,0:0,Portugal,UEFA Nations League
+087,11.10.,20:45,UEFA NL,Israel,1:2,Tschechien,UEFA Nations League
+088,11.10.,20:45,UEFA NL,Schottland,1:0,Slowakei,UEFA Nations League
+089,11.10.,20:45,UEFA NL,Nordirland,0:1,Österreich,UEFA Nations League
+090,11.10.,20:45,UEFA NL,Nordirland+1,1:1,Österreich,UEFA Nations League
+091,11.10.,20:45,UEFA NL,Serbien,0:1,Ungarn,UEFA Nations League
+092,11.10.,20:45,UEFA NL,Griechenland,2:0,Moldawien,UEFA Nations League
+093,11.10.,20:45,UEFA NL,Kosovo,0:1,Slowenien,UEFA Nations League
+094,11.10.,22:25,NFL,Cleveland Browns,32:23,Indianapolis Colts,USA NFL
+096,12.10.,18:00,KHL,Torp. Nowgorod,3:2,Sibir Nowosibirsk,Kontinental Hockey League
+097,12.10.,18:30,KHL,Spartak Moskau,6:4,HC Red Star Kunlun,Kontinental Hockey League
+098,12.10.,18:30,KHL,SKA St. Petersburg,3:4,Dynamo Moskau,Kontinental Hockey League
+099,12.10.,18:30,KHL,HC Vityaz Podolsk,6:3,Amur Chabarowsk,Kontinental Hockey League
+100,12.10.,18:30,KHL,HC Sochi,2:7,Avangard Omsk,Kontinental Hockey League
+102,12.10.,18:30,ROU 2,AFC Turris-Oltul,1:4,FC Univ. Cluj,"Rumänien, Liga 2"
+103,12.10.,19:00,GER 3,Hallescher FC,0:2,FSV Zwickau,Deutschland 3. Liga
+104,12.10.,19:00,GER 3,Hallescher FC,0:3,FSV Zwickau+1,Deutschland 3. Liga
+105,12.10.,19:00,FRA 3,SC Bastia,abgesagt,Stade Laval,Frankreich National
+106,12.10.,19:00,SWE 2,AFC Eskilstuna,1:0,Örgryte Göteborg,Schweden Superettan
+107,12.10.,19:00,SWE 3S,Qviding FIF,1:2,IFK Värnamo,Schweden Div 1 Södra
+108,12.10.,20:00,NL 2,FC Den Bosch,1:2,Helmond Sport,Niederlande Jupiler League
+109,12.10.,20:00,EGY 1,Haras El Hodood,1:2,El Zamalek,Ägypten Premier League
+110,12.10.,21:00,U21 EMQ,Frankreich U21,1:0,Slowakei U21,U21 EM Qualifikation
+112,12.10.,21:00,ITA C1A,Alessandria Calcio,1:2,Novara Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+113,13.10.,02:15,NFL,N. Orleans Saints,27:27,LA Chargers,USA NFL
+114,13.10.,20:45,UEFA NL,Deutschland,3:3,Schweiz,UEFA Nations League
+115,14.10.,20:45,UEFA NL,Rumänien,0:1,Österreich,UEFA Nations League
+116,14.10.,20:45,UEFA NL,Italien,1:1,Niederlande,UEFA Nations League
+117,14.10.,20:45,UEFA NL,England,0:1,Dänemark,UEFA Nations League
+118,14.10.,20:45,UEFA NL,Kroatien,1:2,Frankreich,UEFA Nations League
+119,14.10.,20:45,UEFA NL,Norwegen,1:0,Nordirland,UEFA Nations League

@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,21.02.,18:00,TUR 1,Sivasspor,1:0,Alanyaspor,Türkei Süper Lig
+002,21.02.,18:00,POL 1,LKS Lodz,0:0,Pogon Szczecin,Polen Orange Ekstraklasa
+003,21.02.,18:30,GER 2,VfL Osnabrück,0:0,Erzgebirge Aue,Deutschland 2. Bundesliga
+004,21.02.,18:30,GER 2,Wehen Wiesbaden,1:1,Greuther Fürth,Deutschland 2. Bundesliga
+005,21.02.,19:00,FRA 1,OGC Nizza,2:2,Stade Brest,Frankreich Ligue 1
+006,21.02.,19:00,DEN 1,Hobro IK,0:2,FC Midtjylland,Dänemark Superligaen
+007,21.02.,19:00,HB AUT,SC Ferlach,31:34,Fivers Margareten,Österreich HLA
+008,21.02.,19:10,AUT 2,FC Juniors OÖ,1:2,SV Lafnitz,Österreich Zweite Liga
+009,21.02.,19:10,AUT 2,Austria Klagenfurt,1:1,SV Ried,Österreich Zweite Liga
+010,21.02.,19:10,AUT 2,SKU Amstetten,1:1,FC Liefering,Österreich Zweite Liga
+011,21.02.,19:10,AUT 2,SV Horn,2:2,Young Violets A.W.,Österreich Zweite Liga
+012,21.02.,19:10,AUT 2,Austria Lustenau,4:1,FC Dornbirn,Österreich Zweite Liga
+013,21.02.,19:10,AUT 2,Kapfenberger SV,1:1,BW Linz,Österreich Zweite Liga
+014,21.02.,19:15,EH AUT,Villacher SV,1:1,HC Znojmo,Österreich Eishockey Liga
+015,21.02.,19:15,EH AUT,Black Wings Linz,5:3,EC Dornbirn,Österreich Eishockey Liga
+016,21.02.,19:15,EH AUT,HC Innsbruck,5:2,Fehervar,Österreich Eishockey Liga
+017,21.02.,19:15,EH AUT,EC Graz 99ers,2:5,KAC Klagenfurt,Österreich Eishockey Liga
+018,21.02.,19:45,EH AUT,HC Bozen Foxes,3:1,EC RB Salzburg,Österreich Eishockey Liga
+019,21.02.,20:00,NL 1,RKC Waalwijk,0:1,Sparta Rotterdam,Niederlande Eredivisie
+020,21.02.,20:30,GER BL,FC Bayern München,3:2,SC Paderborn,Deutschland Bundesliga
+021,21.02.,20:30,GER BL,FC Bayern München,3:5,SC Paderborn+3,Deutschland Bundesliga
+022,21.02.,20:30,BEL 1,KV Kortrijk,0:1,KRC Genk,Belgien Jupiler Pro League
+023,21.02.,20:30,POL 1,Slask Wroclaw,2:1,Gornik Zabrze,Polen Orange Ekstraklasa
+024,21.02.,20:45,ENG CS,Derby County,1:1,FC Fulham,England Championship
+025,21.02.,20:45,ITA A,Brescia Calcio,1:2,SSC Napoli,Italien Serie A
+026,21.02.,20:45,FRA 1,FC Metz,0:2,Olympique Lyon,Frankreich Ligue 1
+027,21.02.,20:45,SCO PS,FC St. Mirren,abgesagt,Heart of Midl.,Schottland Premiership
+028,21.02.,21:00,ESP 1,Betis Sevilla,3:3,RCD Mallorca,Spanien Primera Division
+029,21.02.,21:00,ESP 2,Sporting Gijon,1:0,Cadiz CF,Spanien Segunda Division
+030,21.02.,21:30,POR 1,CD Aves,0:2,Vitoria Guimaraes,Portugal Primeira Liga
+031,22.02.,13:00,GER 2,VfB Stuttgart,2:0,Jahn Regensburg,Deutschland 2. Bundesliga
+032,22.02.,13:00,GER 2,Hamburger SV,0:2,FC St. Pauli,Deutschland 2. Bundesliga
+033,22.02.,13:00,GER 2,Holstein Kiel,0:1,FC Heidenheim,Deutschland 2. Bundesliga
+034,22.02.,13:00,GER 2,Dynamo Dresden,1:2,VfL Bochum,Deutschland 2. Bundesliga
+035,22.02.,13:00,ESP 1,Celta de Vigo,1:0,CD Leganes,Spanien Primera Division
+036,22.02.,13:30,ENG PL,FC Chelsea,2:1,Tottenham,England Premier League
+037,22.02.,15:00,ITA A,Bologna FC,1:1,Udinese Calcio,Italien Serie A
+038,22.02.,15:30,GER BL,Mönchengladbach,1:1,TSG Hoffenheim,Deutschland Bundesliga
+039,22.02.,15:30,GER BL,Werder Bremen,0:2,Bor. Dortmund,Deutschland Bundesliga
+040,22.02.,15:30,GER BL,Hertha BSC,0:5,1. FC Köln,Deutschland Bundesliga
+041,22.02.,15:30,GER BL,SC Freiburg,0:2,Fortuna Düsseldorf,Deutschland Bundesliga
+042,22.02.,16:00,ENG PL,FC Burnley,3:0,AFC Bournemouth,England Premier League
+043,22.02.,16:00,ENG PL,Crystal Palace,1:0,Newcastle United,England Premier League
+044,22.02.,16:00,ENG PL,Sheffield United,1:1,Brighton & Hove,England Premier League
+045,22.02.,16:00,ENG PL,FC Southampton,2:0,Aston Villa,England Premier League
+046,22.02.,16:00,ESP 1,FC Barcelona,5:0,SD Eibar,Spanien Primera Division
+047,22.02.,17:00,AUT BL,SV Mattersburg,0:0,SCR Altach,Österreich Bundesliga
+048,22.02.,17:00,AUT BL,Admira Wacker,0:2,SK Sturm Graz,Österreich Bundesliga
+049,22.02.,17:00,AUT BL,WSG Swarovs. Tirol,2:0,Wolfsberger AC,Österreich Bundesliga
+050,22.02.,17:30,FRA 1,Olymp. Marseille,1:3,FC Nantes,Frankreich Ligue 1
+051,22.02.,18:00,ITA A,Spal Ferrara,1:2,Juventus Turin,Italien Serie A
+052,22.02.,18:00,TUR 1,Besiktas Istanbul,2:2,Trabzonspor,Türkei Süper Lig
+053,22.02.,18:00,BEL 1,Standard Lüttich,1:0,FC Royal Antwerpen,Belgien Jupiler Pro League
+054,22.02.,18:00,HB AUT,Handball Tirol,22:24,Alpla HC Hard,Österreich HLA
+055,22.02.,18:30,GER BL,FC Schalke 04,0:5,RB Leipzig,Deutschland Bundesliga
+056,22.02.,18:30,ENG PL,Leicester City,0:1,Manchester City,England Premier League
+057,22.02.,18:30,ESP 1,Real Sociedad,3:0,FC Valencia,Spanien Primera Division
+058,22.02.,20:00,FRA 1,Lille OSC,3:0,FC Toulouse,Frankreich Ligue 1
+059,22.02.,20:00,FRA 1,Dijon Football,1:1,AS Monaco,Frankreich Ligue 1
+060,22.02.,20:00,FRA 1,Racing Strasbourg,0:0,Amiens SC,Frankreich Ligue 1
+061,22.02.,20:00,FRA 1,SCO Angers,1:0,HSC Montpellier,Frankreich Ligue 1
+062,22.02.,20:20,HB AUT,HC Linz AG,29:30,SG Westwien,Österreich HLA
+063,22.02.,20:45,ITA A,AC Fiorentina,1:1,AC Milan,Italien Serie A
+064,22.02.,21:00,ESP 1,Levante UD,1:0,Real Madrid,Spanien Primera Division
+065,23.02.,10:30,AUT 2,Grazer AK,1:2,Floridsdorfer AC,Österreich Zweite Liga
+066,23.02.,12:00,ESP 1,CA Osasuna,0:3,Granada CF,Spanien Primera Division
+067,23.02.,12:30,AUT 2,Wacker Innsbruck,1:1,SK Vorwärts Steyr,Österreich Zweite Liga
+068,23.02.,12:30,ITA A,FC Genua,2:3,Lazio Rom,Italien Serie A
+069,23.02.,13:30,GER 2,1. FC Nürnberg,1:2,SV Darmstadt 98,Deutschland 2. Bundesliga
+071,23.02.,13:30,GER 2,SV Sandhausen,0:2,Karlsruher SC,Deutschland 2. Bundesliga
+070,23.02.,14:00,GER 2,Arminia Bielefeld,1:0,Hannover 96,Deutschland 2. Bundesliga
+072,23.02.,14:00,ESP 1,CD Alaves,2:1,Athletic Bilbao,Spanien Primera Division
+073,23.02.,14:30,AUT BL,LASK Linz,4:1,SKN St. Pölten,Österreich Bundesliga
+074,23.02.,14:30,AUT BL,TSV Hartberg,2:2,SK Rapid Wien,Österreich Bundesliga
+075,23.02.,15:00,ENG PL,Manchester United,3:0,FC Watford,England Premier League
+076,23.02.,15:00,ENG PL,Wolverhampton,3:0,Norwich City,England Premier League
+077,23.02.,15:00,ITA A,Hellas Verona,abgesagt,Cagliari Calcio,Italien Serie A
+078,23.02.,15:00,ITA A,Atalanta Bergamo,abgesagt,US Sassuolo,Italien Serie A
+079,23.02.,15:00,ITA A,FC Torino,abgesagt,FC Parma,Italien Serie A
+080,23.02.,15:00,FRA 1,AS Saint Etienne,1:1,Stade de Reims,Frankreich Ligue 1
+081,23.02.,15:30,GER BL,Bayer Leverkusen,2:0,FC Augsburg,Deutschland Bundesliga
+082,23.02.,16:00,ESP 1,Real Valladolid,2:1,Espanyol Barcelona,Spanien Primera Division
+083,23.02.,16:00,SUI SL,FC Basel,2:2,FC Servette Genf,Schweiz Axpo Super League
+084,23.02.,16:00,SUI SL,FC St. Gallen,3:3,Young Boys Bern,Schweiz Axpo Super League
+086,23.02.,17:00,AUT BL,FK Austria Wien,2:2,RB Salzburg,Österreich Bundesliga
+087,23.02.,17:00,AUT BL,FK Austria Wien+1,3:2,RB Salzburg,Österreich Bundesliga
+088,23.02.,17:00,FRA 1,Stade Rennes,2:1,Olympique Nimes,Frankreich Ligue 1
+089,23.02.,17:00,TUR 1,Fenerbahce,1:3,Galatasaray,Türkei Süper Lig
+085,23.02.,17:30,EH AUT,EC RB Salzburg,1:6,Vienna Capitals,Österreich Eishockey Liga
+090,23.02.,17:30,ENG PL,FC Arsenal,3:2,FC Everton,England Premier League
+091,23.02.,17:30,EH AUT,EC Dornbirn,1:1,HC Innsbruck,Österreich Eishockey Liga
+092,23.02.,17:30,EH AUT,HC Znojmo,6:4,Black Wings Linz,Österreich Eishockey Liga
+093,23.02.,17:30,EH AUT,Fehervar,3:3,Villacher SV,Österreich Eishockey Liga
+094,23.02.,18:00,EH AUT,HC Bozen Foxes,5:2,EC Graz 99ers,Österreich Eishockey Liga
+095,23.02.,18:00,GER BL,VfL Wolfsburg,4:0,FSV Mainz 05,Deutschland Bundesliga
+096,23.02.,18:00,ITA A,AS Roma,4:0,US Lecce,Italien Serie A
+097,23.02.,18:30,ESP 1,Getafe CF,0:3,FC Sevilla,Spanien Primera Division
+098,23.02.,18:30,POR 1,Sporting Lissabon,2:0,Boavista FC,Portugal Primeira Liga
+099,23.02.,20:45,ITA A,Inter Mailand,abgesagt,Sampdoria Genua,Italien Serie A
+100,23.02.,21:00,ESP 1,Atletico Madrid,3:1,Villarreal CF,Spanien Primera Division
+101,23.02.,21:00,FRA 1,Paris SG,4:3,Bordeaux,Frankreich Ligue 1
+102,23.02.,21:00,POR 1,Sporting Braga,3:1,Vitoria Setubal,Portugal Primeira Liga
+103,24.02.,18:00,TUR 1,Caykur Rizespor,1:2,Istanbul Basakseh.,Türkei Süper Lig
+104,24.02.,18:00,TUR 1,Kasimpasa,2:0,Denizlispor,Türkei Süper Lig
+105,24.02.,18:00,CZE 1,FC Banik Ostrava,1:1,FK Baumit Jablonec,Tschechien Gambrinus Liga
+106,24.02.,18:30,EGY 1,Al Ahly Cairo,abgesagt,El Zamalek,Ägypten Premier League
+107,24.02.,19:00,GER 3,Chemnitzer FC,1:0,Bayern München Am.,Deutschland 3. Liga
+108,24.02.,19:00,DEN 1,AC Horsens,1:2,AGF Aarhus,Dänemark Superligaen
+109,24.02.,19:00,ROU 1,FC Botosani,2:1,CSMS Iasi,Rumänien Liga 1
+110,24.02.,19:00,SWE CUP,Hammarby IF,5:1,Varbergs BoIS,Schweden Cup
+111,24.02.,19:00,SWE CUP,GIF Sundsvall,2:2,IF Brommapojkarna,Schweden Cup
+112,24.02.,19:15,ISR 1,Maccabi Tel Aviv,3:0,Hapoel Tel Aviv,Israel Winner League
+113,24.02.,20:30,GER BL,Eintr. Frankfurt,1:2,FC Union Berlin,Deutschland Bundesliga
+114,24.02.,20:30,GER BL,Eintr. Frankfurt,1:3,FC Union Berlin+1,Deutschland Bundesliga
+115,24.02.,20:30,POR 1,Gil Vicente FC,0:1,Benfica Lissabon,Portugal Primeira Liga
+116,24.02.,20:45,ITA C1A,Pro Vercelli,abgesagt,Novara Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+117,24.02.,20:45,FRA 2,Troyes AC,3:1,AJ Auxerre,Frankreich Ligue 2
+118,24.02.,21:00,ENG PL,FC Liverpool,3:2,West Ham United,England Premier League
+119,24.02.,21:00,ITA B,Perugia Calcio,0:1,FC Empoli,Italien Serie B
+120,24.02.,23:40,ARG 1,Defensa y Justicia,3:0,CA Rosario Central,Argentinien Primera Division

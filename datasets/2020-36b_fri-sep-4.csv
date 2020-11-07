@@ -1,0 +1,120 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+005,04.09.,18:00,UEFA NL,Litauen,0:2,Kasachstan,UEFA Nations League
+006,04.09.,18:00,U21 EMQ,Russland U21,2:0,Bulgarien U21,U21 EM Qualifikation
+007,04.09.,18:00,U21 EMQ,Dänemark U21,1:1,Ukraine U21,U21 EM Qualifikation
+008,04.09.,18:00,U21 EMQ,Finnland U21,1:3,Rumänien U21,U21 EM Qualifikation
+002,04.09.,18:25,TEN ATP,"Krajinovic, Filip",0:3,"Goffin, David",Tennis ATP
+009,04.09.,18:30,U21 EMQ,Island U21,1:0,Schweden U21,U21 EM Qualifikation
+010,04.09.,18:30,U21 EMQ,Österreich U21,1:5,Albanien U21,U21 EM Qualifikation
+011,04.09.,18:30,ENG LC,FC Middlesbrough,4:3,Shrewsbury Town,England Liga Cup
+012,04.09.,19:00,U21 EMQ,Schweiz U21,4:1,Slowakei U21,U21 EM Qualifikation
+013,04.09.,19:00,U21 EMQ,Kosovo U21,0:6,England U21,U21 EM Qualifikation
+014,04.09.,19:00,AUT RLM,Deutschlandsberg,abgesagt,Bad Gleichenberg,Österreich Regionalliga Mitte
+015,04.09.,19:30,AUT RLO,Wiener Sport-Club,2:1,Bruck/Leitha,Österreich Regionalliga Ost
+016,04.09.,20:30,ENG LC,Burton Albion,1:1,Accrington Stanley,England Liga Cup
+017,04.09.,20:45,UEFA NL,Italien,1:1,Bosnien-Herzegow.,UEFA Nations League
+018,04.09.,20:45,UEFA NL,Italien,1:2,Bosnien-Herzegow+1,UEFA Nations League
+019,04.09.,20:45,UEFA NL,Niederlande,1:0,Polen,UEFA Nations League
+020,04.09.,20:45,UEFA NL,Niederlande,1:1,Polen+1,UEFA Nations League
+021,04.09.,20:45,UEFA NL,Norwegen,1:2,Österreich,UEFA Nations League
+022,04.09.,20:45,UEFA NL,Norwegen,1:3,Österreich+1,UEFA Nations League
+023,04.09.,20:45,UEFA NL,Norwegen+1,2:2,Österreich,UEFA Nations League
+024,04.09.,20:45,UEFA NL,Rumänien,1:1,Nordirland,UEFA Nations League
+025,04.09.,20:45,UEFA NL,Rumänien,1:2,Nordirland+1,UEFA Nations League
+026,04.09.,20:45,UEFA NL,Schottland,1:1,Israel,UEFA Nations League
+027,04.09.,20:45,UEFA NL,Schottland,1:2,Israel+1,UEFA Nations League
+028,04.09.,20:45,UEFA NL,Slowakei,1:3,Tschechien,UEFA Nations League
+029,04.09.,20:45,UEFA NL,Slowakei+1,2:3,Tschechien,UEFA Nations League
+030,04.09.,20:45,UEFA NL,Weißrussland,0:2,Albanien,UEFA Nations League
+004,04.09.,20:55,TEN ATP,"Shapovalov, Denis",3:2,"Fritz, Taylor",Tennis ATP
+001,04.09.,23:00,TEN ATP,"Mannarino, Adrian",1:3,"Zverev, Alexander",Tennis ATP
+003,05.09.,02:20,TEN ATP,"Tsitsipas, Stefan.",2:3,"Coric, Borna",Tennis ATP
+031,05.09.,13:00,ENG LC,Derby County,0:0,FC Barrow,England Liga Cup
+032,05.09.,13:30,ENG LC,Plymouth Argyle,3:2,Queens Park R.,England Liga Cup
+033,05.09.,14:00,ENG LC,FC Gillingham,1:0,Southend United,England Liga Cup
+034,05.09.,14:00,ENG LC,Crawley Town,1:3,FC Millwall,England Liga Cup
+035,05.09.,15:00,UEFA NL,Nordmazedonien,2:1,Armenien,UEFA Nations League
+036,05.09.,15:00,UEFA NL,Gibraltar,1:0,San Marino,UEFA Nations League
+037,05.09.,15:00,ENG LC,Bristol City,2:0,Exeter City,England Liga Cup
+038,05.09.,15:15,ENG LC,FC Walsall,0:0,Sheffield Wednes.,England Liga Cup
+039,05.09.,16:00,ENG LC,FC Barnsley,1:0,Nottingham Forest,England Liga Cup
+040,05.09.,16:00,ENG LC,FC Crewe Alexandra,1:2,Lincoln City,England Liga Cup
+041,05.09.,16:00,ENG LC,MK Dons,0:1,Coventry City,England Liga Cup
+042,05.09.,16:00,ENG LC,FC Reading,3:1,Colchester United,England Liga Cup
+043,05.09.,16:00,ENG LC,Tranmere Rovers,1:1,Harrogate Town,England Liga Cup
+044,05.09.,16:00,ENG LC,Bolton Wanderers,1:2,Bradford City FC,England Liga Cup
+045,05.09.,16:00,ENG LC,Forest Green,1:2,Leyton Orient,England Liga Cup
+046,05.09.,16:00,ENG LC,Northampton,3:0,Cardiff City,England Liga Cup
+047,05.09.,16:00,ENG LC,Scunthorpe United,1:2,Port Vale FC,England Liga Cup
+048,05.09.,16:00,ENG LC,Ipswich Town,3:0,Bristol Rovers,England Liga Cup
+049,05.09.,16:00,ENG LC,Peterborough Utd.,0:1,Cheltenham Town,England Liga Cup
+050,05.09.,16:00,ENG LC,AFC Sunderland,0:0,Hull City,England Liga Cup
+051,05.09.,16:00,ENG LC,Birmingham City,0:1,Cambridge United,England Liga Cup
+052,05.09.,16:00,ENG LC,FC Rochdale*,abgesagt,Huddersfield Town,England Liga Cup
+053,05.09.,16:00,ENG LC,Oldham Athletic,3:0,Carlisle United,England Liga Cup
+054,05.09.,16:00,ENG LC,Luton Town,3:1,Norwich City,England Liga Cup
+055,05.09.,16:00,ENG LC,Swindon Town,1:3,Charlton Athletic,England Liga Cup
+056,05.09.,16:00,ENG LC,Newport County,2:0,Swansea City,England Liga Cup
+057,05.09.,16:00,ENG LC,Salford City,1:1,Rotherham United,England Liga Cup
+058,05.09.,16:00,ENG LC,Grimsby Town,1:1,FC Morecambe,England Liga Cup
+059,05.09.,16:00,ENG LC,Oxford United,1:1,AFC Wimbledon,England Liga Cup
+060,05.09.,18:00,UEFA NL,Island,0:1,England,UEFA Nations League
+061,05.09.,18:00,UEFA NL,Zypern,0:2,Montenegro,UEFA Nations League
+062,05.09.,18:00,UEFA NL,Aserbaidschan,1:2,Luxemburg,UEFA Nations League
+063,05.09.,18:00,UEFA NL,Estland,0:1,Georgien,UEFA Nations League
+064,05.09.,20:20,HB EHF,Fivers AUT,38:34,SL Benfica,"EHF Cup, Herren"
+065,05.09.,20:45,UEFA NL,Dänemark,0:2,Belgien,UEFA Nations League
+066,05.09.,20:45,UEFA NL,Dänemark+1,1:2,Belgien,UEFA Nations League
+067,05.09.,20:45,UEFA NL,Portugal,4:1,Kroatien,UEFA Nations League
+068,05.09.,20:45,UEFA NL,Portugal,4:2,Kroatien+1,UEFA Nations League
+069,05.09.,20:45,UEFA NL,Schweden,0:1,Frankreich,UEFA Nations League
+070,05.09.,20:45,UEFA NL,Schweden+1,1:1,Frankreich,UEFA Nations League
+071,06.09.,13:00,ENG LC,FC Brentford,1:1,Wycombe Wanderers,England Liga Cup
+072,06.09.,15:00,UEFA NL,Wales,1:0,Bulgarien,UEFA Nations League
+073,06.09.,15:00,UEFA NL,Andorra,0:1,Färöer Inseln,UEFA Nations League
+074,06.09.,16:00,BRA 1,RB Bragantino SP,1:2,SE Palmeiras SP,Brasilien Brasilero Serie A
+075,06.09.,17:30,SWE 2,Vasteraas SK,1:0,Dalkurd FF,Schweden Superettan
+076,06.09.,17:30,FIN 2,FF Jaro,2:2,IF Gnistan,Finnland Ykkonen
+077,06.09.,18:00,UEFA NL,Ungarn,2:3,Russland,UEFA Nations League
+078,06.09.,18:00,UEFA NL,Irland,0:1,Finnland,UEFA Nations League
+079,06.09.,18:00,UEFA NL,Slowenien,1:0,Moldawien,UEFA Nations League
+080,06.09.,20:45,UEFA NL,Schweiz,1:1,Deutschland,UEFA Nations League
+081,06.09.,20:45,UEFA NL,Schweiz+1,2:1,Deutschland,UEFA Nations League
+082,06.09.,20:45,UEFA NL,Spanien,4:0,Ukraine,UEFA Nations League
+083,06.09.,20:45,UEFA NL,Spanien,4:1,Ukraine+1,UEFA Nations League
+084,06.09.,20:45,UEFA NL,Serbien,0:0,Türkei,UEFA Nations League
+085,06.09.,20:45,UEFA NL,Serbien,0:1,Türkei+1,UEFA Nations League
+086,06.09.,20:45,UEFA NL,Kosovo,1:2,Griechenland,UEFA Nations League
+087,06.09.,20:45,UEFA NL,Malta,1:1,Lettland,UEFA Nations League
+088,06.09.,21:00,BRA 1,Sao Paulo SP,3:1,Fluminense RJ,Brasilien Brasilero Serie A
+089,06.09.,21:00,BRA 1,Internacional RS,2:2,EC Bahia BA,Brasilien Brasilero Serie A
+090,06.09.,23:00,BRA 1,Vasco Da Gama RJ,1:0,Atletico PR,Brasilien Brasilero Serie A
+091,07.09.,16:00,UEFA NL,Kasachstan,1:2,Weißrussland,UEFA Nations League
+092,07.09.,17:30,FIN 2,FC KTP,4:0,SJK Akatemia,Finnland Ykkonen
+093,07.09.,18:00,U21 EMQ,Tschechien U21,0:0,Kroatien U21,U21 EM Qualifikation
+094,07.09.,18:00,KHL,Sev. Cherepovets,2:1,Sibir Nowosibirsk,Kontinental Hockey League
+095,07.09.,18:00,KHL,Dynamo Moskau,1:3,Spartak Moskau,Kontinental Hockey League
+096,07.09.,18:10,KHL,HK Dinamo Minsk,3:4,Salavat Yulaev Ufa,Kontinental Hockey League
+097,07.09.,18:30,KHL,HK CSKA Moskau,3:1,HC Barys,Kontinental Hockey League
+098,07.09.,18:30,KHL,Avangard Omsk,8:2,Amur Chabarowsk,Kontinental Hockey League
+099,07.09.,19:00,SWE 2,Halmstads BK,1:4,Degerfors IF,Schweden Superettan
+100,07.09.,19:30,ISL 2,Thor Akureyri,1:3,Keflavik IF,Island 2. Liga
+101,07.09.,20:00,FRA 3,FC Bastia Borgo,abgesagt,Boulogne Sur Mer,Frankreich National
+102,07.09.,20:00,FRA 3,US Orleans 45,abgesagt,Avranches,Frankreich National
+105,07.09.,20:15,PER 1,Universitario Dep.,3:2,Ali.Univ. Huanuco,Peru Primera Division
+104,07.09.,20:45,IRL 1,FC Sligo Rovers,3:1,FC Finn Harps,Irland Premier Division
+106,07.09.,20:45,UEFA NL,Österreich,2:3,Rumänien,UEFA Nations League
+107,07.09.,20:45,UEFA NL,Österreich,2:4,Rumänien+1,UEFA Nations League
+108,07.09.,20:45,UEFA NL,Nordirland,1:5,Norwegen,UEFA Nations League
+109,07.09.,20:45,UEFA NL,Niederlande,0:1,Italien,UEFA Nations League
+110,07.09.,20:45,UEFA NL,Niederlande,0:2,Italien+1,UEFA Nations League
+111,07.09.,20:45,UEFA NL,Bosnien-Herzegow.,1:2,Polen,UEFA Nations League
+112,07.09.,20:45,UEFA NL,Tschechien,1:2,Schottland,UEFA Nations League
+113,07.09.,20:45,UEFA NL,Tschechien,1:3,Schottland+1,UEFA Nations League
+114,07.09.,20:45,UEFA NL,Israel,1:1,Slowakei,UEFA Nations League
+115,07.09.,20:45,UEFA NL,Albanien,0:1,Litauen,UEFA Nations League
+103,07.09.,21:00,FRA 3,Le Mans UC 72,1:3,SC Bastia,Frankreich National
+116,08.09.,20:45,UEFA NL,Belgien,5:1,Island,UEFA Nations League
+117,08.09.,20:45,UEFA NL,Dänemark,0:0,England,UEFA Nations League
+118,08.09.,20:45,UEFA NL,Frankreich,4:2,Kroatien,UEFA Nations League
+119,08.09.,20:45,UEFA NL,Schweden,0:2,Portugal,UEFA Nations League

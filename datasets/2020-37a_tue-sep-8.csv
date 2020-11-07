@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,08.09.,16:00,U21 EMQ,Belgien U21,4:1,Deutschland U21,U21 EM Qualifikation
+002,08.09.,16:00,U21 EMQ,Belgien U21+1,5:1,Deutschland U21,U21 EM Qualifikation
+003,08.09.,17:30,U21 EMQ,Litauen U21,0:1,Schottland U21,U21 EM Qualifikation
+004,08.09.,18:00,U21 EMQ,Polen U21,1:0,Russland U21,U21 EM Qualifikation
+005,08.09.,18:00,U21 EMQ,Nordirland U21,0:1,Dänemark U21,U21 EM Qualifikation
+006,08.09.,18:00,U21 EMQ,Finnland U21,0:2,Ukraine U21,U21 EM Qualifikation
+007,08.09.,18:00,U21 EMQ,Moldawien U21,1:1,Bosnien-Herz. U21,U21 EM Qualifikation
+008,08.09.,18:00,UEFA NL,Georgien,1:1,Nordmazedonien,UEFA Nations League
+009,08.09.,18:00,UEFA NL,Armenien,2:0,Estland,UEFA Nations League
+010,08.09.,18:00,TEN WTA,"Brady, Jennifer",2:0,"Putintseva, Yulia",Tennis WTA
+012,08.09.,18:30,ENG LTR,FC Gillingham,2:1,Crawley Town,England Football League Trophy
+013,08.09.,18:30,U21 EMQ,Schweden U21,3:0,Italien U21,U21 EM Qualifikation
+014,08.09.,18:40,U21 EMQ,Israel U21,1:2,Kasachstan U21,U21 EM Qualifikation
+015,08.09.,19:00,AUT RLO,FCM Traiskirchen,3:1,Admira Amateure,Österreich Regionalliga Ost
+016,08.09.,19:00,AUT RLO,SC Team Wr. Linien,abgesagt,FC Mauerwerk,Österreich Regionalliga Ost
+017,08.09.,19:00,AUT RLM,Union Vöcklamarkt,0:3,Union Gurten,Österreich Regionalliga Mitte
+018,08.09.,19:00,AUT CUP,FC Deutschkreutz,0:3,SC Wiener Neustadt,Österreich ÖFB Cup
+025,08.09.,19:30,TEN ATP,"Coric, Borna",1:3,"Zverev, Alexander",Tennis ATP
+019,08.09.,20:00,U21 EMQ,Serbien U21,1:2,Bulgarien U21,U21 EM Qualifikation
+020,08.09.,20:00,U21 EMQ,Niederlande U21,2:0,Norwegen U21,U21 EM Qualifikation
+021,08.09.,20:00,ENG LTR,Bolton Wanderers,2:3,FC Crewe Alexandra,England Football League Trophy
+022,08.09.,20:00,ENG LTR,Port Vale FC,0:0,Tranmere Rovers,England Football League Trophy
+023,08.09.,20:00,ENG LTR,FC Blackpool,0:0,FC Barrow,England Football League Trophy
+024,08.09.,20:00,ENG LTR,FC Portsmouth,2:0,Colchester United,England Football League Trophy
+027,08.09.,20:15,U21 EMQ,Slowakei U21,1:2,Schweiz U21,U21 EM Qualifikation
+028,08.09.,20:30,U21 EMQ,Österreich U21,1:2,England U21,U21 EM Qualifikation
+029,08.09.,20:30,U21 EMQ,Österreich U21+1,2:2,England U21,U21 EM Qualifikation
+030,08.09.,20:30,ENG LTR,Doncaster Rovers,0:0,Bradford City FC,England Football League Trophy
+031,08.09.,20:45,UEFA NL,Frankreich,4:2,Kroatien,UEFA Nations League
+032,08.09.,20:45,UEFA NL,Frankreich,4:3,Kroatien+1,UEFA Nations League
+033,08.09.,20:45,UEFA NL,Dänemark,0:0,England,UEFA Nations League
+034,08.09.,20:45,UEFA NL,Dänemark+1,1:0,England,UEFA Nations League
+035,08.09.,20:45,UEFA NL,Schweden,0:2,Portugal,UEFA Nations League
+036,08.09.,20:45,UEFA NL,Schweden+1,1:2,Portugal,UEFA Nations League
+037,08.09.,20:45,UEFA NL,Belgien,5:1,Island,UEFA Nations League
+038,08.09.,20:45,UEFA NL,Belgien,5:3,Island+2,UEFA Nations League
+039,08.09.,20:45,UEFA NL,Luxemburg,0:1,Montenegro,UEFA Nations League
+040,08.09.,20:45,UEFA NL,Zypern,0:1,Aserbaidschan,UEFA Nations League
+041,08.09.,20:45,UEFA NL,San Marino,0:2,Liechtenstein,UEFA Nations League
+011,09.09.,01:00,TEN WTA,"Osaka, Naomi",2:0,"Rogers, Shelby",Tennis WTA
+042,09.09.,02:00,NHL,Vegas G.Knights*,3:0,Dallas Stars,USA NHL
+026,09.09.,02:45,TEN ATP,"Carreno-Busta, Pa.",3:2,"Shapovalov, Denis",Tennis ATP
+043,09.09.,11:00,RUS 2,Energ. Khabarovsk,2:0,Akron Tolyatti,Russland 1. Division
+044,09.09.,11:30,RUS 2,FC Irtysh Omsk,0:2,Alania Vladikavkaz,Russland 1. Division
+046,09.09.,11:30,JPN 1,Kawasaki Frontale,3:2,Vissel Kobe,Japan J.League
+045,09.09.,12:00,CHN SL,Guangzhou Ev.,2:0,Shenzhen FC,China Chinese Super League
+047,09.09.,12:00,JPN 1,Kashima Antlers,2:1,Vegalta Sendai,Japan J.League
+048,09.09.,12:00,JPN 1,FC Tokyo,2:1,Yokohama FC,Japan J.League
+049,09.09.,12:00,JPN 1,Sanfr. Hiroshima,4:1,Shimizu S-Pulse,Japan J.League
+050,09.09.,12:00,JPN 1,Kashiwa Reysol,3:0,Gamba Osaka,Japan J.League
+051,09.09.,12:00,JPN 1,Oita Trinita,2:2,Shonan Bellmare,Japan J.League
+052,09.09.,12:30,JPN 1,Urawa RD,2:2,Sagan Tosu,Japan J.League
+053,09.09.,12:30,JPN 1,Cerezo Osaka,2:0,Hokkaido Consadole,Japan J.League
+054,09.09.,12:30,JPN 1,Nagoya Grampus,2:1,Yokohama F Marinos,Japan J.League
+055,09.09.,13:30,RUS 2,FC Tom Tomsk,0:2,Tekstilshchik,Russland 1. Division
+056,09.09.,14:00,CHN SL,Shenhua Shanghai,1:1,Shandong Luneng,China Chinese Super League
+057,09.09.,16:00,RUS 2,Gazovik Orenburg,3:0,Shinnik Yaroslavl,Russland 1. Division
+058,09.09.,17:00,RUS 2,FC Dynamo Bryansk,abgesagt,FC Neftekhimik,Russland 1. Division
+059,09.09.,17:00,RUS 2,FC Chayka,1:2,FC Torpedo Moskau,Russland 1. Division
+060,09.09.,17:30,FIN 1,Kuopio PS,3:0,Rovaniemi PS,Finnland Veikkausliiga
+061,09.09.,17:30,FIN 1,FC Honka,3:2,Tampereen Ilves,Finnland Veikkausliiga
+062,09.09.,17:30,FIN 1,IFK Mariehamn,2:2,FC Lahti,Finnland Veikkausliiga
+063,09.09.,17:30,FIN 1,Seinajoen JK,3:2,FC Inter Turku,Finnland Veikkausliiga
+064,09.09.,17:30,FIN 1,Turun Palloseura,2:3,Haka Valkeakoski,Finnland Veikkausliiga
+065,09.09.,18:00,RUS 2,FC Nizhny Novgorod,1:0,Volgar Astrakhan,Russland 1. Division
+066,09.09.,18:00,RUS 2,FC Chertanovo Mosk,0:1,Kryliya Sovetov,Russland 1. Division
+067,09.09.,19:00,EL,Maccabi Haifa ISR,3:1,FK Zeljeznicar BIH,UEFA Europa League
+068,09.09.,19:00,SWE 1,Helsingborgs IF,1:1,Kalmar FF,Schweden Allsvenskan
+069,09.09.,19:30,AUT CUP,Wiener Sport-Club,5:2,St Jak/Rosental+2,Österreich ÖFB Cup
+070,09.09.,20:00,AUT CUP,SK Vorwärts Steyr,1:0,Bruck/Leitha,Österreich ÖFB Cup
+071,09.09.,20:00,AUT CUP,SK Vorwärts Steyr,1:1,Bruck/Leitha+1,Österreich ÖFB Cup
+074,09.09.,20:25,AUT CUP,SW Bregenz+5,5:10,RB Salzburg,Österreich ÖFB Cup
+072,09.09.,20:40,TEN ATP,"Rublev, Andrey",0:3,"Medvedev, Daniil",Tennis ATP
+075,09.09.,22:30,BRA 1,Atletico PR,1:1,Botafogo FR RJ,Brasilien Brasilero Serie A
+076,09.09.,23:00,BRA 1,Goias EC GO,3:3,Coritiba FC PR,Brasilien Brasilero Serie A
+077,09.09.,23:00,BRA 1,Fortaleza EC CE,1:0,Sport Recife PE,Brasilien Brasilero Serie A
+078,10.09.,00:00,MEX 1,Club Leon,1:1,UANL Tigres,Mexiko Primera Division
+079,10.09.,00:15,BRA 1,Sao Paulo SP,1:1,RB Bragantino SP,Brasilien Brasilero Serie A
+080,10.09.,02:00,USA MLS,FC Minnesota Utd.,3:2,FC Dallas,USA Major League Soccer
+081,10.09.,02:00,USA MLS,Montreal Impact,1:2,FC Toronto,USA Major League Soccer
+082,10.09.,02:00,USA MLS,Inter Miami CF,2:1,Atlanta United FC,USA Major League Soccer
+083,10.09.,02:00,MEX 1,Cruz Azul,1:0,CF Pachuca,Mexiko Primera Division
+084,10.09.,02:00,NHL,Tampa Bay Lightn.*,2:1,NY Islanders,USA NHL
+085,10.09.,02:30,BRA 1,Santos SP,3:1,Atletico MG,Brasilien Brasilero Serie A
+086,10.09.,02:30,BRA 1,Fluminense RJ,1:2,CR Flamengo RJ,Brasilien Brasilero Serie A
+073,10.09.,02:40,TEN ATP,"De Minaur, Alex",0:3,"Thiem, Dominic",Tennis ATP
+087,10.09.,03:00,USA MLS,Colorado Rapids,1:1,Houston Dynamo,USA Major League Soccer
+088,10.09.,03:30,USA MLS,Real Salt Lake,3:0,Los Angeles FC,USA Major League Soccer
+089,10.09.,04:00,MEX 1,Mazatlan FC,1:0,Club Tijuana,Mexiko Primera Division
+090,10.09.,04:06,MEX 1,Santos Laguna,1:2,UNAM Pumas,Mexiko Primera Division
+091,10.09.,14:30,CHN SL,SIPG Shanghai,2:1,Qingdao Huanghai,China Chinese Super League
+092,10.09.,17:30,FIN 1,HIFK Helsinki,4:3,HJK Helsinki,Finnland Veikkausliiga
+093,10.09.,18:30,ISL CUP,FH Hafnarfjördur,3:0,Stjarnan Gardab.,Island Cup
+094,10.09.,19:00,DEN 2,Hobro IK,1:1,Viborg FF,Dänemark 1. Division
+095,10.09.,19:00,SWE 1,Örebro SK,3:2,Malmö FF,Schweden Allsvenskan
+096,10.09.,19:00,SWE 1,IFK Göteborg,0:4,Hammarby IF,Schweden Allsvenskan
+097,10.09.,19:00,SWE 1,IFK Norrköping,2:2,Östersunds FK,Schweden Allsvenskan
+098,10.09.,19:30,ISR 2,Sectzya Nes Ziona,3:3,Hapoel Akko,Israel National League
+099,10.09.,19:30,ISR 2,Hap.Kfar Shalem,0:2,Hapoel K. Jerusale,Israel National League
+100,10.09.,19:30,ISR 2,Hapoel Iksal Imad,1:0,Hapoel Ramat Gan,Israel National League
+101,10.09.,19:30,ISR 2,H. Petach Tikva,0:2,I. Ramat Hasharon,Israel National League
+102,10.09.,19:30,ISR 2,Hapoel Umm al-Fahm,1:3,Beitar Tel Aviv,Israel National League
+103,10.09.,20:30,POL 2,Chrobry Glogow,3:0,KS Widzew Lodz,Polen I Liga
+104,10.09.,21:00,FRA 1,RC Lens,1:0,Paris SG,Frankreich Ligue 1
+105,10.09.,21:00,FRA 1,RC Lens+1,2:0,Paris SG,Frankreich Ligue 1
+106,10.09.,21:15,ISL CUP,Breidablik,2:4,KR Reykjavik,Island Cup
+107,10.09.,21:15,ISL CUP,Valur Reykjavik,1:1,HK Kopavogs,Island Cup
+108,11.09.,00:15,BRA 1,Internacional RS,2:0,Ceara SC CE,Brasilien Brasilero Serie A
+109,11.09.,00:15,BRA 1,EC Bahia BA,0:2,Gremio RS,Brasilien Brasilero Serie A
+110,11.09.,00:15,BRA 1,Corinthians SP,0:2,SE Palmeiras SP,Brasilien Brasilero Serie A
+111,11.09.,02:00,BRA 1,Vasco Da Gama RJ,1:2,Atletico GO,Brasilien Brasilero Serie A
+113,11.09.,02:00,NHL,Dallas Stars*,2:2,Vegas Gold.Knights,USA NHL
+114,11.09.,02:20,NFL,Kansas Chiefs,34:20,Houston Texans,USA NFL
+112,11.09.,04:00,USA MLS,Seattle Sounders,7:1,SJ Earthquakes,USA Major League Soccer
+115,11.09.,18:30,AUT BL,SK Rapid Wien,4:1,Admira Wacker,Österreich Bundesliga
+116,11.09.,20:30,AUT BL,LASK Linz,1:0,FK Austria Wien,Österreich Bundesliga
+117,12.09.,17:00,AUT BL,SCR Altach,1:1,TSV Hartberg,Österreich Bundesliga
+118,13.09.,14:30,AUT BL,SV Ried,3:2,WSG Swarovs. Tirol,Österreich Bundesliga
+119,13.09.,14:30,AUT BL,SKN St. Pölten,0:0,SK Sturm Graz,Österreich Bundesliga
+120,13.09.,17:00,AUT BL,Wolfsberger AC,1:3,RB Salzburg,Österreich Bundesliga

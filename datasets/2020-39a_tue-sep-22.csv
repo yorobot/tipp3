@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,22.09.,12:00,EMQDA,Kasachstan Damen,0:5,Österreich Damen,"EM Qualifikation, Damen"
+002,22.09.,14:00,CHN SL,Shijiazhuang Ever,0:1,SIPG Shanghai,China Chinese Super League
+003,22.09.,16:30,KHL,Salavat Yulaev Ufa,2:3,HC Sochi,Kontinental Hockey League
+004,22.09.,18:00,KHL,AK Bars Kasan,1:1,Avangard Omsk,Kontinental Hockey League
+006,22.09.,18:00,ROU 2,FC Univ. Cluj,3:1,FC Unirea 2004 Slo,"Rumänien, Liga 2"
+007,22.09.,18:00,PER 1,Univ. San Martin,1:1,UTC de Cajamarca,Peru Primera Division
+005,22.09.,18:30,KHL,Neftekhimik,2:2,Amur Chabarowsk,Kontinental Hockey League
+008,22.09.,18:45,NL 2,Excel. Rotterdam,1:2,SC Telstar,Niederlande Jupiler League
+009,22.09.,19:00,AUT RLM,Union Gurten,0:2,SC Kalsdorf,Österreich Regionalliga Mitte
+010,22.09.,19:00,ENG LC,Leyton Orient,abgesagt,Tottenham,England Liga Cup
+011,22.09.,19:00,POR 2,FC Vizela,2:1,SC Covilha,Portugal Segunda Liga
+012,22.09.,19:00,POR 2,CD Feirense,2:1,Casa Pia Atletico,Portugal Segunda Liga
+013,22.09.,19:00,SVK 1,SKF Sered,1:1,AS Trencin,Slowakei Corgon Liga
+014,22.09.,19:00,SWE 2,Norrby IF,0:1,GIF Sundsvall,Schweden Superettan
+015,22.09.,19:00,EH SWE,Malmö IF,3:5,Leksands IF,Schweden Elitserien
+016,22.09.,19:30,AUT CUP,SC Weiz,0:1,ASK Elektra,Österreich ÖFB Cup
+017,22.09.,20:00,ENG LC,Newport County,3:1,FC Watford,England Liga Cup
+018,22.09.,20:00,ENG LC,West Bromwich,2:2,FC Brentford,England Liga Cup
+019,22.09.,20:15,PER 1,Carlos Mannucci,2:2,Universitario Dep.,Peru Primera Division
+020,22.09.,20:30,ENG LC,West Ham United,5:1,Hull City,England Liga Cup
+021,22.09.,20:45,FA TRO,Notts County,0:1,Harrogate Town,England FA Trophy
+022,22.09.,20:45,HB EHF,BM Benidorm ESP,34:31,Fivers AUT,"EHF Cup, Herren"
+023,22.09.,21:00,CL Q,FC Krasnodar RUS,2:1,PAOK Thessal. GRE,"UEFA Champions League, Qualifikation"
+024,22.09.,21:00,CL Q,Macc. Tel Aviv ISR,1:2,RB Salzburg AUT,"UEFA Champions League, Qualifikation"
+025,22.09.,21:00,CL Q,Maccabi Tel Aviv+1,2:2,RB Salzburg,"UEFA Champions League, Qualifikation"
+026,22.09.,21:00,CL Q,Slavia Prag CZE,0:0,FC Midtjylland DEN,"UEFA Champions League, Qualifikation"
+027,22.09.,21:00,POR 2,Varzim SC,0:0,FC Arouca,Portugal Segunda Liga
+028,22.09.,21:00,NL 2,FC Den Bosch,2:0,MVV Maastricht,Niederlande Jupiler League
+029,22.09.,21:15,ENG LC,Luton Town,0:3,Manchester United,England Liga Cup
+030,22.09.,22:30,PER 1,Academia Cantolao,1:3,Sport Huancayo,Peru Primera Division
+031,23.09.,11:30,JPN 1,Hokkaido Consadole,0:1,Kashiwa Reysol,Japan J.League
+032,23.09.,12:00,JPN 1,Vissel Kobe,4:3,Sagan Tosu,Japan J.League
+033,23.09.,12:00,JPN 1,FC Tokyo,2:0,Cerezo Osaka,Japan J.League
+034,23.09.,12:00,JPN 1,Oita Trinita,0:2,Sanfr. Hiroshima,Japan J.League
+035,23.09.,12:00,JPN 1,Kawasaki Frontale,3:2,Yokohama FC,Japan J.League
+036,23.09.,12:00,JPN 1,Gamba Osaka,2:1,Nagoya Grampus,Japan J.League
+037,23.09.,12:00,JPN 1,Kashima Antlers,1:0,Shonan Bellmare,Japan J.League
+038,23.09.,12:30,JPN 1,Shimizu S-Pulse,1:2,Urawa RD,Japan J.League
+039,23.09.,12:30,JPN 1,Yokohama F Marinos,3:1,Vegalta Sendai,Japan J.League
+040,23.09.,15:00,BLR 1,FC Smolevichi,0:4,FC Minsk,Weißrussland Premier League
+041,23.09.,17:30,RL VBG,Dornbirner SV,6:2,RW Rankweil,Eliteliga Vorarlberg
+042,23.09.,17:30,FIN 1,FC Inter Turku,0:0,FC Honka,Finnland Veikkausliiga
+043,23.09.,17:30,FIN 1,Seinajoen JK,0:1,FC Lahti,Finnland Veikkausliiga
+044,23.09.,17:30,FIN 1,Haka Valkeakoski,0:2,Rovaniemi PS,Finnland Veikkausliiga
+045,23.09.,17:30,FIN 1,IFK Mariehamn,0:2,Tampereen Ilves,Finnland Veikkausliiga
+046,23.09.,18:00,EL,Apollon L. CYP,0:5,Lech Posen POL,UEFA Europa League
+047,23.09.,18:30,RL TIR,SVG Reichenau,1:1,SV Telfs,Regionalliga Tirol
+048,23.09.,20:00,ENG LC,FC Millwall,0:2,FC Burnley,England Liga Cup
+049,23.09.,20:00,ENG LC,Stoke City,1:0,FC Gillingham,England Liga Cup
+050,23.09.,20:00,ENG LC,Preston North End,0:2,Brighton & Hove,England Liga Cup
+051,23.09.,20:00,ENG LC,FC Fulham,2:0,Sheffield Wednes.,England Liga Cup
+052,23.09.,20:45,ENG LC,FC Chelsea,6:0,FC Barnsley,England Liga Cup
+053,23.09.,20:45,ENG LC,FC Morecambe,0:7,Newcastle United,England Liga Cup
+054,23.09.,20:45,ENG LC,Fleetwood Town,2:5,FC Everton,England Liga Cup
+055,23.09.,20:45,ENG LC,Leicester City,0:2,FC Arsenal,England Liga Cup
+056,23.09.,21:00,CL Q,KAA Gent BEL,1:2,Dynamo Kiev UKR,"UEFA Champions League, Qualifikation"
+057,23.09.,21:00,CL Q,Olympiakos P. GRE,2:0,Omonia Nikosia CYP,"UEFA Champions League, Qualifikation"
+058,23.09.,21:00,CL Q,Molde FK NOR,3:3,Ferencvaros HUN,"UEFA Champions League, Qualifikation"
+059,23.09.,22:00,PER 1,Club Cienciano,3:1,FBC Melgar,Peru Primera Division
+060,23.09.,23:00,USA MLS,New England Rev.,3:1,Montreal Impact,USA Major League Soccer
+061,24.09.,01:00,USA MLS,Atlanta United FC,1:0,FC Dallas,USA Major League Soccer
+062,24.09.,01:00,USA MLS,New York City FC,0:1,FC Toronto,USA Major League Soccer
+063,24.09.,01:30,USA MLS,Sp. Kansas City,1:2,Orlando City SC,USA Major League Soccer
+064,24.09.,01:30,USA MLS,Columbus Crew,2:1,FC Minnesota Utd.,USA Major League Soccer
+065,24.09.,01:30,USA MLS,FC Cincinnati,0:0,Philadelphia Union,USA Major League Soccer
+066,24.09.,01:30,USA MLS,Chicago Fire,4:0,Houston Dynamo,USA Major League Soccer
+067,24.09.,02:00,USA MLS,Inter Miami CF,1:4,NY Red Bulls,USA Major League Soccer
+068,24.09.,02:00,NHL,Dallas Stars*,2:5,Tampa Bay Lightn.,USA NHL
+069,24.09.,02:30,USA MLS,Nashville SC,1:0,DC United,USA Major League Soccer
+070,24.09.,02:30,BRA CUP,Vasco Da Gama RJ,0:0,Botafogo FR RJ,Brasilien Cup
+071,24.09.,03:00,USA MLS,Colorado Rapids,5:0,SJ Earthquakes,USA Major League Soccer
+072,24.09.,03:30,USA MLS,Real Salt Lake,2:0,LA Galaxy,USA Major League Soccer
+073,24.09.,04:00,USA MLS,Portland Timbers,1:0,Seattle Sounders,USA Major League Soccer
+074,24.09.,04:30,USA MLS,Los Angeles FC,6:0,Vancouver W'caps,USA Major League Soccer
+075,24.09.,16:00,EL,Ararat-Armenia ARM,0:0,NK Celje SLO,UEFA Europa League
+076,24.09.,17:30,EL,Kuopio PS FIN,2:0,Suduva Marija. LTU,UEFA Europa League
+077,24.09.,17:30,FIN 1,HJK Helsinki,2:2,Turun Palloseura,Finnland Veikkausliiga
+078,24.09.,18:00,KHL,Torp. Nowgorod,2:2,Amur Chabarowsk,Kontinental Hockey League
+079,24.09.,18:00,EL,Vikt. Pilsen CZE,3:0,SönderjyskE DEN,UEFA Europa League
+080,24.09.,18:00,EL,Fehervar FC HUN,0:0,Stade de Reims FRA,UEFA Europa League
+081,24.09.,18:30,EL,FC Rostov RUS,1:2,Maccabi Haifa ISR,UEFA Europa League
+082,24.09.,18:30,KHL,HK CSKA Moskau,5:0,Sev. Cherepovets,Kontinental Hockey League
+083,24.09.,18:30,KHL,HC Sochi,2:3,Dynamo Moskau,Kontinental Hockey League
+084,24.09.,19:00,RL SBG,SV Grödig,2:4,SV Seekirchen,Regionalliga Salzburg
+085,24.09.,19:00,EL,Sp. Charleroi BEL,1:1,FK Partizan SRB,UEFA Europa League
+087,24.09.,19:00,EL,Malmö FF SWE,5:0,Lok. Zagreb CRO,UEFA Europa League
+088,24.09.,19:00,EL,Djurgardens IF SWE,0:1,FC CFR Cluj ROU,UEFA Europa League
+089,24.09.,19:00,EL,Besiktas Ist. TUR,1:1,Rio Ave FC POR,UEFA Europa League
+090,24.09.,19:00,EL,FC Riga LAT,0:1,Celtic Glasgow SCO,UEFA Europa League
+091,24.09.,19:00,EL,NS Mura SLO,1:5,PSV Eindhoven NED,UEFA Europa League
+092,24.09.,19:00,EL,ZSKA Sofia BUL,3:1,B36 Torshavn FRO,UEFA Europa League
+093,24.09.,19:00,EL,Rosenborg BK NOR,1:0,Alanyaspor TUR,UEFA Europa League
+111,24.09.,19:00,EL,Floriana FC MLT,0:0,Flora Tallinn EST,UEFA Europa League
+094,24.09.,19:30,EL,FCS Bukarest ROU,0:2,Slovan Liberec CZE,UEFA Europa League
+095,24.09.,19:30,EL,H. Beer Sheva ISR,3:0,FC Motherwell SCO,UEFA Europa League
+096,24.09.,20:00,EL,FK Sarajevo BIH,2:1,B.Podgorica MNE,UEFA Europa League
+097,24.09.,20:00,EL,Galatasaray TUR,2:0,Hajduk Split CRO,UEFA Europa League
+098,24.09.,20:00,EL,FC Kopenhagen DEN,3:0,Piast Gliwice POL,UEFA Europa League
+099,24.09.,20:00,EL,Stand. Lüttich BEL,1:1,FK Vojvodina SRB,UEFA Europa League
+100,24.09.,20:00,EL,Granada CF ESP,2:0,FC Lokomotivi GEO,UEFA Europa League
+101,24.09.,20:00,EL,APOEL Nikosia CYP,2:2,Zrinjs. Mostar BIH,UEFA Europa League
+102,24.09.,20:00,EL,Shk.Tetovo MKD,1:3,Tottenham ENG,UEFA Europa League
+103,24.09.,20:00,EL,FC Sheriff T. MDA,1:1,FC Dundalk IRL,UEFA Europa League
+104,24.09.,20:00,EL,KI Klaksvik FRO,6:1,Dinamo Tiflis GEO,UEFA Europa League
+105,24.09.,20:00,ENG LC,Bristol City,0:3,Aston Villa,England Liga Cup
+106,24.09.,20:15,EL,VfL Wolfsburg GER,2:0,Desna Tscherni UKR,UEFA Europa League
+107,24.09.,20:30,EL,LASK Linz AUT,7:0,Dunajska Str. SVK,UEFA Europa League
+108,24.09.,20:30,EL,LASK Linz,7:1,Dunajska Streda+1,UEFA Europa League
+109,24.09.,20:30,EL,FC St. Gallen SUI,0:1,AEK Athen GRE,UEFA Europa League
+110,24.09.,20:30,EL,FC Basel SUI,3:2,Anorthosis F. CYP,UEFA Europa League
+112,24.09.,20:30,EL,AC Milan ITA,3:2,Bodö Glimt NOR,UEFA Europa League
+113,24.09.,20:30,EL,Legia Warschau POL,2:0,KF Drita KOS,UEFA Europa League
+114,24.09.,20:45,EL,HNK Rijeka CRO,0:0,K.Kovalivka UKR,UEFA Europa League
+115,24.09.,20:45,ENG LC,Lincoln City,2:7,FC Liverpool,England Liga Cup
+116,24.09.,20:45,ENG LC,Manchester City,2:1,AFC Bournemouth,England Liga Cup
+086,24.09.,21:00,EL,Willem II NED,0:4,Gl.Rangers SCO,UEFA Europa League
+117,24.09.,21:00,UEFA SC,Bayern Mün. GER*,1:1,FC Sevilla ESP,UEFA Super Cup
+118,24.09.,21:00,UEFA SC,FC Bayern München,1:2,FC Sevilla+1,UEFA Super Cup
+119,24.09.,21:00,EL,Sporting Liss. POR,1:0,FC Aberdeen SCO,UEFA Europa League
+120,25.09.,02:20,NFL,Jacksonv. Jaguars,13:31,Miami Dolphins,USA NFL

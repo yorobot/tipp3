@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,14.08.,17:00,RUS PL,Arsenal Tula,2:3,FC Ufa,Russland Premier League
+002,14.08.,17:30,FIN 1,FC Lahti,3:0,Rovaniemi PS,Finnland Veikkausliiga
+003,14.08.,17:30,FIN 1,Haka Valkeakoski,2:4,Kuopio PS,Finnland Veikkausliiga
+004,14.08.,17:30,FIN 1,FC Inter Turku,3:2,HIFK Helsinki,Finnland Veikkausliiga
+005,14.08.,18:00,RUS PL,FK Sochi,1:1,FK Khimki,Russland Premier League
+006,14.08.,18:00,NOR 2,Kongsvinger IL,2:1,Strömmen IF,Norwegen Adeccoligaen
+007,14.08.,18:00,NOR 2,Aasane Fotball,2:2,Ham-Kam,Norwegen Adeccoligaen
+008,14.08.,18:00,NOR 2,Grorud IL,2:0,Tromsö IL,Norwegen Adeccoligaen
+009,14.08.,18:00,NOR 2,Stjordals-Blink,2:2,Sogndal IL,Norwegen Adeccoligaen
+010,14.08.,18:00,NOR 2,Raufoss IL,1:1,FK Jerv,Norwegen Adeccoligaen
+011,14.08.,18:00,NOR 2,Ranheim IL,6:1,Oeygarden FK,Norwegen Adeccoligaen
+012,14.08.,18:00,NOR 2,Sandnes ULF,3:1,Kfum Oslo,Norwegen Adeccoligaen
+013,14.08.,18:15,HUN 1,MTK Budapest FC,1:1,Ferencvaros,Ungarn NB I
+014,14.08.,18:45,IRL 1,FC Dundalk,2:2,Waterford United,Irland Premier Division
+015,14.08.,19:00,AUT RLM,SV Spittal/Drau,0:2,Union Vöcklamarkt,Österreich Regionalliga Mitte
+016,14.08.,19:00,AUT RLM,Bad Gleichenberg,2:2,WAC Amateure,Österreich Regionalliga Mitte
+017,14.08.,19:00,AUT RLM,FC Gleisdorf,3:5,St Anna am Aigen,Österreich Regionalliga Mitte
+018,14.08.,19:00,AUT RLM,FC Wels,0:2,SV Allerheiligen,Österreich Regionalliga Mitte
+019,14.08.,19:00,AUT RLM,Sturm Graz Amat.,2:1,Deutschlandsberg,Österreich Regionalliga Mitte
+020,14.08.,19:00,RUS PL,FC Spartak Moskau,2:0,FK Achmat Grozny,Russland Premier League
+021,14.08.,19:00,BEL 1,RE Mouscron,0:1,YR KV Mechelen,Belgien Jupiler Pro League
+022,14.08.,19:00,BUL 1,Ludogorets,3:0,PFC Slavia Sofia,Bulgarien Premier League
+023,14.08.,20:30,POL CUP,GKS Belchatow,1:6,Legia Warschau,Polen Cup
+024,14.08.,20:30,NOR 2,Lilleström SK,2:2,Ullensaker/Kisa,Norwegen Adeccoligaen
+025,14.08.,20:45,IRL 1,Cork City FC,3:0,FC Sligo Rovers,Irland Premier Division
+026,14.08.,21:00,ITA B,Perugia Calcio,2:1,Delfino Pescara,Italien Serie B
+027,14.08.,21:00,CL,FC Barcelona ESP*,2:8,Bayern München GER,UEFA Champions League
+028,14.08.,21:00,CL,FC Barcelona,2:9,Bayern München+1,UEFA Champions League
+029,14.08.,21:00,CL,FC Barcelona+1,3:8,FC Bayern München,UEFA Champions League
+030,14.08.,21:00,CL,FC Barcelona+2,4:8,FC Bayern München,UEFA Champions League
+031,15.08.,09:00,AUS 1,Sydney FC,1:2,Western United FC,Australien Hyundai A-League
+032,15.08.,11:00,JPN 1,Vegalta Sendai,0:0,Shimizu S-Pulse,Japan J.League
+033,15.08.,11:00,JPN 1,Yokohama FC,4:2,Shonan Bellmare,Japan J.League
+034,15.08.,11:30,JPN 1,Oita Trinita,1:0,Yokohama F Marinos,Japan J.League
+035,15.08.,12:00,JPN 1,Kashiwa Reysol,1:3,Cerezo Osaka,Japan J.League
+036,15.08.,12:00,JPN 1,FC Tokyo,1:0,Nagoya Grampus,Japan J.League
+037,15.08.,12:00,JPN 1,Urawa RD,1:0,Sanfr. Hiroshima,Japan J.League
+038,15.08.,12:00,JPN 1,Sagan Tosu,abgesagt,Gamba Osaka,Japan J.League
+039,15.08.,14:30,RUS PL,Dinamo Moskau,0:0,FC Rotor Wolgograd,Russland Premier League
+040,15.08.,14:30,RUS PL,FC Rubin Kazan,1:1,Ural Jekaterinburg,Russland Premier League
+041,15.08.,15:00,SWE 1,Örebro SK,0:3,Djurgardens IF,Schweden Allsvenskan
+042,15.08.,16:00,SCO PS,FC Kilmarnock,1:2,FC St. Johnstone,Schottland Premiership
+043,15.08.,16:00,SCO PS,FC Ross County,1:2,Dundee United,Schottland Premiership
+044,15.08.,16:00,SCO PS,Hamilton FC,0:1,FC St. Mirren,Schottland Premiership
+045,15.08.,16:00,NOR 1,Sarpsborg 08,2:1,Molde FK,Norwegen Tippeligaen
+046,15.08.,16:00,FIN 1,HJK Helsinki,1:1,FC Honka,Finnland Veikkausliiga
+047,15.08.,16:00,FIN 1,Tampereen Ilves,0:0,Seinajoen JK,Finnland Veikkausliiga
+048,15.08.,16:00,FS,SK Rapid Wien AUT,3:0,Slovan Liberec CZE,Freundschaftsspiele International (Klub)
+049,15.08.,16:00,RL TIR,Wack. Innsbruck II,2:2,FC Kitzbühel,Regionalliga Tirol
+050,15.08.,16:30,BEL 1,KRC Genk,1:1,OH Leuven,Belgien Jupiler Pro League
+051,15.08.,17:00,RUS PL,ZSKA Moskau,2:1,FK Tambow,Russland Premier League
+052,15.08.,17:30,SWE 2,Dalkurd FF,1:1,Halmstads BK,Schweden Superettan
+053,15.08.,17:30,SWE 2,GIF Sundsvall,3:0,GAIS Göteborg,Schweden Superettan
+054,15.08.,17:30,SWE 2,Östers IF,4:2,IK Brage,Schweden Superettan
+055,15.08.,17:55,CRO 1,HNK Rijeka,2:1,HNK Sibenik,Kroatien 1. HNL
+056,15.08.,18:00,RUS PL,Lok Moskau,1:0,FC Krasnodar,Russland Premier League
+057,15.08.,18:00,RL TIR,SC Imst 1933,2:4,SV Wörgl,Regionalliga Tirol
+058,15.08.,18:30,SCO PS,Hibernian FC,0:0,FC Motherwell,Schottland Premiership
+059,15.08.,19:00,RUS PL,FC Rostov,0:2,Zenit St.Petersb.,Russland Premier League
+060,15.08.,19:00,BEL 1,Sporting Charleroi,1:0,KV Oostende,Belgien Jupiler Pro League
+061,15.08.,19:00,BEL 1,KAA Gent,1:2,KV Kortrijk,Belgien Jupiler Pro League
+062,15.08.,20:05,CRO 1,NK Osijek,0:0,NK Slaven Belupo,Kroatien 1. HNL
+063,15.08.,21:00,CL,Man. City ENG*,1:3,Ol. Lyon FRA,UEFA Champions League
+064,15.08.,21:00,CL,Manchester City,1:4,Olympique Lyon+1,UEFA Champions League
+065,15.08.,21:00,CL,Manchester City,1:5,Olympique Lyon+2,UEFA Champions League
+066,16.08.,13:30,BEL 1,Cercle Brügge KSV,2:1,FC Royal Antwerpen,Belgien Jupiler Pro League
+067,16.08.,14:30,SWE 1,Falkenbergs FF,1:1,AIK Stockholm,Schweden Allsvenskan
+068,16.08.,14:30,SWE 1,Hammarby IF,2:2,IF Elfsborg,Schweden Allsvenskan
+069,16.08.,14:30,SWE 2,Vasteraas SK,2:0,Umea FC,Schweden Superettan
+070,16.08.,14:30,SWE 2,Degerfors IF,4:1,Ljungskile SK,Schweden Superettan
+071,16.08.,15:10,F1,"Hamilton, Lewis",Hamilto,"Bottas, Valtteri",Formel 1
+072,16.08.,15:10,F1,"Leclerc, Charles",Vettel,"Vettel, Sebastian",Formel 1
+073,16.08.,15:10,F1,"Perez, Sergio",Stroll,"Stroll, Lance",Formel 1
+074,16.08.,16:00,BEL 1,AS Eupen,0:4,Club Brügge,Belgien Jupiler Pro League
+075,16.08.,16:00,BEL 1,Beerschot Wilrijk,3:1,SV Zulte Waregem,Belgien Jupiler Pro League
+076,16.08.,16:00,FS,Austria Wien AUT*,2:11,Bor. Dortmund GER,Freundschaftsspiele International (Klub)
+077,16.08.,17:30,SCO PS,FC Livingston,0:0,Glasgow Rangers,Schottland Premiership
+078,16.08.,17:30,SWE 1,Mjällby AIF,2:2,Malmö FF,Schweden Allsvenskan
+079,16.08.,17:30,SWE 2,Norrby IF,1:3,Trelleborgs FF,Schweden Superettan
+080,16.08.,17:30,FIN 1,IFK Mariehamn,1:0,Turun Palloseura,Finnland Veikkausliiga
+081,16.08.,17:55,CRO 1,HNK Hajduk Split,2:0,NK Istra 1961,Kroatien 1. HNL
+082,16.08.,18:00,NOR 1,Viking FK,3:3,Stabaek IF,Norwegen Tippeligaen
+083,16.08.,18:00,NOR 1,Sandefjord Fotball,1:2,Bodö Glimt,Norwegen Tippeligaen
+084,16.08.,18:00,NOR 1,FK Haugesund,2:3,Strömsgodset,Norwegen Tippeligaen
+085,16.08.,18:00,NOR 1,Odds BK,2:1,Kristiansund BK,Norwegen Tippeligaen
+086,16.08.,18:00,NOR 1,SK Brann,0:1,Mjöndalen,Norwegen Tippeligaen
+087,16.08.,18:00,IRL 1,St Patrick's,0:0,FC Shamrock Rovers,Irland Premier Division
+088,16.08.,18:15,BEL 1,RSC Anderlecht,3:1,St. Truiden VV,Belgien Jupiler Pro League
+089,16.08.,19:00,ESP 2,UD Almeria,1:2,FC Girona,Spanien Segunda Division
+090,16.08.,19:00,BUL 1,ZSKA Sofia,2:1,Botev Plovdiv,Bulgarien Premier League
+091,16.08.,19:00,HUN 1,Puskas Akademia FC,abgesagt,Honved Budapest,Ungarn NB I
+092,16.08.,19:00,ISL 1,HK Kopavogs,3:1,Fjölnir,Island Urvalsdeild
+093,16.08.,20:05,CRO 1,NK Dinamo Zagreb,6:0,Lok Zagreb,Kroatien 1. HNL
+094,16.08.,20:30,POL CUP,LKS Lodz,1:1,Slask Wroclaw,Polen Cup
+095,16.08.,20:30,NOR 1,Rosenborg BK,3:2,Aalesunds FK,Norwegen Tippeligaen
+098,16.08.,21:00,EL,FC Sevilla ESP*,2:1,Manchester U. ENG,UEFA Europa League
+099,16.08.,21:00,EL,FC Sevilla,2:2,Manchester Utd.+1,UEFA Europa League
+100,16.08.,21:00,EL,FC Sevilla+1,3:1,Manchester United,UEFA Europa League
+096,16.08.,21:15,ITA B,Frosinone Calcio,0:1,Spezia Calcio,Italien Serie B
+097,16.08.,22:00,ESP 2,Real Saragossa,0:1,Elche CF,Spanien Segunda Division
+101,17.08.,12:00,CHN SL,Wuhan Zall,2:0,Chongqing Lifan,China Chinese Super League
+102,17.08.,14:00,CHN SL,Hebei China Fortun,2:0,FC Tianjin Taida,China Chinese Super League
+103,17.08.,16:45,BUL 1,Tsarsko Selo Sofia,0:0,PFC Montana 1921,Bulgarien Premier League
+104,17.08.,19:00,BEL 1,Waasland-Beveren,1:2,Standard Lüttich,Belgien Jupiler Pro League
+105,17.08.,19:00,BUL 1,Beroe Stara Zag.,0:0,CSKA 1948,Bulgarien Premier League
+106,17.08.,19:00,SWE 1,BK Häcken,2:1,Varbergs BoIS,Schweden Allsvenskan
+107,17.08.,19:00,SWE 1,Helsingborgs IF,1:2,IK Sirius FK,Schweden Allsvenskan
+108,17.08.,19:00,SWE 1,Östersunds FK,2:0,Kalmar FF,Schweden Allsvenskan
+109,17.08.,19:00,SWE 1,IFK Göteborg,1:3,IFK Norrköping,Schweden Allsvenskan
+110,17.08.,19:00,SWE 2,AFC Eskilstuna,1:2,Akropolis IF,Schweden Superettan
+111,17.08.,19:00,HUN 1,Budafoki MTE,2:1,Varda SE,Ungarn NB I
+112,17.08.,20:00,ISL 1,FH Hafnarfjördur,1:2,Stjarnan Gardab.,Island Urvalsdeild
+113,17.08.,20:30,NOR 1,IK Start,2:1,Valerenga IF,Norwegen Tippeligaen
+114,17.08.,20:45,IRL 2,FC Drogheda United,1:0,FC Galway United,Irland First Division
+115,17.08.,20:45,IRL 2,UC Dublin,2:1,FC Athlone Town,Irland First Division
+116,17.08.,21:00,EL,Inter Mailand ITA*,5:0,Shakhtar Don. UKR,UEFA Europa League
+117,17.08.,21:00,EL,Inter Mailand,5:1,Shakhtar Donetsk+1,UEFA Europa League
+118,17.08.,21:00,EL,Inter Mailand,5:2,Shakhtar Donetsk+2,UEFA Europa League
+119,17.08.,21:00,NHL,Columbus Blue J.*,1:2,Tampa Bay Lightn.,USA NHL
+120,17.08.,23:30,NHL,Arizona Coyotes*,1:7,Colorado Avalan.,USA NHL

@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,21.08.,17:30,FIN 1,Seinajoen JK,0:2,FC Honka,Finnland Veikkausliiga
+002,21.08.,18:00,CL DAM,Glasgow C.D SCO*,1:9,Wolfsburg Dame GER,UEFA Champions League Damen
+003,21.08.,18:00,CL DAM,Atl. Madrid D ESP*,0:1,Barcelona D ESP,UEFA Champions League Damen
+004,21.08.,18:00,CZE 1,Viktoria Pilsen,3:1,SFC Opava,Tschechien Gambrinus Liga
+005,21.08.,18:00,POL 1,Zaglebie Lubin,2:1,Lech Posen,Polen Orange Ekstraklasa
+006,21.08.,18:00,SERB 1,FK Proleter,0:1,Roter Stern B.,Serbien Meridijan Superliga
+007,21.08.,18:45,IRL 1,FC Derry City,3:1,Cork City FC,Irland Premier Division
+008,21.08.,19:00,FRA 1,Bordeaux,0:0,FC Nantes,Frankreich Ligue 1
+009,21.08.,19:00,BEL 1,KV Kortrijk,0:0,AS Eupen,Belgien Jupiler Pro League
+010,21.08.,19:00,BUL 1,PFC Slavia Sofia,0:2,Lokomotiv Plovdiv,Bulgarien Premier League
+011,21.08.,19:00,HUN 1,MTK Budapest FC,3:1,Honved Budapest,Ungarn NB I
+012,21.08.,19:00,AUT RLO,Bruck/Leitha,3:0,SC Wiener Neustadt,Österreich Regionalliga Ost
+013,21.08.,19:00,AUT RLO,SV Leobendorf,1:0,SC Neusiedl,Österreich Regionalliga Ost
+014,21.08.,19:00,AUT RLM,WAC Amateure,0:2,Union Gurten,Österreich Regionalliga Mitte
+015,21.08.,19:00,AUT RLM,Deutschlandsberg,3:2,SV Spittal/Drau,Österreich Regionalliga Mitte
+016,21.08.,19:00,AUT RLM,SV Allerheiligen,1:4,WSC Hertha Wels,Österreich Regionalliga Mitte
+017,21.08.,19:00,AUT RLM,FC Wels,0:3,FC Gleisdorf,Österreich Regionalliga Mitte
+018,21.08.,19:00,AUT RLM,SC Kalsdorf,2:0,Bad Gleichenberg,Österreich Regionalliga Mitte
+019,21.08.,19:00,RL TIR,FC Kitzbühel,0:0,SC Imst 1933,Regionalliga Tirol
+020,21.08.,19:30,RL TIR,SV Wörgl,5:3,WSG Tirol Amateure,Regionalliga Tirol
+021,21.08.,20:05,CRO 1,NK Istra 1961,0:1,NK Dinamo Zagreb,Kroatien 1. HNL
+022,21.08.,20:45,IRL 1,FC Shamrock Rovers,0:0,Shelbourne Dublin,Irland Premier Division
+023,21.08.,21:00,EL,FC Sevilla ESP*,3:2,Inter Mailand ITA,UEFA Europa League
+024,21.08.,21:00,EL,FC Sevilla,3:3,Inter Mailand+1,UEFA Europa League
+025,21.08.,21:00,EL,FC Sevilla+1,4:2,Inter Mailand,UEFA Europa League
+026,21.08.,21:15,ISL 1,Fylkir Reykjavik,1:1,Stjarnan Gardab.,Island Urvalsdeild
+027,22.08.,09:00,AUS 1,Wellington Ph.*,0:1,Perth Glory,Australien Hyundai A-League
+028,22.08.,13:00,RUS PL,Ural Jekaterinburg,1:0,FC Krasnodar,Russland Premier League
+029,22.08.,15:00,RUS PL,FK Khimki,1:2,FK Achmat Grozny,Russland Premier League
+030,22.08.,15:00,AUT RLO,FC Mauerwerk,3:1,ASV Draßburg,Österreich Regionalliga Ost
+031,22.08.,15:00,NOR 1,Molde FK,2:0,Odds BK,Norwegen Tippeligaen
+032,22.08.,15:00,SWE 1,Djurgardens IF,2:2,IFK Göteborg,Schweden Allsvenskan
+033,22.08.,15:00,SWE 1,IK Sirius FK,3:1,Hammarby IF,Schweden Allsvenskan
+034,22.08.,15:00,UEFA YL,Ajax Amst. Youth*,0:3,Benfica Youth POR,UEFA Youth League
+035,22.08.,16:00,SCO PS,Glasgow Rangers,2:0,FC Kilmarnock,Schottland Premiership
+036,22.08.,16:00,SCO PS,FC St. Mirren,1:1,FC Ross County,Schottland Premiership
+037,22.08.,16:00,SCO PS,FC Motherwell,0:1,Hamilton FC,Schottland Premiership
+038,22.08.,16:15,BEL 1,SV Zulte Waregem,4:1,Waasland-Beveren,Belgien Jupiler Pro League
+039,22.08.,16:30,RUS PL,Arsenal Tula,2:0,Dinamo Moskau,Russland Premier League
+040,22.08.,17:00,RUS PL,Zenit St.Petersb.,4:1,FK Tambow,Russland Premier League
+041,22.08.,17:00,FRA 1,Dijon Football,0:1,SCO Angers,Frankreich Ligue 1
+042,22.08.,17:00,RL SBG,SK Bischofshofen,3:0,SV Grödig,Regionalliga Salzburg
+043,22.08.,17:00,RL SBG,USK Anif,4:0,SV Wals-Grünau,Regionalliga Salzburg
+044,22.08.,17:00,RL SBG,SAK 1914 Salzburg,1:2,Austria Salzburg,Regionalliga Salzburg
+045,22.08.,17:00,RL SBG,SV Seekirchen,2:1,Pinzgau Saalfelden,Regionalliga Salzburg
+046,22.08.,17:00,RL TIR,SV Hall,0:1,FC Kufstein,Regionalliga Tirol
+047,22.08.,18:00,RL TIR,SVG Reichenau,0:0,Wack. Innsbruck II,Regionalliga Tirol
+048,22.08.,18:00,AUT RLO,Wiener Viktoria,1:2,Admira Amateure,Österreich Regionalliga Ost
+049,22.08.,18:00,NOR 1,Strömsgodset,0:2,Viking FK,Norwegen Tippeligaen
+050,22.08.,18:00,NOR 1,Kristiansund BK,4:1,Sarpsborg 08,Norwegen Tippeligaen
+051,22.08.,18:00,NOR 1,Aalesunds FK,1:3,FK Haugesund,Norwegen Tippeligaen
+052,22.08.,18:00,NOR 1,Valerenga IF,2:1,Sandefjord Fotball,Norwegen Tippeligaen
+053,22.08.,18:00,NOR 1,Bodö Glimt,6:0,IK Start,Norwegen Tippeligaen
+054,22.08.,18:00,UEFA YL,FC Salzburg Youth*,1:2,Real Madrid Youth,UEFA Youth League
+055,22.08.,18:30,BEL 1,YR KV Mechelen,2:3,Cercle Brügge KSV,Belgien Jupiler Pro League
+056,22.08.,18:30,BEL 1,OH Leuven,1:3,Sporting Charleroi,Belgien Jupiler Pro League
+057,22.08.,18:30,SCO PS,Dundee United,0:1,Celtic Glasgow,Schottland Premiership
+058,22.08.,18:30,SCO PS,Dundee United+1,1:1,Celtic Glasgow,Schottland Premiership
+059,22.08.,19:00,AUT RLM,St Anna am Aigen,4:2,ATSV Stadl-Paura,Österreich Regionalliga Mitte
+060,22.08.,19:00,FRA 2,AC Ajaccio,0:1,LB Chateauroux,Frankreich Ligue 2
+061,22.08.,19:00,FRA 2,EA Guingamp,0:1,FC Chamois Niort,Frankreich Ligue 2
+062,22.08.,19:00,FRA 2,AJ Auxerre,0:2,FC Sochaux,Frankreich Ligue 2
+063,22.08.,19:00,FRA 2,Amiens SC,1:0,AS Nancy,Frankreich Ligue 2
+064,22.08.,19:00,FRA 2,Clermont Foot,0:0,SM Caen,Frankreich Ligue 2
+065,22.08.,19:00,RUS PL,ZSKA Moskau,1:2,FC Rubin Kazan,Russland Premier League
+066,22.08.,19:00,RUS PL,FC Rotor Wolgograd,1:2,FK Sochi,Russland Premier League
+067,22.08.,20:00,CL DAM,Ol.Lyon D FRA*,2:1,Bayern Damen GER,UEFA Champions League Damen
+068,22.08.,20:00,CL DAM,Arsenal Damen ENG*,1:2,Paris SG Damen FRA,UEFA Champions League Damen
+069,22.08.,20:30,NOR 1,Mjöndalen,0:2,Rosenborg BK,Norwegen Tippeligaen
+070,22.08.,20:45,BEL 1,FC Royal Antwerpen,1:0,KAA Gent,Belgien Jupiler Pro League
+071,22.08.,21:00,FRA 1,Lille OSC,1:1,Stade Rennes,Frankreich Ligue 1
+072,23.08.,10:00,AUS 1,Brisbane Roar*,0:1,Western United FC,Australien Hyundai A-League
+073,23.08.,13:00,FRA 1,AS Monaco,2:2,Stade de Reims,Frankreich Ligue 1
+074,23.08.,13:30,BEL 1,Standard Lüttich,0:0,KRC Genk,Belgien Jupiler Pro League
+075,23.08.,14:30,SWE 1,Malmö FF,2:1,Falkenbergs FF,Schweden Allsvenskan
+076,23.08.,14:30,SWE 1,IF Elfsborg,0:1,Östersunds FK,Schweden Allsvenskan
+077,23.08.,15:00,FRA 1,Olympique Nimes,4:0,Stade Brest,Frankreich Ligue 1
+078,23.08.,15:00,FRA 1,FC Lorient,3:1,Racing Strasbourg,Frankreich Ligue 1
+079,23.08.,15:30,RUS PL,FC Ufa,0:1,FC Rostov,Russland Premier League
+080,23.08.,16:00,BEL 1,Club Brügge,0:1,Beerschot Wilrijk,Belgien Jupiler Pro League
+081,23.08.,16:00,SCO PS,FC Aberdeen,2:1,FC Livingston,Schottland Premiership
+082,23.08.,17:00,AUT RLM,SV Ried II,abgesagt,Sturm Graz Amat.,Österreich Regionalliga Mitte
+083,23.08.,17:00,RL SBG,SV Kuchl,2:1,TSV St. Johann,Regionalliga Salzburg
+084,23.08.,17:00,RL TIR,SV Telfs,2:3,SC Schwaz,Regionalliga Tirol
+085,23.08.,17:00,FRA 1,OGC Nizza,2:1,RC Lens,Frankreich Ligue 1
+086,23.08.,17:30,SCO PS,FC St. Johnstone,0:1,Hibernian FC,Schottland Premiership
+087,23.08.,17:30,SWE 1,Varbergs BoIS,2:1,Örebro SK,Schweden Allsvenskan
+088,23.08.,17:30,SWE 1,AIK Stockholm,2:0,Helsingborgs IF,Schweden Allsvenskan
+089,23.08.,18:00,RUS PL,FC Spartak Moskau,2:1,Lok Moskau,Russland Premier League
+090,23.08.,18:15,BEL 1,RSC Anderlecht,1:1,RE Mouscron,Belgien Jupiler Pro League
+091,23.08.,21:00,CL,Paris SG FRA*,0:1,FC Bayern München,UEFA Champions League
+092,23.08.,21:00,CL,Paris SG,0:2,Bayern München+1,UEFA Champions League
+093,23.08.,21:00,CL,Paris SG+1,1:1,FC Bayern München,UEFA Champions League
+094,23.08.,21:00,CL,Paris SG+2,2:1,FC Bayern München,UEFA Champions League
+095,23.08.,22:00,ESP 2,FC Girona,0:1,Elche CF,Spanien Segunda Division
+096,23.08.,22:00,ESP 2,FC Girona,0:2,Elche CF+1,Spanien Segunda Division
+097,24.08.,17:00,ROU 1,CS Voluntari,2:1,Gaz Metan Medias,Rumänien Liga 1
+098,24.08.,17:45,BUL 1,PFC Montana 1921,1:0,Et. Veliko Tarnovo,Bulgarien Premier League
+099,24.08.,18:00,CYP 1,Salamis Famagusta,1:2,AEK Larnaca,Zypern 1. Division
+100,24.08.,18:00,POL 1,Jagiellonia Bial.,1:1,Wisla Krakau,Polen Orange Ekstraklasa
+101,24.08.,18:00,NOR 2,Ranheim IL,5:1,Strömmen IF,Norwegen Adeccoligaen
+102,24.08.,18:00,NOR 2,Tromsö IL,2:2,Sogndal IL,Norwegen Adeccoligaen
+103,24.08.,18:00,NOR 2,Raufoss IL,1:1,Ullensaker/Kisa,Norwegen Adeccoligaen
+104,24.08.,18:00,NOR 2,Sandnes ULF,1:2,Ham-Kam,Norwegen Adeccoligaen
+105,24.08.,18:00,NOR 2,Grorud IL,3:0,Kfum Oslo,Norwegen Adeccoligaen
+106,24.08.,18:00,NOR 2,Oeygarden FK,1:0,FK Jerv,Norwegen Adeccoligaen
+107,24.08.,18:00,NOR 2,Stjordals-Blink,2:2,Aasane Fotball,Norwegen Adeccoligaen
+108,24.08.,19:00,SWE 1,IFK Norrköping,0:1,BK Häcken,Schweden Allsvenskan
+109,24.08.,19:00,SWE 1,IFK Norrköping,0:2,BK Häcken+1,Schweden Allsvenskan
+110,24.08.,19:00,SWE 1,Kalmar FF,1:4,Mjällby AIF,Schweden Allsvenskan
+111,24.08.,19:00,SWE 2,IK Brage,2:1,Dalkurd FF,Schweden Superettan
+112,24.08.,19:00,SWE 2,Akropolis IF,1:1,Degerfors IF,Schweden Superettan
+113,24.08.,20:00,BEL 2,Lommel United,3:5,RFC Seraing,Belgium Tweede Klasse
+114,24.08.,20:00,ROU 1,Dinamo Bukarest,1:1,AFC Hermannstadt,Rumänien Liga 1
+115,24.08.,20:00,BUL 1,CSKA 1948,0:2,FK Arda Kurdzhali,Bulgarien Premier League
+116,24.08.,20:30,NOR 1,Stabaek IF,0:2,SK Brann,Norwegen Tippeligaen
+117,24.08.,20:30,NOR 1,Stabaek IF+1,1:2,SK Brann,Norwegen Tippeligaen
+118,24.08.,20:30,NOR 2,Kongsvinger IL,0:3,Lilleström SK,Norwegen Adeccoligaen
+119,24.08.,20:45,FRA 2,Troyes AC,2:0,Le Havre AC,Frankreich Ligue 2
+120,24.08.,20:45,BEL 1,St. Truiden VV,0:0,KV Oostende,Belgien Jupiler Pro League

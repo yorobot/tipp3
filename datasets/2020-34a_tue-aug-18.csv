@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,18.08.,17:00,RUS PL,FK Sochi,3:2,FC Rubin Kazan,Russland Premier League
+002,18.08.,17:30,FIN 1,Haka Valkeakoski,1:4,HJK Helsinki,Finnland Veikkausliiga
+003,18.08.,17:30,FIN 1,Rovaniemi PS,0:2,FC Inter Turku,Finnland Veikkausliiga
+004,18.08.,18:00,CL Q,Qarabag FK AZE,4:0,FK Sileks Krat MKD,"UEFA Champions League, Qualifikation"
+005,18.08.,18:00,EL,Lincoln FC GIB,abgesagt,FC Pristina KOS,UEFA Europa League
+006,18.08.,18:00,RUS PL,FK Tambow,1:0,FK Khimki,Russland Premier League
+007,18.08.,18:00,FS,Wolfsberg AUT*,0:2,Ajax Amsterd. NED,Freundschaftsspiele International (Klub)
+008,18.08.,18:45,IRL 1,FC Sligo Rovers,2:1,Waterford United,Irland Premier Division
+009,18.08.,19:00,CL Q,Legia Warschau POL,1:0,FC Linfield NIR,"UEFA Champions League, Qualifikation"
+010,18.08.,19:00,RUS PL,FC Krasnodar,2:0,Arsenal Tula,Russland Premier League
+011,18.08.,19:00,RL SBG,SV Grödig,0:2,Pinzgau Saalfelden,Regionalliga Salzburg
+012,18.08.,19:00,RL SBG,TSV St. Johann,0:0,USK Anif,Regionalliga Salzburg
+013,18.08.,19:00,RL SBG,SV Wals-Grünau,1:2,SAK 1914 Salzburg,Regionalliga Salzburg
+014,18.08.,19:00,NOR 2,Kfum Oslo,1:1,Kongsvinger IL,Norwegen Adeccoligaen
+015,18.08.,19:00,SWE 2,Örgryte Göteborg,2:0,Jönköpings Södra,Schweden Superettan
+016,18.08.,19:00,SWE CUP,Assyriska IF I Nor,3:5,Oskarshamns AIK,Schweden Cup
+017,18.08.,19:00,FS,W. Burghausen GER,1:5,SV Ried AUT,Freundschaftsspiele International (Klub)
+018,18.08.,19:30,NBA,Milwaukee Bucks*,110:122,Orlando Magic,USA NBA
+019,18.08.,20:00,EL,UE Engordany AND,1:3,FK Zeta Golubo MNE,UEFA Europa League
+020,18.08.,20:00,CL Q,Dinamo Brest BLR,6:3,FC Astana KAZ,"UEFA Champions League, Qualifikation"
+021,18.08.,20:45,CL Q,Celtic Glasgow SCO,6:0,KR Reykjavik ISL,"UEFA Champions League, Qualifikation"
+022,18.08.,20:45,IRL 2,FC Bray Wanderers,1:0,Shamrock Rovers II,Irland First Division
+023,18.08.,20:45,IRL 2,Cobh Ramblers,4:0,Wexford Youths,Irland First Division
+024,18.08.,21:00,CL,RB Leipzig GER*,0:3,Paris SG FRA,UEFA Champions League
+025,18.08.,21:00,CL,RB Leipzig,0:4,Paris SG+1,UEFA Champions League
+026,18.08.,21:00,CL,RB Leipzig+1,1:3,Paris SG,UEFA Champions League
+027,18.08.,21:00,CL,RB Leipzig+2,2:3,Paris SG,UEFA Champions League
+028,18.08.,21:00,CL Q,Roter Stern B. SRB,5:0,Europa FC GIB,"UEFA Champions League, Qualifikation"
+029,18.08.,21:00,NHL,Montreal Canad.*,0:2,Philadelphia Fl.,USA NHL
+030,18.08.,22:00,PAR 1,Guairena FC,0:1,Sportivo Luqueno,Paraguay Primera Division
+031,18.08.,22:00,NBA,Indiana Pacers*,101:113,Miami Heat,USA NBA
+034,18.08.,23:30,NHL,Dallas Stars*,2:1,Calgary Flames,USA NHL
+032,19.08.,00:30,NBA,Houston Rockets*,123:108,Oklahoma City Th.,USA NBA
+033,19.08.,00:30,PAR 1,Sol de America,0:1,Club Cerro Porteno,Paraguay Primera Division
+035,19.08.,02:00,NHL,NY Islanders*,2:3,Washington Cap.,USA NHL
+036,19.08.,03:00,NBA,LA Lakers*,93:100,Portland T.,USA NBA
+037,19.08.,11:30,AUS 1,Western United FC*,1:3,Melbourne City FC,Australien Hyundai A-League
+038,19.08.,12:00,JPN 1,Kawasaki Frontale,5:2,Cerezo Osaka,Japan J.League
+039,19.08.,12:00,JPN 1,Gamba Osaka,1:3,Urawa RD,Japan J.League
+040,19.08.,12:00,JPN 1,Shonan Bellmare,0:1,Nagoya Grampus,Japan J.League
+041,19.08.,12:00,JPN 1,Vissel Kobe,2:3,Kashiwa Reysol,Japan J.League
+042,19.08.,12:00,JPN 1,Sanfr. Hiroshima,3:3,FC Tokyo,Japan J.League
+043,19.08.,12:00,JPN 1,Shimizu S-Pulse,3:4,Yokohama F Marinos,Japan J.League
+044,19.08.,12:00,JPN 1,Yokohama FC,1:0,Kashima Antlers,Japan J.League
+045,19.08.,12:00,JPN 2,V-Varen Nagasaki,2:0,JEF Utd Ichihara,Japan J.League 2
+046,19.08.,12:00,JPN 2,Tokyo Verdy,3:0,Matsumoto Yamaga,Japan J.League 2
+047,19.08.,12:30,JPN 1,Hokkaido Consadole,1:1,Oita Trinita,Japan J.League
+048,19.08.,15:00,RUS PL,FC Ufa,1:1,FC Spartak Moskau,Russland Premier League
+049,19.08.,15:00,RUS PL,Ural Jekaterinburg,1:1,Lok Moskau,Russland Premier League
+050,19.08.,16:00,FS,FSV Mainz 05 GER,abgesagt,VfB Stuttgart GER,Freundschaftsspiele International (Klub)
+051,19.08.,16:30,POL CUP,Stal Stalowa Wola,0:4,KS Lechia Gdansk,Polen Cup
+052,19.08.,17:00,CL Q,Ararat-Armenia ARM,0:0,Omonia Nikosia CYP,"UEFA Champions League, Qualifikation"
+053,19.08.,17:00,FS,LASK Linz AUT*,1:4,W. Bremen GER,Freundschaftsspiele International (Klub)
+054,19.08.,17:00,RUS PL,FK Achmat Grozny,3:1,FC Rotor Wolgograd,Russland Premier League
+055,19.08.,18:00,RUS PL,Dinamo Moskau,2:0,FC Rostov,Russland Premier League
+056,19.08.,18:00,CL Q,Molde FK NOR,5:0,Kuopio PS FIN,"UEFA Champions League, Qualifikation"
+088,19.08.,18:00,NHL,Tampa Bay Lightn.*,4:4,Columbus Blue J.,USA NHL
+057,19.08.,18:30,CL Q,Flora Tallinn EST,1:1,Suduva Marija. LTU,"UEFA Champions League, Qualifikation"
+058,19.08.,19:00,CL Q,NK Celje SLO*,3:0,FC Dundalk IRL,"UEFA Champions League, Qualifikation"
+059,19.08.,19:00,CL Q,Macc. Tel Aviv ISR,2:0,FC Riga LAT,"UEFA Champions League, Qualifikation"
+060,19.08.,19:00,CL Q,Dinamo Tiflis GEO,0:2,KF Tirana ALB,"UEFA Champions League, Qualifikation"
+061,19.08.,19:00,RUS PL,Zenit St.Petersb.,2:1,ZSKA Moskau,Russland Premier League
+062,19.08.,19:00,SWE CUP,Enskede IK,2:4,Taby FK,Schweden Cup
+063,19.08.,19:00,SWE CUP,Karlbergs BK,1:3,IF Brommapojkarna,Schweden Cup
+064,19.08.,19:00,RL SBG,Austria Salzburg,2:0,SK Bischofshofen,Regionalliga Salzburg
+068,19.08.,19:00,CL Q,Ferencvaros HUN,2:0,Djurgardens IF SWE,"UEFA Champions League, Qualifikation"
+069,19.08.,19:00,CL Q,Ferencvaros,2:1,Djurgardens IF+1,"UEFA Champions League, Qualifikation"
+065,19.08.,19:30,RL SBG,SV Kuchl,3:0,SV Seekirchen,Regionalliga Salzburg
+066,19.08.,19:30,NBA,Toronto Raptors*,104:99,Brooklyn Nets,USA NBA
+067,19.08.,20:00,CL Q,B.Podgorica MNE,1:3,Ludog. Razgrad BUL,"UEFA Champions League, Qualifikation"
+070,19.08.,20:00,CL Q,Connah's Quay WAL,0:2,FK Sarajevo BIH,"UEFA Champions League, Qualifikation"
+071,19.08.,20:00,CL Q,FC Sheriff T. MDA,2:0,CS Fola Esch LUX,"UEFA Champions League, Qualifikation"
+073,19.08.,20:00,ISL 2,Fram Reykjavik,3:0,Magni,Island 2. Liga
+074,19.08.,20:00,ISL 2,Thor Akureyri,5:1,L. Faskrudsfjördur,Island 2. Liga
+075,19.08.,20:00,ISL 2,Keflavik IF,6:1,Vikingur Olafsvik,Island 2. Liga
+076,19.08.,20:00,ISL 2,IF Vestri,1:0,Leiknir Reykjavik,Island 2. Liga
+077,19.08.,20:15,ISL 2,IBV Vestmannaeyjar,1:0,Afturelding,Island 2. Liga
+078,19.08.,21:00,CL,Ol. Lyon FRA*,0:3,Bayern München GER,UEFA Champions League
+079,19.08.,21:00,CL,Olympique Lyon+1,1:3,FC Bayern München,UEFA Champions League
+080,19.08.,21:00,CL,Olympique Lyon+2,2:3,FC Bayern München,UEFA Champions League
+081,19.08.,21:00,CL,Olympique Lyon+3,3:3,FC Bayern München,UEFA Champions League
+082,19.08.,21:00,CL Q,Floriana FC MLT,0:2,FC CFR Cluj ROU,"UEFA Champions League, Qualifikation"
+083,19.08.,21:15,ISL 2,Throttur Reykjavik,2:4,UMF Grindavik,Island 2. Liga
+084,19.08.,22:00,NBA,Denver Nuggets*,105:124,Utah Jazz,USA NBA
+089,19.08.,22:00,NHL,Boston Bruins*,2:1,Carolina Hurric.,USA NHL
+091,19.08.,23:30,NHL,Colorado Av.*,7:1,Arizona Coyotes,USA NHL
+085,20.08.,00:15,BRA 1,CR Flamengo RJ,1:1,Gremio RS,Brasilien Brasilero Serie A
+086,20.08.,00:15,BRA 1,RB Bragantino SP,2:1,Fluminense RJ,Brasilien Brasilero Serie A
+087,20.08.,00:30,BRA 1,Atletico PR,0:1,SE Palmeiras SP,Brasilien Brasilero Serie A
+092,20.08.,01:30,BRA 1,Internacional RS,3:0,Atletico GO,Brasilien Brasilero Serie A
+093,20.08.,01:30,BRA 1,Goias EC GO,1:3,Fortaleza EC CE,Brasilien Brasilero Serie A
+090,20.08.,02:00,NHL,Philadelphia Fl.*,3:5,Montreal Canad.,USA NHL
+094,20.08.,02:30,BRA 1,Botafogo FR RJ,2:1,Atletico MG,Brasilien Brasilero Serie A
+095,20.08.,02:30,BRA 1,Corinthians SP,3:1,Coritiba FC PR,Brasilien Brasilero Serie A
+096,20.08.,12:00,CHN SL,Guangzhou Ev.,2:1,Jiangsu Suning,China Chinese Super League
+097,20.08.,14:00,CHN SL,Shenzhen FC,3:2,Dalian Aerbin FC,China Chinese Super League
+098,20.08.,17:00,LIT 1,FK Panevezys,0:1,FK Zalgiris Kaunas,Litauen A lyga
+099,20.08.,17:30,EL,St. Joseph's GIB,1:2,B36 Torshavn FRO,UEFA Europa League
+100,20.08.,18:15,IRI 1,Foolad Khuzestan,1:0,Tractor Sazi,Iran Pro League
+101,20.08.,19:00,LIT 1,FK Riteriai,2:2,Zalgiris Vilnius,Litauen A lyga
+102,20.08.,19:00,NBA,Indiana Pacers*,100:109,Miami Heat,USA NBA
+103,20.08.,19:00,EL,NSI Runavik FRO,5:1,FC Barry Town WAL,UEFA Europa League
+104,20.08.,19:30,EL,FC Santa Colom AND,0:0,FK Iskra Danil MNE,UEFA Europa League
+105,20.08.,20:00,EL,Glentoran NIR,1:0,HB Torshavn FRO,UEFA Europa League
+106,20.08.,20:00,ISL 1,Fjölnir,1:1,Vikingur Reykjavik,Island Urvalsdeild
+107,20.08.,20:30,SCO PS,FC St. Johnstone,0:1,FC Aberdeen,Schottland Premiership
+108,20.08.,20:30,EL,FC Coleraine NIR,1:0,SP La Fiorita SMR,UEFA Europa League
+109,20.08.,21:00,EL,SP Tre Penne SMR,1:3,SC Gjilani KOS,UEFA Europa League
+110,20.08.,21:15,ITA B,Spezia Calcio,0:1,Frosinone Calcio,Italien Serie B
+111,20.08.,21:15,ITA B,Spezia Calcio,0:2,Frosinone Calcio+1,Italien Serie B
+112,20.08.,21:30,NBA,Houston Rockets*,111:98,Oklahoma City Th.,USA NBA
+113,20.08.,22:00,ESP 2,Elche CF,0:0,FC Girona,Spanien Segunda Division
+114,21.08.,00:00,NBA,Milwaukee Bucks*,111:96,Orlando Magic,USA NBA
+116,21.08.,00:15,BRA 1,Sport Recife PE,0:1,Santos SP,Brasilien Brasilero Serie A
+117,21.08.,01:00,BRA 1,Ceara SC CE,0:3,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+118,21.08.,01:00,BRA 1,Sao Paulo SP,1:1,EC Bahia BA,Brasilien Brasilero Serie A
+119,21.08.,01:00,USA MLS,NY Red Bulls,1:0,New York City FC,USA Major League Soccer
+120,21.08.,01:30,USA MLS,Columbus Crew,3:0,Chicago Fire,USA Major League Soccer
+115,21.08.,03:00,NBA,LA Lakers*,111:88,Portland T.,USA NBA
+072,21.08.,18:00,CL Q,KI Klaksvik FRO,abgesagt,Slov. Bratisl. SVK,"UEFA Champions League, Qualifikation"

@@ -1,0 +1,57 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,03.04.,11:00,BB TWN,Bank of Taiwan,85:82,Yulon Luxgen Dinos,Super Basketball League
+002,03.04.,12:00,BLR RES,Dinamo Brest Reser,2:0,Sl. Mozyr Reserve,Weißrussland Reserve Liga
+003,03.04.,12:30,BLR RES,Bate Borisov Reser,1:4,Rukh Brest Reserve,Weißrussland Reserve Liga
+004,03.04.,13:00,BLR RES,Sh. Soligorsk Rese,1:1,Neman Grodno Res.,Weißrussland Reserve Liga
+005,03.04.,13:00,BB TWN,Pauian Archiland,88:79,Kaohsiung Jeoutai,Super Basketball League
+006,03.04.,16:00,BLR 1,Belshina Bobruisk,0:1,FC Gorodeya,Weißrussland Premier League
+007,03.04.,18:00,BLR 1,FC Dinamo Minsk,2:0,FC Torpedo Zhodino,Weißrussland Premier League
+008,03.04.,18:00,BLR 1,FC Dinamo Minsk,2:1,Torpedo Zhodino+1,Weißrussland Premier League
+009,03.04.,18:00,EH BLR,Yunost Minsk,2:2,Shakhter Soligorsk,Weißrussland Extraliga
+010,03.04.,18:00,EH BLR,Yunost Minsk,2:3,Sh. Soligorsk+1,Weißrussland Extraliga
+011,04.04.,13:00,BLR RES,FC Isloch Reserve,4:0,FC Slutsk Reserve,Weißrussland Reserve Liga
+013,04.04.,13:00,BLR RES,Energetik Minsk Re,1:2,FC Minsk Reserve,Weißrussland Reserve Liga
+014,04.04.,13:00,FTSBLR1,Ohrana-Dinamo,6:6,Dinamo-Bntu Minsk,Weißrussland 1. Division
+015,04.04.,13:00,FTSBLR1,CKK Svetlogorsk,abgesagt,Dorozhnik Minsk,Weißrussland 1. Division
+016,04.04.,14:00,FTSBLR1,MFK VRZ Gomel,6:2,MFK Shchuchin,Weißrussland 1. Division
+017,04.04.,14:00,TAJ SC,FK Istiklol,2:1,FC Khujand,Tadschikistan Super Cup
+018,04.04.,14:00,TAJ SC,FK Istiklol,2:2,FC Khujand+1,Tadschikistan Super Cup
+019,04.04.,14:00,FS,BK Häcken SWE,abgesagt,Helsingborgs SWE,Freundschaftsspiele International (Klub)
+020,04.04.,14:30,BLR 1,Shakhter Soligorsk,0:0,Neman Grodno,Weißrussland Premier League
+021,04.04.,14:30,BLR 1,Shakhter Soligorsk,0:1,Neman Grodno+1,Weißrussland Premier League
+022,04.04.,15:00,FTSBLR1,UVD-Dinamo Grodno,6:3,MFK Minsk,Weißrussland 1. Division
+012,04.04.,15:30,BLR RES,RES Vitebsk*,0:4,FC Smolevichi Res,Weißrussland Reserve Liga
+023,04.04.,16:00,FTSBLR1,MFK Stalitsa Minsk,4:4,MFK Viten Orsha,Weißrussland 1. Division
+024,04.04.,16:00,FTSBLR1,MFK Borisov-900,2:7,BCH Gomel,Weißrussland 1. Division
+025,04.04.,16:30,BLR 1,FC BATE Borisov,1:0,FC Rukh Brest,Weißrussland Premier League
+026,04.04.,16:30,BLR 1,FC BATE Borisov,1:1,FC Rukh Brest+1,Weißrussland Premier League
+027,04.04.,18:30,BLR 1,Dinamo Brest,1:2,Slavia Mozyr,Weißrussland Premier League
+028,04.04.,18:30,BLR 1,Dinamo Brest,1:3,Slavia Mozyr+1,Weißrussland Premier League
+029,04.04.,21:30,NIC U20,U20 CD Ocotal,5:0,U20 Las Sabanas CF,Nicaragua U20
+030,04.04.,21:30,NIC U20,U20 Real Madriz,3:1,U20 Managua,Nicaragua U20
+031,04.04.,23:30,NIC U20,U20 Juve Managua,1:2,U20 Diriangen,Nicaragua U20
+032,05.04.,00:00,NIC 1,Real Madriz,0:0,Managua FC,Nicaragua Primera Division
+033,05.04.,00:00,NIC 1,Real Madriz+1,1:0,Managua FC,Nicaragua Primera Division
+034,05.04.,00:00,NIC 1,CD Ocotal,1:1,Las Sabanas CF,Nicaragua Primera Division
+035,05.04.,02:00,NIC 1,Juventus Managua,3:0,Diriangen FC,Nicaragua Primera Division
+036,05.04.,02:00,NIC 1,Juve Managua+1,4:0,Diriangen FC,Nicaragua Primera Division
+037,05.04.,13:00,TAJ 1,FC Kuktosh,0:0,Regar-TadAZ,Tadschikistan 1. Liga
+038,05.04.,13:00,TAJ 1,Lokomotiv-Pamir,2:2,Faizkand,Tadschikistan 1. Liga
+039,05.04.,13:00,TAJ 1,FC Khatlon,2:1,Istaravshan,Tadschikistan 1. Liga
+040,05.04.,13:00,BLR 1,Energet. BGU Minsk,2:0,FC Minsk,Weißrussland Premier League
+041,05.04.,13:00,BLR 1,E.BGU Minsk+1,3:0,FC Minsk,Weißrussland Premier League
+042,05.04.,15:00,BLR 1,FC Vitebsk*,1:0,FC Smolevichi,Weißrussland Premier League
+043,05.04.,15:00,BLR 1,FC Vitebsk,1:1,FC Smolevichi+1,Weißrussland Premier League
+044,05.04.,17:00,BLR 1,Isloch,2:3,FC Slutsk,Weißrussland Premier League
+045,05.04.,17:00,BLR 1,Isloch,2:4,FC Slutsk+1,Weißrussland Premier League
+046,05.04.,22:30,NIC U20,U20 Walter Ferrett,1:4,U20 Real Esteli FC,Nicaragua U20
+047,06.04.,00:00,NIC 1,Municipal Jalapa,0:1,Chinandega FC,Nicaragua Primera Division
+048,06.04.,01:00,NIC 1,CD Walter Ferretti,1:0,Real Esteli FC,Nicaragua Primera Division
+049,08.04.,16:30,BLR CUP,Slavia Mozyr,1:0,FC BATE Borisov,Weißrussland Cup
+050,08.04.,16:30,BLR CUP,Slavia Mozyr+1,2:0,FC BATE Borisov,Weißrussland Cup
+051,08.04.,18:30,BLR CUP,Dinamo Brest,2:0,Shakhter Soligorsk,Weißrussland Cup
+052,09.04.,00:00,NIC 1,Las Sabanas CF,0:0,Municipal Jalapa,Nicaragua Primera Division
+053,09.04.,00:30,NIC 1,Managua FC,2:1,CD Ocotal,Nicaragua Primera Division
+054,09.04.,02:00,NIC 1,Diriangen FC,3:0,Chinandega FC,Nicaragua Primera Division
+055,09.04.,03:00,NIC 1,CD Walter Ferretti,4:0,Real Madriz,Nicaragua Primera Division
+056,09.04.,03:00,NIC 1,Real Esteli FC,0:0,Juventus Managua,Nicaragua Primera Division

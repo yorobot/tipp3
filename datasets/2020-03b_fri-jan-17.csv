@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,17.01.,16:00,HB EM,Slowenien,30:27,Island,Handball Europameisterschaft
+002,17.01.,18:00,TUR 1,MKE Ankaragücü,0:1,Konyaspor,Türkei Süper Lig
+003,17.01.,18:15,HB EM,Norwegen,36:29,Ungarn,Handball Europameisterschaft
+004,17.01.,19:00,BB EL,Roter Stern SRB,79:79,Alba Berlin GER,Euroleague
+005,17.01.,19:15,EH AUT,EC Graz 99ers,3:3,Vienna Capitals,Österreich Eishockey Liga
+006,17.01.,19:15,EH AUT,HC Znojmo,2:5,EC RB Salzburg,Österreich Eishockey Liga
+007,17.01.,19:15,EH AUT,KAC Klagenfurt,3:2,HC Innsbruck,Österreich Eishockey Liga
+008,17.01.,19:30,BB EL,Olympiakos P. GRE,89:72,Bayern München GER,Euroleague
+009,17.01.,19:45,EH AUT,HC Bozen Foxes,4:0,Villacher SV,Österreich Eishockey Liga
+010,17.01.,20:00,POR 1,FC Porto,1:2,Sporting Braga,Portugal Primeira Liga
+011,17.01.,20:00,NL 1,FC Zwolle,3:3,FC Utrecht,Niederlande Eredivisie
+012,17.01.,20:00,NL 2,FC Volendam,4:2,Jong PSV Eindh.,Niederlande Jupiler League
+013,17.01.,20:00,NL 2,NAC Breda,3:1,AZ Alkmaar II,Niederlande Jupiler League
+014,17.01.,20:00,NL 2,FC Eindhoven,2:0,Helmond Sport,Niederlande Jupiler League
+015,17.01.,20:00,NL 2,Excel. Rotterdam,3:3,SC Telstar,Niederlande Jupiler League
+016,17.01.,20:00,NL 2,Almere City FC,0:2,De Graafschap,Niederlande Jupiler League
+017,17.01.,20:00,NL 2,MVV Maastricht,0:0,NEC Nijmegen,Niederlande Jupiler League
+018,17.01.,20:00,NL 2,FC Oss,3:2,SC Cambuur,Niederlande Jupiler League
+019,17.01.,20:30,GER BL,FC Schalke 04,2:0,Mönchengladbach,Deutschland Bundesliga
+020,17.01.,20:30,GER BL,FC Schalke 04,2:1,Mönchengladbach+1,Deutschland Bundesliga
+021,17.01.,20:30,GER BL,FC Schalke 04+1,3:0,Mönchengladbach,Deutschland Bundesliga
+022,17.01.,20:30,BEL 1,YR KV Mechelen,2:3,Standard Lüttich,Belgien Jupiler Pro League
+023,17.01.,20:30,BEL 2,Lommel United,1:0,Sporting Lokeren,Belgium Tweede Klasse
+024,17.01.,20:30,HB EM,Portugal,35:25,Schweden,Handball Europameisterschaft
+025,17.01.,20:45,ENG CS,FC Fulham,1:0,FC Middlesbrough,England Championship
+026,17.01.,21:00,ESP 1,CD Leganes,0:3,Getafe CF,Spanien Primera Division
+027,17.01.,21:00,ESP 2,Fuenlabrada,0:0,Malaga CF,Spanien Segunda Division
+028,17.01.,21:00,ITA B,Frosinone Calcio,2:2,Pordenone Calcio,Italien Serie B
+029,17.01.,21:05,FRA CUP,US Granville*,0:3,Olymp. Marseille,Frankreich Coupe de France
+030,17.01.,22:15,POR 1,Sporting Lissabon,0:2,Benfica Lissabon,Portugal Primeira Liga
+031,18.01.,13:00,ESP 1,Levante UD,0:1,CD Alaves,Spanien Primera Division
+032,18.01.,13:30,ENG PL,FC Watford,0:0,Tottenham,England Premier League
+033,18.01.,13:30,ENG CS,Queens Park R.,1:0,Leeds United,England Championship
+034,18.01.,15:00,ITA A,Lazio Rom,5:1,Sampdoria Genua,Italien Serie A
+035,18.01.,15:30,GER BL,TSG Hoffenheim,1:2,Eintr. Frankfurt,Deutschland Bundesliga
+036,18.01.,15:30,GER BL,TSG Hoffenheim,1:3,Eintr. Frankfurt+1,Deutschland Bundesliga
+037,18.01.,15:30,GER BL,FC Augsburg,3:5,Bor. Dortmund,Deutschland Bundesliga
+038,18.01.,15:30,GER BL,Fortuna Düsseldorf,0:1,Werder Bremen,Deutschland Bundesliga
+039,18.01.,15:30,GER BL,1. FC Köln,3:1,VfL Wolfsburg,Deutschland Bundesliga
+040,18.01.,15:30,GER BL,FSV Mainz 05,1:2,SC Freiburg,Deutschland Bundesliga
+041,18.01.,16:00,ENG PL,Manchester City,2:2,Crystal Palace,England Premier League
+042,18.01.,16:00,ENG PL,FC Arsenal,1:1,Sheffield United,England Premier League
+043,18.01.,16:00,ENG PL,FC Southampton,2:3,Wolverhampton,England Premier League
+044,18.01.,16:00,ENG PL,Brighton & Hove,1:1,Aston Villa,England Premier League
+045,18.01.,16:00,ENG PL,West Ham United,1:1,FC Everton,England Premier League
+046,18.01.,16:00,ENG PL,Norwich City,1:0,AFC Bournemouth,England Premier League
+047,18.01.,16:00,ENG CS,Birmingham City,1:1,Cardiff City,England Championship
+048,18.01.,16:00,ENG CS,Bristol City,1:0,FC Barnsley,England Championship
+049,18.01.,16:00,ENG CS,Derby County,1:0,Hull City,England Championship
+050,18.01.,16:00,ENG CS,Huddersfield Town,0:0,FC Brentford,England Championship
+051,18.01.,16:00,ENG CS,FC Millwall,2:0,FC Reading,England Championship
+052,18.01.,16:00,ENG CS,Preston North End,2:1,Charlton Athletic,England Championship
+053,18.01.,16:00,ENG CS,Sheffield Wednes.,0:5,Blackburn Rovers,England Championship
+054,18.01.,16:00,ENG CS,Swansea City,2:1,Wigan Athletic,England Championship
+055,18.01.,16:00,HB EM,Weißrussland,28:25,Tschechien,Handball Europameisterschaft
+056,18.01.,16:00,ESP 1,Real Madrid,2:1,FC Sevilla,Spanien Primera Division
+057,18.01.,18:00,ITA A,US Sassuolo,2:1,FC Torino,Italien Serie A
+058,18.01.,18:00,TUR 1,Gazis. Gaziantep,0:2,Fenerbahce,Türkei Süper Lig
+059,18.01.,18:15,HB EM,Spanien,30:26,Österreich,Handball Europameisterschaft
+060,18.01.,18:30,GER BL,RB Leipzig,3:1,FC Union Berlin,Deutschland Bundesliga
+061,18.01.,18:30,ENG PL,Newcastle United,1:0,FC Chelsea,England Premier League
+062,18.01.,18:30,ESP 1,CA Osasuna,0:0,Real Valladolid,Spanien Primera Division
+063,18.01.,19:45,NL 1,Feyenoord,3:1,SC Heerenveen,Niederlande Eredivisie
+064,18.01.,20:30,HB EM,Kroatien,25:24,Deutschland,Handball Europameisterschaft
+065,18.01.,20:45,ITA A,SSC Napoli,0:2,AC Fiorentina,Italien Serie A
+066,18.01.,20:55,FRA CUP,FC Nantes,3:4,Olympique Lyon,Frankreich Coupe de France
+067,18.01.,21:00,ESP 1,SD Eibar,2:0,Atletico Madrid,Spanien Primera Division
+068,19.01.,12:00,ESP 1,RCD Mallorca,4:1,FC Valencia,Spanien Primera Division
+069,19.01.,12:15,NL 1,VVV Venlo,1:1,PSV Eindhoven,Niederlande Eredivisie
+070,19.01.,12:30,ITA A,AC Milan,3:2,Udinese Calcio,Italien Serie A
+071,19.01.,13:00,ENG CS,Nottingham Forest,3:1,Luton Town,England Championship
+072,19.01.,14:00,ESP 1,Betis Sevilla,3:0,Real Sociedad,Spanien Primera Division
+073,19.01.,14:00,TUR 1,Galatasaray,2:1,Denizlispor,Türkei Süper Lig
+074,19.01.,14:00,HB EM,Portugal,25:28,Island,Handball Europameisterschaft
+075,19.01.,14:30,NL 1,Ajax Amsterdam,2:1,Sparta Rotterdam,Niederlande Eredivisie
+076,19.01.,15:00,ENG PL,FC Burnley,2:1,Leicester City,England Premier League
+077,19.01.,15:00,ITA A,US Lecce,1:1,Inter Mailand,Italien Serie A
+078,19.01.,15:00,ITA A,Brescia Calcio,2:2,Cagliari Calcio,Italien Serie A
+079,19.01.,15:00,ITA A,Bologna FC,1:1,Hellas Verona,Italien Serie A
+080,19.01.,15:30,GER BL,Hertha BSC,0:4,FC Bayern München,Deutschland Bundesliga
+081,19.01.,15:30,GER BL,Hertha BSC+1,1:4,FC Bayern München,Deutschland Bundesliga
+082,19.01.,16:00,ESP 1,Villarreal CF,1:2,Espanyol Barcelona,Spanien Primera Division
+095,19.01.,16:15,HB EM,Slowenien,28:29,Ungarn,Handball Europameisterschaft
+084,19.01.,17:00,TUR 1,Besiktas Istanbul,1:2,Sivasspor,Türkei Süper Lig
+085,19.01.,17:15,FRA CUP,HSC Montpellier,5:0,SM Caen,Frankreich Coupe de France
+086,19.01.,17:30,ENG PL,FC Liverpool,2:0,Manchester United,England Premier League
+087,19.01.,17:30,EH AUT,EC RB Salzburg,4:1,KAC Klagenfurt,Österreich Eishockey Liga
+088,19.01.,17:30,EH AUT,Vienna Capitals,3:1,HC Bozen Foxes,Österreich Eishockey Liga
+089,19.01.,17:30,EH AUT,Black Wings Linz,2:3,EC Graz 99ers,Österreich Eishockey Liga
+090,19.01.,17:30,EH AUT,Villacher SV,4:3,HC Znojmo,Österreich Eishockey Liga
+091,19.01.,18:00,GER BL,SC Paderborn,1:4,Bayer Leverkusen,Deutschland Bundesliga
+092,19.01.,18:00,ITA A,FC Genua,1:3,AS Roma,Italien Serie A
+093,19.01.,18:00,BEL 1,RSC Anderlecht,1:2,Club Brügge,Belgien Jupiler Pro League
+083,19.01.,18:30,HB EM,Norwegen,23:20,Schweden,Handball Europameisterschaft
+094,19.01.,18:30,ESP 1,Athletic Bilbao,1:1,Celta de Vigo,Spanien Primera Division
+096,19.01.,20:45,ITA A,Juventus Turin,2:1,FC Parma,Italien Serie A
+097,19.01.,20:55,FRA CUP,FC Lorient,0:1,Paris SG,Frankreich Coupe de France
+098,19.01.,21:00,ESP 1,FC Barcelona,1:0,Granada CF,Spanien Primera Division
+099,19.01.,21:05,NFL,Kansas Chiefs,35:24,Tennessee Titans,USA NFL
+100,20.01.,00:40,NFL,San Francisco 49,37:20,Green Bay Packers,USA NFL
+101,20.01.,15:30,GRE 2,PAS Giannina FC,0:1,APO Levadiakos FC,Griechenland Super League 2
+102,20.01.,16:00,HB EM,Kroatien,22:21,Tschechien,Handball Europameisterschaft
+103,20.01.,18:00,TUR 1,Caykur Rizespor,2:0,Genclerbirligi,Türkei Süper Lig
+104,20.01.,18:00,ISR 1,Hapoel Kfar Saba,0:1,Bnei Yehuda,Israel Winner League
+105,20.01.,18:00,ISR 2,Bnei Sakhnin FC,0:0,Hapoel Akko,Israel National League
+106,20.01.,18:00,ISR 2,Hapoel Afula FC,2:2,Hapoel Ashkelon,Israel National League
+107,20.01.,18:00,ISR 2,Hapoel Ramat Gan,0:1,SC Kfar Qasem,Israel National League
+108,20.01.,18:00,CYP 1,FC Pafos,abgesagt,Olympiakos Nicosia,Zypern 1. Division
+109,20.01.,18:15,HB EM,Weißrussland,28:37,Spanien,Handball Europameisterschaft
+110,20.01.,18:30,EGY 1,El Zamalek,abgesagt,Al-Masry Club,Ägypten Premier League
+111,20.01.,19:00,ISR 1,Hap. Beer Sheva,1:0,Hapoel Haifa,Israel Winner League
+112,20.01.,19:15,ISR 1,Beitar Jerusalem,3:1,Maccabi Netanya,Israel Winner League
+113,20.01.,20:00,NL 2,Jong FC Utrecht,2:1,Roda JC Kerkrade,Niederlande Jupiler League
+114,20.01.,20:00,NL 2,Jong Ajax Amst.,2:0,FC Dordrecht,Niederlande Jupiler League
+115,20.01.,20:30,HB EM,Österreich,22:34,Deutschland,Handball Europameisterschaft
+116,20.01.,20:45,ITA A,Atalanta Bergamo,1:2,Spal Ferrara,Italien Serie A
+117,20.01.,20:45,ITA C1B,Piacenza Calcio,1:2,Triestina Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+118,20.01.,20:55,FRA CUP,St Pryve Hilaire*,1:3,AS Monaco,Frankreich Coupe de France
+119,20.01.,21:00,ENG CS,West Bromwich,0:1,Stoke City,England Championship
+120,20.01.,21:00,ITA B,Cosenza Calcio,0:1,FC Crotone,Italien Serie B

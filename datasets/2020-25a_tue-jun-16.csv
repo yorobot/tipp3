@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,16.06.,18:00,SVK CUP,Slovan Bratislava,4:1,Zlate Moravce,Slowakei Cup
+002,16.06.,18:00,DEN 1,AC Horsens,2:2,Esbjerg FB,Dänemark Superligaen
+003,16.06.,18:00,NOR 1,Aalesunds FK,1:4,Molde FK,Norwegen Tippeligaen
+004,16.06.,18:00,NOR 1,Viking FK,2:4,Bodö Glimt,Norwegen Tippeligaen
+005,16.06.,18:00,NOR 1,Odds BK,1:2,Sandefjord Fotball,Norwegen Tippeligaen
+006,16.06.,18:00,NOR 1,Rosenborg BK,0:0,Kristiansund BK,Norwegen Tippeligaen
+007,16.06.,18:00,NOR 1,Stabaek IF,0:0,Mjöndalen,Norwegen Tippeligaen
+008,16.06.,18:30,AUT BL,SKN St. Pölten,1:0,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
+009,16.06.,18:30,AUT BL,Admira Wacker,1:1,SCR Altach,"Österreich Bundesliga, Qualifikationsgruppe"
+010,16.06.,18:30,GER BL,Mönchengladbach,3:0,VfL Wolfsburg,Deutschland Bundesliga
+011,16.06.,18:30,GER 2,Hamburger SV,1:1,VfL Osnabrück,Deutschland 2. Bundesliga
+012,16.06.,18:30,GER 2,Wehen Wiesbaden,0:6,1. FC Nürnberg,Deutschland 2. Bundesliga
+013,16.06.,18:30,GER 2,Greuther Fürth,0:0,FC Heidenheim,Deutschland 2. Bundesliga
+014,16.06.,19:00,GER 3,Kickers Würzburg,2:0,FC Kaiserslautern,Deutschland 3. Liga
+015,16.06.,19:00,GER 3,FC Ingolstadt,0:0,E. Braunschweig,Deutschland 3. Liga
+016,16.06.,19:00,GER 3,Chemnitzer FC,1:0,Preussen Münster,Deutschland 3. Liga
+017,16.06.,19:00,CRO 1,HNK Hajduk Split,2:3,NK Varazdin SN,Kroatien 1. HNL
+018,16.06.,19:30,ESP 1,Villarreal CF,1:0,RCD Mallorca,Spanien Primera Division
+019,16.06.,19:30,ESP 1,Getafe CF,0:0,Espanyol Barcelona,Spanien Primera Division
+020,16.06.,19:30,ESP 2,CD Lugo,1:3,Real Saragossa,Spanien Segunda Division
+021,16.06.,19:45,TUR CUP,Fenerbahce,1:3,Trabzonspor,Türkei Türkiye Kupasi
+022,16.06.,20:00,POR 1,CD Santa Clara,1:1,Portimonense SC,Portugal Primeira Liga
+023,16.06.,20:00,DEN 1,Randers FC,4:0,Hobro IK,Dänemark Superligaen
+024,16.06.,20:30,AUT BL,FK Austria Wien,1:0,WSG Swarovs. Tirol,"Österreich Bundesliga, Qualifikationsgruppe"
+025,16.06.,20:30,AUT BL,FK Austria Wien,1:1,WSG Swar. Tirol+1,"Österreich Bundesliga, Qualifikationsgruppe"
+026,16.06.,20:30,GER BL,Werder Bremen,0:1,FC Bayern München,Deutschland Bundesliga
+027,16.06.,20:30,GER BL,W. Bremen+2,2:1,FC Bayern München,Deutschland Bundesliga
+028,16.06.,20:30,GER BL,FC Union Berlin,1:0,SC Paderborn,Deutschland Bundesliga
+029,16.06.,20:30,GER BL,SC Freiburg,2:1,Hertha BSC,Deutschland Bundesliga
+030,16.06.,20:30,GER 3,FC Viktoria Köln,2:0,TSV 1860 München,Deutschland 3. Liga
+031,16.06.,20:30,GER 3,Hallescher FC,1:1,FC Magdeburg,Deutschland 3. Liga
+032,16.06.,20:30,NOR 1,Sarpsborg 08,0:1,Valerenga IF,Norwegen Tippeligaen
+033,16.06.,21:05,CRO 1,HNK Rijeka,2:2,Lok Zagreb,Kroatien 1. HNL
+034,16.06.,21:05,HUN 1,Honved Budapest,0:2,Ferencvaros,Ungarn NB I
+035,16.06.,21:45,ESP 2,FC Girona,0:0,Racing Santander,Spanien Segunda Division
+036,16.06.,22:00,ESP 1,FC Barcelona,2:0,CD Leganes,Spanien Primera Division
+037,16.06.,22:15,POR 1,CD Aves,0:0,FC Porto,Portugal Primeira Liga
+038,17.06.,17:15,CZE CUP,SK Sigma Olmütz,1:2,FC Slovan Liberec,Tschechien Cup
+039,17.06.,18:00,DEN 1,AGF Aarhus,2:1,FC Nordsjaelland,Dänemark Superligaen
+040,17.06.,18:00,NOR 1,IK Start,2:2,Strömsgodset,Norwegen Tippeligaen
+041,17.06.,18:30,ITA B,Ascoli FC,1:3,US Cremonese,Italien Serie B
+042,17.06.,18:30,AUT BL,TSV Hartberg,0:1,SK Rapid Wien,Österreich Bundesliga
+043,17.06.,18:30,AUT BL,TSV Hartberg+1,1:1,SK Rapid Wien,Österreich Bundesliga
+044,17.06.,18:30,AUT BL,Wolfsberger AC,0:0,RB Salzburg,Österreich Bundesliga
+045,17.06.,18:30,AUT BL,Wolfsberger AC+1,1:0,RB Salzburg,Österreich Bundesliga
+046,17.06.,18:30,GER BL,Eintr. Frankfurt,2:1,FC Schalke 04,Deutschland Bundesliga
+047,17.06.,18:30,GER 2,Erzgebirge Aue,1:2,VfL Bochum,Deutschland 2. Bundesliga
+048,17.06.,18:30,GER 2,Jahn Regensburg,2:1,Karlsruher SC,Deutschland 2. Bundesliga
+049,17.06.,18:30,GER 2,VfB Stuttgart,5:1,SV Sandhausen,Deutschland 2. Bundesliga
+050,17.06.,18:30,GER 2,Hannover 96,4:0,FC St. Pauli,Deutschland 2. Bundesliga
+051,17.06.,19:00,GER 3,Großaspach,1:0,FSV Zwickau,Deutschland 3. Liga
+052,17.06.,19:00,GER 3,Bayern München Am.,5:1,SV Meppen,Deutschland 3. Liga
+053,17.06.,19:00,GER 3,Unterhaching,0:0,W. Mannheim,Deutschland 3. Liga
+054,17.06.,19:00,ENG PL,Aston Villa,0:0,Sheffield United,England Premier League
+055,17.06.,19:00,SWE 1,Djurgardens IF,1:2,Örebro SK,Schweden Allsvenskan
+056,17.06.,19:00,SWE 1,AIK Stockholm,1:4,IFK Norrköping,Schweden Allsvenskan
+057,17.06.,19:00,SWE 1,IF Elfsborg,2:2,Hammarby IF,Schweden Allsvenskan
+058,17.06.,19:00,CRO 1,NK Dinamo Zagreb,3:2,NK Slaven Belupo,Kroatien 1. HNL
+059,17.06.,19:00,HUN 1,Fehervar FC,1:0,Debreceni VSC,Ungarn NB I
+060,17.06.,19:15,ISR 1,Beitar Jerusalem,1:1,Hapoel Haifa,Israel Winner League
+061,17.06.,19:30,ESP 1,Real Valladolid,0:0,Celta de Vigo,Spanien Primera Division
+062,17.06.,19:30,ESP 1,SD Eibar,2:2,Athletic Bilbao,Spanien Primera Division
+063,17.06.,19:30,ESP 2,UD Almeria,0:1,Las Palmas UD,Spanien Segunda Division
+064,17.06.,19:30,ESP 2,Real Oviedo,2:2,Dep. La Coruna,Spanien Segunda Division
+065,17.06.,19:30,ESP 2,UD Extremadura,0:1,Albacete Balompie,Spanien Segunda Division
+066,17.06.,20:00,POR 1,FC Pacos Ferreira,2:1,Belenenses L.,Portugal Primeira Liga
+067,17.06.,20:00,DEN 1,FC Kopenhagen,2:0,Aalborg BK,Dänemark Superligaen
+068,17.06.,20:15,CZE CUP,Sparta Prag,2:1,Viktoria Pilsen,Tschechien Cup
+069,17.06.,20:30,AUT BL,LASK Linz,4:0,SK Sturm Graz,Österreich Bundesliga
+070,17.06.,20:30,AUT BL,LASK Linz,4:1,SK Sturm Graz+1,Österreich Bundesliga
+071,17.06.,20:30,GER BL,RB Leipzig,2:2,Fortuna Düsseldorf,Deutschland Bundesliga
+072,17.06.,20:30,GER BL,RB Leipzig,2:4,Fort. Düsseldorf+2,Deutschland Bundesliga
+073,17.06.,20:30,GER BL,Bayer Leverkusen,3:1,1. FC Köln,Deutschland Bundesliga
+074,17.06.,20:30,GER BL,Bayer Leverkusen,3:2,1. FC Köln+1,Deutschland Bundesliga
+075,17.06.,20:30,GER BL,Bor. Dortmund,0:2,FSV Mainz 05,Deutschland Bundesliga
+076,17.06.,20:30,GER BL,Bor. Dortmund,0:4,FSV Mainz 05+2,Deutschland Bundesliga
+077,17.06.,20:30,GER BL,FC Augsburg,1:3,TSG Hoffenheim,Deutschland Bundesliga
+078,17.06.,20:30,GER 3,KFC Uerdingen 05,1:1,MSV Duisburg,Deutschland 3. Liga
+079,17.06.,20:30,NOR 1,FK Haugesund,1:2,SK Brann,Norwegen Tippeligaen
+080,17.06.,21:00,ITA CUP,SSC Napoli*,0:0,Juventus Turin,Italien Coppa Italia
+081,17.06.,21:00,ITA CUP,SSC Napoli+1,1:0,Juventus Turin,Italien Coppa Italia
+082,17.06.,21:05,CRO 1,NK Osijek,2:1,HNK Gorica,Kroatien 1. HNL
+083,17.06.,21:15,ENG PL,Manchester City,3:0,FC Arsenal,England Premier League
+084,17.06.,21:15,ENG PL,Manchester City,3:1,FC Arsenal+1,England Premier League
+085,17.06.,21:45,ESP 2,Rayo Vallecano,1:0,Fuenlabrada,Spanien Segunda Division
+086,17.06.,22:00,ESP 1,CA Osasuna,0:5,Atletico Madrid,Spanien Primera Division
+087,17.06.,22:15,POR 1,Rio Ave FC,1:2,Benfica Lissabon,Portugal Primeira Liga
+089,18.06.,17:00,CZE 2,FK Varnsdorf,2:2,FK Slavoj Vysehrad,Tschechien 1. Division
+090,18.06.,17:00,CZE 2,FC Jihlava,0:1,FK Viktoria Zizkov,Tschechien 1. Division
+091,18.06.,17:00,CZE 2,FK Dukla Prag,3:1,FK Banik Sokolov,Tschechien 1. Division
+092,18.06.,18:00,CZE 2,FC Hradec Kralove,1:1,Zbrojovka Brno,Tschechien 1. Division
+093,18.06.,18:00,DEN 1,Lyngby BK,0:0,Silkeborg IF,Dänemark Superligaen
+094,18.06.,18:00,DEN 1,Odense BK,2:0,SönderjyskE,Dänemark Superligaen
+095,18.06.,18:30,GER 2,Holstein Kiel,2:0,Dynamo Dresden,Deutschland 2. Bundesliga
+096,18.06.,19:00,SWE 1,Östersunds FK,0:2,IK Sirius FK,Schweden Allsvenskan
+097,18.06.,19:00,SWE 1,Kalmar FF,4:0,Helsingborgs IF,Schweden Allsvenskan
+098,18.06.,19:00,SWE 1,Mjällby AIF,0:1,Falkenbergs FF,Schweden Allsvenskan
+099,18.06.,19:00,SWE 1,BK Häcken,1:1,Malmö FF,Schweden Allsvenskan
+100,18.06.,19:00,SWE 1,Varbergs BoIS,1:2,IFK Göteborg,Schweden Allsvenskan
+101,18.06.,19:00,ISR 2,Bnei Sakhnin FC,1:0,SC Kfar Qasem,Israel National League
+102,18.06.,19:00,ISR 2,Hap. Rishon LeZion,3:1,I. Ramat Hasharon,Israel National League
+103,18.06.,19:00,ISR 2,Beitar Tel Aviv,1:2,Hapoel Ramat Gan,Israel National League
+104,18.06.,19:00,ISR 2,Hapoel K. Jerusale,1:1,Macc. Petach Tikva,Israel National League
+105,18.06.,19:00,ISR 2,Hapoel Akko,0:0,Hapoel Ashkelon,Israel National League
+106,18.06.,19:00,ISR 2,H. Petach Tikva,3:1,M. Ahi Nazareth,Israel National League
+107,18.06.,19:00,ISR 2,Hapoel Afula FC,1:2,Hapoel Bnei Lod,Israel National League
+108,18.06.,19:00,ISR 2,Hapoel Nof HaGalil,1:3,Hapoel Umm al-Fahm,Israel National League
+109,18.06.,19:15,ISR 1,Hapoel Hadera,1:2,Maccabi Netanya,Israel Winner League
+110,18.06.,19:30,ESP 1,CD Alaves,2:0,Real Sociedad,Spanien Primera Division
+111,18.06.,19:30,ESP 2,SD Huesca,1:2,CD Mirandes,Spanien Segunda Division
+112,18.06.,19:30,ESP 2,Numancia CD,1:2,Cadiz CF,Spanien Segunda Division
+113,18.06.,19:45,TUR CUP,Alanyaspor,4:0,Antalyaspor,Türkei Türkiye Kupasi
+114,18.06.,20:00,POR 1,Boavista FC,3:1,Vitoria Setubal,Portugal Primeira Liga
+115,18.06.,20:00,DEN 1,FC Midtjylland,0:0,Bröndby IF,Dänemark Superligaen
+116,18.06.,20:30,GER 2,Arminia Bielefeld,1:0,SV Darmstadt 98,Deutschland 2. Bundesliga
+117,18.06.,21:45,ESP 2,Alcorcon AD,0:2,Sporting Gijon,Spanien Segunda Division
+118,18.06.,22:00,ESP 1,Real Madrid,3:0,FC Valencia,Spanien Primera Division
+119,18.06.,22:00,ESP 1,Real Madrid,3:1,FC Valencia+1,Spanien Primera Division
+120,18.06.,22:15,POR 1,Sporting Lissabon,2:0,CD Tondela,Portugal Primeira Liga
+088,19.06.,17:00,CZE 2,FK Fotbal Trinec,abgesagt,FC Graffin Vlasim,Tschechien 1. Division

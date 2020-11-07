@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,11.02.,18:30,NL 1,FC Emmen,2:0,Twente Enschede,Niederlande Eredivisie
+002,11.02.,19:00,EH SWE,Brynas IF,3:3,HV 71,Schweden Elitserien
+003,11.02.,19:00,EH SWE,Djurgardens IF,4:4,Färjestads BK,Schweden Elitserien
+004,11.02.,19:00,EH SWE,HC Örebro,4:2,IK Oskarshamn,Schweden Elitserien
+005,11.02.,19:00,EH SWE,Frölunda HC,1:3,Linköpings HC,Schweden Elitserien
+006,11.02.,19:00,EH SWE,Leksands IF,2:3,Malmö IF,Schweden Elitserien
+007,11.02.,19:00,EH SWE,Skelleftea AIK,4:1,Lulea Hockey,Schweden Elitserien
+008,11.02.,19:00,EH SWE,Växjö Lakers,0:4,Rögle BK,Schweden Elitserien
+009,11.02.,19:15,EH AUT,Villacher SV,5:2,Fehervar,Österreich Eishockey Liga
+010,11.02.,19:15,EH AUT,HC Innsbruck,6:3,EC Dornbirn,Österreich Eishockey Liga
+011,11.02.,19:15,EH AUT,Black Wings Linz,2:1,HC Znojmo,Österreich Eishockey Liga
+012,11.02.,19:45,EH AUT,HC Bozen Foxes,5:2,Vienna Capitals,Österreich Eishockey Liga
+013,11.02.,19:45,EH SUI,SC Bern,3:3,Zürcher SC Lions,Schweiz National League A
+014,11.02.,19:45,EH SUI,EHC Biel Bienne,5:5,Fribourg Gotteron,Schweiz National League A
+015,11.02.,19:45,EH SUI,HC Davos,2:1,HC Servette Genf,Schweiz National League A
+016,11.02.,19:45,EH SUI,Rapperswil Lakers,7:3,SCL Tigers Langnau,Schweiz National League A
+017,11.02.,19:45,EH SUI,HC Lugano,5:1,HC Ambri Piotta,Schweiz National League A
+018,11.02.,19:45,EH SUI,EV Zug,3:0,HC Lausanne,Schweiz National League A
+019,11.02.,20:30,BEL 1,Sporting Charleroi,2:1,YR KV Mechelen,Belgien Jupiler Pro League
+020,11.02.,20:45,ENG CS,FC Barnsley,0:1,Birmingham City,England Championship
+021,11.02.,20:45,ENG CS,Blackburn Rovers,3:0,Hull City,England Championship
+022,11.02.,20:45,ENG CS,FC Brentford,1:1,Leeds United,England Championship
+023,11.02.,20:45,ENG CS,Nottingham Forest,0:1,Charlton Athletic,England Championship
+024,11.02.,20:45,ENG CS,Swansea City,0:0,Queens Park R.,England Championship
+025,11.02.,20:45,ENG CS,Wigan Athletic,2:2,FC Middlesbrough,England Championship
+026,11.02.,20:45,ENG 1,AFC Wimbledon,0:0,Ipswich Town,England League One
+027,11.02.,20:45,ENG 1,FC Blackpool,2:3,FC Gillingham,England League One
+028,11.02.,20:45,ENG 1,Burton Albion,2:2,Oxford United,England League One
+029,11.02.,20:45,ENG 1,Coventry City,1:0,FC Portsmouth,England League One
+030,11.02.,20:45,ENG 1,Doncaster Rovers,2:1,Bolton Wanderers,England League One
+031,11.02.,20:45,ENG 1,Lincoln City,1:1,MK Dons,England League One
+032,11.02.,20:45,ENG 1,Peterborough Utd.,4:0,Southend United,England League One
+033,11.02.,20:45,ENG 1,Shrewsbury Town,0:2,Accrington Stanley,England League One
+034,11.02.,20:45,ENG 1,AFC Sunderland,3:0,FC Rochdale,England League One
+035,11.02.,20:45,ENG 1,Tranmere Rovers,0:0,Bristol Rovers,England League One
+036,11.02.,20:45,ENG 1,Wycombe Wanderers,0:1,Fleetwood Town,England League One
+037,11.02.,20:45,NL 1,Sparta Rotterdam,4:2,ADO Den Haag,Niederlande Eredivisie
+038,11.02.,20:45,SCO PS,Hamilton FC,1:3,FC Aberdeen,Schottland Premiership
+039,11.02.,20:55,FRA CUP,ASM Belfortaine,0:3,Stade Rennes,Frankreich Coupe de France
+040,11.02.,21:00,ITA B,Spezia Calcio,3:2,US Cremonese,Italien Serie B
+041,11.02.,21:45,POR CUP,FC Famalicao,1:1,Benfica Lissabon,Portugal Taca de Portugal
+042,12.02.,17:00,GRE CUP,Olympiakos Piräus,3:2,Lamia 1964,Griechenland Cup
+043,12.02.,17:00,EH CZE,HC Trinec,4:6,BK Mlada Boleslav,Tschechische Republik Extraliga
+044,12.02.,17:20,EH CZE,HC Kladno,2:3,PSG Berani Zlin,Tschechische Republik Extraliga
+045,12.02.,17:30,EH FIN,HIFK Helsinki,4:0,Ilves Tampere,Finnland SM-Liiga
+046,12.02.,17:30,EH FIN,JYP Jyväskylä,2:1,Jukurit Mikkeli,Finnland SM-Liiga
+047,12.02.,17:30,EH FIN,Kookoo,4:1,Pelicans Lahti,Finnland SM-Liiga
+048,12.02.,17:30,EH FIN,Vaasan Sport,3:5,KalPa Kuopio,Finnland SM-Liiga
+049,12.02.,17:30,EH FIN,Tappara Tampere,3:3,Lukko Rauma,Finnland SM-Liiga
+050,12.02.,17:30,EH FIN,Ässät Pori,5:2,SaiPa Lappeenr.,Finnland SM-Liiga
+051,12.02.,18:00,EH CZE,HC Liberec,4:4,HC Litvinov,Tschechische Republik Extraliga
+052,12.02.,18:00,EH CZE,HC Kometa Brünn,2:5,HC Vitkovice,Tschechische Republik Extraliga
+053,12.02.,18:30,FRA CUP,Dijon Football,1:6,Paris SG,Frankreich Coupe de France
+054,12.02.,18:30,NL CUP,AZ Alkmaar,1:3,NAC Breda,Niederlande KNVB Cup
+055,12.02.,18:30,TUR CUP,Galatasaray,3:1,Alanyaspor,Türkei Türkiye Kupasi
+056,12.02.,18:30,EH CZE,Sparta Prag,2:3,Mountfield HK,Tschechische Republik Extraliga
+057,12.02.,19:00,GRE CUP,Panathinaikos,0:1,PAOK Thessaloniki,Griechenland Cup
+058,12.02.,19:15,EH AUT,KAC Klagenfurt,3:3,EC Graz 99ers,Österreich Eishockey Liga
+059,12.02.,19:30,EH GER,DEG Metro Stars,1:0,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+060,12.02.,20:30,BEL 1,Standard Lüttich,0:0,Club Brügge,Belgien Jupiler Pro League
+061,12.02.,20:30,BEL 1,Waasland-Beveren,1:2,KV Kortrijk,Belgien Jupiler Pro League
+062,12.02.,20:30,BEL 2,KVC Westerlo,3:2,Sporting Lokeren,Belgium Tweede Klasse
+063,12.02.,20:45,ENG CS,Bristol City,3:2,Derby County,England Championship
+064,12.02.,20:45,ENG CS,Huddersfield Town,0:3,Cardiff City,England Championship
+065,12.02.,20:45,ENG CS,Luton Town,1:0,Sheffield Wednes.,England Championship
+066,12.02.,20:45,ENG CS,FC Millwall,1:1,FC Fulham,England Championship
+067,12.02.,20:45,ITA CUP,Inter Mailand,0:1,SSC Napoli,Italien Coppa Italia
+068,12.02.,20:45,ITA CUP,Inter Mailand,0:2,SSC Napoli+1,Italien Coppa Italia
+069,12.02.,20:45,NL CUP,Vitesse Arnheim,0:3,Ajax Amsterdam,Niederlande KNVB Cup
+070,12.02.,20:45,SCO PS,Celtic Glasgow,5:0,Heart of Midl.,Schottland Premiership
+071,12.02.,20:45,SCO PS,Hibernian FC,3:0,FC Ross County,Schottland Premiership
+072,12.02.,20:45,SCO PS,FC Kilmarnock,2:1,Glasgow Rangers,Schottland Premiership
+073,12.02.,20:45,SCO PS,FC Livingston,2:1,FC St. Mirren,Schottland Premiership
+074,12.02.,20:45,SCO PS,FC St. Johnstone,2:1,FC Motherwell,Schottland Premiership
+075,12.02.,21:00,ENG CS,FC Reading,1:2,West Bromwich,England Championship
+076,12.02.,21:00,ENG CS,Stoke City,0:2,Preston North End,England Championship
+077,12.02.,21:00,ESP CUP,Athletic Bilbao,1:0,Granada CF,Spanien Copa del Rey
+078,12.02.,21:05,FRA CUP,Olympique Lyon,1:0,Olymp. Marseille,Frankreich Coupe de France
+079,12.02.,21:45,POR CUP,FC Porto,3:0,Academico Viseu,Portugal Taca de Portugal
+080,13.02.,15:00,KHL,Avtomobilist,3:4,Jokerit Helsinki,Kontinental Hockey League
+081,13.02.,15:00,KHL,Salavat Yulaev Ufa,2:5,Spartak Moskau,Kontinental Hockey League
+082,13.02.,17:00,KHL,Sev. Cherepovets,2:1,HC Red Star Kunlun,Kontinental Hockey League
+083,13.02.,17:00,KHL,Torp. Nowgorod,2:3,SKA St. Petersburg,Kontinental Hockey League
+084,13.02.,17:00,KHL,Lok. Jaroslawl,4:1,HK Dinamo Minsk,Kontinental Hockey League
+085,13.02.,17:00,KHL,Neftekhimik,4:0,Met. Magnitogorsk,Kontinental Hockey League
+086,13.02.,17:15,TUR CUP,Sivasspor,1:1,Antalyaspor,Türkei Türkiye Kupasi
+087,13.02.,17:30,KHL,HC Vityaz Podolsk,3:3,Amur Chabarowsk,Kontinental Hockey League
+088,13.02.,17:30,KHL,Avangard Omsk,5:2,A. Vladivostok,Kontinental Hockey League
+089,13.02.,17:30,KHL,HK CSKA Moskau,2:3,HC Barys,Kontinental Hockey League
+090,13.02.,18:00,GRE CUP,Atromitos Athen,0:1,Aris Thessaloniki,Griechenland Cup
+091,13.02.,18:30,NL CUP,Go Ahead Eagles,1:4,FC Utrecht,Niederlande KNVB Cup
+092,13.02.,18:30,KHL,HK Dinamo Riga,1:2,AK Bars Kasan,Kontinental Hockey League
+093,13.02.,19:00,EH SWE,Brynas IF,5:1,Lulea Hockey,Schweden Elitserien
+094,13.02.,19:00,EH SWE,Djurgardens IF,4:1,Växjö Lakers,Schweden Elitserien
+095,13.02.,19:00,EH SWE,Frölunda HC,5:3,HC Örebro,Schweden Elitserien
+096,13.02.,19:00,EH SWE,HV 71,3:5,Rögle BK,Schweden Elitserien
+097,13.02.,19:00,EH SWE,Linköpings HC,2:1,Leksands IF,Schweden Elitserien
+098,13.02.,19:00,EH SWE,IK Oskarshamn,3:3,Malmö IF,Schweden Elitserien
+099,13.02.,19:30,EH GER,Adler Mannheim,5:1,Nürnberg Ice Tiger,Deutschland Deutsche Eishockey Liga
+100,13.02.,20:30,BEL 1,FC Royal Antwerpen,1:1,KRC Genk,Belgien Jupiler Pro League
+101,13.02.,20:45,ITA CUP,AC Milan,1:1,Juventus Turin,Italien Coppa Italia
+102,13.02.,20:45,ITA CUP,AC Milan+1,2:1,Juventus Turin,Italien Coppa Italia
+103,13.02.,20:45,NL CUP,SC Heerenveen,0:1,Feyenoord,Niederlande KNVB Cup
+104,13.02.,21:00,ESP CUP,Real Sociedad,2:1,CD Mirandes,Spanien Copa del Rey
+105,13.02.,21:00,FRA CUP,Epinal,1:2,AS Saint Etienne,Frankreich Coupe de France
+106,14.02.,19:00,AUT BL,RB Salzburg,2:3,LASK Linz,Österreich Bundesliga
+112,14.02.,20:30,GER BL,Bor. Dortmund,4:0,Eintr. Frankfurt,Deutschland Bundesliga
+113,15.02.,15:30,GER BL,RB Leipzig,3:0,Werder Bremen,Deutschland Bundesliga
+114,15.02.,15:30,GER BL,TSG Hoffenheim,2:3,VfL Wolfsburg,Deutschland Bundesliga
+115,15.02.,15:30,GER BL,FC Augsburg,1:1,SC Freiburg,Deutschland Bundesliga
+116,15.02.,15:30,GER BL,SC Paderborn,1:2,Hertha BSC,Deutschland Bundesliga
+117,15.02.,15:30,GER BL,FC Union Berlin,2:3,Bayer Leverkusen,Deutschland Bundesliga
+107,15.02.,17:00,AUT BL,Wolfsberger AC,3:0,TSV Hartberg,Österreich Bundesliga
+108,15.02.,17:00,AUT BL,SCR Altach,2:2,FK Austria Wien,Österreich Bundesliga
+118,15.02.,18:30,GER BL,Fortuna Düsseldorf,1:4,Mönchengladbach,Deutschland Bundesliga
+109,16.02.,14:30,AUT BL,SK Sturm Graz,1:2,SV Mattersburg,Österreich Bundesliga
+110,16.02.,14:30,AUT BL,SKN St. Pölten,2:2,Admira Wacker,Österreich Bundesliga
+119,16.02.,15:30,GER BL,1. FC Köln,1:4,FC Bayern München,Deutschland Bundesliga
+111,16.02.,17:00,AUT BL,SK Rapid Wien,2:0,WSG Swarovs. Tirol,Österreich Bundesliga
+120,16.02.,18:00,GER BL,FSV Mainz 05,0:0,FC Schalke 04,Deutschland Bundesliga

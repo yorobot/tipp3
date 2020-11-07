@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,31.01.,18:00,TUR 1,Istanbul Basakseh.,3:1,Genclerbirligi,Türkei Süper Lig
+002,31.01.,18:30,GER 2,Jahn Regensburg,0:2,Greuther Fürth,Deutschland 2. Bundesliga
+003,31.01.,18:30,GER 2,Erzgebirge Aue,0:0,Arminia Bielefeld,Deutschland 2. Bundesliga
+004,31.01.,18:30,EH AUT,HC Znojmo,2:2,Fehervar,Österreich Eishockey Liga
+005,31.01.,19:00,GER 3,Hallescher FC,3:4,FC Viktoria Köln,Deutschland 3. Liga
+006,31.01.,19:00,HB AUT,UHK Krems,28:29,Fivers Margareten,Österreich HLA
+007,31.01.,19:15,EH AUT,Black Wings Linz,6:3,HC Innsbruck,Österreich Eishockey Liga
+008,31.01.,19:15,EH AUT,Villacher SV,0:0,EC Dornbirn,Österreich Eishockey Liga
+009,31.01.,19:15,EH AUT,EC RB Salzburg,2:1,HC Bozen Foxes,Österreich Eishockey Liga
+010,31.01.,19:15,EH AUT,Vienna Capitals,5:2,EC Graz 99ers,Österreich Eishockey Liga
+011,31.01.,20:00,FRA 2,Troyes AC,1:2,Grenoble Foot,Frankreich Ligue 2
+012,31.01.,20:00,FRA 2,EA Guingamp,1:0,AJ Auxerre,Frankreich Ligue 2
+013,31.01.,20:00,FRA 2,AC Ajaccio,0:1,LB Chateauroux,Frankreich Ligue 2
+014,31.01.,20:00,FRA 2,Clermont Foot,3:1,US Orleans 45,Frankreich Ligue 2
+015,31.01.,20:00,NL 1,AZ Alkmaar,4:0,RKC Waalwijk,Niederlande Eredivisie
+016,31.01.,20:00,SUI 2,Grasshoppers,1:2,FC Vaduz,Schweiz Challenge League
+017,31.01.,20:05,SCO CS,Partick Thistle,1:1,Ayr United,Schottland Championship
+018,31.01.,20:30,GER BL,Hertha BSC,0:0,FC Schalke 04,Deutschland Bundesliga
+019,31.01.,20:30,BEL 1,KV Kortrijk,3:1,Standard Lüttich,Belgien Jupiler Pro League
+020,31.01.,20:45,ENG CS,Cardiff City,1:1,FC Reading,England Championship
+021,31.01.,20:45,ENG CS,Derby County,4:0,Stoke City,England Championship
+022,31.01.,20:45,FRA 1,Stade Rennes,3:2,FC Nantes,Frankreich Ligue 1
+023,31.01.,21:00,ESP 2,Teneriffa CD,2:1,Sporting Gijon,Spanien Segunda Division
+024,31.01.,21:00,ITA B,US Cremonese,3:4,SC Pisa,Italien Serie B
+025,31.01.,22:15,POR 1,Rio Ave FC,2:2,FC Famalicao,Portugal Primeira Liga
+026,01.02.,13:00,GER 2,Hannover 96,2:2,Wehen Wiesbaden,Deutschland 2. Bundesliga
+027,01.02.,13:00,GER 2,FC St. Pauli,1:1,VfB Stuttgart,Deutschland 2. Bundesliga
+028,01.02.,13:00,GER 2,Karlsruher SC,0:2,Holstein Kiel,Deutschland 2. Bundesliga
+029,01.02.,13:00,ESP 1,Granada CF,2:1,Espanyol Barcelona,Spanien Primera Division
+030,01.02.,13:30,ENG PL,Leicester City,2:2,FC Chelsea,England Premier League
+031,01.02.,13:30,ENG CS,Hull City,1:5,FC Brentford,England Championship
+032,01.02.,15:00,ITA A,Bologna FC,2:1,Brescia Calcio,Italien Serie A
+033,01.02.,15:00,TUR 1,Caykur Rizespor,1:2,Besiktas Istanbul,Türkei Süper Lig
+034,01.02.,15:30,GER BL,Bor. Dortmund,5:0,FC Union Berlin,Deutschland Bundesliga
+035,01.02.,15:30,GER BL,TSG Hoffenheim,2:1,Bayer Leverkusen,Deutschland Bundesliga
+036,01.02.,15:30,GER BL,Fortuna Düsseldorf,1:1,Eintr. Frankfurt,Deutschland Bundesliga
+037,01.02.,15:30,GER BL,FSV Mainz 05,1:3,FC Bayern München,Deutschland Bundesliga
+038,01.02.,15:30,GER BL,FC Augsburg,2:1,Werder Bremen,Deutschland Bundesliga
+039,01.02.,16:00,ENG PL,AFC Bournemouth,2:1,Aston Villa,England Premier League
+040,01.02.,16:00,ENG PL,Crystal Palace,0:1,Sheffield United,England Premier League
+041,01.02.,16:00,ENG PL,FC Liverpool,4:0,FC Southampton,England Premier League
+042,01.02.,16:00,ENG PL,Newcastle United,0:0,Norwich City,England Premier League
+043,01.02.,16:00,ENG PL,FC Watford,2:3,FC Everton,England Premier League
+044,01.02.,16:00,ENG PL,West Ham United,3:3,Brighton & Hove,England Premier League
+045,01.02.,16:00,ENG CS,FC Fulham,3:2,Huddersfield Town,England Championship
+046,01.02.,16:00,ENG CS,Leeds United,0:1,Wigan Athletic,England Championship
+047,01.02.,16:00,ENG CS,FC Middlesbrough,1:1,Blackburn Rovers,England Championship
+048,01.02.,16:00,ENG CS,Sheffield Wednes.,0:0,FC Millwall,England Championship
+049,01.02.,16:00,SCO PS,Glasgow Rangers,0:0,FC Aberdeen,Schottland Premiership
+050,01.02.,16:00,ESP 1,Real Madrid,1:0,Atletico Madrid,Spanien Primera Division
+051,01.02.,17:30,FRA 1,Paris SG,5:0,HSC Montpellier,Frankreich Ligue 1
+052,01.02.,18:00,ITA A,Cagliari Calcio,2:2,FC Parma,Italien Serie A
+053,01.02.,18:00,TUR 1,Trabzonspor,2:1,Fenerbahce,Türkei Süper Lig
+054,01.02.,18:00,BEL 1,KRC Genk,1:0,Sporting Charleroi,Belgien Jupiler Pro League
+055,01.02.,18:30,GER BL,RB Leipzig,2:2,Mönchengladbach,Deutschland Bundesliga
+056,01.02.,18:30,GER BL,RB Leipzig,2:3,Mönchengladbach+1,Deutschland Bundesliga
+057,01.02.,18:30,ENG PL,Manchester United,0:0,Wolverhampton,England Premier League
+058,01.02.,18:30,ESP 1,RCD Mallorca,0:1,Real Valladolid,Spanien Primera Division
+059,01.02.,19:00,POR 1,Vitoria Setubal,0:4,FC Porto,Portugal Primeira Liga
+060,01.02.,19:00,SUI SL,FC Luzern,2:0,Young Boys Bern,Schweiz Axpo Super League
+061,01.02.,20:00,FRA 1,Olympique Nimes,3:1,AS Monaco,Frankreich Ligue 1
+062,01.02.,20:00,FRA 1,Amiens SC,0:0,FC Toulouse,Frankreich Ligue 1
+063,01.02.,20:30,BEL 1,YR KV Mechelen,0:3,KAA Gent,Belgien Jupiler Pro League
+064,01.02.,20:45,ITA A,US Sassuolo,4:2,AS Roma,Italien Serie A
+065,01.02.,21:00,ESP 1,FC Valencia,1:0,Celta de Vigo,Spanien Primera Division
+066,02.02.,09:45,TEN ATP,"Thiem, Dominic",2:3,"Djokovic, Novak",Tennis ATP
+067,02.02.,12:00,ESP 1,CD Leganes,2:1,Real Sociedad,Spanien Primera Division
+068,02.02.,12:30,ITA A,Juventus Turin,3:0,AC Fiorentina,Italien Serie A
+069,02.02.,13:30,GER 2,1. FC Nürnberg,2:0,SV Sandhausen,Deutschland 2. Bundesliga
+070,02.02.,13:30,GER 2,FC Heidenheim,0:0,Dynamo Dresden,Deutschland 2. Bundesliga
+071,02.02.,13:30,GER 2,SV Darmstadt 98,2:2,VfL Osnabrück,Deutschland 2. Bundesliga
+072,02.02.,14:00,ESP 1,SD Eibar,1:1,Betis Sevilla,Spanien Primera Division
+073,02.02.,14:30,BEL 1,Club Brügge,1:0,FC Royal Antwerpen,Belgien Jupiler Pro League
+074,02.02.,15:00,ENG PL,FC Burnley,0:0,FC Arsenal,England Premier League
+075,02.02.,15:00,ITA A,AC Milan,1:1,Hellas Verona,Italien Serie A
+076,02.02.,15:00,ITA A,Lazio Rom,5:1,Spal Ferrara,Italien Serie A
+077,02.02.,15:00,ITA A,Atalanta Bergamo,2:2,FC Genua,Italien Serie A
+078,02.02.,15:00,FRA 1,OGC Nizza,2:1,Olympique Lyon,Frankreich Ligue 1
+079,02.02.,15:30,GER BL,1. FC Köln,4:0,SC Freiburg,Deutschland Bundesliga
+080,02.02.,16:00,ESP 1,Athletic Bilbao,0:2,Getafe CF,Spanien Primera Division
+081,02.02.,16:00,SUI SL,FC Basel,1:2,FC St. Gallen,Schweiz Axpo Super League
+082,02.02.,16:00,EH AUT,EC Graz 99ers,2:2,EC RB Salzburg,Österreich Eishockey Liga
+083,02.02.,16:45,NL 1,Ajax Amsterdam,1:0,PSV Eindhoven,Niederlande Eredivisie
+084,02.02.,17:00,FRA 1,FC Metz,3:1,AS Saint Etienne,Frankreich Ligue 1
+085,02.02.,17:30,ENG PL,Tottenham,2:0,Manchester City,England Premier League
+086,02.02.,17:30,EH AUT,HC Innsbruck,5:3,Villacher SV,Österreich Eishockey Liga
+087,02.02.,17:30,EH AUT,Fehervar,3:1,Black Wings Linz,Österreich Eishockey Liga
+088,02.02.,17:30,EH AUT,KAC Klagenfurt,3:2,Vienna Capitals,Österreich Eishockey Liga
+089,02.02.,18:00,GER BL,SC Paderborn,2:4,VfL Wolfsburg,Deutschland Bundesliga
+090,02.02.,18:00,ITA A,US Lecce,4:0,FC Torino,Italien Serie A
+091,02.02.,18:00,BEL 1,RSC Anderlecht,1:0,RE Mouscron,Belgien Jupiler Pro League
+092,02.02.,18:30,ESP 1,Villarreal CF,3:1,CA Osasuna,Spanien Primera Division
+093,02.02.,18:30,ESP 1,FC Sevilla,1:1,CD Alaves,Spanien Primera Division
+094,02.02.,18:30,POR 1,Sporting Braga,1:0,Sporting Lissabon,Portugal Primeira Liga
+095,02.02.,18:30,GRE 1,Panathinaikos,2:0,PAOK Thessaloniki,Griechenland Super League
+096,02.02.,20:45,ITA A,Udinese Calcio,0:2,Inter Mailand,Italien Serie A
+097,02.02.,21:00,ESP 1,FC Barcelona,2:1,Levante UD,Spanien Primera Division
+098,02.02.,21:00,FRA 1,Bordeaux,0:0,Olymp. Marseille,Frankreich Ligue 1
+099,02.02.,21:00,POR 1,Boavista FC,2:0,Vitoria Guimaraes,Portugal Primeira Liga
+100,03.02.,00:30,NFL,Kansas Chiefs,31:20,San Francisco 49,USA NFL
+101,03.02.,17:00,TUR 2,Istanbulspor AS,2:1,Umraniyespor,Türkei TFF 1. Lig
+102,03.02.,17:30,KHL,Dynamo Moskau,3:1,Lok. Jaroslawl,Kontinental Hockey League
+103,03.02.,17:30,KHL,Spartak Moskau,0:1,SKA St. Petersburg,Kontinental Hockey League
+104,03.02.,18:00,TUR 1,Denizlispor,1:1,Göztepe,Türkei Süper Lig
+105,03.02.,18:30,KHL,HK Dinamo Riga,2:4,Jokerit Helsinki,Kontinental Hockey League
+106,03.02.,19:00,GER 3,Großaspach,0:6,Kickers Würzburg,Deutschland 3. Liga
+107,03.02.,19:00,ROU 1,CSMS Iasi,1:2,Viitorul Constanta,Rumänien Liga 1
+108,03.02.,19:15,ISR 1,Maccabi Tel Aviv,2:1,Hapoel Raanana FC,Israel Winner League
+109,03.02.,20:00,NL 2,Jong FC Utrecht,1:1,FC Dordrecht,Niederlande Jupiler League
+110,03.02.,20:00,NL 2,Jong Ajax Amst.,5:1,Go Ahead Eagles,Niederlande Jupiler League
+111,03.02.,20:30,GER 2,VfL Bochum,1:3,Hamburger SV,Deutschland 2. Bundesliga
+112,03.02.,20:30,GER 2,VfL Bochum+1,2:3,Hamburger SV,Deutschland 2. Bundesliga
+113,03.02.,20:45,ITA A,Sampdoria Genua,2:4,SSC Napoli,Italien Serie A
+114,03.02.,20:45,ITA C1B,Sambenedettese,0:1,US Fermana,"Italien Lega Pro Prima Divisione, Girone B"
+115,03.02.,20:45,FRA 2,Grenoble Foot,1:1,Le Havre AC,Frankreich Ligue 2
+116,03.02.,20:45,POR 2,SC Covilha,1:0,UD Oliveirense,Portugal Segunda Liga
+117,03.02.,21:00,ITA B,Pescara Calcio,2:1,Cosenza Calcio,Italien Serie B
+120,03.02.,22:00,COL 1,Alianza Petrolera,0:1,Deportivo Pasto,Kolumbien Primera Liga
+118,03.02.,23:00,ARG 1,Patronato Parana,2:2,Arsenal de Sarandi,Argentinien Primera Division
+119,04.02.,01:10,ARG 1,Newell's Old B.,1:0,CA San Lorenzo,Argentinien Primera Division

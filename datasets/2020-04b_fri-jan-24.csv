@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,24.01.,18:00,TUR 1,Genclerbirligi,1:0,Gazis. Gaziantep,Türkei Süper Lig
+002,24.01.,18:00,HB EM,Norwegen,23:23,Kroatien,Handball Europameisterschaft
+003,24.01.,19:00,GER 3,Hansa Rostock,1:0,Hallescher FC,Deutschland 3. Liga
+004,24.01.,19:15,EH AUT,EC Dornbirn,3:3,Black Wings Linz,Österreich Eishockey Liga
+005,24.01.,19:15,EH AUT,HC Innsbruck,2:4,Villacher SV,Österreich Eishockey Liga
+006,24.01.,19:15,EH AUT,KAC Klagenfurt,3:1,Vienna Capitals,Österreich Eishockey Liga
+007,24.01.,19:15,EH AUT,HC Znojmo,4:2,EC Graz 99ers,Österreich Eishockey Liga
+008,24.01.,19:15,EH AUT,Fehervar,0:3,EC RB Salzburg,Österreich Eishockey Liga
+009,24.01.,20:00,FRA 2,Paris FC 98,0:0,Rodez Aveyron,Frankreich Ligue 2
+010,24.01.,20:00,FRA 2,SM Caen,0:1,AC Ajaccio,Frankreich Ligue 2
+011,24.01.,20:00,FRA 2,AJ Auxerre,2:1,FC Sochaux,Frankreich Ligue 2
+012,24.01.,20:00,FRA 2,Grenoble Foot,0:0,FC Chambly,Frankreich Ligue 2
+013,24.01.,20:00,FRA 2,LB Chateauroux,1:1,FC Chamois Niort,Frankreich Ligue 2
+014,24.01.,20:00,FRA 2,FC Lorient,2:1,AS Nancy,Frankreich Ligue 2
+015,24.01.,20:00,FRA 2,US Orleans 45,2:0,EA Guingamp,Frankreich Ligue 2
+016,24.01.,20:00,FRA 2,FC Valenciennes,1:0,Le Mans UC 72,Frankreich Ligue 2
+017,24.01.,20:00,NL 1,FC Utrecht,4:0,ADO Den Haag,Niederlande Eredivisie
+018,24.01.,20:05,SCO CS,Dunfermline,2:0,FC Dundee,Schottland Championship
+019,24.01.,20:30,GER BL,Bor. Dortmund,5:1,1. FC Köln,Deutschland Bundesliga
+020,24.01.,20:30,GER BL,Bor. Dortmund,5:2,1. FC Köln+1,Deutschland Bundesliga
+021,24.01.,20:30,BEL 1,Standard Lüttich,2:1,KV Oostende,Belgien Jupiler Pro League
+022,24.01.,20:45,HB EM,Spanien,34:32,Slowenien,Handball Europameisterschaft
+023,24.01.,20:45,ENG 1,AFC Sunderland,0:0,Doncaster Rovers,England League One
+024,24.01.,20:45,ITA A,Brescia Calcio,0:1,AC Milan,Italien Serie A
+025,24.01.,20:45,FRA 1,OGC Nizza,1:1,Stade Rennes,Frankreich Ligue 1
+026,24.01.,21:00,ENG FA,Queens Park R.,1:2,Sheffield Wednes.,England FA Cup
+027,24.01.,21:00,ENG FA,Northampton,0:0,Derby County,England FA Cup
+028,24.01.,21:00,ESP 1,CA Osasuna,2:0,Levante UD,Spanien Primera Division
+029,24.01.,21:00,ESP 2,Cadiz CF,1:0,Racing Santander,Spanien Segunda Division
+030,24.01.,21:00,ITA B,FC Empoli,1:1,AC Chievo Verona,Italien Serie B
+031,25.01.,11:30,HE-ABF,"Feuz, Beat",Mayer,"Mayer, Matthias","Ski Alpin, Herren Abfahrt"
+032,25.01.,11:30,HE-ABF,"Dressen, Thomas",Kriechm,Kriechmayr V.,"Ski Alpin, Herren Abfahrt"
+033,25.01.,11:30,HE-ABF,"Kilde, Aleks. A.",Jansrud,"Jansrud, Kjetil","Ski Alpin, Herren Abfahrt"
+034,25.01.,11:30,HE-ABF,"Caviezel, Mauro",Clarey,"Clarey, Johan","Ski Alpin, Herren Abfahrt"
+035,25.01.,11:30,HE-ABF,"Danklmaier, Daniel",Sander,"Sander, Andreas","Ski Alpin, Herren Abfahrt"
+036,25.01.,13:00,ESP 1,Espanyol Barcelona,1:1,Athletic Bilbao,Spanien Primera Division
+037,25.01.,13:45,ENG FA,FC Brentford,0:1,Leicester City,England FA Cup
+038,25.01.,14:00,GER 3,MSV Duisburg,1:1,FC Ingolstadt,Deutschland 3. Liga
+039,25.01.,15:00,ITA A,Spal Ferrara,1:3,Bologna FC,Italien Serie A
+040,25.01.,15:30,GER BL,Mönchengladbach,3:1,FSV Mainz 05,Deutschland Bundesliga
+041,25.01.,15:30,GER BL,VfL Wolfsburg,1:2,Hertha BSC,Deutschland Bundesliga
+042,25.01.,15:30,GER BL,Eintr. Frankfurt,2:0,RB Leipzig,Deutschland Bundesliga
+043,25.01.,15:30,GER BL,Eintr. Frankfurt+1,3:0,RB Leipzig,Deutschland Bundesliga
+044,25.01.,15:30,GER BL,SC Freiburg,0:2,SC Paderborn,Deutschland Bundesliga
+045,25.01.,15:30,GER BL,FC Union Berlin,2:0,FC Augsburg,Deutschland Bundesliga
+046,25.01.,16:00,ENG CS,Stoke City,2:0,Swansea City,England Championship
+047,25.01.,16:00,ENG FA,FC Burnley,1:2,Norwich City,England FA Cup
+048,25.01.,16:00,ENG FA,FC Millwall,0:2,Sheffield United,England FA Cup
+049,25.01.,16:00,ENG FA,West Ham United,0:1,West Bromwich,England FA Cup
+050,25.01.,16:00,ENG FA,FC Portsmouth,4:2,FC Barnsley,England FA Cup
+051,25.01.,16:00,ENG FA,Coventry City,0:0,Birmingham City,England FA Cup
+052,25.01.,16:00,ENG FA,Newcastle United,0:0,Oxford United,England FA Cup
+053,25.01.,16:00,ENG FA,FC Southampton,1:1,Tottenham,England FA Cup
+054,25.01.,16:00,ENG FA,FC Reading,1:1,Cardiff City,England FA Cup
+055,25.01.,16:00,ESP 1,FC Valencia,2:0,FC Barcelona,Spanien Primera Division
+056,25.01.,16:00,HB EM,Deutschland,29:27,Portugal,Handball Europameisterschaft
+057,25.01.,17:30,FRA 1,Olymp. Marseille,0:0,SCO Angers,Frankreich Ligue 1
+058,25.01.,18:00,ITA A,AC Fiorentina,0:0,FC Genua,Italien Serie A
+059,25.01.,18:00,TUR 1,Fenerbahce,2:0,Istanbul Basakseh.,Türkei Süper Lig
+060,25.01.,18:30,ENG FA,Hull City,1:2,FC Chelsea,England FA Cup
+061,25.01.,18:30,GER BL,FC Bayern München,5:0,FC Schalke 04,Deutschland Bundesliga
+062,25.01.,18:30,GER BL,FC Bayern München,5:1,FC Schalke 04+1,Deutschland Bundesliga
+063,25.01.,18:30,ESP 1,CD Alaves,1:2,Villarreal CF,Spanien Primera Division
+064,25.01.,20:00,FRA 1,Stade Brest,2:1,Amiens SC,Frankreich Ligue 1
+065,25.01.,20:00,FRA 1,AS Monaco,1:3,Racing Strasbourg,Frankreich Ligue 1
+066,25.01.,20:00,FRA 1,HSC Montpellier,2:1,Dijon Football,Frankreich Ligue 1
+067,25.01.,20:00,FRA 1,Stade de Reims,0:1,FC Metz,Frankreich Ligue 1
+068,25.01.,20:00,FRA 1,AS Saint Etienne,2:1,Olympique Nimes,Frankreich Ligue 1
+069,25.01.,20:30,BEL 1,KAA Gent,4:1,KRC Genk,Belgien Jupiler Pro League
+070,25.01.,20:45,ITA A,FC Torino,0:7,Atalanta Bergamo,Italien Serie A
+071,25.01.,20:45,POR LC,Sporting Braga,1:0,FC Porto,Portugal Carlsberg Cup
+072,25.01.,21:00,ESP 1,FC Sevilla,2:0,Granada CF,Spanien Primera Division
+073,26.01.,10:30,HE-SL,"Noel, Clement",Noel C.,Kristoffersen H.,"Ski Alpin, Herren Slalom"
+074,26.01.,10:30,HE-SL,"Yule, Daniel",Yule D.,"Zenhäusern, Ramon","Ski Alpin, Herren Slalom"
+075,26.01.,10:30,HE-SL,"Pinturault, Alexis",Schwarz,"Schwarz, Marco","Ski Alpin, Herren Slalom"
+076,26.01.,10:30,HE-SL,"Vinatzer, Alex",Feller,"Feller, Manuel","Ski Alpin, Herren Slalom"
+077,26.01.,12:00,ESP 1,Atletico Madrid,0:0,CD Leganes,Spanien Primera Division
+078,26.01.,12:30,ITA A,Inter Mailand,1:1,Cagliari Calcio,Italien Serie A
+079,26.01.,14:00,ENG FA,Manchester City,4:0,FC Fulham,England FA Cup
+080,26.01.,14:00,ESP 1,Celta de Vigo,0:0,SD Eibar,Spanien Primera Division
+081,26.01.,14:00,TUR 1,Göztepe,2:1,Besiktas Istanbul,Türkei Süper Lig
+082,26.01.,14:30,BEL 1,Cercle Brügge KSV,1:2,RSC Anderlecht,Belgien Jupiler Pro League
+083,26.01.,15:00,ITA A,Sampdoria Genua,0:0,US Sassuolo,Italien Serie A
+084,26.01.,15:00,ITA A,Hellas Verona,3:0,US Lecce,Italien Serie A
+085,26.01.,15:00,ITA A,FC Parma,2:0,Udinese Calcio,Italien Serie A
+086,26.01.,15:00,FRA 1,Olympique Lyon,3:0,FC Toulouse,Frankreich Ligue 1
+087,26.01.,15:30,GER BL,Werder Bremen,0:3,TSG Hoffenheim,Deutschland Bundesliga
+088,26.01.,16:00,ESP 1,Getafe CF,1:0,Betis Sevilla,Spanien Primera Division
+089,26.01.,16:00,SUI SL,Young Boys Bern,2:0,FC Basel,Schweiz Axpo Super League
+090,26.01.,16:30,HB EM,Spanien,22:20,Kroatien,Handball Europameisterschaft
+091,26.01.,17:00,FRA 1,FC Nantes,0:1,Bordeaux,Frankreich Ligue 1
+092,26.01.,17:00,TUR 1,Konyaspor,0:3,Galatasaray,Türkei Süper Lig
+093,26.01.,17:30,EH AUT,Black Wings Linz,3:0,KAC Klagenfurt,Österreich Eishockey Liga
+094,26.01.,17:30,EH AUT,EC Graz 99ers,5:3,EC Dornbirn,Österreich Eishockey Liga
+095,26.01.,17:30,EH AUT,HC Bozen Foxes,5:0,HC Znojmo,Österreich Eishockey Liga
+096,26.01.,17:30,EH AUT,Vienna Capitals,3:1,HC Innsbruck,Österreich Eishockey Liga
+097,26.01.,17:30,EH AUT,EC RB Salzburg,1:1,Villacher SV,Österreich Eishockey Liga
+098,26.01.,18:00,GER BL,Bayer Leverkusen,3:0,Fortuna Düsseldorf,Deutschland Bundesliga
+099,26.01.,18:00,ENG FA,Shrewsbury Town,2:2,FC Liverpool,England FA Cup
+100,26.01.,18:00,ITA A,AS Roma,1:1,Lazio Rom,Italien Serie A
+101,26.01.,18:30,ESP 1,Real Sociedad,3:0,RCD Mallorca,Spanien Primera Division
+102,26.01.,20:45,ITA A,SSC Napoli,2:1,Juventus Turin,Italien Serie A
+103,26.01.,21:00,ESP 1,Real Valladolid,0:1,Real Madrid,Spanien Primera Division
+104,26.01.,21:00,FRA 1,Lille OSC,0:2,Paris SG,Frankreich Ligue 1
+105,27.01.,17:00,TUR 2,Fatih Karagumruk,3:3,Altinordu,Türkei TFF 1. Lig
+106,27.01.,17:00,GRE 1,PAOK Thessaloniki,1:0,Volos NFC,Griechenland Super League
+107,27.01.,18:00,TUR 1,Sivasspor,1:1,Caykur Rizespor,Türkei Süper Lig
+108,27.01.,18:00,TUR 1,Yeni Malatyaspor,abgesagt,Trabzonspor,Türkei Süper Lig
+109,27.01.,19:00,GER 3,FC Kaiserslautern,0:0,Großaspach,Deutschland 3. Liga
+110,27.01.,19:00,GRE 1,Lamia 1964,1:1,Asteras Tripolis,Griechenland Super League
+111,27.01.,19:15,ISR 1,Bnei Yehuda,1:3,Maccabi Haifa,Israel Winner League
+112,27.01.,20:00,NL 2,Jong PSV Eindh.,2:1,Excel. Rotterdam,Niederlande Jupiler League
+113,27.01.,20:00,NL 2,AZ Alkmaar II,3:3,Almere City FC,Niederlande Jupiler League
+114,27.01.,20:45,ITA C1B,Reggio Audace FC,1:0,FC Südtirol,"Italien Lega Pro Prima Divisione, Girone B"
+115,27.01.,20:45,FRA 2,Le Havre AC,1:0,Troyes AC,Frankreich Ligue 2
+116,27.01.,20:45,POR 2,GD Estoril Praia,1:0,Benfica Lissabon B,Portugal Segunda Liga
+117,27.01.,20:45,NIRL 1,FC Coleraine,1:0,FC Cliftonville,Nordirland JJB Sports Premiership
+118,27.01.,21:00,ENG FA,AFC Bournemouth,1:2,FC Arsenal,England FA Cup
+119,27.01.,21:00,ENG FA,Bournemouth+1,2:2,FC Arsenal,England FA Cup
+120,27.01.,21:00,ITA B,Perugia Calcio,1:0,AS Livorno,Italien Serie B

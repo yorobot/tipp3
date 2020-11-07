@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,18.02.,17:00,KHL,AK Bars Kasan,5:3,Avangard Omsk,Kontinental Hockey League
+002,18.02.,17:00,KHL,Lok. Jaroslawl,5:1,HC Vityaz Podolsk,Kontinental Hockey League
+003,18.02.,17:30,KHL,Spartak Moskau,2:3,Torp. Nowgorod,Kontinental Hockey League
+004,18.02.,17:30,EH FIN,Pelicans Lahti,0:3,JYP Jyväskylä,Finnland SM-Liiga
+005,18.02.,18:00,EH CZE,HC Kometa Brünn,2:1,Mountfield HK,Tschechische Republik Extraliga
+006,18.02.,18:30,EH AUT,HC Znojmo,3:2,HC Innsbruck,Österreich Eishockey Liga
+007,18.02.,18:30,EH CZE,Sparta Prag,6:2,BK Mlada Boleslav,Tschechische Republik Extraliga
+008,18.02.,19:00,EH SWE,Skelleftea AIK,3:0,Djurgardens IF,Schweden Elitserien
+009,18.02.,19:00,EH SWE,Frölunda HC,5:1,IK Oskarshamn,Schweden Elitserien
+010,18.02.,19:00,EH SWE,Leksands IF,2:5,Rögle BK,Schweden Elitserien
+011,18.02.,19:00,EH SWE,Växjö Lakers,5:1,HV 71,Schweden Elitserien
+012,18.02.,19:00,EH SWE,Lulea Hockey,4:3,Malmö IF,Schweden Elitserien
+013,18.02.,19:00,EH SWE,Brynas IF,2:2,Linköpings HC,Schweden Elitserien
+014,18.02.,19:00,EH SWE,HC Örebro,3:3,Färjestads BK,Schweden Elitserien
+015,18.02.,19:15,EH AUT,Villacher SV,2:5,Black Wings Linz,Österreich Eishockey Liga
+016,18.02.,19:15,EH AUT,EC Dornbirn,3:2,Fehervar,Österreich Eishockey Liga
+017,18.02.,19:15,EH AUT,Vienna Capitals,1:4,HC Bozen Foxes,Österreich Eishockey Liga
+018,18.02.,19:15,EH AUT,KAC Klagenfurt,3:3,EC RB Salzburg,Österreich Eishockey Liga
+019,18.02.,19:30,EH GER,Eisbären Berlin,4:2,Iserlohn Roosters,Deutschland Deutsche Eishockey Liga
+020,18.02.,19:30,EH GER,Adler Mannheim,1:2,EHC München,Deutschland Deutsche Eishockey Liga
+021,18.02.,19:30,EH GER,DEG Metro Stars,1:4,Straubing Tigers,Deutschland Deutsche Eishockey Liga
+022,18.02.,19:30,EH GER,Nürnberg Ice Tiger,5:2,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+023,18.02.,19:45,EH SUI,HC Lausanne,2:3,Fribourg Gotteron,Schweiz National League A
+024,18.02.,19:45,EH SUI,HC Davos,1:1,EV Zug,Schweiz National League A
+025,18.02.,19:45,EH SUI,HC Servette Genf,2:2,SCL Tigers Langnau,Schweiz National League A
+026,18.02.,20:45,ENG 1,Oxford United,5:0,AFC Wimbledon,England League One
+027,18.02.,20:45,ENG 1,Southend United,0:1,FC Gillingham,England League One
+028,18.02.,20:45,ENG LTR,FC Portsmouth,3:2,Exeter City,England Football League Trophy
+029,18.02.,20:45,SCO 1,FC Falkirk,2:0,FC East Fife,Schottland League One
+030,18.02.,20:45,SCO FA,FC Motherwell,4:4,FC St. Mirren,Schottland FA Cup
+031,18.02.,21:00,CL,Bor. Dortmund GER,2:1,Paris SG FRA,UEFA Champions League
+032,18.02.,21:00,CL,Bor. Dortmund,2:2,Paris SG+1,UEFA Champions League
+033,18.02.,21:00,CL,Bor. Dortmund+1,3:1,Paris SG,UEFA Champions League
+034,18.02.,21:00,CL,Atl. Madrid ESP,1:0,FC Liverpool ENG,UEFA Champions League
+035,18.02.,21:00,CL,Atletico Madrid,1:1,FC Liverpool+1,UEFA Champions League
+036,18.02.,21:00,CL,Atletico Madrid+1,2:0,FC Liverpool,UEFA Champions League
+037,19.02.,15:00,KHL,Traktor Chelyab.,5:0,A. Vladivostok,Kontinental Hockey League
+038,19.02.,15:30,CYP CUP,Anorthosis,1:1,Salamis Famagusta,Zypern Cup
+039,19.02.,16:00,CYP CUP,Apollon Limassol,2:0,Ethnikos Achnas,Zypern Cup
+040,19.02.,17:15,GRE CUP,AEK Athen,4:0,Panaitolikos,Griechenland Cup
+041,19.02.,17:30,HUN CUP,Fehervar FC,1:0,Ujpest FC,Ungarn Cup
+042,19.02.,17:30,KHL,Sev. Cherepovets,2:2,Dynamo Moskau,Kontinental Hockey League
+043,19.02.,17:30,EH FIN,KalPa Kuopio,2:3,Tappara Tampere,Finnland SM-Liiga
+044,19.02.,17:30,EH FIN,SaiPa Lappeenr.,1:4,HIFK Helsinki,Finnland SM-Liiga
+045,19.02.,17:30,EH FIN,HPK Hämeenlinna,1:1,Kookoo,Finnland SM-Liiga
+046,19.02.,17:30,EH FIN,Ilves Tampere,1:3,Jukurit Mikkeli,Finnland SM-Liiga
+047,19.02.,17:30,EH FIN,Kärpät Oulu,2:1,Vaasan Sport,Finnland SM-Liiga
+048,19.02.,17:30,EH FIN,Ässät Pori,1:3,Pelicans Lahti,Finnland SM-Liiga
+049,19.02.,17:30,EH CZE,HC Litvinov,5:2,HC Trinec,Tschechische Republik Extraliga
+050,19.02.,18:00,ISR 2,Hapoel K. Jerusale,1:0,Hapoel Umm al-Fahm,Israel National League
+051,19.02.,18:00,CYP CUP,AEK Larnaca,1:1,AEL Limassol,Zypern Cup
+052,19.02.,18:00,CYP CUP,Doxa Katokopias,1:1,Omonia Nikosia,Zypern Cup
+053,19.02.,18:00,HUN CUP,Paksi FC,1:0,Pecsi MFC,Ungarn Cup
+054,19.02.,18:00,HUN CUP,Haladas Szombat.,1:0,Honved Budapest,Ungarn Cup
+055,19.02.,18:00,HUN CUP,Kaposvari Rakoczi,1:3,Mezokovesd Zsory S,Ungarn Cup
+056,19.02.,18:30,RSA PL,Bidwest Wits FC,2:2,Highlands Park,"Südafrika, Premier League"
+057,19.02.,18:30,RSA PL,Mamelodi FC,2:1,Bloemfontein,"Südafrika, Premier League"
+058,19.02.,19:30,EH GER,ERC Ingolstadt,2:1,Kölner Haie,Deutschland Deutsche Eishockey Liga
+059,19.02.,19:30,EH GER,Krefeld Pinguine,2:2,Schwenninger W.W.,Deutschland Deutsche Eishockey Liga
+060,19.02.,19:30,EH GER,Bremerhaven P.,3:4,EHC Wolfsburg,Deutschland Deutsche Eishockey Liga
+061,19.02.,20:30,ENG PL,Manchester City,2:0,West Ham United,England Premier League
+062,19.02.,20:30,ENG PL,Manchester City,2:2,West Ham+2,England Premier League
+063,19.02.,20:45,ENG LTR,Newport County,0:0,Salford City,England Football League Trophy
+064,19.02.,20:45,SCO FA,FC Kilmarnock,1:1,FC Aberdeen,Schottland FA Cup
+065,19.02.,21:00,CL,Atalanta BC ITA*,4:1,FC Valencia ESP,UEFA Champions League
+066,19.02.,21:00,CL,Atalanta Bergamo,4:2,FC Valencia+1,UEFA Champions League
+067,19.02.,21:00,CL,Tottenham ENG,0:1,RB Leipzig GER,UEFA Champions League
+068,19.02.,21:00,CL,Tottenham,0:2,RB Leipzig+1,UEFA Champions League
+069,19.02.,21:00,CL,Tottenham+1,1:1,RB Leipzig,UEFA Champions League
+070,19.02.,21:00,ESP 2,CD Mirandes,1:1,Real Saragossa,Spanien Segunda Division
+071,19.02.,21:00,URU 1,Liverpool Montevid,1:0,Plaza Colonia,Uruguay Primera Division
+072,19.02.,23:15,COPA S,CA Huracan ARG,1:1,Atletico Nac. COL,Copa Sudamericana
+073,20.02.,01:30,COPA S,Oriente Petrol BOL,0:0,Vasco Da Gama BRA,Copa Sudamericana
+074,20.02.,02:00,COPA MX,CF Monterrey,1:0,Santos Laguna,"Mexiko, Copa MX"
+075,20.02.,02:00,NHL,Chicago Blackhawks,3:6,New York Rangers,USA NHL
+076,20.02.,02:30,RECOPA,Ind.d.Valle ECU*,2:2,CR Flamengo RJ BRA,Recopa Sudamericana
+077,20.02.,02:30,NHL,Edmonton Oilers,1:1,Boston Bruins,USA NHL
+078,20.02.,02:30,NHL,Dallas Stars,3:2,Arizona Coyotes,USA NHL
+079,20.02.,04:00,NHL,Anaheim Ducks,1:4,Florida Panthers,USA NHL
+080,20.02.,04:00,NHL,Colorado Avalan.,3:1,NY Islanders,USA NHL
+081,20.02.,04:30,NHL,Vancouver Can.,3:3,Minnesota Wild,USA NHL
+082,20.02.,15:00,KHL,Avtomobilist,3:1,Sibir Nowosibirsk,Kontinental Hockey League
+083,20.02.,17:30,KHL,SKA St. Petersburg,2:2,Torp. Nowgorod,Kontinental Hockey League
+084,20.02.,17:30,KHL,Spartak Moskau,6:3,AK Bars Kasan,Kontinental Hockey League
+085,20.02.,17:30,KHL,HC Sochi,2:2,HC Vityaz Podolsk,Kontinental Hockey League
+086,20.02.,18:00,EG SC,Al Ahly Cairo*,0:0,El Zamalek,"Ägypten, Supercup"
+087,20.02.,18:00,BB EL,Zenit Petersb. RUS,81:83,Alba Berlin GER,Euroleague
+088,20.02.,18:45,BB EL,Fenerbahce TUR,65:94,Real Madrid BC ESP,Euroleague
+089,20.02.,18:55,EL,FC CFR Cluj ROU,1:1,FC Sevilla ESP,UEFA Europa League
+090,20.02.,18:55,EL,Ludog. Razgrad BUL,0:2,Inter Mailand ITA,UEFA Europa League
+091,20.02.,18:55,EL,Club Brügge BEL,1:1,Manchester U. ENG,UEFA Europa League
+092,20.02.,18:55,EL,Club Brügge+1,2:1,Manchester United,UEFA Europa League
+093,20.02.,18:55,EL,E. Frankfurt GER,4:1,RB Salzburg AUT,UEFA Europa League
+094,20.02.,18:55,EL,Eintr. Frankfurt,4:2,RB Salzburg+1,UEFA Europa League
+095,20.02.,18:55,EL,Eintr. Frankfurt+1,5:1,RB Salzburg,UEFA Europa League
+096,20.02.,18:55,EL,Shakhtar Don. UKR,2:1,Benfica Lissab POR,UEFA Europa League
+097,20.02.,18:55,EL,Sporting Liss. POR,3:1,Ist.Basaks TUR,UEFA Europa League
+098,20.02.,18:55,EL,Getafe CF ESP,2:0,Ajax Amsterd. NED,UEFA Europa League
+099,20.02.,18:55,EL,FC Kopenhagen DEN,1:1,Celtic Glasgow SCO,UEFA Europa League
+100,20.02.,19:00,EH SWE,Linköpings HC,2:2,Lulea Hockey,Schweden Elitserien
+101,20.02.,19:00,EH SWE,Färjestads BK,5:2,Frölunda HC,Schweden Elitserien
+102,20.02.,19:00,EH SWE,IK Oskarshamn,3:3,Skelleftea AIK,Schweden Elitserien
+103,20.02.,19:00,EH SWE,HV 71,3:2,HC Örebro,Schweden Elitserien
+104,20.02.,19:00,EH SWE,Rögle BK,5:1,Växjö Lakers,Schweden Elitserien
+105,20.02.,19:00,EH SWE,Djurgardens IF,5:2,Leksands IF,Schweden Elitserien
+106,20.02.,19:30,BB EMQ,Österreich,73:88,Ukraine,"Europameisterschaft, Qualifikation"
+107,20.02.,21:00,EL,Olympiakos P. GRE,0:1,FC Arsenal ENG,UEFA Europa League
+108,20.02.,21:00,EL,AZ Alkmaar NED,1:1,LASK Linz AUT,UEFA Europa League
+109,20.02.,21:00,EL,AZ Alkmaar,1:2,LASK Linz+1,UEFA Europa League
+110,20.02.,21:00,EL,VfL Wolfsburg GER,2:1,Malmö FF SWE,UEFA Europa League
+111,20.02.,21:00,EL,VfL Wolfsburg,2:2,Malmö FF+1,UEFA Europa League
+112,20.02.,21:00,EL,AS Roma ITA,1:0,KAA Gent BEL,UEFA Europa League
+113,20.02.,21:00,EL,Gl.Rangers SCO,3:2,Sporting Braga POR,UEFA Europa League
+114,20.02.,21:00,EL,Wolverhampton ENG,4:0,Espanyol Barc. ESP,UEFA Europa League
+115,20.02.,21:00,EL,Wolverhampton,4:1,Espanyol Barc.+1,UEFA Europa League
+116,20.02.,21:00,EL,Leverkusen GER,2:1,FC Porto POR,UEFA Europa League
+117,20.02.,21:00,EL,Bayer Leverkusen,2:2,FC Porto+1,UEFA Europa League
+118,20.02.,21:00,EL,APOEL Nikosia CYP,0:3,FC Basel SUI,UEFA Europa League
+119,20.02.,23:15,COPA S,Alw.Ready BOL*,1:0,Millonarios COL,Copa Sudamericana
+120,20.02.,23:15,COPA S,CS Emelec ECU,2:0,Blooming BOL,Copa Sudamericana

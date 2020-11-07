@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,13.03.,17:30,RUS PL,FK Achmat Grozny,2:3,Dinamo Moskau,Russland Premier League
+002,13.03.,18:00,TUR 1,MKE Ankaragücü,2:1,Caykur Rizespor,Türkei Süper Lig
+003,13.03.,18:00,TUR 1,Kasimpasa,2:0,Göztepe,Türkei Süper Lig
+004,13.03.,18:00,CZE 1,FK Baumit Jablonec,abgesagt,FC Fastav Zlin,Tschechien Gambrinus Liga
+005,13.03.,18:00,POL 1,LKS Lodz,abgesagt,Gornik Zabrze,Polen Orange Ekstraklasa
+006,13.03.,18:30,GER 2,Greuther Fürth,abgesagt,Hamburger SV,Deutschland 2. Bundesliga
+007,13.03.,18:30,GER 2,Arminia Bielefeld,abgesagt,VfL Osnabrück,Deutschland 2. Bundesliga
+008,13.03.,19:00,DEN 1,Esbjerg FB,abgesagt,Aalborg BK,Dänemark Superligaen
+009,13.03.,19:00,AUT RLO,Bruck/Leitha,abgesagt,Wiener Sport-Club,Österreich Regionalliga Ost
+010,13.03.,19:00,AUT RLM,SC Kalsdorf,abgesagt,WSC Hertha Wels,Österreich Regionalliga Mitte
+011,13.03.,19:00,AUT RLM,SV Allerheiligen,abgesagt,FC Gleisdorf,Österreich Regionalliga Mitte
+012,13.03.,19:00,AUT RLM,Deutschlandsberg,abgesagt,SC Weiz,Österreich Regionalliga Mitte
+013,13.03.,19:30,AUT RLO,ASV Draßburg,abgesagt,FCM Traiskirchen,Österreich Regionalliga Ost
+014,13.03.,19:30,AUT RLO,Marchfeld Donauaue,abgesagt,SC Neusiedl,Österreich Regionalliga Ost
+015,13.03.,19:30,AUT RLO,ASK Ebreichsdorf,abgesagt,SV Stripfing,Österreich Regionalliga Ost
+016,13.03.,19:30,AUT RLO,SC Wiener Neustadt,abgesagt,SV Mattersburg Am.,Österreich Regionalliga Ost
+017,13.03.,20:00,FRA 2,EA Guingamp,abgesagt,FC Chamois Niort,Frankreich Ligue 2
+018,13.03.,20:00,FRA 2,FC Valenciennes,abgesagt,SM Caen,Frankreich Ligue 2
+019,13.03.,20:00,NL 1,ADO Den Haag,abgesagt,Fortuna Sittard,Niederlande Eredivisie
+020,13.03.,20:30,GER BL,Fortuna Düsseldorf,abgesagt,SC Paderborn,Deutschland Bundesliga
+021,13.03.,20:30,GER BL,Fortuna Düsseldorf,abgesagt,SC Paderborn+1,Deutschland Bundesliga
+022,13.03.,20:30,POL 1,Slask Wroclaw,abgesagt,Rakow Czestochowa,Polen Orange Ekstraklasa
+023,13.03.,20:45,ENG CS,FC Fulham,abgesagt,FC Brentford,England Championship
+024,13.03.,20:45,FRA 1,Olympique Lyon,abgesagt,Stade de Reims,Frankreich Ligue 1
+025,13.03.,20:45,SCO PS,FC Motherwell,abgesagt,FC Aberdeen,Schottland Premiership
+026,13.03.,20:45,IRL 1,Cork City FC,abgesagt,Boh. Dublin,Irland Premier Division
+027,13.03.,21:00,ESP 1,Real Madrid,abgesagt,SD Eibar,Spanien Primera Division
+028,13.03.,21:00,ESP 2,Racing Santander,abgesagt,CD Lugo,Spanien Segunda Division
+029,13.03.,21:00,IRL 1,FC Dundalk,abgesagt,St Patrick's,Irland Premier Division
+030,13.03.,21:30,POR 1,Rio Ave FC,abgesagt,FC Pacos Ferreira,Portugal Primeira Liga
+031,14.03.,13:00,GER 2,VfL Bochum,abgesagt,FC Heidenheim,Deutschland 2. Bundesliga
+032,14.03.,13:00,GER 2,Erzgebirge Aue,abgesagt,SV Sandhausen,Deutschland 2. Bundesliga
+033,14.03.,13:00,GER 2,Karlsruher SC,abgesagt,SV Darmstadt 98,Deutschland 2. Bundesliga
+034,14.03.,13:00,GER 2,Jahn Regensburg,abgesagt,Holstein Kiel,Deutschland 2. Bundesliga
+035,14.03.,13:00,ESP 1,CD Leganes,abgesagt,Real Valladolid,Spanien Primera Division
+036,14.03.,13:30,ENG PL,FC Watford,abgesagt,Leicester City,England Premier League
+037,14.03.,13:30,ENG CS,West Bromwich,abgesagt,Birmingham City,England Championship
+038,14.03.,14:30,RUS PL,Zenit St.Petersb.,7:1,Ural Jekaterinburg,Russland Premier League
+039,14.03.,15:30,GER BL,Bor. Dortmund,abgesagt,FC Schalke 04,Deutschland Bundesliga
+040,14.03.,15:30,GER BL,Bor. Dortmund,abgesagt,FC Schalke 04+1,Deutschland Bundesliga
+041,14.03.,15:30,GER BL,RB Leipzig,abgesagt,SC Freiburg,Deutschland Bundesliga
+042,14.03.,15:30,GER BL,TSG Hoffenheim,abgesagt,Hertha BSC,Deutschland Bundesliga
+043,14.03.,15:30,GER BL,1. FC Köln,abgesagt,FSV Mainz 05,Deutschland Bundesliga
+044,14.03.,16:00,ENG PL,AFC Bournemouth,abgesagt,Crystal Palace,England Premier League
+045,14.03.,16:00,ENG PL,Brighton & Hove,abgesagt,FC Arsenal,England Premier League
+046,14.03.,16:00,ENG PL,Manchester City,abgesagt,FC Burnley,England Premier League
+047,14.03.,16:00,ENG PL,Newcastle United,abgesagt,Sheffield United,England Premier League
+048,14.03.,16:00,ENG PL,Norwich City,abgesagt,FC Southampton,England Premier League
+049,14.03.,16:00,ENG CS,Blackburn Rovers,abgesagt,Bristol City,England Championship
+050,14.03.,16:00,ENG CS,Huddersfield Town,abgesagt,Wigan Athletic,England Championship
+051,14.03.,16:00,ENG CS,Hull City,abgesagt,Charlton Athletic,England Championship
+052,14.03.,16:00,ENG CS,Luton Town,abgesagt,Preston North End,England Championship
+053,14.03.,16:00,ENG CS,FC Middlesbrough,abgesagt,Swansea City,England Championship
+054,14.03.,16:00,ENG CS,FC Millwall,abgesagt,Derby County,England Championship
+055,14.03.,16:00,ENG CS,Queens Park R.,abgesagt,FC Barnsley,England Championship
+056,14.03.,16:00,ENG CS,FC Reading,abgesagt,Stoke City,England Championship
+057,14.03.,16:00,ESP 1,FC Valencia,abgesagt,Levante UD,Spanien Primera Division
+058,14.03.,17:30,FRA 1,HSC Montpellier,abgesagt,Olymp. Marseille,Frankreich Ligue 1
+059,14.03.,18:00,TUR 1,Konyaspor,1:0,Fenerbahce,Türkei Süper Lig
+060,14.03.,18:30,GER BL,FC Union Berlin,abgesagt,FC Bayern München,Deutschland Bundesliga
+061,14.03.,18:30,ENG PL,Aston Villa,abgesagt,FC Chelsea,England Premier League
+062,14.03.,18:30,ESP 1,RCD Mallorca,abgesagt,FC Barcelona,Spanien Primera Division
+063,14.03.,19:00,POR 1,Benfica Lissabon,abgesagt,CD Tondela,Portugal Primeira Liga
+064,14.03.,20:00,FRA 1,FC Nantes,abgesagt,Olympique Nimes,Frankreich Ligue 1
+065,14.03.,20:00,FRA 1,Amiens SC,abgesagt,SCO Angers,Frankreich Ligue 1
+066,14.03.,20:00,FRA 1,FC Toulouse,abgesagt,FC Metz,Frankreich Ligue 1
+067,14.03.,20:00,FRA 1,Stade Brest,abgesagt,Lille OSC,Frankreich Ligue 1
+068,14.03.,20:00,FRA 1,Racing Strasbourg,abgesagt,Dijon Football,Frankreich Ligue 1
+069,14.03.,20:45,NL 1,FC Utrecht,abgesagt,Vitesse Arnheim,Niederlande Eredivisie
+070,14.03.,21:00,ESP 1,Celta de Vigo,abgesagt,Villarreal CF,Spanien Primera Division
+071,14.03.,21:30,POR 1,Vitoria Guimaraes,abgesagt,Sporting Lissabon,Portugal Primeira Liga
+072,15.03.,12:00,ESP 1,Espanyol Barcelona,abgesagt,CD Alaves,Spanien Primera Division
+073,15.03.,12:15,NL 1,Sparta Rotterdam,abgesagt,Feyenoord,Niederlande Eredivisie
+074,15.03.,13:00,SCO PS,Glasgow Rangers,abgesagt,Celtic Glasgow,Schottland Premiership
+075,15.03.,13:30,GER 2,FC St. Pauli,abgesagt,1. FC Nürnberg,Deutschland 2. Bundesliga
+076,15.03.,13:30,GER 2,Wehen Wiesbaden,abgesagt,VfB Stuttgart,Deutschland 2. Bundesliga
+077,15.03.,13:30,GER 2,Hannover 96,abgesagt,Dynamo Dresden,Deutschland 2. Bundesliga
+078,15.03.,14:00,ENG CS,Cardiff City,abgesagt,Leeds United,England Championship
+079,15.03.,14:00,ESP 1,Real Sociedad,abgesagt,CA Osasuna,Spanien Primera Division
+080,15.03.,14:00,TUR 1,Trabzonspor,1:1,Istanbul Basakseh.,Türkei Süper Lig
+081,15.03.,14:00,DEN 1,FC Midtjylland,abgesagt,AC Horsens,Dänemark Superligaen
+082,15.03.,14:30,RUS PL,ZSKA Moskau,0:0,FC Ufa,Russland Premier League
+083,15.03.,14:30,NL 1,Ajax Amsterdam,abgesagt,Twente Enschede,Niederlande Eredivisie
+084,15.03.,15:00,ENG PL,West Ham United,abgesagt,Wolverhampton,England Premier League
+085,15.03.,15:00,FRA 1,Bordeaux,abgesagt,Stade Rennes,Frankreich Ligue 1
+086,15.03.,15:30,GER BL,Eintr. Frankfurt,abgesagt,Mönchengladbach,Deutschland Bundesliga
+087,15.03.,15:30,GER BL,Eintr. Frankfurt+1,abgesagt,Mönchengladbach,Deutschland Bundesliga
+088,15.03.,16:00,ESP 1,Athletic Bilbao,abgesagt,Atletico Madrid,Spanien Primera Division
+089,15.03.,17:00,FRA 1,AS Monaco,abgesagt,AS Saint Etienne,Frankreich Ligue 1
+090,15.03.,17:00,TUR 1,Galatasaray,0:0,Besiktas Istanbul,Türkei Süper Lig
+091,15.03.,17:30,ENG PL,Tottenham,abgesagt,Manchester United,England Premier League
+092,15.03.,18:00,GER BL,FC Augsburg,abgesagt,VfL Wolfsburg,Deutschland Bundesliga
+093,15.03.,18:00,BEL 1,St. Truiden VV,abgesagt,RSC Anderlecht,Belgien Jupiler Pro League
+094,15.03.,18:00,BEL 1,SV Zulte Waregem,abgesagt,Standard Lüttich,Belgien Jupiler Pro League
+095,15.03.,18:00,BEL 1,KRC Genk,abgesagt,YR KV Mechelen,Belgien Jupiler Pro League
+096,15.03.,18:30,ESP 1,Granada CF,abgesagt,Getafe CF,Spanien Primera Division
+097,15.03.,18:30,GRE 1,PAOK Thessaloniki,abgesagt,Olympiakos Piräus,Griechenland Super League
+098,15.03.,18:30,GRE 1,AEK Athen,abgesagt,Panathinaikos,Griechenland Super League
+099,15.03.,21:00,ESP 1,FC Sevilla,abgesagt,Betis Sevilla,Spanien Primera Division
+100,15.03.,21:00,FRA 1,Paris SG,abgesagt,OGC Nizza,Frankreich Ligue 1
+101,15.03.,21:00,POR 1,FC Famalicao,abgesagt,FC Porto,Portugal Primeira Liga
+102,16.03.,15:00,GRE 2,Karaiskakis,abgesagt,PAS Giannina FC,Griechenland Super League 2
+103,16.03.,17:00,TUR 2,Eskisehirspor,1:4,Adana Demirspor,Türkei TFF 1. Lig
+104,16.03.,17:00,TUR 2,Altinordu,1:1,Balikesirspor,Türkei TFF 1. Lig
+105,16.03.,17:00,ROU 1,CS Voluntari,abgesagt,FC Academica Clinc,Rumänien Liga 1
+106,16.03.,17:30,RUS PL,FK Tambow,3:0,Kryliya Sovetov,Russland Premier League
+107,16.03.,18:00,TUR 1,Antalyaspor,1:0,Sivasspor,Türkei Süper Lig
+108,16.03.,18:00,CZE 1,Bohem.Prag 1905,abgesagt,FK Teplice,Tschechien Gambrinus Liga
+109,16.03.,18:00,POL 1,Wisla Plock,abgesagt,Korona Kielce,Polen Orange Ekstraklasa
+110,16.03.,19:00,DEN 1,Bröndby IF,abgesagt,SönderjyskE,Dänemark Superligaen
+111,16.03.,19:30,ISR 1,Maccabi Haifa,abgesagt,Hapoel Tel Aviv,Israel Winner League
+112,16.03.,19:30,ROU 1,Dinamo Bukarest,abgesagt,Chindia Targoviste,Rumänien Liga 1
+113,16.03.,20:00,NL 2,Jong Ajax Amst.,abgesagt,Excel. Rotterdam,Niederlande Jupiler League
+114,16.03.,20:30,GER BL,Werder Bremen,abgesagt,Bayer Leverkusen,Deutschland Bundesliga
+115,16.03.,20:30,GER BL,W. Bremen+1,abgesagt,Bayer Leverkusen,Deutschland Bundesliga
+116,16.03.,20:45,FRA 2,FC Lorient,abgesagt,Le Havre AC,Frankreich Ligue 2
+117,16.03.,20:45,POR 2,SC Farense,abgesagt,CD Cova Piedade,Portugal Segunda Liga
+118,16.03.,20:45,IRL LC,FC Longford Town,abgesagt,Cockhill Celtic,Irland League Cup
+119,16.03.,21:00,ENG PL,FC Everton,abgesagt,FC Liverpool,England Premier League
+120,16.03.,21:00,ENG PL,FC Everton+1,abgesagt,FC Liverpool,England Premier League

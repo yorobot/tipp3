@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,12.06.,17:40,POL 2,GKS Jastrzebie Z.,1:2,Sandecja,Polen I Liga
+002,12.06.,18:00,SERB 1,FK Proleter,2:2,FK Javor Ivanjica,Serbien Meridijan Superliga
+003,12.06.,18:00,SLO 1,NK Triglav,1:1,NK Domzale,Slowenien PrvaLiga Telekom
+004,12.06.,18:30,GER 2,Dynamo Dresden,0:1,Hamburger SV,Deutschland 2. Bundesliga
+005,12.06.,18:30,GER 2,SV Sandhausen,0:0,Arminia Bielefeld,Deutschland 2. Bundesliga
+006,12.06.,18:55,CRO 1,NK Varazdin SN,0:0,HNK Rijeka,Kroatien 1. HNL
+007,12.06.,19:00,GER 3,SV Meppen,2:3,Hallescher FC,Deutschland 3. Liga
+008,12.06.,19:00,DEN 1,Esbjerg FB,4:2,Randers FC,Dänemark Superligaen
+009,12.06.,19:00,DEN 2,Skive IK,3:2,Nyköbing FC,Dänemark 1. Division
+010,12.06.,19:00,ROU 1,CS Uni Craiova,abgesagt,FC Botosani,Rumänien Liga 1
+011,12.06.,19:00,BLR 1,FC Gorodeya,3:0,FC Slutsk,Weißrussland Premier League
+012,12.06.,19:30,BUL 1,Botev Vratsa,0:1,Tsarsko Selo Sofia,Bulgarien Premier League
+013,12.06.,19:30,ESP 1,Granada CF,2:1,Getafe CF,Spanien Primera Division
+014,12.06.,19:30,ESP 2,Fuenlabrada,1:0,Teneriffa CD,Spanien Segunda Division
+015,12.06.,19:30,ESP 2,Malaga CF,1:3,SD Huesca,Spanien Segunda Division
+016,12.06.,19:30,ESP 2,Elche CF,1:1,UD Extremadura,Spanien Segunda Division
+017,12.06.,20:00,POR 1,Moreirense FC,0:1,Rio Ave FC,Portugal Primeira Liga
+018,12.06.,20:00,TUR 1,Fenerbahce,2:1,Kayserispor,Türkei Süper Lig
+019,12.06.,20:00,TUR 1,Göztepe,1:3,Trabzonspor,Türkei Süper Lig
+020,12.06.,20:00,SERB 1,FK Rad Belgrad,0:2,FK Vozdovac,Serbien Meridijan Superliga
+021,12.06.,20:00,HUN 1,Mezokovesd Zsory S,1:2,Honved Budapest,Ungarn NB I
+022,12.06.,20:00,SLO 1,NK Rudar Velenje,1:3,ASK Bravo,Slowenien PrvaLiga Telekom
+023,12.06.,20:10,POL 2,Miedz Legnica,2:2,Podbeskidzie Biala,Polen I Liga
+024,12.06.,20:30,GER BL,TSG Hoffenheim,0:2,RB Leipzig,Deutschland Bundesliga
+025,12.06.,20:30,GER BL,Hoffenheim+1,1:2,RB Leipzig,Deutschland Bundesliga
+026,12.06.,21:00,ITA CUP,Juventus Turin,0:0,AC Milan,Italien Coppa Italia
+027,12.06.,21:05,CRO 1,Lok Zagreb,1:0,NK Dinamo Zagreb,Kroatien 1. HNL
+028,12.06.,21:45,ESP 2,Real Oviedo,0:0,Ponferradina SD,Spanien Segunda Division
+029,12.06.,22:00,ESP 1,FC Valencia,1:1,Levante UD,Spanien Primera Division
+030,12.06.,22:15,POR 1,Sporting Lissabon,1:0,FC Pacos Ferreira,Portugal Primeira Liga
+031,13.06.,13:00,GER 2,Holstein Kiel,1:2,Wehen Wiesbaden,Deutschland 2. Bundesliga
+032,13.06.,13:00,GER 2,1. FC Nürnberg,0:1,Greuther Fürth,Deutschland 2. Bundesliga
+033,13.06.,13:00,GER 2,FC Heidenheim,4:1,Jahn Regensburg,Deutschland 2. Bundesliga
+034,13.06.,13:00,GER 2,VfL Osnabrück,0:2,VfL Bochum,Deutschland 2. Bundesliga
+035,13.06.,14:00,GER 3,FC Magdeburg,2:0,FC Viktoria Köln,Deutschland 3. Liga
+036,13.06.,14:00,GER 3,Preussen Münster,0:0,FC Ingolstadt,Deutschland 3. Liga
+037,13.06.,14:00,GER 3,MSV Duisburg,1:1,Kickers Würzburg,Deutschland 3. Liga
+038,13.06.,14:00,GER 3,FC Kaiserslautern,2:0,Chemnitzer FC,Deutschland 3. Liga
+039,13.06.,14:00,GER 3,TSV 1860 München,0:1,Hansa Rostock,Deutschland 3. Liga
+040,13.06.,14:00,GER 3,E. Braunschweig,2:1,Großaspach,Deutschland 3. Liga
+041,13.06.,14:00,ESP 1,Espanyol Barcelona,2:0,CD Alaves,Spanien Primera Division
+042,13.06.,15:00,AUT 2,FC Juniors OÖ*,1:0,Grazer AK,Österreich Zweite Liga
+043,13.06.,15:00,AUT 2,FC Dornbirn,0:2,SK Vorwärts Steyr,Österreich Zweite Liga
+044,13.06.,15:30,GER BL,Fortuna Düsseldorf,0:1,Bor. Dortmund,Deutschland Bundesliga
+045,13.06.,15:30,GER BL,VfL Wolfsburg,2:2,SC Freiburg,Deutschland Bundesliga
+046,13.06.,15:30,GER BL,Hertha BSC,1:4,Eintr. Frankfurt,Deutschland Bundesliga
+047,13.06.,15:30,GER BL,1. FC Köln,1:2,FC Union Berlin,Deutschland Bundesliga
+048,13.06.,15:30,GER BL,SC Paderborn,1:5,Werder Bremen,Deutschland Bundesliga
+049,13.06.,17:00,AUT BL,SCR Altach,2:0,SKN St. Pölten,"Österreich Bundesliga, Qualifikationsgruppe"
+050,13.06.,17:00,AUT BL,SV Mattersburg,1:4,FK Austria Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+051,13.06.,17:00,AUT BL,SV Mattersburg+1,2:4,FK Austria Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+052,13.06.,17:00,AUT BL,Admira Wacker,0:3,WSG Swarovs. Tirol,"Österreich Bundesliga, Qualifikationsgruppe"
+053,13.06.,17:00,ESP 1,Celta de Vigo,0:1,Villarreal CF,Spanien Primera Division
+054,13.06.,17:00,ESP 2,Racing Santander,1:2,CD Lugo,Spanien Segunda Division
+055,13.06.,17:30,TUR 1,Istanbul Basakseh.,2:0,Alanyaspor,Türkei Süper Lig
+056,13.06.,18:30,GER BL,FC Bayern München,2:1,Mönchengladbach,Deutschland Bundesliga
+057,13.06.,18:30,GER BL,FC Bayern München,2:2,Mönchengladbach+1,Deutschland Bundesliga
+058,13.06.,19:30,ESP 1,CD Leganes,1:2,Real Valladolid,Spanien Primera Division
+065,13.06.,19:30,ESP 2,Las Palmas UD,0:0,FC Girona,Spanien Segunda Division
+060,13.06.,20:00,TUR 1,Besiktas Istanbul,1:2,Antalyaspor,Türkei Süper Lig
+061,13.06.,20:00,TUR 1,Yeni Malatyaspor,1:2,Kasimpasa,Türkei Süper Lig
+062,13.06.,20:25,AUT 2,SV Horn,1:2,SKU Amstetten,Österreich Zweite Liga
+063,13.06.,20:30,GRE 1,Panathinaikos,0:0,PAOK Thessaloniki,Griechenland Super League
+064,13.06.,21:00,ITA CUP,SSC Napoli,1:1,Inter Mailand,Italien Coppa Italia
+059,13.06.,21:30,ESP 2,Real Saragossa,1:3,Alcorcon AD,Spanien Segunda Division
+066,13.06.,22:00,ESP 1,RCD Mallorca,0:4,FC Barcelona,Spanien Primera Division
+067,13.06.,22:00,POR 1,Sporting Braga,0:1,Boavista FC,Portugal Primeira Liga
+068,14.06.,10:30,AUT 2,SV Ried,5:0,Kapfenberger SV,Österreich Zweite Liga
+069,14.06.,10:30,AUT 2,Floridsdorfer AC,2:1,Austria Lustenau,Österreich Zweite Liga
+070,14.06.,13:30,GER 2,Karlsruher SC,2:1,VfB Stuttgart,Deutschland 2. Bundesliga
+071,14.06.,13:30,GER 2,FC St. Pauli,2:1,Erzgebirge Aue,Deutschland 2. Bundesliga
+072,14.06.,13:30,GER 2,SV Darmstadt 98,3:2,Hannover 96,Deutschland 2. Bundesliga
+073,14.06.,14:00,GER 3,FSV Zwickau,3:3,Unterhaching,Deutschland 3. Liga
+074,14.06.,14:00,ESP 1,Athletic Bilbao,1:1,Atletico Madrid,Spanien Primera Division
+075,14.06.,14:00,DEN 1,Aalborg BK,0:2,FC Midtjylland,Dänemark Superligaen
+076,14.06.,14:30,AUT 2,Wacker Innsbruck,2:0,BW Linz,Österreich Zweite Liga
+077,14.06.,15:00,AUT 2,Young Violets A.W.,2:0,FC Liefering,Österreich Zweite Liga
+078,14.06.,15:30,GER BL,FSV Mainz 05,0:1,FC Augsburg,Deutschland Bundesliga
+079,14.06.,17:00,AUT BL,TSV Hartberg,1:2,SK Sturm Graz,Österreich Bundesliga
+080,14.06.,17:00,AUT BL,SK Rapid Wien,2:1,Wolfsberger AC,Österreich Bundesliga
+081,14.06.,17:00,AUT BL,SK Rapid Wien,2:2,Wolfsberger AC+1,Österreich Bundesliga
+082,14.06.,17:00,GER 3,W. Mannheim,2:3,Bayern München Am.,Deutschland 3. Liga
+083,14.06.,17:00,ESP 2,Dep. La Coruna,0:0,Sporting Gijon,Spanien Segunda Division
+084,14.06.,17:00,ESP 2,CD Mirandes,2:1,Numancia CD,Spanien Segunda Division
+085,14.06.,17:30,TUR 1,Genclerbirligi,2:1,Konyaspor,Türkei Süper Lig
+086,14.06.,18:00,GER BL,FC Schalke 04,1:1,Bayer Leverkusen,Deutschland Bundesliga
+087,14.06.,18:00,DEN 1,FC Nordsjaelland,1:1,FC Kopenhagen,Dänemark Superligaen
+088,14.06.,18:00,POL 1,Gornik Zabrze,2:0,Legia Warschau,Polen Orange Ekstraklasa
+089,14.06.,18:00,POL 1,Pogon Szczecin,1:1,KS Lechia Gdansk,Polen Orange Ekstraklasa
+090,14.06.,19:30,ESP 1,Real Madrid,3:1,SD Eibar,Spanien Primera Division
+091,14.06.,19:30,ESP 2,Albacete Balompie,0:1,UD Almeria,Spanien Segunda Division
+092,14.06.,19:30,AUT BL,RB Salzburg,3:1,LASK Linz,Österreich Bundesliga
+093,14.06.,19:30,AUT BL,RB Salzburg,3:2,LASK Linz+1,Österreich Bundesliga
+094,14.06.,20:00,TUR 1,Caykur Rizespor,2:0,Galatasaray,Türkei Süper Lig
+095,14.06.,20:00,TUR 1,Gazis. Gaziantep,1:1,MKE Ankaragücü,Türkei Süper Lig
+096,14.06.,20:00,DEN 1,Bröndby IF,0:0,AGF Aarhus,Dänemark Superligaen
+097,14.06.,20:25,AUT 2,Austria Klagenfurt,2:1,SV Lafnitz,Österreich Zweite Liga
+098,14.06.,21:30,ESP 2,Cadiz CF,1:1,Rayo Vallecano,Spanien Segunda Division
+099,14.06.,22:00,ESP 1,Real Sociedad,1:1,CA Osasuna,Spanien Primera Division
+100,15.06.,17:00,CZE 2,FK Slavoj Vysehrad,2:0,FC Hradec Kralove,Tschechien 1. Division
+101,15.06.,17:00,CZE 2,FK Viktoria Zizkov,3:1,FK Fotbal Trinec,Tschechien 1. Division
+102,15.06.,18:00,CZE 2,Zbrojovka Brno,5:2,FC Jihlava,Tschechien 1. Division
+103,15.06.,18:30,GRE 1,Asteras Tripolis,0:0,Panionios Athen,Griechenland Super League
+104,15.06.,18:45,ISR 1,Maccabi Netanya,1:3,Bnei Yehuda,Israel Winner League
+105,15.06.,19:00,GRE 1,Panaitolikos,3:0,AE Larissa,Griechenland Super League
+106,15.06.,19:00,DEN 1,Silkeborg IF,6:0,Odense BK,Dänemark Superligaen
+107,15.06.,19:00,ROU 1,AFC Astra Giurgiu,0:0,Gaz Metan Medias,Rumänien Liga 1
+108,15.06.,19:00,SWE 1,Falkenbergs FF,1:1,BK Häcken,Schweden Allsvenskan
+109,15.06.,19:00,SWE 1,Malmö FF,2:0,Mjällby AIF,Schweden Allsvenskan
+110,15.06.,19:00,SWE 1,Helsingborgs IF,0:3,Varbergs BoIS,Schweden Allsvenskan
+111,15.06.,19:30,ESP 1,Levante UD,1:1,FC Sevilla,Spanien Primera Division
+112,15.06.,19:30,ESP 2,Ponferradina SD,2:1,Elche CF,Spanien Segunda Division
+113,15.06.,19:45,ISR 1,Maccabi Tel Aviv,1:1,Hap. Beer Sheva,Israel Winner League
+114,15.06.,20:00,POR 1,Maritimo Funchal,2:1,Gil Vicente FC,Portugal Primeira Liga
+115,15.06.,20:00,TUR 1,Sivasspor,1:0,Denizlispor,Türkei Süper Lig
+116,15.06.,20:30,GER 2,Arminia Bielefeld,4:0,Dynamo Dresden,Deutschland 2. Bundesliga
+117,15.06.,20:30,GER 2,Arminia Bielefeld,4:1,Dynamo Dresden+1,Deutschland 2. Bundesliga
+118,15.06.,21:15,ISL 1,Stjarnan Gardab.,2:1,Fylkir Reykjavik,Island Urvalsdeild
+119,15.06.,21:30,ESP 2,Teneriffa CD,0:0,Malaga CF,Spanien Segunda Division
+120,15.06.,22:00,ESP 1,Betis Sevilla,2:2,Granada CF,Spanien Primera Division

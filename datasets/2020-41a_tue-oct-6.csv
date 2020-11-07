@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,06.10.,15:30,TEN ATP,Schwartzman D.,3:2,"Thiem, Dominic",Tennis ATP
+003,06.10.,17:30,KHL,Jokerit Helsinki,7:1,Spartak Moskau,Kontinental Hockey League
+004,06.10.,18:30,KHL,HK CSKA Moskau,2:0,Dynamo Moskau,Kontinental Hockey League
+005,06.10.,18:30,ENG LTR,FC Stevenage,2:3,MK Dons,England Football League Trophy
+006,06.10.,18:30,ENG LTR,Shrewsbury Town,2:1,Bolton Wanderers,England Football League Trophy
+007,06.10.,18:45,NL 2,FC Den Bosch,abgesagt,Almere City FC,Niederlande Jupiler League
+008,06.10.,19:00,RL SBG,TSV St. Johann,1:1,SAK 1914 Salzburg,Regionalliga Salzburg
+009,06.10.,19:00,RL SBG,SV Kuchl,4:1,USK Anif,Regionalliga Salzburg
+010,06.10.,19:00,RL SBG,SV Grödig,1:0,Austria Salzburg,Regionalliga Salzburg
+011,06.10.,20:00,ENG LTR,AFC Sunderland,5:3,Carlisle United,England Football League Trophy
+012,06.10.,20:00,ENG LTR,Wigan Athletic,1:3,Port Vale FC,England Football League Trophy
+013,06.10.,20:00,ENG LTR,Accrington Stanley,1:1,FC Blackpool,England Football League Trophy
+014,06.10.,20:00,ENG LTR,Ipswich Town,2:0,FC Gillingham,England Football League Trophy
+015,06.10.,20:00,ENG LTR,Oxford United,1:1,Bristol Rovers,England Football League Trophy
+016,06.10.,20:00,ENG LTR,Burton Albion,2:4,Cambridge United,England Football League Trophy
+017,06.10.,20:00,ENG LTR,Mansfield Town,1:3,Lincoln City,England Football League Trophy
+018,06.10.,20:00,ENG LTR,Swindon Town,3:4,Exeter City,England Football League Trophy
+019,06.10.,20:00,ENG LTR,Leyton Orient,2:0,AFC Wimbledon,England Football League Trophy
+020,06.10.,20:45,ENG LTR,Oldham Athletic,2:0,Doncaster Rovers,England Football League Trophy
+021,06.10.,20:45,ENG LTR,Southend United,0:3,FC Portsmouth,England Football League Trophy
+022,06.10.,20:45,ENG LTR,Cheltenham Town,2:0,Plymouth Argyle,England Football League Trophy
+023,06.10.,20:45,SCO LC,FC East Fife,2:0,FC Cowdenbeath,Schottland League Cup
+024,06.10.,20:45,SCO LC,Heart of Midl.,1:0,Inverness CT,Schottland League Cup
+025,06.10.,20:45,SCO LC,FC Dundee,abgesagt,Forfar Athletic,Schottland League Cup
+026,06.10.,20:45,SCO LC,Stirling Albion,1:2,FC Arbroath,Schottland League Cup
+027,06.10.,20:45,SCO LC,FC Dumbarton,0:1,Dunfermline,Schottland League Cup
+028,06.10.,20:45,SCO LC,FC Falkirk,abgesagt,FC Kilmarnock,Schottland League Cup
+029,06.10.,20:45,SCO LC,FC Albion Rovers,2:5,Ayr United,Schottland League Cup
+030,06.10.,20:45,SCO LC,Greenock Morton,2:2,Queen of South,Schottland League Cup
+031,06.10.,20:45,SCO LC,Edinburgh City,1:5,FC Livingston,Schottland League Cup
+032,06.10.,20:45,WAL 1,FC Barry Town,1:0,Cardiff Met Uni.,Wales Premier League
+033,06.10.,20:45,WAL 1,Connah's Quay,3:1,Caernarfon Town,Wales Premier League
+034,06.10.,20:45,WAL 1,Newi Cefn Druids,0:4,Aberystwyth Town,Wales Premier League
+035,06.10.,21:00,NL 2,Helmond Sport,1:5,SC Cambuur,Niederlande Jupiler League
+002,06.10.,22:25,TEN ATP,"Sinner, Jannik",0:3,"Nadal, Rafael",Tennis ATP
+036,07.10.,03:00,NBA,Miami Heat*,96:102,LA Lakers,USA NBA
+037,07.10.,12:00,JPN 1,Sagan Tosu,1:2,Gamba Osaka,Japan J.League
+038,07.10.,12:00,JPN LC,Kawasaki Frontale,0:2,FC Tokyo,Japan Nabisco Cup
+039,07.10.,12:00,JPN LC,Yokohama F Marinos,0:1,Kashiwa Reysol,Japan Nabisco Cup
+040,07.10.,16:00,KHL,Traktor Chelyab.,4:2,HC Red Star Kunlun,Kontinental Hockey League
+041,07.10.,16:00,KHL,Avtomobilist,3:2,HC Barys,Kontinental Hockey League
+043,07.10.,16:05,TEN ATP,"Rublev, Andrey",0:3,"Tsitsipas, Stefan.",Tennis ATP
+044,07.10.,17:30,EH FIN,Ässät Pori,3:3,HPK Hämeenlinna,Finnland SM-Liiga
+045,07.10.,18:00,KHL,SKA St. Petersburg,1:4,Met. Magnitogorsk,Kontinental Hockey League
+046,07.10.,18:00,INT FS,Zypern,1:2,Tschechien,Internationale Freundschaftsspiele
+047,07.10.,18:00,INT FS,Dänemark,4:0,Färöer Inseln,Internationale Freundschaftsspiele
+048,07.10.,18:00,INT FS,Malta,2:0,Gibraltar,Internationale Freundschaftsspiele
+049,07.10.,18:00,INT FS,Estland,1:3,Litauen,Internationale Freundschaftsspiele
+050,07.10.,18:00,INT FS,Montenegro,1:1,Lettland,Internationale Freundschaftsspiele
+051,07.10.,18:15,RL VBG,FC Lauterach,6:3,SW Bregenz,Eliteliga Vorarlberg
+042,07.10.,18:20,TEN ATP,"Djokovic, Novak",3:1,"Carreno-Busta, Pa.",Tennis ATP
+052,07.10.,18:30,RL VBG,VfB Hohenems,4:3,FC Wolfurt,Eliteliga Vorarlberg
+053,07.10.,19:00,RL TIR,SC Schwaz,2:1,SV Wörgl,Regionalliga Tirol
+054,07.10.,20:15,INT FS,Luxemburg,1:2,Liechtenstein,Internationale Freundschaftsspiele
+055,07.10.,20:30,INT FS,Österreich,2:1,Griechenland,Internationale Freundschaftsspiele
+056,07.10.,20:30,INT FS,Österreich,2:2,Griechenland+1,Internationale Freundschaftsspiele
+057,07.10.,20:45,INT FS,Deutschland,3:3,Türkei,Internationale Freundschaftsspiele
+058,07.10.,20:45,INT FS,Deutschland,3:4,Türkei+1,Internationale Freundschaftsspiele
+059,07.10.,20:45,INT FS,Portugal,0:0,Spanien,Internationale Freundschaftsspiele
+060,07.10.,20:45,INT FS,Schweiz,1:2,Kroatien,Internationale Freundschaftsspiele
+061,07.10.,20:45,INT FS,Niederlande,0:1,Mexiko,Internationale Freundschaftsspiele
+062,07.10.,20:45,INT FS,Polen,5:1,Finnland,Internationale Freundschaftsspiele
+063,07.10.,20:45,INT FS,Italien,6:3,Moldawien+3,Internationale Freundschaftsspiele
+064,07.10.,21:10,INT FS,Frankreich,7:1,Ukraine,Internationale Freundschaftsspiele
+065,07.10.,21:10,INT FS,Frankreich,7:2,Ukraine+1,Internationale Freundschaftsspiele
+066,08.10.,00:00,BRA 1,Corinthians SP,1:1,Santos SP,Brasilien Brasilero Serie A
+067,08.10.,00:15,BRA 1,CR Flamengo RJ,3:0,Sport Recife PE,Brasilien Brasilero Serie A
+068,08.10.,00:15,BRA 1,Gremio RS,2:1,Coritiba FC PR,Brasilien Brasilero Serie A
+069,08.10.,00:15,BRA 1,EC Bahia BA,3:0,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+070,08.10.,01:30,BRA 1,Sao Paulo SP,3:0,Atletico GO,Brasilien Brasilero Serie A
+071,08.10.,01:30,BRA 1,Goias EC GO,2:4,Fluminense RJ,Brasilien Brasilero Serie A
+072,08.10.,02:30,BRA 1,Botafogo FR RJ,2:1,SE Palmeiras SP,Brasilien Brasilero Serie A
+073,08.10.,02:30,BRA 1,Fortaleza EC CE,2:1,Atletico MG,Brasilien Brasilero Serie A
+074,08.10.,13:00,U21 EMQ,Kasachstan U21,1:4,Nordmazedonien U21,U21 EM Qualifikation
+075,08.10.,16:00,POR 2,Academico Viseu,0:0,Academ. Coimbra,Portugal Segunda Liga
+076,08.10.,16:30,U21 EMQ,Slowakei U21,2:1,Aserbaidschan U21,U21 EM Qualifikation
+077,08.10.,17:30,FIN 1,Kuopio PS,3:2,HIFK Helsinki,Finnland Veikkausliiga
+078,08.10.,17:30,U21 EMQ,Litauen U21,2:0,Griechenland U21,U21 EM Qualifikation
+079,08.10.,18:00,U21 EMQ,Montenegro U21,1:2,Israel U21,U21 EM Qualifikation
+080,08.10.,18:00,EM Q,Georgien,1:0,Weißrussland,Europameisterschaft Qualifikation
+081,08.10.,18:15,INT FS,Russland,1:2,Schweden,Internationale Freundschaftsspiele
+082,08.10.,18:30,KHL,HC Vityaz Podolsk,2:2,AK Bars Kasan,Kontinental Hockey League
+083,08.10.,18:30,KHL,Spartak Moskau,1:1,Lok. Jaroslawl,Kontinental Hockey League
+084,08.10.,18:45,DEN CUP,Esbjerg FB,2:1,Silkeborg IF,Dänemark Landspokalturneringen
+085,08.10.,19:00,EH SWE,Skelleftea AIK,4:2,HV 71,Schweden Elitserien
+086,08.10.,19:00,EH SWE,Leksands IF,0:2,Växjö Lakers,Schweden Elitserien
+087,08.10.,19:00,EH SWE,Djurgardens IF,2:2,Lulea Hockey,Schweden Elitserien
+088,08.10.,19:00,EH SWE,Färjestads BK,5:4,Linköpings HC,Schweden Elitserien
+089,08.10.,19:00,EH SWE,IK Oskarshamn,2:3,Rögle BK,Schweden Elitserien
+090,08.10.,19:00,EH SWE,Malmö IF,2:1,HC Örebro,Schweden Elitserien
+091,08.10.,19:00,EH SWE,Frölunda HC,3:0,Brynas IF,Schweden Elitserien
+092,08.10.,20:45,EM Q,Norwegen,1:1,Serbien,Europameisterschaft Qualifikation
+093,08.10.,20:45,EM Q,Norwegen,1:2,Serbien+1,Europameisterschaft Qualifikation
+094,08.10.,20:45,EM Q,Bosnien-Herzegow.,1:1,Nordirland,Europameisterschaft Qualifikation
+095,08.10.,20:45,EM Q,Bosnien-Herzegow.,1:2,Nordirland+1,Europameisterschaft Qualifikation
+096,08.10.,20:45,EM Q,Schottland,0:0,Israel,Europameisterschaft Qualifikation
+097,08.10.,20:45,EM Q,Schottland,0:1,Israel+1,Europameisterschaft Qualifikation
+098,08.10.,20:45,EM Q,Nordmazedonien,2:1,Kosovo,Europameisterschaft Qualifikation
+099,08.10.,20:45,EM Q,Island,2:1,Rumänien,Europameisterschaft Qualifikation
+100,08.10.,20:45,EM Q,Slowakei,0:0,Irland,Europameisterschaft Qualifikation
+101,08.10.,20:45,EM Q,Bulgarien,1:3,Ungarn,Europameisterschaft Qualifikation
+102,08.10.,20:45,INT FS,Belgien,1:1,Elfenbeinküste,Internationale Freundschaftsspiele
+103,08.10.,20:45,INT FS,Belgien,1:2,Elfenbeinküste+1,Internationale Freundschaftsspiele
+104,08.10.,21:00,INT FS,England,3:0,Wales,Internationale Freundschaftsspiele
+105,08.10.,21:00,INT FS,England,3:1,Wales+1,Internationale Freundschaftsspiele
+106,09.10.,00:30,WM Q,Paraguay,2:2,Peru,"WM Qualifikation, CONMEBOL"
+107,09.10.,00:45,WM Q,Uruguay,2:1,Chile,"WM Qualifikation, CONMEBOL"
+110,09.10.,02:20,NFL,Chicago Bears,20:19,Tampa Bay Buccan.,USA NFL
+108,09.10.,02:30,WM Q,Argentinien,1:0,Ekuador,"WM Qualifikation, CONMEBOL"
+109,09.10.,02:30,WM Q,Argentinien,1:1,Ekuador+1,"WM Qualifikation, CONMEBOL"
+111,10.10.,20:45,UEFA NL,Ukraine,1:2,Deutschland,UEFA Nations League
+112,10.10.,20:45,UEFA NL,Spanien,1:0,Schweiz,UEFA Nations League
+113,11.10.,18:00,UEFA NL,Bosnien-Herzegow.,0:0,Niederlande,UEFA Nations League
+114,11.10.,18:00,UEFA NL,England,2:1,Belgien,UEFA Nations League
+115,11.10.,18:00,UEFA NL,Kroatien,2:1,Schweden,UEFA Nations League
+116,11.10.,18:00,UEFA NL,Norwegen,4:0,Rumänien,UEFA Nations League
+117,11.10.,20:45,UEFA NL,Polen,0:0,Italien,UEFA Nations League
+118,11.10.,20:45,UEFA NL,Frankreich,0:0,Portugal,UEFA Nations League
+119,11.10.,20:45,UEFA NL,Serbien,0:1,Ungarn,UEFA Nations League
+120,11.10.,20:45,UEFA NL,Nordirland,0:1,Österreich,UEFA Nations League

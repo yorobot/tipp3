@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,17.07.,17:30,FIN 1,Rovaniemi PS,2:2,Haka Valkeakoski,Finnland Veikkausliiga
+002,17.07.,17:30,FIN 1,FC Inter Turku,1:0,HJK Helsinki,Finnland Veikkausliiga
+003,17.07.,18:15,SUI 2,FC Schaffhausen,0:0,SC Kriens,Schweiz Challenge League
+004,17.07.,18:30,AUT 2,Kapfenberger SV,0:6,Austria Lustenau,Österreich Zweite Liga
+005,17.07.,18:30,AUT 2,BW Linz,abgesagt,SKU Amstetten,Österreich Zweite Liga
+006,17.07.,18:30,AUT 2,Young Violets A.W.,8:2,FC Juniors OÖ,Österreich Zweite Liga
+007,17.07.,18:30,ENG CS,Huddersfield Town,2:1,West Bromwich,England Championship
+008,17.07.,18:45,ITA B,Delfino Pescara,1:1,Frosinone Calcio,Italien Serie B
+009,17.07.,19:00,DEN 1,FC Midtjylland,6:3,FC Nordsjaelland,Dänemark Superligaen
+010,17.07.,20:25,AUT 2,SK Vorwärts Steyr,1:2,SV Lafnitz,Österreich Zweite Liga
+011,17.07.,20:25,AUT 2,SV Ried,4:3,Wacker Innsbruck,Österreich Zweite Liga
+012,17.07.,20:25,AUT 2,SV Ried,4:4,Wacker Innsbruck+1,Österreich Zweite Liga
+013,17.07.,20:30,SUI 2,FC Lausanne-Sport,1:0,Grasshoppers,Schweiz Challenge League
+014,17.07.,21:00,ENG PL,West Ham United,3:1,FC Watford,England Premier League
+015,17.07.,21:00,ESP 2,Albacete Balompie,4:1,Real Saragossa,Spanien Segunda Division
+016,17.07.,21:00,ESP 2,FC Girona,2:1,Cadiz CF,Spanien Segunda Division
+017,17.07.,21:00,ESP 2,Malaga CF,2:0,Alcorcon AD,Spanien Segunda Division
+018,17.07.,21:00,ESP 2,Rayo Vallecano,2:2,Las Palmas UD,Spanien Segunda Division
+019,17.07.,21:00,ESP 2,SD Huesca,3:0,Numancia CD,Spanien Segunda Division
+020,17.07.,21:00,ESP 2,Ponferradina SD,2:1,UD Almeria,Spanien Segunda Division
+021,17.07.,21:00,ESP 2,Fuenlabrada,3:1,Elche CF,Spanien Segunda Division
+022,17.07.,21:00,ESP 2,Teneriffa CD,1:2,CD Lugo,Spanien Segunda Division
+023,17.07.,21:00,ESP 2,CD Mirandes,1:0,Dep. La Coruna,Spanien Segunda Division
+024,17.07.,21:00,ITA B,Perugia Calcio,0:0,US Cremonese,Italien Serie B
+025,17.07.,21:00,ITA B,AS Cittadella,1:2,Ascoli FC,Italien Serie B
+026,17.07.,21:00,ITA B,FC Empoli,2:4,Virtus Entella,Italien Serie B
+027,17.07.,21:00,ITA B,FC Crotone,1:1,Salernitana Calcio,Italien Serie B
+028,17.07.,21:00,ITA B,Spezia Calcio,0:1,SSC Venezia,Italien Serie B
+029,17.07.,21:00,ITA B,Juve Stabia,3:2,AC Chievo Verona,Italien Serie B
+030,17.07.,21:00,ITA B,SC Pisa,3:2,Trapani Calcio,Italien Serie B
+031,18.07.,13:30,ENG CS,Stoke City,1:0,FC Brentford,England Championship
+032,18.07.,13:30,ENG CS,Charlton Athletic,2:2,Wigan Athletic,England Championship
+033,18.07.,15:00,AUT 2,Austria Klagenfurt,2:0,Floridsdorfer AC,Österreich Zweite Liga
+034,18.07.,15:00,AUT 2,Austria Klagenfurt,2:1,Floridsdorfer AC+1,Österreich Zweite Liga
+035,18.07.,16:00,ENG CS,Blackburn Rovers,4:3,FC Reading,England Championship
+036,18.07.,16:00,ENG CS,FC Middlesbrough,1:3,Cardiff City,England Championship
+037,18.07.,16:00,ENG CS,Hull City,0:1,Luton Town,England Championship
+038,18.07.,16:00,ENG CS,FC Fulham,5:3,Sheffield Wednes.,England Championship
+039,18.07.,16:00,ENG CS,Queens Park R.,4:3,FC Millwall,England Championship
+040,18.07.,16:00,ENG CS,Swansea City,1:0,Bristol City,England Championship
+041,18.07.,16:00,ENG CS,Preston North End,2:0,Birmingham City,England Championship
+042,18.07.,16:00,FIN 1,HIFK Helsinki,0:3,FC Lahti,Finnland Veikkausliiga
+043,18.07.,17:15,ITA A,Hellas Verona,1:1,Atalanta Bergamo,Italien Serie A
+044,18.07.,17:15,ITA A,Hellas Verona+1,2:1,Atalanta Bergamo,Italien Serie A
+045,18.07.,17:30,POL 1,Gornik Zabrze,0:2,Zaglebie Lubin,Polen Orange Ekstraklasa
+046,18.07.,18:00,NOR 1,Mjöndalen,2:3,Bodö Glimt,Norwegen Tippeligaen
+047,18.07.,18:30,ENG PL,Norwich City,0:2,FC Burnley,England Premier League
+048,18.07.,19:30,ITA A,Cagliari Calcio,1:1,US Sassuolo,Italien Serie A
+049,18.07.,20:00,POR 1,Rio Ave FC,2:2,CD Santa Clara,Portugal Primeira Liga
+050,18.07.,20:00,TUR 1,Galatasaray,3:1,Göztepe,Türkei Süper Lig
+051,18.07.,20:00,ROU 1,FCS Bukarest,abgesagt,FC CFR 1907 Cluj,Rumänien Liga 1
+052,18.07.,20:25,AUT 2,FC Dornbirn,5:2,SV Horn,Österreich Zweite Liga
+053,18.07.,20:30,SUI SL,FC Zürich,0:5,Young Boys Bern,Schweiz Axpo Super League
+054,18.07.,20:30,NOR 1,FK Haugesund,0:2,Viking FK,Norwegen Tippeligaen
+055,18.07.,20:45,ENG FA,FC Arsenal*,2:0,Manchester City,England FA Cup
+056,18.07.,20:45,ENG FA,FC Arsenal+1,3:0,Manchester City,England FA Cup
+057,18.07.,20:45,ENG FA,FC Arsenal+2,4:0,Manchester City,England FA Cup
+058,18.07.,21:45,ITA A,AC Milan,5:1,Bologna FC,Italien Serie A
+059,18.07.,21:45,ITA A,AC Milan,5:2,Bologna FC+1,Italien Serie A
+060,18.07.,22:15,POR 1,FC Famalicao,2:2,Boavista FC,Portugal Primeira Liga
+061,19.07.,10:30,AUT 2,FC Liefering,5:2,Grazer AK,Österreich Zweite Liga
+062,19.07.,15:00,ENG PL,AFC Bournemouth,0:2,FC Southampton,England Premier League
+063,19.07.,15:00,ENG CS,Derby County,1:3,Leeds United,England Championship
+064,19.07.,16:00,ENG CS,FC Barnsley,1:0,Nottingham Forest,England Championship
+065,19.07.,16:00,SUI SL,FC Servette Genf,2:2,FC Basel,Schweiz Axpo Super League
+066,19.07.,16:00,SUI SL,FC Thun,2:1,FC St. Gallen,Schweiz Axpo Super League
+067,19.07.,17:00,ENG PL,Tottenham,3:0,Leicester City,England Premier League
+091,19.07.,17:00,ESP 1,CD Alaves,0:5,FC Barcelona,Spanien Primera Division
+068,19.07.,17:15,ITA A,FC Parma,2:3,Sampdoria Genua,Italien Serie A
+069,19.07.,17:30,RUS CUP,Zenit St.Petersb.,2:1,FC Spartak Moskau,Russland Russian Cup
+070,19.07.,18:00,NOR 1,Rosenborg BK,2:1,Sandefjord Fotball,Norwegen Tippeligaen
+071,19.07.,18:00,NOR 1,Strömsgodset,0:4,Molde FK,Norwegen Tippeligaen
+072,19.07.,18:00,NOR 1,Kristiansund BK,0:0,Valerenga IF,Norwegen Tippeligaen
+073,19.07.,18:30,ESP 1,Real Valladolid,2:0,Betis Sevilla,Spanien Primera Division
+092,19.07.,18:30,ESP 1,Villarreal CF,4:0,SD Eibar,Spanien Primera Division
+074,19.07.,19:00,ENG FA,Manchester United*,1:3,FC Chelsea,England FA Cup
+075,19.07.,19:00,ENG FA,Manchester United,1:4,FC Chelsea+1,England FA Cup
+076,19.07.,19:00,ENG FA,Manchester Utd.+1,2:3,FC Chelsea,England FA Cup
+077,19.07.,19:00,GRE 1,Olympiakos Piräus,3:0,AEK Athen,Griechenland Super League
+078,19.07.,19:30,ITA A,AC Fiorentina,2:0,FC Torino,Italien Serie A
+079,19.07.,19:30,ITA A,FC Genua,2:1,US Lecce,Italien Serie A
+080,19.07.,19:30,ITA A,Brescia Calcio,2:1,Spal Ferrara,Italien Serie A
+081,19.07.,19:30,ITA A,SSC Napoli,2:1,Udinese Calcio,Italien Serie A
+082,19.07.,20:00,POR 1,Belenenses L.,1:0,Gil Vicente FC,Portugal Primeira Liga
+083,19.07.,20:00,TUR 1,Trabzonspor,3:4,Konyaspor,Türkei Süper Lig
+084,19.07.,20:00,TUR 1,Istanbul Basakseh.,1:0,Kayserispor,Türkei Süper Lig
+085,19.07.,20:00,TUR 1,Besiktas Istanbul,2:0,Fenerbahce,Türkei Süper Lig
+086,19.07.,20:30,NOR 1,SK Brann,1:1,IK Start,Norwegen Tippeligaen
+087,19.07.,21:00,ESP 1,CD Leganes,2:2,Real Madrid,Spanien Primera Division
+088,19.07.,21:00,ESP 1,FC Sevilla,1:0,FC Valencia,Spanien Primera Division
+089,19.07.,21:00,ESP 1,Espanyol Barcelona,0:0,Celta de Vigo,Spanien Primera Division
+090,19.07.,21:00,ESP 1,Levante UD*,1:0,Getafe CF,Spanien Primera Division
+093,19.07.,21:00,ESP 1,Granada CF,4:0,Athletic Bilbao,Spanien Primera Division
+094,19.07.,21:00,ESP 1,CA Osasuna,2:2,RCD Mallorca,Spanien Primera Division
+095,19.07.,21:00,ESP 1,Atletico Madrid,1:1,Real Sociedad,Spanien Primera Division
+096,19.07.,21:45,ITA A,AS Roma,2:2,Inter Mailand,Italien Serie A
+097,19.07.,22:15,POR 1,Vitoria Guimaraes,1:0,Maritimo Funchal,Portugal Primeira Liga
+098,20.07.,18:00,POR 1,FC Pacos Ferreira,2:1,Portimonense SC,Portugal Primeira Liga
+099,20.07.,18:00,NOR 2,Oeygarden FK,4:4,Raufoss IL,Norwegen Adeccoligaen
+100,20.07.,18:00,NOR 2,Sogndal IL,0:2,Sandnes ULF,Norwegen Adeccoligaen
+101,20.07.,18:00,NOR 2,Ullensaker/Kisa,1:1,Kfum Oslo,Norwegen Adeccoligaen
+102,20.07.,18:00,NOR 2,Lilleström SK,0:1,Stjordals-Blink,Norwegen Adeccoligaen
+103,20.07.,18:00,NOR 2,FK Jerv,3:2,Ham-Kam,Norwegen Adeccoligaen
+104,20.07.,18:00,NOR 2,Strömmen IF,0:3,Aasane Fotball,Norwegen Adeccoligaen
+105,20.07.,18:00,NOR 2,Kongsvinger IL,0:1,Grorud IL,Norwegen Adeccoligaen
+106,20.07.,19:00,ENG PL,Sheffield United,0:1,FC Everton,England Premier League
+107,20.07.,19:00,ENG PL,Sheffield United,0:2,FC Everton+1,England Premier League
+108,20.07.,19:00,ENG PL,Brighton & Hove,0:0,Newcastle United,England Premier League
+109,20.07.,19:00,ROU 1,CSMS Iasi,1:1,Viitorul Constanta,Rumänien Liga 1
+110,20.07.,19:00,DEN 1,Lyngby BK,2:2,Hobro IK,Dänemark Superligaen
+111,20.07.,19:00,SWE 1,Örebro SK,3:1,Mjällby AIF,Schweden Allsvenskan
+112,20.07.,19:00,SWE 1,Hammarby IF,1:1,IFK Göteborg,Schweden Allsvenskan
+113,20.07.,19:00,SWE 2,Akropolis IF,2:0,Vasteraas SK,Schweden Superettan
+114,20.07.,20:15,POR 1,CD Tondela,1:0,Sporting Braga,Portugal Primeira Liga
+115,20.07.,21:00,ESP 2,Elche CF,2:1,Real Oviedo,Spanien Segunda Division
+116,20.07.,21:00,ESP 2,Real Saragossa,2:1,Ponferradina SD,Spanien Segunda Division
+117,20.07.,21:15,ENG PL,Wolverhampton,2:0,Crystal Palace,England Premier League
+118,20.07.,21:45,ITA A,Juventus Turin,2:1,Lazio Rom,Italien Serie A
+119,20.07.,21:45,ITA A,Juventus Turin,2:2,Lazio Rom+1,Italien Serie A
+120,20.07.,22:15,POR 1,FC Porto,6:1,Moreirense FC,Portugal Primeira Liga

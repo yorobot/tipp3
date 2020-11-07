@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,07.07.,17:30,TUR 1,Genclerbirligi,1:1,Fenerbahce,Türkei Süper Lig
+002,07.07.,17:30,FIN 1,Kuopio PS,1:0,FC Inter Turku,Finnland Veikkausliiga
+003,07.07.,17:30,FIN 1,Turun Palloseura,0:1,Tampereen Ilves,Finnland Veikkausliiga
+004,07.07.,18:00,ENG CS,Nottingham Forest,0:1,FC Fulham,England Championship
+005,07.07.,18:15,GER 2,1. FC Nürnberg,2:0,FC Ingolstadt,Deutschland 2. Bundesliga
+006,07.07.,18:15,GER 2,1. FC Nürnberg,2:1,FC Ingolstadt+1,Deutschland 2. Bundesliga
+007,07.07.,18:15,SUI 2,FC Winterthur,1:4,FC Vaduz,Schweiz Challenge League
+008,07.07.,18:15,SUI 2,FC Lausanne-Sport,2:1,FC Chiasso,Schweiz Challenge League
+009,07.07.,18:30,AUT 2,Kapfenberger SV,abgesagt,Wacker Innsbruck,Österreich Zweite Liga
+010,07.07.,19:00,ENG PL,Crystal Palace,2:3,FC Chelsea,England Premier League
+011,07.07.,19:00,ENG PL,FC Watford,2:1,Norwich City,England Premier League
+012,07.07.,19:00,ENG CS,Luton Town,1:1,FC Barnsley,England Championship
+013,07.07.,19:00,ENG CS,FC Brentford,2:1,Charlton Athletic,England Championship
+014,07.07.,19:00,ENG CS,FC Reading,0:0,Huddersfield Town,England Championship
+015,07.07.,19:30,ESP 1,FC Valencia,2:1,Real Valladolid,Spanien Primera Division
+017,07.07.,19:30,ESP 2,CD Mirandes,1:0,Elche CF,Spanien Segunda Division
+018,07.07.,19:30,ITA A,US Lecce,2:1,Lazio Rom,Italien Serie A
+019,07.07.,20:00,TUR 1,Istanbul Basakseh.,2:0,Denizlispor,Türkei Süper Lig
+020,07.07.,20:00,ISR 1,Hapoel Tel Aviv,0:3,Hapoel Haifa,Israel Winner League
+021,07.07.,20:00,ISR 1,Hap. Beer Sheva,2:0,Maccabi Tel Aviv,Israel Winner League
+022,07.07.,20:00,CZE 1,Bohem.Prag 1905,2:1,FK Mlada Boleslav,Tschechien Gambrinus Liga
+023,07.07.,20:00,POL CUP,Cracovia Krakau,3:0,Legia Warschau,Polen Cup
+016,07.07.,20:30,ESP 2,Fuenlabrada,1:0,Racing Santander,Spanien Segunda Division
+024,07.07.,20:30,SUI SL,Xamax Neuchatel,1:1,FC Zürich,Schweiz Axpo Super League
+025,07.07.,20:30,SUI 2,Grasshoppers,4:0,FC Stade Ls Ouchy,Schweiz Challenge League
+026,07.07.,20:45,ENG CS,Cardiff City,2:3,Blackburn Rovers,England Championship
+027,07.07.,21:15,ENG PL,FC Arsenal,1:1,Leicester City,England Premier League
+028,07.07.,21:45,ITA A,AC Milan,4:2,Juventus Turin,Italien Serie A
+029,07.07.,21:45,ESP 2,UD Extremadura,0:1,Cadiz CF,Spanien Segunda Division
+030,07.07.,22:00,ESP 1,Celta de Vigo,1:1,Atletico Madrid,Spanien Primera Division
+031,08.07.,16:00,ENG CS,FC Millwall,0:2,FC Middlesbrough,England Championship
+032,08.07.,17:00,RUS PL,Zenit St.Petersb.,2:1,FK Sochi,Russland Premier League
+033,08.07.,17:00,CZE 2,FK Fotbal Trinec,0:1,Pardubice,Tschechien 1. Division
+034,08.07.,17:30,TUR 1,Sivasspor,0:1,Yeni Malatyaspor,Türkei Süper Lig
+035,08.07.,17:30,TUR 1,Trabzonspor,2:2,Antalyaspor,Türkei Süper Lig
+036,08.07.,17:30,FIN 1,IFK Mariehamn,0:0,FC Honka,Finnland Veikkausliiga
+037,08.07.,17:30,FIN 1,FC Lahti,0:0,Seinajoen JK,Finnland Veikkausliiga
+038,08.07.,17:30,FIN 1,Rovaniemi PS,0:1,HIFK Helsinki,Finnland Veikkausliiga
+039,08.07.,17:30,FIN 1,HJK Helsinki,3:1,Haka Valkeakoski,Finnland Veikkausliiga
+040,08.07.,18:00,ENG CS,West Bromwich,2:0,Derby County,England Championship
+041,08.07.,18:00,DEN 1,AC Horsens,3:2,Hobro IK,Dänemark Superligaen
+042,08.07.,18:00,DEN 1,Randers FC,3:1,Esbjerg FB,Dänemark Superligaen
+043,08.07.,18:00,CZE 1,FK Baumit Jablonec,1:1,FC Banik Ostrava,Tschechien Gambrinus Liga
+044,08.07.,18:00,CZE 1,Viktoria Pilsen,4:0,FC Slovan Liberec,Tschechien Gambrinus Liga
+045,08.07.,18:00,CZE 1,SK Slavia Prag,0:0,Sparta Prag,Tschechien Gambrinus Liga
+046,08.07.,18:00,SVK CUP,Slovan Bratislava,1:0,MFK Ruzomberok,Slowakei Cup
+047,08.07.,18:15,GRE 1,Aris Thessaloniki,2:4,Olympiakos Piräus,Griechenland Super League
+048,08.07.,18:15,SUI SL,Young Boys Bern,4:0,FC Thun,Schweiz Axpo Super League
+049,08.07.,18:15,SUI 2,SC Kriens,4:1,FC Aarau,Schweiz Challenge League
+050,08.07.,19:00,ENG PL,Manchester City,5:0,Newcastle United,England Premier League
+051,08.07.,19:00,ENG PL,West Ham United,0:1,FC Burnley,England Premier League
+052,08.07.,19:00,ENG PL,Sheffield United,1:0,Wolverhampton,England Premier League
+053,08.07.,19:00,ENG CS,Birmingham City,1:3,Swansea City,England Championship
+054,08.07.,19:00,ENG CS,Bristol City,2:1,Hull City,England Championship
+055,08.07.,19:00,ENG CS,Wigan Athletic,1:0,Queens Park R.,England Championship
+056,08.07.,19:00,ROU CUP,FCS Bukarest,1:0,Dinamo Bukarest,Rumänien Cup
+057,08.07.,19:00,SWE 2,GAIS Göteborg,2:1,Dalkurd FF,Schweden Superettan
+058,08.07.,19:00,SWE 2,GIF Sundsvall,3:1,Vasteraas SK,Schweden Superettan
+059,08.07.,19:00,SWE 2,Halmstads BK,3:0,Norrby IF,Schweden Superettan
+060,08.07.,19:00,SWE 2,Ljungskile SK,1:3,IK Brage,Schweden Superettan
+061,08.07.,19:00,SWE 2,Östers IF,2:0,Örgryte Göteborg,Schweden Superettan
+064,08.07.,19:30,ESP 2,Real Oviedo,2:1,Las Palmas UD,Spanien Segunda Division
+065,08.07.,19:30,ESP 2,Malaga CF,1:0,Dep. La Coruna,Spanien Segunda Division
+066,08.07.,19:30,ITA A,AC Fiorentina,0:0,Cagliari Calcio,Italien Serie A
+067,08.07.,19:30,ITA A,FC Genua,1:2,SSC Napoli,Italien Serie A
+068,08.07.,19:30,RUS PL,FC Spartak Moskau,1:1,Lok Moskau,Russland Premier League
+069,08.07.,20:00,POR 1,Boavista FC,0:1,Maritimo Funchal,Portugal Primeira Liga
+070,08.07.,20:00,TUR 1,Alanyaspor,4:1,Galatasaray,Türkei Süper Lig
+071,08.07.,20:00,TUR 1,Göztepe,2:2,MKE Ankaragücü,Türkei Süper Lig
+072,08.07.,20:00,GRE 1,PAOK Thessaloniki,0:0,Panathinaikos,Griechenland Super League
+073,08.07.,20:00,DEN 1,Lyngby BK,1:1,SönderjyskE,Dänemark Superligaen
+074,08.07.,20:00,DEN 1,Odense BK,1:3,Silkeborg IF,Dänemark Superligaen
+075,08.07.,20:00,POL CUP,Lech Posen,1:1,KS Lechia Gdansk,Polen Cup
+062,08.07.,20:30,ESP 1,Betis Sevilla,3:0,CA Osasuna,Spanien Primera Division
+063,08.07.,20:30,ESP 1,Getafe CF,1:3,Villarreal CF,Spanien Primera Division
+076,08.07.,20:30,AUT BL,FK Austria Wien,1:0,SCR Altach,Österreich Bundesliga
+077,08.07.,20:30,AUT BL,FK Austria Wien,1:1,SCR Altach+1,Österreich Bundesliga
+078,08.07.,20:30,GRE 1,AEK Athen,2:0,OFI Kreta,Griechenland Super League
+079,08.07.,20:30,SUI SL,FC Servette Genf,2:0,FC Luzern,Schweiz Axpo Super League
+080,08.07.,20:30,SUI SL,FC Sion,1:0,FC Basel,Schweiz Axpo Super League
+081,08.07.,20:30,UKR CUP,Dynamo Kiev*,1:1,Vorskla Poltawa,Ukraine Cup
+082,08.07.,20:45,ENG CS,Sheffield Wednes.,1:3,Preston North End,England Championship
+083,08.07.,21:15,ENG PL,Brighton & Hove,1:3,FC Liverpool,England Premier League
+084,08.07.,21:45,ITA A,Atalanta Bergamo,2:0,Sampdoria Genua,Italien Serie A
+085,08.07.,21:45,ITA A,FC Torino,3:1,Brescia Calcio,Italien Serie A
+086,08.07.,21:45,ITA A,Bologna FC,1:2,US Sassuolo,Italien Serie A
+087,08.07.,21:45,ITA A,AS Roma,2:1,FC Parma,Italien Serie A
+088,08.07.,21:45,ESP 2,SD Huesca,2:1,Alcorcon AD,Spanien Segunda Division
+089,08.07.,21:45,ESP 2,Ponferradina SD,0:1,CD Lugo,Spanien Segunda Division
+090,08.07.,22:00,ESP 1,FC Barcelona,1:0,Espanyol Barcelona,Spanien Primera Division
+091,08.07.,22:15,POR 1,CD Aves,1:0,Vitoria Setubal,Portugal Primeira Liga
+092,09.07.,16:00,RUS PL,Ural Jekaterinburg,2:1,Dinamo Moskau,Russland Premier League
+093,09.07.,17:30,TUR 1,Caykur Rizespor,3:2,Kayserispor,Türkei Süper Lig
+094,09.07.,17:45,SWE CUP,IF Elfsborg,0:0,IFK Göteborg,Schweden Cup
+095,09.07.,18:00,ENG CS,Leeds United,5:0,Stoke City,England Championship
+096,09.07.,18:00,POR 1,Rio Ave FC,2:1,Portimonense SC,Portugal Primeira Liga
+097,09.07.,18:00,DEN 1,Bröndby IF,4:0,FC Nordsjaelland,Dänemark Superligaen
+098,09.07.,18:00,DEN 1,Aalborg BK,1:0,AGF Aarhus,Dänemark Superligaen
+099,09.07.,19:00,ENG PL,FC Everton,1:1,FC Southampton,England Premier League
+100,09.07.,19:00,ENG PL,FC Everton,1:2,FC Southampton+1,England Premier League
+101,09.07.,19:00,ENG PL,AFC Bournemouth,0:0,Tottenham,England Premier League
+102,09.07.,19:00,ROU CUP,CSMS Iasi,0:3,Sepsi Sf.Gheorghe,Rumänien Cup
+103,09.07.,19:30,ESP 1,SD Eibar,0:0,CD Leganes,Spanien Primera Division
+104,09.07.,19:30,ESP 1,RCD Mallorca,2:0,Levante UD,Spanien Primera Division
+105,09.07.,19:30,ESP 2,Albacete Balompie,1:1,Sporting Gijon,Spanien Segunda Division
+107,09.07.,19:30,ITA A,Spal Ferrara,0:3,Udinese Calcio,Italien Serie A
+108,09.07.,19:30,RUS PL,FC Rubin Kazan,1:0,FC Krasnodar,Russland Premier League
+109,09.07.,20:00,TUR 1,Gazis. Gaziantep,3:1,Konyaspor,Türkei Süper Lig
+110,09.07.,20:00,TUR 1,Besiktas Istanbul,3:2,Kasimpasa,Türkei Süper Lig
+111,09.07.,20:00,DEN 1,FC Midtjylland,3:1,FC Kopenhagen,Dänemark Superligaen
+112,09.07.,20:15,POR 1,CD Tondela,1:3,FC Porto,Portugal Primeira Liga
+113,09.07.,20:15,SWE CUP,Mjällby AIF,0:0,Malmö FF,Schweden Cup
+106,09.07.,20:30,ESP 2,Rayo Vallecano,3:2,Numancia CD,Spanien Segunda Division
+114,09.07.,20:30,SUI SL,FC Lugano,3:3,FC St. Gallen,Schweiz Axpo Super League
+115,09.07.,21:15,ENG PL,Aston Villa,0:3,Manchester United,England Premier League
+116,09.07.,21:45,ITA A,Hellas Verona,2:2,Inter Mailand,Italien Serie A
+117,09.07.,21:45,ESP 2,Teneriffa CD,1:1,Real Saragossa,Spanien Segunda Division
+118,09.07.,21:45,ESP 2,FC Girona,1:0,UD Almeria,Spanien Segunda Division
+119,09.07.,22:00,ESP 1,Athletic Bilbao,1:2,FC Sevilla,Spanien Primera Division
+120,09.07.,22:30,POR 1,FC Famalicao,1:1,Benfica Lissabon,Portugal Primeira Liga

@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,25.08.,16:00,FS,RB Salzburg AUT,2:2,FC Liverpool ENG,Freundschaftsspiele International (Klub)
+002,25.08.,17:30,RUS PL,FK Tambow,0:1,FK Sochi,Russland Premier League
+003,25.08.,18:00,EL,FK Riteriai LTU,2:2,FC Derry City IRL,UEFA Europa League
+004,25.08.,18:00,PER 1,Dep. Binacional,2:3,Academia Cantolao,Peru Primera Division
+005,25.08.,19:00,AUT RLO,Bruck/Leitha,3:0,Wiener Viktoria,Österreich Regionalliga Ost
+006,25.08.,19:00,SVK 1,Z. Michalovce,1:0,Zlate Moravce,Slowakei Corgon Liga
+007,25.08.,19:15,ISL CUP,IBV Vestmannaeyjar,2:1,Fram Reykjavik,Island Cup
+008,25.08.,19:30,AUT RLO,FCM Traiskirchen,0:2,Marchfeld Donauaue,Österreich Regionalliga Ost
+009,25.08.,19:30,AUT RLM,SV Ried II,2:4,Sturm Graz Amat.,Österreich Regionalliga Mitte
+010,25.08.,19:30,RUS PL,Arsenal Tula,1:1,FK Khimki,Russland Premier League
+011,25.08.,20:00,CL Q,PAOK Thessal. GRE,3:1,Besiktas Ist. TUR,"UEFA Champions League, Qualifikation"
+012,25.08.,20:00,CL Q,PAOK Thessaloniki,3:2,Besiktas Ist.+1,"UEFA Champions League, Qualifikation"
+013,25.08.,20:00,CL Q,PAOK Thessalon.+1,4:1,Besiktas Istanbul,"UEFA Champions League, Qualifikation"
+014,25.08.,20:00,CL Q,KF Tirana ALB,0:1,Roter Stern B. SRB,"UEFA Champions League, Qualifikation"
+015,25.08.,20:00,CL DAM,Wolfsburg Dam GER*,1:0,Barcelona D ESP,UEFA Champions League Damen
+016,25.08.,20:00,UKR SC,Shakhtar Donetsk,1:3,FC Dynamo Kiev,Ukraine Supercup
+017,25.08.,20:15,SUI CUP,FC Basel,6:1,FC Winterthur,Schweiz Cup
+018,25.08.,21:15,ISL 1,Fylkir Reykjavik,2:0,Fjölnir,Island Urvalsdeild
+019,25.08.,21:15,PER 1,Sporting Cristal,1:1,Alianza Lima,Peru Primera Division
+020,25.08.,22:30,PAR 1,Guarani Asuncion,1:0,Nacional Asuncion,Paraguay Primera Division
+021,26.08.,01:00,NHL,Tampa Bay Lightn.*,3:3,Boston Bruins,USA NHL
+022,26.08.,01:00,PER 1,Dep. Municipal,0:1,Club Cienciano,Peru Primera Division
+023,26.08.,01:00,USA MLS,DC United,1:2,New England Rev.,USA Major League Soccer
+024,26.08.,01:30,USA MLS,Philadelphia Union,1:0,NY Red Bulls,USA Major League Soccer
+025,26.08.,01:30,USA MLS,Chicago Fire,3:0,FC Cincinnati,USA Major League Soccer
+026,26.08.,02:00,USA MLS,Montreal Impact,2:0,Vancouver W'caps,USA Major League Soccer
+027,26.08.,02:30,USA MLS,Sp. Kansas City,2:5,Houston Dynamo,USA Major League Soccer
+028,26.08.,03:45,NHL,Vegas G.Knights*,2:5,Vancouver Can.,USA NHL
+029,26.08.,09:00,AUS 1,Melbourne City FC*,2:0,Western United FC,Australien Hyundai A-League
+030,26.08.,12:00,CHN SL,SIPG Shanghai,3:0,Chongqing Lifan,China Chinese Super League
+031,26.08.,12:10,AUS 1,Sydney FC*,2:0,Perth Glory,Australien Hyundai A-League
+032,26.08.,16:30,CL Q,AZ Alkmaar NED,1:1,Vikt. Pilsen CZE,"UEFA Champions League, Qualifikation"
+033,26.08.,16:30,CL Q,AZ Alkmaar,1:2,Viktoria Pilsen+1,"UEFA Champions League, Qualifikation"
+034,26.08.,17:30,RUS PL,Lok Moskau,2:3,FK Achmat Grozny,Russland Premier League
+035,26.08.,17:30,RUS PL,FC Rotor Wolgograd,0:1,FC Spartak Moskau,Russland Premier League
+036,26.08.,17:30,RUS PL,FC Rubin Kazan,3:0,FC Ufa,Russland Premier League
+037,26.08.,17:30,FIN 1,HJK Helsinki,2:0,Seinajoen JK,Finnland Veikkausliiga
+038,26.08.,17:30,FIN 1,IFK Mariehamn,4:0,Rovaniemi PS,Finnland Veikkausliiga
+039,26.08.,17:30,FIN 1,Haka Valkeakoski,2:2,FC Lahti,Finnland Veikkausliiga
+040,26.08.,17:30,FIN 1,Turun Palloseura,1:0,HIFK Helsinki,Finnland Veikkausliiga
+041,26.08.,18:00,CL Q,NK Celje SLO,1:2,Molde FK NOR,"UEFA Champions League, Qualifikation"
+042,26.08.,18:00,CL Q,Qarabag FK AZE,2:1,FC Sheriff T. MDA,"UEFA Champions League, Qualifikation"
+043,26.08.,18:00,CL Q,Suduva Marija. LTU,0:3,Macc. Tel Aviv ISR,"UEFA Champions League, Qualifikation"
+044,26.08.,19:00,CL Q,Lok. Zagreb CRO,0:1,SK Rapid Wien AUT,"UEFA Champions League, Qualifikation"
+045,26.08.,19:00,CL Q,Lok Zagreb,0:2,SK Rapid Wien+1,"UEFA Champions League, Qualifikation"
+046,26.08.,19:00,CL Q,Lok. Zagreb+1,1:1,SK Rapid Wien,"UEFA Champions League, Qualifikation"
+047,26.08.,19:00,ISL 1,KR Reykjavik,4:5,Valur Reykjavik,Island Urvalsdeild
+048,26.08.,19:30,CL Q,Ludog. Razgrad BUL,0:1,FC Midtjylland DEN,"UEFA Champions League, Qualifikation"
+049,26.08.,19:30,RUS PL,FC Krasnodar,1:1,ZSKA Moskau,Russland Premier League
+050,26.08.,19:30,RUS PL,FC Rostov,1:0,Ural Jekaterinburg,Russland Premier League
+051,26.08.,19:45,RUS PL,Dinamo Moskau,1:0,Zenit St.Petersb.,Russland Premier League
+052,26.08.,20:00,CL Q,FC CFR Cluj ROU,2:2,Dinamo Zagreb CRO,"UEFA Champions League, Qualifikation"
+053,26.08.,20:00,CL Q,Legia Warschau POL,0:0,Omonia Nikosia CYP,"UEFA Champions League, Qualifikation"
+054,26.08.,20:00,CL Q,Dinamo Brest BLR,2:1,FK Sarajevo BIH,"UEFA Champions League, Qualifikation"
+055,26.08.,20:00,CL DAM,Paris SG D FRA*,0:1,Ol.Lyon D FRA,UEFA Champions League Damen
+056,26.08.,20:00,ISL 1,Stjarnan Gardab.,1:1,KA Akureyri,Island Urvalsdeild
+057,26.08.,20:15,PER 1,UTC de Cajamarca,1:3,Cesar Vallejo,Peru Primera Division
+058,26.08.,20:45,CL Q,Celtic Glasgow SCO,1:2,Ferencvaros HUN,"UEFA Champions League, Qualifikation"
+059,26.08.,20:45,CL Q,Celtic Glasgow,1:3,Ferencvaros+1,"UEFA Champions League, Qualifikation"
+060,26.08.,21:00,NHL,Philadelphia Fl.*,3:3,NY Islanders,USA NHL
+061,26.08.,21:15,ISL 1,HK Kopavogs,3:0,Grotta,Island Urvalsdeild
+062,26.08.,22:30,PER 1,Ayacucho FC,1:1,Sport Huancayo,Peru Primera Division
+063,27.08.,01:00,PER 1,Real Garcilaso,2:0,Sport Boys Assoc.,Peru Primera Division
+064,27.08.,01:30,USA MLS,Orlando City SC,3:1,Nashville SC,USA Major League Soccer
+065,27.08.,02:00,USA MLS,Inter Miami CF,abgesagt,Atlanta United FC,USA Major League Soccer
+066,27.08.,02:00,NHL,Boston Bruins*,1:7,Tampa Bay Lightn.,USA NHL
+067,27.08.,02:30,BRA 1,Corinthians SP,1:1,Fortaleza EC CE,Brasilien Brasilero Serie A
+068,27.08.,02:30,USA MLS,FC Dallas,abgesagt,Colorado Rapids,USA Major League Soccer
+069,27.08.,03:30,USA MLS,Real Salt Lake,abgesagt,Los Angeles FC,USA Major League Soccer
+070,27.08.,04:30,USA MLS,SJ Earthquakes,abgesagt,Portland Timbers,USA Major League Soccer
+072,27.08.,04:30,NHL,Dallas Stars*,4:6,Colorado Avalan.,USA NHL
+071,27.08.,05:00,USA MLS,LA Galaxy,abgesagt,Seattle Sounders,USA Major League Soccer
+073,27.08.,16:00,EL,Ordabassy Sch. KAZ,1:2,FC Botosani ROU,UEFA Europa League
+074,27.08.,16:00,EL,Kairat Almaty KAZ,4:1,FC Noah ARM,UEFA Europa League
+075,27.08.,16:30,EL,JK Nomme Kalju EST,abgesagt,NS Mura SLO,UEFA Europa League
+076,27.08.,16:30,EL,Teuta Durres ALB,2:0,Beitar Jerus. ISR,UEFA Europa League
+077,27.08.,16:30,EL,Borac Banja L. BIH,1:0,Sutj. Niksic MNE,UEFA Europa League
+078,27.08.,17:00,EL,Dinamo Minsk BLR,0:2,Piast Gliwice POL,UEFA Europa League
+079,27.08.,18:00,EL,Neftchi Baku AZE,2:1,Shkupi Skopje MKD,UEFA Europa League
+080,27.08.,18:00,EL,Alashkert ARM,0:1,FK Renova MKD,UEFA Europa League
+081,27.08.,18:00,EL,Apollon L. CYP,5:1,Sab.Tiflis GEO,UEFA Europa League
+082,27.08.,18:00,EL,Bodö Glimt NOR,6:1,Zalg. Kaunas LTU,UEFA Europa League
+083,27.08.,18:00,EL,Sumgayit FK AZE,0:2,Shk.Tetovo MKD,UEFA Europa League
+085,27.08.,18:00,PER 1,Universitario Dep.,2:0,Univ. San Martin,Peru Primera Division
+086,27.08.,18:30,EL,Fehervar FC HUN,1:1,Boh. Dublin IRL,UEFA Europa League
+087,27.08.,18:30,EL,Ol. Ljubljana SLO,1:1,Vikingur Reykj ISL,UEFA Europa League
+084,27.08.,19:00,EL,SC Gjilani KOS,0:0,APOEL Nikosia CYP,UEFA Europa League
+088,27.08.,19:00,EL,Zalg. Vilnius LTU,2:0,Paide Linnam. EST,UEFA Europa League
+089,27.08.,19:00,EL,AGF Aarhus DEN,5:2,FC Honka FIN,UEFA Europa League
+090,27.08.,19:00,EL,Rosenborg BK NOR,4:2,Breidablik ISL,UEFA Europa League
+091,27.08.,19:00,EL,FC Lokomotivi GEO,2:1,CS Uni Craiova ROU,UEFA Europa League
+092,27.08.,19:00,EL,Hammarby IF SWE,3:0,Puskas Akademi HUN,UEFA Europa League
+093,27.08.,19:00,EL,FC Vaduz LIE,0:2,Hibernians FC MLT,UEFA Europa League
+094,27.08.,19:00,EL,FK Keshla AZE,0:0,KF Laci ALB,UEFA Europa League
+095,27.08.,19:00,EL,Malmö FF SWE,2:0,Cracovia Krak. POL,UEFA Europa League
+096,27.08.,19:00,EL,Malmö FF,2:1,Cracovia Krakau+1,UEFA Europa League
+097,27.08.,19:00,EL,Maccabi Haifa ISR,abgesagt,FK Zeljeznicar BIH,UEFA Europa League
+098,27.08.,19:15,EL,Hafnarfjördur ISL,0:2,Dunajska Str. SVK,UEFA Europa League
+099,27.08.,19:30,EL,The New Saints WAL,1:1,MSK Zilina SVK,UEFA Europa League
+100,27.08.,19:30,EL,Sh. Soligorsk BLR,0:0,FC Sfintul Ghe MDA,UEFA Europa League
+101,27.08.,19:45,EL,H. Beer Sheva ISR,3:0,Dinamo Batumi GEO,UEFA Europa League
+102,27.08.,20:00,EL,Zrinjs. Mostar BIH,3:0,Differdange FC LUX,UEFA Europa League
+103,27.08.,20:00,EL,FC Petrocub MDA,0:2,FK Topola SRB,UEFA Europa League
+104,27.08.,20:00,EL,Valletta FC MLT,0:1,Bala Town WAL,UEFA Europa League
+105,27.08.,20:00,EL,KS Kukesi ALB,2:1,PFC Slavia Sof BUL,UEFA Europa League
+106,27.08.,20:00,EL,B36 Torshavn FRO,2:2,Levadia Tall. EST,UEFA Europa League
+107,27.08.,20:00,EL,FK Iskra Danil MNE,0:1,Lok. Plovdiv BUL,UEFA Europa League
+108,27.08.,20:15,EL,Servette Genf SUI,3:0,MFK Ruzomberok SVK,UEFA Europa League
+109,27.08.,20:15,EL,FC Servette Genf,3:1,MFK Ruzomberok+1,UEFA Europa League
+110,27.08.,20:15,PER 1,Atletico Grau,1:1,Ali.Univ. Huanuco,Peru Primera Division
+111,27.08.,20:30,EL,FCS Bukarest ROU,3:0,Shirak Gyumri ARM,UEFA Europa League
+112,27.08.,20:45,EL,FC Motherwell SCO,5:1,Glentoran NIR,UEFA Europa League
+113,27.08.,20:45,EL,FC Aberdeen SCO,6:0,NSI Runavik FRO,UEFA Europa League
+114,27.08.,20:45,EL,NK Maribor SLO,1:1,FC Coleraine NIR,UEFA Europa League
+115,27.08.,21:00,EL,Shamrock IRL,2:2,Tampereen Ilve FIN,UEFA Europa League
+116,27.08.,21:00,EL,Honved Budap. HUN,1:1,FC Inter Turku FIN,UEFA Europa League
+117,27.08.,21:00,EL,FK Partizan SRB,1:0,Rigas Fb.Sk LAT,UEFA Europa League
+118,27.08.,22:30,PER 1,FBC Melgar,0:2,FC Carlos Stein,Peru Primera Division
+119,30.08.,01:00,NHL,NY Islanders*,3:1,Philadelphia Fl.,USA NHL
+120,30.08.,03:45,NHL,Vancouver Can.*,0:3,Vegas Gold.Knights,USA NHL

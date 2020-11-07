@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,11.08.,11:30,AUS 1,Melbourne City FC*,2:2,Adelaide United FC,Australien Hyundai A-League
+002,11.08.,12:00,CHN SL,Shijiazhuang Ever,3:0,FC Tianjin Taida,China Chinese Super League
+003,11.08.,14:00,CHN SL,Chongqing Lifan,0:0,Qingdao Huanghai,China Chinese Super League
+004,11.08.,17:00,RUS PL,FC Rotor Wolgograd,0:2,Zenit St.Petersb.,Russland Premier League
+005,11.08.,17:00,BOS 1,FK Zeljeznicar Sar,2:1,Borac Banja Luka,Bosnien Premier Liga
+006,11.08.,17:00,LAT 1,BFC Daugavpils,0:1,FC Riga,Lettland LMT Virsliga
+007,11.08.,17:00,LAT 1,FS Metta,2:0,FK Tukums 2000,Lettland LMT Virsliga
+008,11.08.,18:00,CL Q,KF Drita KOS*,abgesagt,FC Linfield NIR,"UEFA Champions League, Qualifikation"
+009,11.08.,18:00,SVK 1,FC Spartak Trnava,3:1,MFK Ruzomberok,Slowakei Corgon Liga
+010,11.08.,18:30,ISR LCP,Maccabi Netanya,0:1,Macc. Petach Tikva,"Israel, League Cup Premier"
+011,11.08.,18:30,ISR LCP,Hapoel Kfar Saba,1:1,Hapoel Hadera,"Israel, League Cup Premier"
+012,11.08.,18:30,ISR LCP,Bnei Yehuda,1:5,FC Ashdod,"Israel, League Cup Premier"
+013,11.08.,19:00,RUS PL,FC Rubin Kazan,0:2,Lok Moskau,Russland Premier League
+014,11.08.,19:00,SCO PS,Dundee United,0:1,Hibernian FC,Schottland Premiership
+015,11.08.,19:00,BUL 1,Tsarsko Selo Sofia,3:0,Et. Veliko Tarnovo,Bulgarien Premier League
+016,11.08.,19:00,SVK 1,MSK Zilina,1:2,FC Nitra,Slowakei Corgon Liga
+017,11.08.,19:00,BOS 1,NK Siroki Brijeg,2:2,FK Velez Mostar,Bosnien Premier Liga
+018,11.08.,19:00,NOR 2,Kfum Oslo,1:2,Lilleström SK,Norwegen Adeccoligaen
+019,11.08.,19:00,SWE 2,Halmstads BK,2:0,Östers IF,Schweden Superettan
+020,11.08.,19:00,SWE 2,Akropolis IF,1:1,GIF Sundsvall,Schweden Superettan
+021,11.08.,19:00,RL TIR,SV Hall,1:2,SV Wörgl,Regionalliga Tirol
+022,11.08.,19:00,RL TIR,FC Kufstein,1:0,SC Imst 1933,Regionalliga Tirol
+023,11.08.,20:00,RL TIR,SV Telfs,0:1,FC Kitzbühel,Regionalliga Tirol
+024,11.08.,20:00,ISR LCP,Beitar Jerusalem,0:0,Hapoel Tel Aviv,"Israel, League Cup Premier"
+025,11.08.,20:00,SVK 1,Slovan Bratislava,5:0,Z. Michalovce,Slowakei Corgon Liga
+026,11.08.,20:45,IRL CUP,FC Dundalk,1:0,Waterford United,Irland FAI Ford Cup
+027,11.08.,20:45,IRL CUP,Cork City FC,0:0,FC Longford Town,Irland FAI Ford Cup
+028,11.08.,21:00,EL,Wolverhampton*,0:1,FC Sevilla ESP,UEFA Europa League
+029,11.08.,21:00,EL,Wolverhampton,0:2,FC Sevilla+1,UEFA Europa League
+030,11.08.,21:00,EL,Wolverhampton+1,1:1,FC Sevilla,UEFA Europa League
+031,11.08.,21:00,EL,Shakhtar Don. UKR*,4:1,FC Basel,UEFA Europa League
+032,11.08.,21:00,EL,Shakhtar Donetsk,4:2,FC Basel+1,UEFA Europa League
+033,11.08.,21:00,EL,Shakhtar Donetsk+1,5:1,FC Basel,UEFA Europa League
+034,11.08.,21:00,ITA B,Spezia Calcio,3:1,AC Chievo Verona,Italien Serie B
+035,11.08.,21:00,ITA B,Spezia Calcio,3:2,AC Chievo Verona+1,Italien Serie B
+036,12.08.,02:30,MLSBACK,Portland Timbers*,2:1,Orlando City SC,"USA, MLS is Back Tournament"
+037,12.08.,09:35,AUS 1,Perth Glory*,0:2,Western United FC,Australien Hyundai A-League
+038,12.08.,11:30,JPN 2,Kyoto Sanga FC,2:2,Mito Hollyhock,Japan J.League 2
+039,12.08.,12:00,JPN 2,Niigata Albirex,2:1,Renofa Yamaguchi,Japan J.League 2
+040,12.08.,12:00,JPN 2,Avispa Fukuoka,1:3,Tokyo Verdy,Japan J.League 2
+041,12.08.,12:00,JPN 2,Giravanz Kitakyush,2:1,Zweigen Kanazawa,Japan J.League 2
+042,12.08.,12:00,JPN 2,JEF Utd Ichihara,3:0,Matsumoto Yamaga,Japan J.League 2
+043,12.08.,12:00,JPN 2,Ehime FC,0:1,Montedio Yamagata,Japan J.League 2
+044,12.08.,12:00,JPN 2,V-Varen Nagasaki,3:1,Thespakusatsu,Japan J.League 2
+046,12.08.,12:00,JPN 2,Omiya Ardija,2:2,Jubilo Iwata,Japan J.League 2
+047,12.08.,12:00,JPN 2,FC Ryukyu,1:2,Ventforet Kofu,Japan J.League 2
+048,12.08.,12:00,JPN LC,Hokkaido Consadole,1:1,Yokohama FC,Japan Nabisco Cup
+049,12.08.,12:00,JPN LC,Kashiwa Reysol,3:1,Oita Trinita,Japan Nabisco Cup
+050,12.08.,12:00,JPN LC,Sanfr. Hiroshima,abgesagt,Sagan Tosu,Japan Nabisco Cup
+051,12.08.,12:00,JPN LC,Nagoya Grampus,2:2,Kawasaki Frontale,Japan Nabisco Cup
+052,12.08.,12:00,JPN LC,Shimizu S-Pulse,2:3,Kashima Antlers,Japan Nabisco Cup
+053,12.08.,12:00,JPN LC,Vegalta Sendai,0:3,Cerezo Osaka,Japan Nabisco Cup
+055,12.08.,12:00,CHN SL,SIPG Shanghai*,2:1,Wuhan Zall,China Chinese Super League
+056,12.08.,12:10,AUS 1,Western Sydney,2:1,Melbourne Victory,Australien Hyundai A-League
+045,12.08.,12:30,JPN 2,Machida Zelvia,0:1,Tokushima Vortis,Japan J.League 2
+054,12.08.,12:30,JPN LC,Shonan Bellmare,1:2,Gamba Osaka,Japan Nabisco Cup
+057,12.08.,12:30,JPN 2,Tochigi SC,2:1,Fagiano Okayama,Japan J.League 2
+058,12.08.,14:00,CHN SL,Beijing Guoan FC,3:1,Hebei China Fortun,China Chinese Super League
+059,12.08.,17:00,SLO 1,NK Celje,abgesagt,NS Mura,Slowenien PrvaLiga Telekom
+060,12.08.,17:00,FS,SCR Altach AUT,0:6,Bor. Dortmund GER,Freundschaftsspiele International (Klub)
+061,12.08.,18:00,FS,Wolfsberg AUT*,2:2,Sparta Prag CZE,Freundschaftsspiele International (Klub)
+062,12.08.,18:00,RL VBG,Dornbirner SV,1:1,VfB Hohenems,Eliteliga Vorarlberg
+077,12.08.,18:00,FS,Stade Rennes FRA,3:0,St. Etienne FRA,Freundschaftsspiele International (Klub)
+063,12.08.,18:30,BLR 1,Dinamo Brest,abgesagt,FC Slutsk,Weißrussland Premier League
+064,12.08.,18:45,ISR LCP,Hapoel Haifa,2:2,Ironi K. Shmona,"Israel, League Cup Premier"
+065,12.08.,19:00,ISR LCP,Bnei Sakhnin FC,1:0,Maccabi Haifa,"Israel, League Cup Premier"
+066,12.08.,19:00,SVK 1,AS Trencin,1:1,Zlate Moravce,Slowakei Corgon Liga
+067,12.08.,19:00,SVK 1,SKF Sered,4:0,FK Senica,Slowakei Corgon Liga
+068,12.08.,19:00,SVK 1,FK Pohronie,1:2,Dunajska Streda,Slowakei Corgon Liga
+069,12.08.,19:00,SLO 1,NK Maribor,abgesagt,NK Aluminij,Slowenien PrvaLiga Telekom
+070,12.08.,19:00,SWE 1,Djurgardens IF,2:1,Mjällby AIF,Schweden Allsvenskan
+071,12.08.,19:00,SWE 1,Malmö FF,2:1,Örebro SK,Schweden Allsvenskan
+072,12.08.,19:00,SWE 2,Ljungskile SK,2:1,AFC Eskilstuna,Schweden Superettan
+073,12.08.,19:00,SWE 2,GAIS Göteborg,0:0,Degerfors IF,Schweden Superettan
+074,12.08.,19:00,SWE 2,Trelleborgs FF,1:0,Vasteraas SK,Schweden Superettan
+075,12.08.,19:00,SWE 2,IK Brage,1:1,Norrby IF,Schweden Superettan
+076,12.08.,19:00,SWE 2,Jönköpings Södra,2:1,Dalkurd FF,Schweden Superettan
+078,12.08.,19:00,SCO PS,FC St. Mirren,abgesagt,Celtic Glasgow,Schottland Premiership
+079,12.08.,20:45,SCO PS,Glasgow Rangers,3:0,FC St. Johnstone,Schottland Premiership
+080,12.08.,20:45,SCO PS,FC Motherwell,2:2,FC Livingston,Schottland Premiership
+081,12.08.,20:45,SCO PS,FC Ross County,2:2,FC Kilmarnock,Schottland Premiership
+082,12.08.,21:00,CL,Atalanta BC ITA*,1:2,Paris SG FRA,UEFA Champions League
+083,12.08.,21:00,CL,Atalanta Bergamo,1:3,Paris SG+1,UEFA Champions League
+084,12.08.,21:00,CL,Atalanta Bergamo+1,2:2,Paris SG,UEFA Champions League
+085,12.08.,21:00,ITA B,Pordenone Calcio,0:2,Frosinone Calcio,Italien Serie B
+086,13.08.,11:30,AUS 1,Newcastle Jets*,3:0,Wellington Ph.,Australien Hyundai A-League
+087,13.08.,15:00,QAT 1,AL Sailiya SC,1:0,AL Arabi Doha SC,"Katar, Stars League"
+088,13.08.,16:00,POL CUP,KS Sleza Wroclaw,2:1,Wigry Suwalki,Polen Cup
+089,13.08.,16:00,EGY 1,Aswan FC,1:1,FC Masr,Ägypten Premier League
+090,13.08.,17:00,SLO 1,NK Tabor Sezana,abgesagt,FC Koper,Slowenien PrvaLiga Telekom
+091,13.08.,18:30,QAT 1,AL Ahli Doha SC,0:1,AL Wakrah,"Katar, Stars League"
+092,13.08.,18:30,EGY 1,Smouha SC,1:1,Al Moqawloon,Ägypten Premier League
+093,13.08.,18:45,NED CoT,Ajax Amsterdam,5:1,FC Utrecht,Eredivisie Comeback Tournament
+094,13.08.,18:45,NED CoT,Ajax Amsterdam,5:2,FC Utrecht+1,Eredivisie Comeback Tournament
+095,13.08.,19:00,SWE 1,IFK Norrköping,1:2,Hammarby IF,Schweden Allsvenskan
+096,13.08.,19:00,SWE 1,IFK Norrköping,1:3,Hammarby IF+1,Schweden Allsvenskan
+097,13.08.,19:00,SWE 1,IF Elfsborg,4:2,Falkenbergs FF,Schweden Allsvenskan
+098,13.08.,19:00,SWE 1,IK Sirius FK,3:1,Helsingborgs IF,Schweden Allsvenskan
+099,13.08.,19:00,SWE 1,AIK Stockholm,0:1,Östersunds FK,Schweden Allsvenskan
+101,13.08.,19:00,SWE 1,Kalmar FF,1:1,IFK Göteborg,Schweden Allsvenskan
+102,13.08.,19:00,SWE 2,Umea FC,2:2,Örgryte Göteborg,Schweden Superettan
+103,13.08.,19:00,SLO 1,Olimpija Ljubljana,abgesagt,ND Gorica,Slowenien PrvaLiga Telekom
+100,13.08.,19:30,SWE 1,Varbergs BoIS,1:3,BK Häcken,Schweden Allsvenskan
+104,13.08.,19:30,ESP 2,FC Girona,1:0,UD Almeria,Spanien Segunda Division
+105,13.08.,19:30,ISR SC,Maccabi Tel Aviv,2:0,Hap. Beer Sheva,Israel Supercup
+106,13.08.,20:30,POL CUP,Gornik Zabrze,3:1,Jagiellonia Bial.,Polen Cup
+107,13.08.,21:00,CL,RB Leipzig GER*,2:1,Atl. Madrid ESP,UEFA Champions League
+108,13.08.,21:00,CL,RB Leipzig,2:2,Atletico Madrid+1,UEFA Champions League
+109,13.08.,21:00,CL,RB Leipzig+1,3:1,Atletico Madrid,UEFA Champions League
+110,13.08.,22:00,ESP 2,Elche CF,0:0,Real Saragossa,Spanien Segunda Division
+111,14.08.,00:15,BRA 1,Sao Paulo SP,1:0,Fortaleza EC CE,Brasilien Brasilero Serie A
+112,14.08.,00:30,BRA 1,Internacional RS,2:0,Santos SP,Brasilien Brasilero Serie A
+113,14.08.,01:00,BRA 1,Vasco Da Gama RJ,2:0,Sport Recife PE,Brasilien Brasilero Serie A
+114,14.08.,21:00,CL,FC Barcelona ESP*,2:8,Bayern München GER,UEFA Champions League
+115,14.08.,21:00,CL,FC Barcelona,2:9,Bayern München+1,UEFA Champions League
+116,14.08.,21:00,CL,FC Barcelona+1,3:8,FC Bayern München,UEFA Champions League
+117,14.08.,21:00,CL,FC Barcelona+2,4:8,FC Bayern München,UEFA Champions League
+118,15.08.,21:00,CL,Man. City ENG*,1:3,Ol. Lyon FRA,UEFA Champions League
+119,15.08.,21:00,CL,Manchester City,1:4,Olympique Lyon+1,UEFA Champions League
+120,15.08.,21:00,CL,Manchester City,1:5,Olympique Lyon+2,UEFA Champions League

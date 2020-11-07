@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,23.06.,18:30,AUT BL,Admira Wacker,0:2,FK Austria Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+002,23.06.,18:30,AUT BL,Admira Wacker+1,1:2,FK Austria Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+003,23.06.,18:30,AUT BL,SCR Altach,1:1,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
+004,23.06.,18:30,AUT BL,SCR Altach,1:2,SV Mattersburg+1,"Österreich Bundesliga, Qualifikationsgruppe"
+005,23.06.,18:30,AUT 2,Austria Klagenfurt,1:2,Grazer AK,Österreich Zweite Liga
+006,23.06.,18:30,AUT 2,FC Juniors OÖ,3:2,SV Ried,Österreich Zweite Liga
+007,23.06.,18:30,AUT 2,BW Linz,2:1,Austria Lustenau,Österreich Zweite Liga
+008,23.06.,18:30,AUT 2,SV Horn,3:2,SV Lafnitz,Österreich Zweite Liga
+009,23.06.,18:30,AUT 2,FC Dornbirn,1:1,Floridsdorfer AC,Österreich Zweite Liga
+010,23.06.,19:00,GER 3,Chemnitzer FC,1:2,E. Braunschweig,Deutschland 3. Liga
+011,23.06.,19:00,GER 3,KFC Uerdingen 05,1:2,Kickers Würzburg,Deutschland 3. Liga
+012,23.06.,19:00,ENG PL,Leicester City,0:0,Brighton & Hove,England Premier League
+013,23.06.,19:00,SWE 2,Jönköpings Södra,2:1,Ljungskile SK,Schweden Superettan
+014,23.06.,19:00,SWE 2,Trelleborgs FF,0:1,Östers IF,Schweden Superettan
+015,23.06.,19:00,SWE 2,Örgryte Göteborg,0:3,Halmstads BK,Schweden Superettan
+016,23.06.,19:30,ESP 1,Levante UD,0:1,Atletico Madrid,Spanien Primera Division
+017,23.06.,19:30,ESP 1,Real Valladolid,1:1,Getafe CF,Spanien Primera Division
+018,23.06.,19:30,ESP 2,Elche CF,0:1,Dep. La Coruna,Spanien Segunda Division
+019,23.06.,19:30,ESP 2,CD Lugo,0:0,Malaga CF,Spanien Segunda Division
+020,23.06.,19:30,ITA A,Hellas Verona,0:2,SSC Napoli,Italien Serie A
+021,23.06.,19:30,ITA A,Spal Ferrara,0:1,Cagliari Calcio,Italien Serie A
+022,23.06.,20:00,CZE 1,Sparta Prag,3:2,FC Banik Ostrava,Tschechien Gambrinus Liga
+023,23.06.,20:00,POR 1,Vitoria Setubal,1:2,Rio Ave FC,Portugal Primeira Liga
+024,23.06.,20:15,POR 1,Benfica Lissabon,3:4,CD Santa Clara,Portugal Primeira Liga
+025,23.06.,20:30,AUT BL,SKN St. Pölten,1:1,WSG Swarovs. Tirol,"Österreich Bundesliga, Qualifikationsgruppe"
+026,23.06.,20:30,AUT BL,SKN St. Pölten,1:2,WSG Swar. Tirol+1,"Österreich Bundesliga, Qualifikationsgruppe"
+027,23.06.,20:30,GER 3,Hansa Rostock,1:1,FC Kaiserslautern,Deutschland 3. Liga
+028,23.06.,20:30,GER 3,FC Viktoria Köln,1:0,MSV Duisburg,Deutschland 3. Liga
+029,23.06.,20:30,BB GER,Ratiopharm Ulm*,85:94,MHP Ludwigsburg,Deutschland BBL
+030,23.06.,20:30,SUI SL,FC Thun,1:0,Young Boys Bern,Schweiz Axpo Super League
+031,23.06.,20:30,POL 1,Wisla Krakau,1:0,Wisla Plock,Polen Orange Ekstraklasa
+032,23.06.,20:30,POL 1,LKS Lodz,1:3,Gornik Zabrze,Polen Orange Ekstraklasa
+033,23.06.,21:05,HUN 1,Ujpest FC,2:1,Zalaegerszegi TE,Ungarn NB I
+034,23.06.,21:15,ENG PL,Tottenham,2:0,West Ham United,England Premier League
+035,23.06.,21:45,ITA A,FC Genua,1:4,FC Parma,Italien Serie A
+036,23.06.,21:45,ITA A,FC Torino,1:0,Udinese Calcio,Italien Serie A
+037,23.06.,21:45,ESP 2,UD Extremadura,1:2,Real Saragossa,Spanien Segunda Division
+038,23.06.,22:00,ESP 1,FC Barcelona,1:0,Athletic Bilbao,Spanien Primera Division
+039,23.06.,22:15,POR 1,FC Porto,4:0,Boavista FC,Portugal Primeira Liga
+040,24.06.,17:30,CZE 1,FK Baumit Jablonec,1:1,FC Slovan Liberec,Tschechien Gambrinus Liga
+041,24.06.,18:00,GRE CUP,Aris Thessaloniki,2:1,AEK Athen,Griechenland Cup
+042,24.06.,18:00,NOR 1,FK Haugesund,2:2,Kristiansund BK,Norwegen Tippeligaen
+043,24.06.,18:00,NOR 1,Aalesunds FK,2:2,SK Brann,Norwegen Tippeligaen
+044,24.06.,18:00,NOR 1,Viking FK,1:1,Mjöndalen,Norwegen Tippeligaen
+045,24.06.,18:00,NOR 1,Stabaek IF,2:0,Sandefjord Fotball,Norwegen Tippeligaen
+046,24.06.,18:00,NOR 1,IK Start,2:3,Molde FK,Norwegen Tippeligaen
+047,24.06.,18:15,SUI SL,Xamax Neuchatel,1:2,FC Basel,Schweiz Axpo Super League
+048,24.06.,18:15,AUT 2,Wacker Innsbruck,1:4,FC Liefering,Österreich Zweite Liga
+049,24.06.,18:30,AUT 2,SKU Amstetten,2:0,Kapfenberger SV,Österreich Zweite Liga
+050,24.06.,18:30,AUT 2,Young Violets A.W.,1:4,SK Vorwärts Steyr,Österreich Zweite Liga
+051,24.06.,18:30,AUT BL,TSV Hartberg,1:5,LASK Linz,Österreich Bundesliga
+052,24.06.,18:30,AUT BL,TSV Hartberg+1,2:5,LASK Linz,Österreich Bundesliga
+053,24.06.,18:30,AUT BL,Wolfsberger AC,2:0,SK Sturm Graz,Österreich Bundesliga
+054,24.06.,18:30,AUT BL,Wolfsberger AC,2:1,SK Sturm Graz+1,Österreich Bundesliga
+055,24.06.,19:00,GER 3,Preussen Münster,2:1,FSV Zwickau,Deutschland 3. Liga
+056,24.06.,19:00,GER 3,Unterhaching,0:0,FC Magdeburg,Deutschland 3. Liga
+057,24.06.,19:00,ENG PL,Manchester United,3:0,Sheffield United,England Premier League
+058,24.06.,19:00,ENG PL,Wolverhampton,1:0,AFC Bournemouth,England Premier League
+059,24.06.,19:00,ENG PL,Newcastle United,1:1,Aston Villa,England Premier League
+060,24.06.,19:00,ENG PL,Norwich City,0:1,FC Everton,England Premier League
+061,24.06.,19:00,SER CUP,FK Vojvodina*,2:2,Partizan Belgrad,Serbien Cup
+062,24.06.,19:30,ESP 1,Real Sociedad,0:1,Celta de Vigo,Spanien Primera Division
+063,24.06.,19:30,ESP 1,CD Alaves,0:1,CA Osasuna,Spanien Primera Division
+064,24.06.,19:30,ESP 2,FC Girona,2:0,Numancia CD,Spanien Segunda Division
+065,24.06.,19:30,ESP 2,SD Huesca,1:1,Cadiz CF,Spanien Segunda Division
+066,24.06.,19:30,ESP 2,Teneriffa CD,4:1,CD Mirandes,Spanien Segunda Division
+067,24.06.,19:30,ITA A,Inter Mailand,3:3,US Sassuolo,Italien Serie A
+068,24.06.,19:30,BUL CUP,ZSKA Sofia,2:0,Botev Plovdiv,Bulgarien Cup
+069,24.06.,20:00,POR 1,CD Tondela,1:3,FC Pacos Ferreira,Portugal Primeira Liga
+070,24.06.,20:00,CZE 1,SK Slavia Prag,1:0,Viktoria Pilsen,Tschechien Gambrinus Liga
+071,24.06.,20:30,AUT BL,SK Rapid Wien,2:7,RB Salzburg,Österreich Bundesliga
+072,24.06.,20:30,AUT BL,SK Rapid Wien+1,3:7,RB Salzburg,Österreich Bundesliga
+073,24.06.,20:30,AUT BL,SK Rapid Wien+2,4:7,RB Salzburg,Österreich Bundesliga
+074,24.06.,20:30,GER 3,Bayern München Am.,2:1,TSV 1860 München,Deutschland 3. Liga
+075,24.06.,20:30,GER 3,FC Ingolstadt,2:0,W. Mannheim,Deutschland 3. Liga
+076,24.06.,20:30,GRE CUP,Olympiakos Piräus,2:0,PAOK Thessaloniki,Griechenland Cup
+077,24.06.,20:30,SUI SL,FC Sion,1:1,FC Servette Genf,Schweiz Axpo Super League
+078,24.06.,20:30,SUI SL,FC Lugano,2:0,FC Luzern,Schweiz Axpo Super League
+079,24.06.,20:30,POL 1,Jagiellonia Bial.,0:0,Legia Warschau,Polen Orange Ekstraklasa
+080,24.06.,20:30,POL 1,Lech Posen,0:0,Pogon Szczecin,Polen Orange Ekstraklasa
+081,24.06.,20:30,NOR 1,Odds BK,4:1,Valerenga IF,Norwegen Tippeligaen
+082,24.06.,21:15,ENG PL,FC Liverpool,4:0,Crystal Palace,England Premier League
+083,24.06.,21:45,ESP 2,Ponferradina SD,1:1,Racing Santander,Spanien Segunda Division
+084,24.06.,21:45,ESP 2,Albacete Balompie,0:0,Las Palmas UD,Spanien Segunda Division
+085,24.06.,21:45,ITA A,Atalanta Bergamo,3:2,Lazio Rom,Italien Serie A
+086,24.06.,21:45,ITA A,AS Roma,2:1,Sampdoria Genua,Italien Serie A
+087,24.06.,22:00,ESP 1,Real Madrid,2:0,RCD Mallorca,Spanien Primera Division
+088,24.06.,22:15,POR 1,Moreirense FC,1:1,FC Famalicao,Portugal Primeira Liga
+089,25.06.,17:00,CZE 2,FK Fotbal Trinec,abgesagt,Pardubice,Tschechien 1. Division
+090,25.06.,17:00,CZE 2,FC Hradec Kralove,1:0,FC Graffin Vlasim,Tschechien 1. Division
+091,25.06.,18:00,CZE 2,FK Viktoria Zizkov,0:0,1.SK Prostejov,Tschechien 1. Division
+092,25.06.,18:00,DEN 2,Hvidovre IF,3:0,BK Fremad Amager,Dänemark 1. Division
+093,25.06.,18:00,NOR 1,Sarpsborg 08,2:3,Strömsgodset,Norwegen Tippeligaen
+094,25.06.,18:00,SWE CUP,BK Häcken,1:2,IF Elfsborg,Schweden Cup
+095,25.06.,18:00,SWE CUP,Hammarby IF,1:1,IFK Göteborg,Schweden Cup
+096,25.06.,18:55,CRO 1,NK Istra 1961,1:1,Lok Zagreb,Kroatien 1. HNL
+097,25.06.,19:00,ENG PL,FC Southampton,0:2,FC Arsenal,England Premier League
+098,25.06.,19:00,ENG PL,FC Southampton,0:3,FC Arsenal+1,England Premier League
+099,25.06.,19:00,ENG PL,FC Southampton+1,1:2,FC Arsenal,England Premier League
+100,25.06.,19:00,ENG PL,FC Burnley,1:0,FC Watford,England Premier League
+101,25.06.,19:00,DEN 2,FC Roskilde,2:2,Nyköbing FC,Dänemark 1. Division
+102,25.06.,19:00,ROU CUP,Dinamo Bukarest,0:3,FCS Bukarest,Rumänien Cup
+103,25.06.,19:00,ISR 2,Beitar Tel Aviv,1:0,Macc. Petach Tikva,Israel National League
+104,25.06.,19:00,ISR 2,Hapoel K. Jerusale,1:0,I. Ramat Hasharon,Israel National League
+105,25.06.,19:00,ISR 2,Hapoel Ramat Gan,1:0,SC Kfar Qasem,Israel National League
+106,25.06.,19:00,ISR 2,Bnei Sakhnin FC,3:0,Hap. Rishon LeZion,Israel National League
+107,25.06.,19:00,POL 1,Slask Wroclaw,3:2,Cracovia Krakau,Polen Orange Ekstraklasa
+108,25.06.,19:30,ESP 1,SD Eibar,1:0,FC Valencia,Spanien Primera Division
+109,25.06.,19:30,ESP 2,UD Almeria,0:1,Alcorcon AD,Spanien Segunda Division
+110,25.06.,19:30,ESP 2,Rayo Vallecano,1:1,Sporting Gijon,Spanien Segunda Division
+111,25.06.,20:15,SWE CUP,Malmö FF,4:1,AIK Stockholm,Schweden Cup
+112,25.06.,20:15,SWE CUP,Mjällby AIF,1:0,Falkenbergs FF,Schweden Cup
+113,25.06.,20:30,SUI SL,FC St. Gallen,0:4,FC Zürich,Schweiz Axpo Super League
+114,25.06.,20:30,NOR 1,Rosenborg BK,2:3,Bodö Glimt,Norwegen Tippeligaen
+115,25.06.,21:05,CRO 1,NK Varazdin SN,1:0,NK Inter Zapresic,Kroatien 1. HNL
+116,25.06.,21:15,ENG PL,FC Chelsea,2:1,Manchester City,England Premier League
+117,25.06.,21:15,ENG PL,FC Chelsea+1,3:1,Manchester City,England Premier League
+118,25.06.,21:45,ESP 2,Real Oviedo,0:0,Fuenlabrada,Spanien Segunda Division
+119,25.06.,22:00,ESP 1,Betis Sevilla,1:0,Espanyol Barcelona,Spanien Primera Division
+120,25.06.,22:00,POR 1,Sporting Braga,3:2,Vitoria Guimaraes,Portugal Primeira Liga

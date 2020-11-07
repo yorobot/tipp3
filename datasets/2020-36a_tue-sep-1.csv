@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,01.09.,17:00,TEN ATP,"Sinner, Jannik*",2:3,"Khachanov, Karen",Tennis ATP
+002,01.09.,17:00,TEN WTA,"Cirstea, Sorana*",2:0,"McHale, Christina",Tennis WTA
+003,01.09.,17:30,FIN 1,FC Honka,0:1,HIFK Helsinki,Finnland Veikkausliiga
+004,01.09.,17:30,FIN 1,Haka Valkeakoski,0:2,Tampereen Ilves,Finnland Veikkausliiga
+005,01.09.,18:00,AUT RLM,Sturm Graz Amat.,2:2,St Anna am Aigen,Österreich Regionalliga Mitte
+006,01.09.,18:00,TEN ATP,"Murray, Andy*",3:2,"Nishioka, Yoshi.",Tennis ATP
+010,01.09.,18:30,ENG LTR,AFC Wimbledon,2:1,Charlton Athletic,England Football League Trophy
+011,01.09.,18:30,ROU 2,Petrolul Ploiesti,1:2,Farul Constanta,"Rumänien, Liga 2"
+008,01.09.,18:50,TEN ATP,"Munar Clar, Jaume*",w.o.,"Thiem, Dominic",Tennis ATP
+012,01.09.,19:00,AUT RLO,Admira Amateure,abgesagt,Wiener Sport-Club,Österreich Regionalliga Ost
+013,01.09.,19:00,AUT RLM,FC Gleisdorf,3:2,SV Allerheiligen,Österreich Regionalliga Mitte
+014,01.09.,19:00,AUT RLM,WSC Hertha Wels,3:1,WAC Amateure,Österreich Regionalliga Mitte
+015,01.09.,19:00,AUT RLM,ATSV Stadl-Paura,2:2,FC Wels,Österreich Regionalliga Mitte
+016,01.09.,19:00,AUT RLM,Bad Gleichenberg,3:1,Union Vöcklamarkt,Österreich Regionalliga Mitte
+017,01.09.,19:00,AUT RLM,SC Weiz,0:1,SC Kalsdorf,Österreich Regionalliga Mitte
+018,01.09.,19:00,RL SBG,SAK 1914 Salzburg,3:2,Pinzgau Saalfelden,Regionalliga Salzburg
+020,01.09.,19:30,AUT RLO,SC Wiener Neustadt,abgesagt,SC Neusiedl,Österreich Regionalliga Ost
+021,01.09.,19:30,AUT RLO,ASV Draßburg,3:4,SV Leobendorf,Österreich Regionalliga Ost
+009,01.09.,19:45,TEN WTA,"Watson, Heather*",0:2,"Konta, Johanna",Tennis WTA
+022,01.09.,20:00,ENG LTR,Carlisle United,1:3,Fleetwood Town,England Football League Trophy
+023,01.09.,20:00,FRA 3,Cholet,3:1,FC Sete 34,Frankreich National
+024,01.09.,20:00,FRA 3,Lyon Duchere,1:2,Concarneau,Frankreich National
+007,01.09.,20:05,TEN ATP,"Chardy, Jeremy*",0:3,"Rublev, Andrey",Tennis ATP
+025,01.09.,20:45,FRA 3,Red Star FC 93,0:0,Le Mans UC 72,Frankreich National
+019,01.09.,21:50,TEN ATP,"Pospisil, Vasek*",3:0,Kohlschreiber P.,Tennis ATP
+027,01.09.,22:00,BRA 2,Botafogo FC SP,1:1,Cuiaba MT,Brasilien Brasilero Serie B
+029,02.09.,00:15,TEN ATP,"Dimitrov, Grigor*",3:0,"Paul, Tommy",Tennis ATP
+026,02.09.,00:20,TEN WTA,Azarenka V.*,2:0,"Haas, Barbara",Tennis WTA
+032,02.09.,01:00,TEN WTA,"Muchova, Karolina*",2:0,"Williams, Venus",Tennis WTA
+028,02.09.,01:35,TEN ATP,"Tiafoe, Francis*",3:1,"Seppi, Andreas",Tennis ATP
+033,02.09.,02:00,USA MLS,FC Toronto,0:1,Montreal Impact,USA Major League Soccer
+031,02.09.,03:40,TEN WTA,"Vekic, Donna*",2:1,"Pliskova, Kristyna",Tennis WTA
+030,02.09.,03:45,TEN WTA,"Clijsters, Kim*",1:2,"Alexandrova, Eka.",Tennis WTA
+034,02.09.,12:00,JPN LC,Cerezo Osaka,0:3,Kashiwa Reysol,Japan Nabisco Cup
+035,02.09.,12:00,JPN LC,Vissel Kobe,0:6,Kawasaki Frontale,Japan Nabisco Cup
+036,02.09.,12:00,JPN LC,FC Tokyo,3:0,Nagoya Grampus,Japan Nabisco Cup
+037,02.09.,12:00,JPN LC,Hokkaido Consadole,1:1,Yokohama F Marinos,Japan Nabisco Cup
+038,02.09.,17:30,RL SBG,USK Anif,3:1,SV Grödig,Regionalliga Salzburg
+039,02.09.,19:00,RL SBG,TSV St. Johann,5:2,SV Wals-Grünau,Regionalliga Salzburg
+040,02.09.,19:00,RL SBG,SV Seekirchen,1:2,SK Bischofshofen,Regionalliga Salzburg
+041,02.09.,19:30,RL SBG,SV Kuchl,4:1,Austria Salzburg,Regionalliga Salzburg
+042,02.09.,19:30,ISL 2,Magni,3:2,Afturelding,Island 2. Liga
+043,02.09.,19:30,ISL 2,IBV Vestmannaeyjar,0:2,Leiknir Reykjavik,Island 2. Liga
+044,02.09.,19:30,ISL 2,IF Vestri,4:1,Thor Akureyri,Island 2. Liga
+045,02.09.,19:30,ISL 2,Keflavik IF,abgesagt,UMF Grindavik,Island 2. Liga
+046,02.09.,20:20,HBAUTSC,Fivers Margareten,28:24,Alpla HC Hard,Handball Supercup Österreich
+047,02.09.,21:15,ISL 2,Fram Reykjavik,1:1,Vikingur Olafsvik,Island 2. Liga
+048,02.09.,22:15,URU 1,Montev. Wanderers,abgesagt,CA River Plate,Uruguay Primera Division
+049,02.09.,22:30,ISL 2,Throttur Reykjavik,0:0,L. Faskrudsfjördur,Island 2. Liga
+050,03.09.,00:00,BRA 1,Ceara SC CE,1:0,Fortaleza EC CE,Brasilien Brasilero Serie A
+051,03.09.,00:15,BRA 1,Goias EC GO,1:2,Corinthians SP,Brasilien Brasilero Serie A
+052,03.09.,00:15,BRA 1,Fluminense RJ,1:1,Atletico GO,Brasilien Brasilero Serie A
+063,03.09.,01:00,USA MLS,Atlanta United FC,0:0,Inter Miami CF,USA Major League Soccer
+054,03.09.,01:30,BRA 1,Botafogo FR RJ,0:0,Coritiba FC PR,Brasilien Brasilero Serie A
+055,03.09.,01:30,BRA 1,Atletico PR,1:1,RB Bragantino SP,Brasilien Brasilero Serie A
+056,03.09.,01:30,BRA 1,EC Bahia BA,3:5,CR Flamengo RJ,Brasilien Brasilero Serie A
+058,03.09.,01:30,USA MLS,FC Cincinnati,0:0,Chicago Fire,USA Major League Soccer
+059,03.09.,01:30,USA MLS,NY Red Bulls,0:1,DC United,USA Major League Soccer
+062,03.09.,01:30,USA MLS,Columbus Crew,1:0,Philadelphia Union,USA Major League Soccer
+060,03.09.,02:00,USA MLS,New England Rev.,0:2,New York City FC,USA Major League Soccer
+061,03.09.,02:00,USA MLS,Houston Dynamo,3:0,FC Minnesota Utd.,USA Major League Soccer
+053,03.09.,02:30,BRA 1,SE Palmeiras SP,1:1,Internacional RS,Brasilien Brasilero Serie A
+057,03.09.,02:30,BRA 1,Santos SP,2:2,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+064,03.09.,02:30,USA MLS,Nashville SC,1:1,Orlando City SC,USA Major League Soccer
+065,03.09.,02:30,USA MLS,Sp. Kansas City,1:1,FC Dallas,USA Major League Soccer
+066,03.09.,03:30,USA MLS,Real Salt Lake,2:2,Seattle Sounders,USA Major League Soccer
+068,03.09.,04:30,USA MLS,Portland Timbers,2:3,LA Galaxy,USA Major League Soccer
+067,03.09.,05:00,USA MLS,Los Angeles FC,5:1,SJ Earthquakes,USA Major League Soccer
+069,03.09.,18:00,UEFA NL,Lettland,0:0,Andorra,UEFA Nations League
+070,03.09.,18:00,UEFA NL,Lettland,0:1,Andorra+1,UEFA Nations League
+071,03.09.,18:45,U21 EMQ,Nordmazedonien U21,0:1,Spanien U21,U21 EM Qualifikation
+072,03.09.,19:00,U21 EMQ,Kroatien U21,5:0,Griechenland U21,U21 EM Qualifikation
+073,03.09.,20:45,UEFA NL,Deutschland,1:1,Spanien,UEFA Nations League
+074,03.09.,20:45,UEFA NL,Deutschland,1:2,Spanien+1,UEFA Nations League
+075,03.09.,20:45,UEFA NL,Deutschland+1,2:1,Spanien,UEFA Nations League
+076,03.09.,20:45,UEFA NL,Ukraine,2:1,Schweiz,UEFA Nations League
+077,03.09.,20:45,UEFA NL,Ukraine,2:2,Schweiz+1,UEFA Nations League
+078,03.09.,20:45,UEFA NL,Ukraine+1,3:1,Schweiz,UEFA Nations League
+079,03.09.,20:45,UEFA NL,Türkei,0:1,Ungarn,UEFA Nations League
+080,03.09.,20:45,UEFA NL,Türkei,0:2,Ungarn+1,UEFA Nations League
+081,03.09.,20:45,UEFA NL,Russland,3:1,Serbien,UEFA Nations League
+082,03.09.,20:45,UEFA NL,Russland,3:2,Serbien+1,UEFA Nations League
+083,03.09.,20:45,UEFA NL,Russland+1,4:1,Serbien,UEFA Nations League
+084,03.09.,20:45,UEFA NL,Finnland,0:1,Wales,UEFA Nations League
+085,03.09.,20:45,UEFA NL,Finnland,0:2,Wales+1,UEFA Nations League
+086,03.09.,20:45,UEFA NL,Finnland+1,1:1,Wales,UEFA Nations League
+087,03.09.,20:45,UEFA NL,Bulgarien,1:1,Irland,UEFA Nations League
+088,03.09.,20:45,UEFA NL,Bulgarien,1:2,Irland+1,UEFA Nations League
+089,03.09.,20:45,UEFA NL,Bulgarien+1,2:1,Irland,UEFA Nations League
+090,03.09.,20:45,UEFA NL,Moldawien,1:1,Kosovo,UEFA Nations League
+091,03.09.,20:45,UEFA NL,Moldawien+1,2:1,Kosovo,UEFA Nations League
+092,03.09.,20:45,UEFA NL,Slowenien,0:0,Griechenland,UEFA Nations League
+093,03.09.,20:45,UEFA NL,Slowenien,0:1,Griechenland+1,UEFA Nations League
+094,03.09.,20:45,UEFA NL,Färöer Inseln,3:2,Malta,UEFA Nations League
+095,03.09.,20:45,UEFA NL,Färöer Inseln,3:3,Malta+1,UEFA Nations League
+096,04.09.,00:00,BRA 1,Gremio RS,1:2,Sport Recife PE,Brasilien Brasilero Serie A
+097,04.09.,01:00,BRA 1,Atletico MG,3:0,Sao Paulo SP,Brasilien Brasilero Serie A
+098,04.09.,20:45,UEFA NL,Italien,1:1,Bosnien-Herzegow.,UEFA Nations League
+099,04.09.,20:45,UEFA NL,Niederlande,1:0,Polen,UEFA Nations League
+100,04.09.,20:45,UEFA NL,Norwegen,1:2,Österreich,UEFA Nations League
+101,04.09.,20:45,UEFA NL,Norwegen,1:3,Österreich+1,UEFA Nations League
+102,04.09.,20:45,UEFA NL,Norwegen+1,2:2,Österreich,UEFA Nations League
+103,04.09.,20:45,UEFA NL,Rumänien,1:1,Nordirland,UEFA Nations League
+104,04.09.,20:45,UEFA NL,Schottland,1:1,Israel,UEFA Nations League
+105,04.09.,20:45,UEFA NL,Slowakei,1:3,Tschechien,UEFA Nations League
+106,05.09.,18:00,UEFA NL,Island,0:1,England,UEFA Nations League
+107,05.09.,20:45,UEFA NL,Dänemark,0:2,Belgien,UEFA Nations League
+108,05.09.,20:45,UEFA NL,Portugal,4:1,Kroatien,UEFA Nations League
+109,05.09.,20:45,UEFA NL,Schweden,0:1,Frankreich,UEFA Nations League
+110,06.09.,18:00,UEFA NL,Ungarn,2:3,Russland,UEFA Nations League
+111,06.09.,20:45,UEFA NL,Schweiz,1:1,Deutschland,UEFA Nations League
+112,06.09.,20:45,UEFA NL,Spanien,4:0,Ukraine,UEFA Nations League
+113,06.09.,20:45,UEFA NL,Serbien,0:0,Türkei,UEFA Nations League
+114,07.09.,20:45,UEFA NL,Bosnien-Herzegow.,1:2,Polen,UEFA Nations League
+115,07.09.,20:45,UEFA NL,Niederlande,0:1,Italien,UEFA Nations League
+116,07.09.,20:45,UEFA NL,Österreich,2:3,Rumänien,UEFA Nations League
+117,08.09.,20:45,UEFA NL,Belgien,5:1,Island,UEFA Nations League
+118,08.09.,20:45,UEFA NL,Dänemark,0:0,England,UEFA Nations League
+119,08.09.,20:45,UEFA NL,Frankreich,4:2,Kroatien,UEFA Nations League
+120,08.09.,20:45,UEFA NL,Schweden,0:2,Portugal,UEFA Nations League

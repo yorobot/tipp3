@@ -1,0 +1,54 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,17.04.,12:00,BLR RES,FC Isloch Reserve,3:0,Sl. Mozyr Reserve,Weißrussland Reserve Liga
+002,17.04.,12:00,BLR RES,Rukh Brest Reserve,3:1,FC Minsk Reserve,Weißrussland Reserve Liga
+003,17.04.,12:30,BLR RES,Bate Borisov Reser,0:2,Torpedo Zhodino Re,Weißrussland Reserve Liga
+004,17.04.,15:00,BLR RES,FC Vitebsk Reserve,2:1,Dinamo Brest Reser,Weißrussland Reserve Liga
+005,17.04.,16:30,BLR 1,Belshina Bobruisk,1:1,FC Smolevichi,Weißrussland Premier League
+006,17.04.,16:30,BLR 1,Belshina Bobruisk,1:2,FC Smolevichi+1,Weißrussland Premier League
+007,17.04.,16:30,BLR 2,Lokomotiv Gomel,5:0,FC Khimik Svetlogo,Weißrussland Pervaya Liga
+008,17.04.,18:30,BLR 1,Shakhter Soligorsk,1:2,FC Slutsk,Weißrussland Premier League
+009,17.04.,18:30,BLR 1,Shakhter Soligorsk,1:3,FC Slutsk+1,Weißrussland Premier League
+010,18.04.,12:00,BB TWN,Yulon Dinos,100:85,Pauian Archiland,Super Basketball League
+015,18.04.,12:30,BLR 2,Arsenal Dzerzhinsk,0:3,FC Oshmyany,Weißrussland Pervaya Liga
+011,18.04.,13:00,FS,Landskrona Boi SWE,abgesagt,Torns IF SWE,Freundschaftsspiele International (Klub)
+014,18.04.,13:00,BLR 2,FC NFK Minsk,4:1,FC Granit Mikashev,Weißrussland Pervaya Liga
+021,18.04.,13:00,BLR 1,Isloch,2:1,Slavia Mozyr,Weißrussland Premier League
+022,18.04.,13:00,BLR 1,Isloch,2:2,Slavia Mozyr+1,Weißrussland Premier League
+016,18.04.,13:30,TAJ 1,Dushanbe 83,0:0,Faizkand,Tadschikistan 1. Liga
+017,18.04.,13:30,TAJ 1,Regar-TadAZ,4:1,Istaravshan,Tadschikistan 1. Liga
+018,18.04.,14:00,FS,BK Häcken SWE,abgesagt,Falkenbergs FF SWE,Freundschaftsspiele International (Klub)
+019,18.04.,14:00,BLR 2,Sputnik Rechica,1:1,FK Smorgon,Weißrussland Pervaya Liga
+020,18.04.,14:30,BLR 2,FC Gomel,0:0,Naftan Novopolotsk,Weißrussland Pervaya Liga
+012,18.04.,15:00,BLR 1,FC Rukh Brest,1:0,FC Minsk,Weißrussland Premier League
+013,18.04.,15:00,BLR 1,FC Rukh Brest,1:1,FC Minsk+1,Weißrussland Premier League
+023,18.04.,15:00,BLR 2,FK Volna Pinsk,0:0,FC Slonim,Weißrussland Pervaya Liga
+024,18.04.,15:30,BLR 2,FC Orsha,3:2,FC Lida,Weißrussland Pervaya Liga
+025,18.04.,17:00,BLR 1,FC Vitebsk,1:0,Dinamo Brest,Weißrussland Premier League
+026,18.04.,17:00,BLR 1,FC Vitebsk+1,2:0,Dinamo Brest,Weißrussland Premier League
+027,18.04.,19:00,BLR 1,FC BATE Borisov,0:0,FC Torpedo Zhodino,Weißrussland Premier League
+028,18.04.,19:00,BLR 1,FC BATE Borisov,0:1,Torpedo Zhodino+1,Weißrussland Premier League
+029,18.04.,20:00,NIC U20,U20 Diriangen,3:1,U20 Real Madriz,Nicaragua U20
+030,18.04.,20:00,NIC U20,U20 ART Jalapa,0:5,U20 Real Esteli FC,Nicaragua U20
+031,18.04.,20:00,NIC U20,U20 Managua,3:0,U20 Walter Ferrett,Nicaragua U20
+032,18.04.,23:00,NIC 1,Municipal Jalapa,1:2,Real Esteli FC,Nicaragua Primera Division
+033,18.04.,23:00,NIC 1,Munic. Jalapa+1,2:2,Real Esteli FC,Nicaragua Primera Division
+034,18.04.,23:00,NIC 1,Managua FC,1:0,CD Walter Ferretti,Nicaragua Primera Division
+035,18.04.,23:00,NIC 1,Managua FC,1:1,Walter Ferretti+1,Nicaragua Primera Division
+036,18.04.,23:00,NIC 1,Diriangen FC,3:1,Real Madriz,Nicaragua Primera Division
+037,18.04.,23:00,NIC 1,Diriangen FC,3:2,Real Madriz+1,Nicaragua Primera Division
+038,18.04.,23:00,NIC 1,Las Sabanas CF,1:1,Juventus Managua,Nicaragua Primera Division
+039,18.04.,23:00,NIC 1,Las Sabanas CF+1,2:1,Juventus Managua,Nicaragua Primera Division
+042,19.04.,13:30,TAJ 1,CSKA Pamir Dushanb,3:1,Lokomotiv-Pamir,Tadschikistan 1. Liga
+041,19.04.,14:00,TURK 1,Altyn Asyr FK,1:1,Kopetdag Asgabat,Turkmenistan 1. Liga
+045,20.04.,13:30,TURK 1,Merw FK,0:1,FC Asgabat,Turkmenistan 1. Liga
+044,20.04.,14:00,TURK 1,FK Balkan Nebitci,1:2,Energetik FK Mary,Turkmenistan 1. Liga
+043,20.04.,15:00,TURK 1,Ahal FK,2:0,Sagadam FK,Turkmenistan 1. Liga
+040,22.04.,15:00,TAJ 1,FC Kuktosh*,abgesagt,FC Khujand,Tadschikistan 1. Liga
+046,24.04.,17:00,BLR 1,FC Smolevichi,1:3,FC Dinamo Minsk,Weißrussland Premier League
+047,24.04.,19:00,BLR 1,Neman Grodno,3:0,Energet. BGU Minsk,Weißrussland Premier League
+048,25.04.,14:00,BLR 1,Slavia Mozyr,1:3,FC Minsk,Weißrussland Premier League
+049,25.04.,16:00,BLR 1,FC Gorodeya,0:2,FC BATE Borisov,Weißrussland Premier League
+050,25.04.,18:00,BLR 1,Dinamo Brest,0:2,Shakhter Soligorsk,Weißrussland Premier League
+051,26.04.,13:00,BLR 1,FC Slutsk,3:2,Belshina Bobruisk,Weißrussland Premier League
+052,26.04.,15:00,BLR 1,FC Torpedo Zhodino,0:0,FC Rukh Brest,Weißrussland Premier League
+053,26.04.,17:00,BLR 1,Isloch,2:0,FC Vitebsk,Weißrussland Premier League
