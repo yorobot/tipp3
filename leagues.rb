@@ -3,7 +3,7 @@
 require 'csvreader'
 
 
-
+require_relative 'program_ids'
 require_relative 'programs'
 
 
@@ -16,8 +16,8 @@ PROGRAMS_2020.each do |program|
    ## pp recs[0]
 
    recs.each do |rec|
-     league_code  = EXTRA_LEAGUE_MAPPINGS[ rec[:liga] ] || rec[:liga]    ## check for corrections / (re)mappings first
-     league_title = rec[:liga_title]
+     league_code = EXTRA_LEAGUE_MAPPINGS[ rec[:league] ] || rec[:league]    ## check for corrections / (re)mappings first
+     league_name = rec[:league_name]
 
      next if HOCKEY_LEAGUES.include?( league_code ) ||     ## skip (ice) hockey leagues
              BASKETBALL_LEAGUES.include?( league_code ) ||
@@ -26,12 +26,9 @@ PROGRAMS_2020.each do |program|
              WINTER_LEAGUES.include?( league_code )       ## skip ski alpin
 
 
-      ## remove leading "Fussball -" from title (before 2020 format change)
-      league_title = league_title.sub('Fussball - ','')  if league_title =~ %r{Fussball -}
+      puts "#{league_code} | #{league_name}"
 
-      puts "#{league_code} | #{league_title}"
-
-      leagues[ league_code ] ||= [0, league_title]
+      leagues[ league_code ] ||= [0, league_name]
       leagues[ league_code ][0] += 1
    end
 end

@@ -34,7 +34,8 @@ end
 
 
 # prog_ids = (888..984).to_a.reverse.take(6)
-prog_ids = (888..984).to_a.reverse
+# prog_ids = (888..984).to_a.reverse
+prog_ids = PROGS_BY_ID.keys
 pp prog_ids
 
 prog_ids.each do |prog_id|

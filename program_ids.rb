@@ -3,9 +3,9 @@ require 'date'
 require 'time'
 require 'nokogiri'
 
+# <option value="985">06.11.2020-09.11.2020</option>
 
 html =<<HTML
-<option value="985">06.11.2020-09.11.2020</option>
 <option value="984">03.11.2020-05.11.2020</option>
 <option value="983">30.10.2020-02.11.2020</option>
 <option value="982">27.10.2020-29.10.2020</option>
@@ -166,5 +166,28 @@ options.each do |option|
 end
 
 
+
 pp PROGS_BY_ID
+
+PROGRAMS_2019 = []
+PROGRAMS_2020 = []
+
+PROGS_BY_ID.each do |num,prog|
+  date = prog[:start_date]
+  name = prog[:name]
+
+  if date.cwyear == 2019         # note: use calendar (week) year
+    PROGRAMS_2019 << name
+  elsif date.cwyear == 2020
+    PROGRAMS_2020 << name
+  else
+    puts "!! ERROR - unexpected year #{date.cwyear}; add to programs config"
+    exit 1
+  end
+end
+
+PROGRAMS =  PROGRAMS_2020 + PROGRAMS_2019
+
+pp PROGRAMS_2020
+pp PROGRAMS_2019
 
