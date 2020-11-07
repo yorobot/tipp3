@@ -1,7 +1,7 @@
 require_relative 'lib/metal'
 
 
-require_relative 'program_ids'
+require_relative 'programs'
 
 
 

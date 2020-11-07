@@ -3,10 +3,6 @@
 require 'csvreader'
 
 
-require_relative 'program_ids'
-require_relative 'programs'
-
-
 require 'sportdb/config'
 
 ## use (switch to) "external" datasets
@@ -17,6 +13,8 @@ LEAGUES = SportDb::Import.catalog.leagues
 
 
 
+require_relative 'programs'
+require_relative 'config'
 
 
 leagues = {}    ## track league usage & names

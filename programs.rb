@@ -1,129 +1,193 @@
+require 'pp'
+require 'date'
+require 'time'
+require 'nokogiri'
 
-EXTRA_LEAGUE_MAPPINGS = {
-  'ENG 1'  => 'ENG 3',   ## note: ENG 1 is Premier League (level 1) NOT League One (level 3)
-  'ENG 2'  => 'ENG 4',   ## note: ENG 2 is Championship (level 2) NOT League Two (level 4)
-  'CL'     => 'UEFA CL',    ##  how to deal with cl for Chile AND Champions Leauge??
-  'EL'     => 'UEFA EL',
-  ## 'RL TIR' => 'AUT RL T',   ## or use AUT RLT or AUT RL TIR ???
-  ## 'RL SBG' => 'AUT RL S',
-  ## 'RL VBG' => 'AUT RL V',
+# <option value="985">06.11.2020-09.11.2020</option>
 
-  ## 'FA TRO' => 'ENG FA TRO',  ## England FA Trophy
-}
+html =<<HTML
+<option value="984">03.11.2020-05.11.2020</option>
+<option value="983">30.10.2020-02.11.2020</option>
+<option value="982">27.10.2020-29.10.2020</option>
+<option value="981">23.10.2020-26.10.2020</option>
+<option value="980">20.10.2020-22.10.2020</option>
+<option value="979">16.10.2020-19.10.2020</option>
+<option value="978">13.10.2020-15.10.2020</option>
+<option value="977">09.10.2020-12.10.2020</option>
+<option value="976">06.10.2020-08.10.2020</option>
+<option value="975">02.10.2020-05.10.2020</option>
+<option value="974">29.09.2020-01.10.2020</option>
+<option value="973">25.09.2020-28.09.2020</option>
+<option value="972">22.09.2020-24.09.2020</option>
+<option value="971">18.09.2020-21.09.2020</option>
+<option value="970">15.09.2020-17.09.2020</option>
+<option value="969">11.09.2020-14.09.2020</option>
+<option value="968">08.09.2020-10.09.2020</option>
+<option value="967">04.09.2020-07.09.2020</option>
+<option value="966">01.09.2020-03.09.2020</option>
+<option value="965">28.08.2020-31.08.2020</option>
+<option value="964">25.08.2020-27.08.2020</option>
+<option value="963">21.08.2020-24.08.2020</option>
+<option value="962">18.08.2020-20.08.2020</option>
+<option value="961">14.08.2020-17.08.2020</option>
+<option value="960">11.08.2020-13.08.2020</option>
+<option value="959">07.08.2020-10.08.2020</option>
+<option value="958">04.08.2020-06.08.2020</option>
+<option value="957">31.07.2020-03.08.2020</option>
+<option value="956">28.07.2020-30.07.2020</option>
+<option value="955">24.07.2020-27.07.2020</option>
+<option value="954">21.07.2020-23.07.2020</option>
+<option value="953">17.07.2020-20.07.2020</option>
+<option value="952">14.07.2020-16.07.2020</option>
+<option value="951">10.07.2020-13.07.2020</option>
+<option value="950">07.07.2020-09.07.2020</option>
+<option value="949">03.07.2020-06.07.2020</option>
+<option value="948">30.06.2020-02.07.2020</option>
+<option value="947">26.06.2020-29.06.2020</option>
+<option value="946">23.06.2020-25.06.2020</option>
+<option value="945">19.06.2020-22.06.2020</option>
+<option value="944">16.06.2020-18.06.2020</option>
+<option value="943">12.06.2020-15.06.2020</option>
+<option value="942">09.06.2020-11.06.2020</option>
+<option value="941">05.06.2020-08.06.2020</option>
+<option value="940">02.06.2020-04.06.2020</option>
+<option value="939">29.05.2020-01.06.2020</option>
+<option value="938">26.05.2020-28.05.2020</option>
+<option value="937">22.05.2020-25.05.2020</option>
+<option value="936">19.05.2020-21.05.2020</option>
+<option value="935">15.05.2020-18.05.2020</option>
+<option value="934">12.05.2020-14.05.2020</option>
+<option value="933">08.05.2020-11.05.2020</option>
+<option value="932">05.05.2020-07.05.2020</option>
+<option value="931">30.04.2020-04.05.2020</option>
+<option value="930">24.04.2020-29.04.2020</option>
+<option value="929">21.04.2020-23.04.2020</option>
+<option value="928">17.04.2020-20.04.2020</option>
+<option value="927">10.04.2020-16.04.2020</option>
+<option value="926">07.04.2020-09.04.2020</option>
+<option value="925">03.04.2020-06.04.2020</option>
+<option value="924">31.03.2020-02.04.2020</option>
+<option value="923">27.03.2020-30.03.2020</option>
+<option value="922">24.03.2020-26.03.2020</option>
+<option value="921">20.03.2020-23.03.2020</option>
+<option value="920">17.03.2020-19.03.2020</option>
+<option value="919">13.03.2020-16.03.2020</option>
+<option value="918">10.03.2020-12.03.2020</option>
+<option value="917">06.03.2020-09.03.2020</option>
+<option value="916">03.03.2020-05.03.2020</option>
+<option value="915">28.02.2020-02.03.2020</option>
+<option value="914">25.02.2020-27.02.2020</option>
+<option value="913">21.02.2020-24.02.2020</option>
+<option value="912">18.02.2020-20.02.2020</option>
+<option value="911">14.02.2020-17.02.2020</option>
+<option value="910">11.02.2020-13.02.2020</option>
+<option value="909">07.02.2020-10.02.2020</option>
+<option value="908">04.02.2020-06.02.2020</option>
+<option value="907">31.01.2020-03.02.2020</option>
+<option value="906">28.01.2020-30.01.2020</option>
+<option value="905">24.01.2020-27.01.2020</option>
+<option value="904">21.01.2020-23.01.2020</option>
+<option value="903">17.01.2020-20.01.2020</option>
+<option value="902">14.01.2020-16.01.2020</option>
+<option value="901">10.01.2020-13.01.2020</option>
+<option value="900">07.01.2020-09.01.2020</option>
+<option value="899">03.01.2020-06.01.2020</option>
+<option value="898">30.12.2019-02.01.2020</option>
+<option value="897">27.12.2019-29.12.2019</option>
+<option value="896">23.12.2019-26.12.2019</option>
+<option value="895">20.12.2019-22.12.2019</option>
+<option value="894">17.12.2019-19.12.2019</option>
+<option value="893">13.12.2019-16.12.2019</option>
+<option value="892">10.12.2019-12.12.2019</option>
+<option value="891">06.12.2019-09.12.2019</option>
+<option value="890">03.12.2019-05.12.2019</option>
+<option value="889">29.11.2019-02.12.2019</option>
+<option value="888">26.11.2019-28.11.2019</option>
+HTML
+
+doc = Nokogiri::HTML.fragment( html )
+
+options = doc.css( 'option' )
+pp options[0]
 
 
-HOCKEY_LEAGUES = [
-  'NHL',     # USA NHL
-  'KHL',     # Kontinental Hockey League
-  'EH AUT',  # Österreich Erste Bank-EHL
-  'EH GER',  # Deutschland Deutsche Eishockey Liga
-  'INTGERC', # Germany Cup
-  'EH SWE',  # Schweden Elitserien
-  'EH ALP',  # Alps Hockey League
-  'EH SUI',  # Schweiz National League A
-  'EH FIN',  # Finnland SM-Liiga
-  'EH ENG',  # England, Elite League
-  'EH CZE',  # Tschechische Republik Extraliga
-  'EH CZE2', # Tschechische Republik 1. Liga
-  'EH CL',   # Champions Hockey League
-  'EH WM',   # Eishockey WM 2019
-  'EH TOUR', # Euro Hockey Tour
-  'EH FS',   # Freundschaftsspiele, Herren
-  'EH NOR',  # Norwegen GET-Ligaen
-  'EH SVK',  # Slowakei Extraliga
-]
-
-HANDBALL_LEAGUES = [
-  'HB EM',   # Handball Europameisterschaft
-  'HB EMQ',  # Europameisterschaft Qualifikation
-  'HB FS',   # Freundschaftsspiele, Herren
-  'HB AUT',  # Österreich HLA
-  'HB GER',  # Deutsche Handball Bundesliga
-  'HBAUTSC', # Handball Supercup Österreich
-  'HBGERSC', # Deutschland Supercup
-  'EHF EUC', # EHF EURO Cup
-  'HB CL',   # Champions League, Herren
-  'HBWMQD',  # Weltmeisterschaft, Qualifikation, Damen
-]
-
-BASKETBALL_LEAGUES = [
-  'BB AUT',  # Österreich Basketball Superliga
-  'BB AUTC', # Basketball Cup Österreich
-  'BBAUTSC', # Österreich, Herren Supercup
-  'BB GER',  # Deutschland BBL
-  'BB ESP',  # Spanien Spagnola ACB
-  'BB ITA',  # Italien A1
-  'BB FRA',  # Frankreich Pro A
-  'BB POR',  # Portugal, LPB
-  'BB WM',   # FIBA Weltmeisterschaft
-  'BB EL',   # Euroleague
-  'BB BEL',  # Belgien Scooore League
-  'BB CL',   # Basketball Champions League
-  'BB EU C', # Europe Cup
-  'BB SER',  # Serbien A1 League
-  'BB TUR',  #Türkei TBL
-  'NBA',     # USA NBA
-  'BB EC',   # Eurocup
-  'BB EMDA', # Europameisterschaft Damen
-]
-
-WINTER_LEAGUES = [
-  'HE-SL',   # Ski Alpin, Herren Slalom
-  'HE-RTL',  # Ski Alpin, Herren Riesentorlauf
-]
-
-MORE_LEAGUES = [
-  'NFL',      # USA NFL
-  'AFB AFL',  # Austrian Football League
-  'RUG WM',   # Rugby Union WM
-  'VB EM H',  # Volleyball Europameisterschaft Herren
-  'TEN ATP',  # Tennis ATP
-  'TEN WTA',  # Tennis WTA
-  'TEN AUT',  # Austrian Pro, Einzel, Herren
-  'F1',       # Formel 1
-  'DA INT',   # Darts, International
-  'DART HO',  # Darts, PDC Home Tour (best of 9 Legs)
-  'DART CZ',  # Czech Darts Premier League
-  'CAND',     # Candidates 2020      -- World Chess
-]
 
 
-## national teams and/or women leagues
-EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with national (selction) teams for now
-  'WM Q',       # WM Qualifikation
-  'U20 WM',     # U20 Weltmeisterschaft
-  'EM Q',       # Europameisterschaft Qualifikation
-  'U21 EMQ',    # U21 EM Qualifikation
-  'U21 EM',     # U21 Europameisterschaft
-  'U19 EM',     # U19 Europameisterschaft
-  'U19 EMQ',    # U19 EM Qualifikation
-  'INT FS',     # Internationale Freundschaftsspiele
-  'FS U21',     # U21 Freundschaftsspiele
-  'FS U20',     # U20 Freundschaftsspiele
-  'AFR CUP',    # Afrika Cup
-  'AFR CQ',     # Africa Cup, Qualifikation
-  'GOLF-C',     # Golf Cup in Katar
-  'COPA AM',    # Copa America
-  'G-CUP',      # Gold Cup
-  'CCC NL',     # CONCACAF Nations League
-  'UEFA NL',    # UEFA Nations League
-  'COPA CA',    # Copa Centroamericana
+def date_to_progname( date )
+  buf = String.new('')
+  buf << '%04d-' % date.cwyear  ## note: use calendar year (e.g. 2019/12/30 => 2020/W01!)
+  buf << '%02d'  % date.cweek
+  ### add a or b depending on weekday
+  ##  d.cwdayReturn the day of calendar week of date d (1-7, Monday is 1)
+  if  date.monday? || date.tuesday?     ## mon, tue
+    buf << 'a_'
+  elsif date.thursday? || date.friday? || date.saturday? ## thu, fri, sat
+    buf << 'b_'
+  else
+    puts "!! ERROR: unknown program start weekday"
+    pp date
+    puts date
+    exit 1
+  end
 
-  ## national leagues (women)
-  'INT FSD',    # Internationale Freundschaftsspiele, Damen
-  'EMQDA',      # EM Qualifikation, Damen
-  'U19 DAQ',    # U19 EM Frauen, Qualifikation
-  'WM DAM',     # Damen WM 2019 in Frankreich
+  buf << date.strftime( '%a-%b-%-d' ).downcase
+  buf
+end
 
-  ## todo/fix: move to clubs leagues (women) - why? why not?
-  'CL DAM',     # UEFA Champions League Damen
-  'AUT DA',     # Österreich Frauen Bundesliga
-  'DA CUP',     # Österreich Damen Cup
-  'GER DA',     # Deutschland Frauen Bundesliga
 
-  ## misc
-  'FS',       # Freundschaftsspiele International (Klub)
-  'INT CHC',  # International Champions Cup
-  'PL ASIA',  # Premier League Asia Trophy
-  'EMR CUP',  # Emirates Cup
-]
+last_num = nil
+
+
+PROGS_BY_ID = {}   ## todo/fix/check: change to PROGRAMS_BY_ID - why? why not?
+options.each do |option|
+  puts "#{option.attributes['value']} => >#{option.text}<"
+
+  if option.text =~ /([0-9]{2})\.
+                     ([0-9]{2})\.
+                     ([0-9]{4})-
+                    /x
+    date = Date.strptime( "#{$3}/#{$2}/#{$1}", '%Y/%m/%d' )
+    num  = option.attributes['value'].value.to_i
+    PROGS_BY_ID[ num ] =
+    {
+      start_date: date,
+      name:       date_to_progname( date )  ## for convenience add calculated (file)name
+    }
+
+    if last_num && ((num+1) != last_num)   ## assert check steps must always be -1
+      puts "!! ERROR: progid step NOT +1"
+      exit 1
+    end
+    last_num = num
+  else
+    puts "!! ERROR - unknown date format in program id; sorry"
+    exit 1
+  end
+end
+
+
+
+pp PROGS_BY_ID
+
+PROGRAMS_2019 = []
+PROGRAMS_2020 = []
+
+PROGS_BY_ID.each do |num,prog|
+  date = prog[:start_date]
+  name = prog[:name]
+
+  if date.cwyear == 2019         # note: use calendar (week) year
+    PROGRAMS_2019 << name
+  elsif date.cwyear == 2020
+    PROGRAMS_2020 << name
+  else
+    puts "!! ERROR - unexpected year #{date.cwyear}; add to programs config"
+    exit 1
+  end
+end
+
+PROGRAMS =  PROGRAMS_2020 + PROGRAMS_2019
+
+pp PROGRAMS_2020
+pp PROGRAMS_2019
+
