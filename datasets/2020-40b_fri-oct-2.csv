@@ -1,8 +1,9 @@
 Num,Date,Time,League,Team 1,Score,Team 2,League Name
 001,02.10.,11:00,TEN ATP,"Ruud, Casper",0:3,"Thiem, Dominic",Tennis ATP
 002,02.10.,12:45,TEN ATP,"Sonego, Lorenzo",3:0,"Fritz, Taylor",Tennis ATP
-005,02.10.,13:35,TEN WTA,"Halep, Simona",2:0,"Anisimova, Am.",Tennis WTA
+003,02.10.,19:10,TEN ATP,"Zverev, Alexander",3:0,"Cecchinato, Marco",Tennis ATP
 004,02.10.,17:00,TEN ATP,"Coria, Federico",0:3,"Sinner, Jannik",Tennis ATP
+005,02.10.,13:35,TEN WTA,"Halep, Simona",2:0,"Anisimova, Am.",Tennis WTA
 006,02.10.,18:30,AUT 2,FC Liefering,1:1,Grazer AK,Österreich Zweite Liga
 007,02.10.,18:30,AUT 2,SV Horn,1:1,FC Juniors OÖ,Österreich Zweite Liga
 008,02.10.,18:30,GER 2,VfL Bochum,0:0,VfL Osnabrück,Deutschland 2. Bundesliga
@@ -11,7 +12,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 011,02.10.,19:00,TUR 1,Gazis. Gaziantep,1:1,Trabzonspor,Türkei Süper Lig
 012,02.10.,19:00,TUR 1,MKE Ankaragücü,0:1,Kayserispor,Türkei Süper Lig
 013,02.10.,19:00,DEN 1,Randers FC,1:2,Bröndby IF,Dänemark Superligaen
-003,02.10.,19:10,TEN ATP,"Zverev, Alexander",3:0,"Cecchinato, Marco",Tennis ATP
 014,02.10.,19:15,EH AUT,Vienna Capitals,5:3,Black Wings Linz,Österreich Eishockey Liga
 015,02.10.,19:15,EH AUT,EC Graz 99ers,1:2,EC Dornbirn,Österreich Eishockey Liga
 016,02.10.,19:15,EH AUT,Fehervar,1:4,KAC Klagenfurt,Österreich Eishockey Liga
@@ -96,6 +96,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 096,04.10.,20:45,ITA A,Juventus Turin,abgesagt,SSC Napoli,Italien Serie A
 097,04.10.,21:00,ESP 1,FC Barcelona,1:1,FC Sevilla,Spanien Primera Division
 098,04.10.,21:00,FRA 1,Olympique Lyon,1:1,Olymp. Marseille,Frankreich Ligue 1
+099,06.10.,01:05,NFL,Kansas Chiefs,26:10,N.England Patriots,USA NFL
 100,05.10.,17:30,FIN 1,Kuopio PS,1:1,Tampereen Ilves,Finnland Veikkausliiga
 101,05.10.,17:30,EGY 1,EL Gouna FC*,0:2,Al-Masry Club,Ägypten Premier League
 102,05.10.,18:00,KHL,AK Bars Kasan,4:1,Salavat Yulaev Ufa,Kontinental Hockey League
@@ -107,13 +108,12 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 108,05.10.,19:00,SWE 2,Degerfors IF,4:1,Vasteraas SK,Schweden Superettan
 109,05.10.,20:00,ROU 1,UTA Arad,0:0,FC Academica Clinc,Rumänien Liga 1
 110,05.10.,20:30,GER 2,1. FC Nürnberg,2:3,SV Darmstadt 98,Deutschland 2. Bundesliga
-112,05.10.,20:45,POR 2,FC Vizela,1:1,GD Chaves,Portugal Segunda Liga
 111,05.10.,21:00,ITA C1B,AC Arezzo,0:1,Perugia Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+112,05.10.,20:45,POR 2,FC Vizela,1:1,GD Chaves,Portugal Segunda Liga
 113,05.10.,21:00,NL 2,FC Oss,2:0,FC Dordrecht,Niederlande Jupiler League
-099,06.10.,01:05,NFL,Kansas Chiefs,26:10,N.England Patriots,USA NFL
 114,06.10.,02:50,NFL,Green Bay Packers,30:16,Atlanta Falcons,USA NFL
-116,07.10.,20:30,INT FS,Österreich,2:1,Griechenland,Internationale Freundschaftsspiele
 115,07.10.,20:45,INT FS,Deutschland,3:3,Türkei,Internationale Freundschaftsspiele
+116,07.10.,20:30,INT FS,Österreich,2:1,Griechenland,Internationale Freundschaftsspiele
 117,07.10.,20:45,INT FS,Portugal,0:0,Spanien,Internationale Freundschaftsspiele
 118,07.10.,20:45,INT FS,Schweiz,1:2,Kroatien,Internationale Freundschaftsspiele
 119,07.10.,21:10,INT FS,Frankreich,7:1,Ukraine,Internationale Freundschaftsspiele

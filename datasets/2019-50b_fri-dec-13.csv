@@ -50,8 +50,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 049,14.12.,17:00,AUT BL,Admira Wacker,0:3,SK Rapid Wien,Österreich Bundesliga
 050,14.12.,17:00,AUT BL,TSV Hartberg,2:2,RB Salzburg,Österreich Bundesliga
 051,14.12.,17:30,FRA 1,FC Metz,1:1,Olymp. Marseille,Frankreich Ligue 1
-053,14.12.,18:00,TUR 1,Galatasaray,2:2,MKE Ankaragücü,Türkei Süper Lig
 052,14.12.,18:30,ITA A,SSC Napoli,1:2,FC Parma,Italien Serie A
+053,14.12.,18:00,TUR 1,Galatasaray,2:2,MKE Ankaragücü,Türkei Süper Lig
 054,14.12.,18:30,GER BL,Fortuna Düsseldorf,0:3,RB Leipzig,Deutschland Bundesliga
 055,14.12.,18:30,ENG PL,FC Southampton,0:1,West Ham United,England Premier League
 056,14.12.,18:30,ESP 1,Athletic Bilbao,0:0,SD Eibar,Spanien Primera Division
@@ -111,8 +111,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 110,16.12.,20:30,GER 2,SV Darmstadt 98,1:1,VfB Stuttgart,Deutschland 2. Bundesliga
 111,16.12.,20:45,ENG PL,Crystal Palace,1:1,Brighton & Hove,England Premier League
 112,16.12.,20:45,ITA A,Cagliari Calcio,1:2,Lazio Rom,Italien Serie A
-114,16.12.,20:45,FRA 2,EA Guingamp,0:1,Troyes AC,Frankreich Ligue 2
 113,16.12.,21:00,ITA C1B,Reggio Audace FC,1:0,Padua Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+114,16.12.,20:45,FRA 2,EA Guingamp,0:1,Troyes AC,Frankreich Ligue 2
 115,16.12.,21:00,ITA B,Trapani Calcio,1:3,SC Pisa,Italien Serie B
 116,16.12.,21:15,POR 1,FC Porto,3:0,CD Tondela,Portugal Primeira Liga
 117,17.12.,01:00,NHL,New York Rangers,2:5,Nashville Pred.,USA NHL

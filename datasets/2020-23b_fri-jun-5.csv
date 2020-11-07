@@ -57,6 +57,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 056,06.06.,18:15,GRE 1,Panionios Athen,1:0,Volos NFC,Griechenland Super League
 057,06.06.,18:30,GER BL,Bor. Dortmund,1:0,Hertha BSC,Deutschland Bundesliga
 058,06.06.,18:30,GER BL,Bor. Dortmund,1:1,Hertha BSC+1,Deutschland Bundesliga
+059,07.06.,17:45,GRE 1,Skoda Xanthi FC,abgesagt,Atromitos Athen,Griechenland Super League
 060,06.06.,19:00,SERB 1,Roter Stern B.,4:1,FK Radnik Surdulic,Serbien Meridijan Superliga
 061,06.06.,19:00,BLR 1,Dinamo Brest,6:1,FC Minsk,Weißrussland Premier League
 062,06.06.,20:00,ISR 1,Hap. Beer Sheva,0:0,Hapoel Tel Aviv,Israel Winner League
@@ -76,7 +77,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 076,07.06.,14:00,GER 3,Carl Zeiss Jena*,1:2,FC Kaiserslautern,Deutschland 3. Liga
 077,07.06.,15:00,CZE 1,MFK Karvina,0:0,SK Dynamo Budweis,Tschechien Gambrinus Liga
 078,07.06.,15:00,CZE 1,SFC Opava,1:1,1. FC Slovacko,Tschechien Gambrinus Liga
-096,07.06.,15:00,SERB 1,FK Radnicki Nis,4:3,FK Rad Belgrad,Serbien Meridijan Superliga
 079,07.06.,15:30,GER BL,FC Union Berlin,1:1,FC Schalke 04,Deutschland Bundesliga
 080,07.06.,16:00,UKR 1,FC Dynamo Kiev,5:1,FC Oleksandria,Ukraine Premier League
 081,07.06.,17:00,AUT BL,Wolfsberger AC,3:3,LASK Linz,Österreich Bundesliga
@@ -94,8 +94,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 093,07.06.,17:00,DEN 1,Odense BK,3:1,Esbjerg FB,Dänemark Superligaen
 094,07.06.,17:00,CZE 1,SK Sigma Olmütz,2:3,FC Banik Ostrava,Tschechien Gambrinus Liga
 095,07.06.,17:00,CZE 1,FK Teplice,1:2,FK Baumit Jablonec,Tschechien Gambrinus Liga
+096,07.06.,15:00,SERB 1,FK Radnicki Nis,4:3,FK Rad Belgrad,Serbien Meridijan Superliga
 097,07.06.,17:30,POL 1,Wisla Krakau,1:3,Legia Warschau,Polen Orange Ekstraklasa
-059,07.06.,17:45,GRE 1,Skoda Xanthi FC,abgesagt,Atromitos Athen,Griechenland Super League
 098,07.06.,18:00,GER BL,FC Augsburg,1:1,1. FC Köln,Deutschland Bundesliga
 099,07.06.,18:15,GRE 1,AE Larissa,1:2,Asteras Tripolis,Griechenland Super League
 100,07.06.,18:30,GRE 1,PAOK Thessaloniki,0:1,Olympiakos Piräus,Griechenland Super League

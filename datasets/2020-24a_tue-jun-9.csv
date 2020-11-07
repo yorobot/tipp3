@@ -102,18 +102,18 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 101,11.06.,22:00,ESP 1,FC Sevilla,2:0,Betis Sevilla,Spanien Primera Division
 102,11.06.,22:00,ESP 1,FC Sevilla,2:1,Betis Sevilla+1,Spanien Primera Division
 103,11.06.,22:15,POR 1,CD Tondela,2:0,CD Aves,Portugal Primeira Liga
-111,12.06.,20:30,GER BL,TSG Hoffenheim,0:2,RB Leipzig,Deutschland Bundesliga
-112,13.06.,15:30,GER BL,Hertha BSC,1:4,Eintr. Frankfurt,Deutschland Bundesliga
-114,13.06.,15:30,GER BL,Fortuna Düsseldorf,0:1,Bor. Dortmund,Deutschland Bundesliga
-115,13.06.,15:30,GER BL,VfL Wolfsburg,2:2,SC Freiburg,Deutschland Bundesliga
-116,13.06.,15:30,GER BL,1. FC Köln,1:2,FC Union Berlin,Deutschland Bundesliga
-117,13.06.,15:30,GER BL,SC Paderborn,1:5,Werder Bremen,Deutschland Bundesliga
+104,14.06.,19:30,AUT BL,RB Salzburg,3:1,LASK Linz,Österreich Bundesliga
+105,14.06.,17:00,AUT BL,SK Rapid Wien,2:1,Wolfsberger AC,Österreich Bundesliga
+106,14.06.,17:00,AUT BL,TSV Hartberg,1:2,SK Sturm Graz,Österreich Bundesliga
 107,13.06.,17:00,AUT BL,SV Mattersburg,1:4,FK Austria Wien,"Österreich Bundesliga, Qualifikationsgruppe"
 108,13.06.,17:00,AUT BL,Admira Wacker,0:3,WSG Swarovs. Tirol,"Österreich Bundesliga, Qualifikationsgruppe"
 109,13.06.,17:00,AUT BL,SCR Altach,2:0,SKN St. Pölten,"Österreich Bundesliga, Qualifikationsgruppe"
 110,13.06.,18:30,GER BL,FC Bayern München,2:1,Mönchengladbach,Deutschland Bundesliga
-118,14.06.,15:30,GER BL,FSV Mainz 05,0:1,FC Augsburg,Deutschland Bundesliga
-105,14.06.,17:00,AUT BL,SK Rapid Wien,2:1,Wolfsberger AC,Österreich Bundesliga
-106,14.06.,17:00,AUT BL,TSV Hartberg,1:2,SK Sturm Graz,Österreich Bundesliga
+111,12.06.,20:30,GER BL,TSG Hoffenheim,0:2,RB Leipzig,Deutschland Bundesliga
+112,13.06.,15:30,GER BL,Hertha BSC,1:4,Eintr. Frankfurt,Deutschland Bundesliga
 113,14.06.,18:00,GER BL,FC Schalke 04,1:1,Bayer Leverkusen,Deutschland Bundesliga
-104,14.06.,19:30,AUT BL,RB Salzburg,3:1,LASK Linz,Österreich Bundesliga
+114,13.06.,15:30,GER BL,Fortuna Düsseldorf,0:1,Bor. Dortmund,Deutschland Bundesliga
+115,13.06.,15:30,GER BL,VfL Wolfsburg,2:2,SC Freiburg,Deutschland Bundesliga
+116,13.06.,15:30,GER BL,1. FC Köln,1:2,FC Union Berlin,Deutschland Bundesliga
+117,13.06.,15:30,GER BL,SC Paderborn,1:5,Werder Bremen,Deutschland Bundesliga
+118,14.06.,15:30,GER BL,FSV Mainz 05,0:1,FC Augsburg,Deutschland Bundesliga

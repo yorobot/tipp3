@@ -55,7 +55,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 054,22.07.,18:00,RUS PL,FC Krasnodar,4:0,FK Achmat Grozny,Russland Premier League
 055,22.07.,18:00,DEN 1,FC Nordsjaelland,1:1,AGF Aarhus,Dänemark Superligaen
 056,22.07.,18:00,LAT 1,FK Jelgava,1:5,FK Liepaja,Lettland LMT Virsliga
-084,22.07.,18:00,SLO 1,NK Aluminij,1:4,NK Maribor,Slowenien PrvaLiga Telekom
 057,22.07.,18:15,SUI SL,FC Thun,5:1,FC Servette Genf,Schweiz Axpo Super League
 058,22.07.,19:00,ROU CUP,Sepsi Sf.Gheorghe*,0:1,FCS Bukarest,Rumänien Cup
 059,22.07.,19:00,ENG PL,Manchester United,1:1,West Ham United,England Premier League
@@ -83,6 +82,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 081,22.07.,20:30,SUI SL,FC Luzern,1:2,FC Sion,Schweiz Axpo Super League
 082,22.07.,20:45,ITA C1A,Reggio Audace FC,1:0,AS Bari,"Italien Lega Pro Prima Divisione, Girone A"
 083,22.07.,20:45,SLO 1,NK Celje,2:2,Olimpija Ljubljana,Slowenien PrvaLiga Telekom
+084,22.07.,18:00,SLO 1,NK Aluminij,1:4,NK Maribor,Slowenien PrvaLiga Telekom
 085,22.07.,21:15,ENG PL,FC Liverpool,5:3,FC Chelsea,England Premier League
 086,22.07.,21:15,ENG PL,FC Liverpool,5:4,FC Chelsea+1,England Premier League
 087,22.07.,21:45,ITA A,Inter Mailand,0:0,AC Fiorentina,Italien Serie A
@@ -95,9 +95,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 094,23.07.,15:00,MLSBACK,Chicago Fire*,0:2,Vancouver W'caps,"USA, MLS is Back Tournament"
 095,23.07.,17:45,IRI 1,Shahr Khodro FC,0:0,Tractor Sazi,Iran Pro League
 096,23.07.,18:00,DEN 1,Odense BK,3:1,AC Horsens,Dänemark Superligaen
-099,23.07.,18:00,LIT 1,Suduva Marijampole,0:0,FK Banga Gargzdai,Litauen A lyga
 097,23.07.,18:30,IRI 1,Esteghlal Tehran,1:1,Nassaji Mazandaran,Iran Pro League
 098,23.07.,18:30,IRI 1,Peykan,0:0,Pars Jonoubi Jam,Iran Pro League
+099,23.07.,18:00,LIT 1,Suduva Marijampole,0:0,FK Banga Gargzdai,Litauen A lyga
 100,23.07.,19:00,ROU 1,AFC Hermannstadt,abgesagt,Dinamo Bukarest,Rumänien Liga 1
 101,23.07.,19:00,SWE 1,Malmö FF,3:0,Hammarby IF,Schweden Allsvenskan
 102,23.07.,19:00,SWE 1,IFK Göteborg,2:2,Falkenbergs FF,Schweden Allsvenskan
@@ -117,5 +117,5 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 116,23.07.,21:45,ITA A,Lazio Rom,2:2,Cagliari Calcio+1,Italien Serie A
 117,23.07.,22:15,ISL 1,HK Kopavogs,1:0,Breidablik,Island Urvalsdeild
 118,24.07.,02:00,MLSBACK,LA Galaxy*,1:1,Houston Dynamo,"USA, MLS is Back Tournament"
-120,24.07.,04:00,MEX 1,San Luis,abgesagt,FC Juarez,Mexiko Primera Division
 119,24.07.,04:30,MLSBACK,Los Angeles FC*,2:2,Portland Timbers,"USA, MLS is Back Tournament"
+120,24.07.,04:00,MEX 1,San Luis,abgesagt,FC Juarez,Mexiko Primera Division

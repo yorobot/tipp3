@@ -15,6 +15,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 014,06.03.,19:15,EH AUT,Villacher SV,2:7,EC RB Salzburg,Österreich Eishockey Liga
 015,06.03.,19:15,EH AUT,Black Wings Linz,3:3,KAC Klagenfurt,Österreich Eishockey Liga
 016,06.03.,19:15,EH AUT,EC Graz 99ers,3:2,Vienna Capitals,Österreich Eishockey Liga
+017,08.03.,17:00,AUT RLO,FCM Traiskirchen,1:3,Marchfeld Donauaue,Österreich Regionalliga Ost
 018,06.03.,19:30,AUT RLO,Wiener Sport-Club,1:2,ASK Ebreichsdorf,Österreich Regionalliga Ost
 019,06.03.,20:00,GER BL,SC Paderborn,1:2,1. FC Köln,Deutschland Bundesliga
 020,06.03.,20:00,GER BL,SC Paderborn+1,2:2,1. FC Köln,Deutschland Bundesliga
@@ -86,7 +87,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 086,08.03.,15:30,GER BL,FC Bayern München,2:2,FC Augsburg+2,Deutschland Bundesliga
 087,08.03.,16:00,ESP 1,Levante UD,1:1,Granada CF,Spanien Primera Division
 088,08.03.,16:45,NL 1,FC Groningen,0:1,PSV Eindhoven,Niederlande Eredivisie
-017,08.03.,17:00,AUT RLO,FCM Traiskirchen,1:3,Marchfeld Donauaue,Österreich Regionalliga Ost
 089,08.03.,17:00,FRA 1,Stade Rennes,5:0,HSC Montpellier,Frankreich Ligue 1
 090,08.03.,17:00,TUR 1,Sivasspor,2:2,Galatasaray,Türkei Süper Lig
 091,08.03.,17:30,ENG PL,Manchester United,2:0,Manchester City,England Premier League

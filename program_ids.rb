@@ -115,13 +115,13 @@ pp options[0]
 
 def date_to_progname( date )
   buf = String.new('')
-  buf << '%04d-' % date.year
+  buf << '%04d-' % date.cwyear  ## note: use calendar year (e.g. 2019/12/30 => 2020/W01!)
   buf << '%02d'  % date.cweek
   ### add a or b depending on weekday
   ##  d.cwdayReturn the day of calendar week of date d (1-7, Monday is 1)
   if  date.monday? || date.tuesday?     ## mon, tue
     buf << 'a_'
-  elsif date.thursday? || date.friday?  ## thu, fri
+  elsif date.thursday? || date.friday? || date.saturday? ## thu, fri, sat
     buf << 'b_'
   else
     puts "!! ERROR: unknown program start weekday"

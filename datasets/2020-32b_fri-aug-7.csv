@@ -34,11 +34,11 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 033,08.08.,17:00,RL SBG,Austria Salzburg,3:1,SV Grödig,Regionalliga Salzburg
 034,08.08.,17:00,RL SBG,USK Anif,0:0,SV Seekirchen,Regionalliga Salzburg
 035,08.08.,17:30,RUS PL,FK Tambow,0:1,FC Rostov,Russland Premier League
+036,08.08.,19:00,RL SBG,SV Kuchl,3:1,SAK 1914 Salzburg,Regionalliga Salzburg
 037,08.08.,18:00,RL TIR,FC Kitzbühel,4:1,SC Schwaz,Regionalliga Tirol
 038,08.08.,18:00,SVK 1,FC Nitra,0:5,Slovan Bratislava,Slowakei Corgon Liga
 039,08.08.,18:00,NOR 1,Valerenga IF,2:2,Bodö Glimt,Norwegen Tippeligaen
 040,08.08.,18:00,IRL 1,FC Sligo Rovers,2:1,Shelbourne Dublin,Irland Premier Division
-036,08.08.,19:00,RL SBG,SV Kuchl,3:1,SAK 1914 Salzburg,Regionalliga Salzburg
 041,08.08.,19:00,BEL 1,Standard Lüttich,1:0,Cercle Brügge KSV,Belgien Jupiler Pro League
 042,08.08.,19:00,BEL 1,FC Royal Antwerpen,1:1,RE Mouscron,Belgien Jupiler Pro League
 043,08.08.,19:00,RL SBG,SV Wals-Grünau,1:3,Pinzgau Saalfelden,Regionalliga Salzburg
@@ -79,13 +79,13 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 078,09.08.,18:00,NOR 1,Kristiansund BK,3:2,IK Start,Norwegen Tippeligaen
 079,09.08.,18:00,NOR 1,Mjöndalen,1:0,FK Haugesund,Norwegen Tippeligaen
 080,09.08.,18:00,NOR 1,Stabaek IF,0:1,Odds BK,Norwegen Tippeligaen
-084,09.08.,18:00,IRL 1,FC Derry City,1:2,FC Shamrock Rovers,Irland Premier Division
-085,09.08.,18:15,BEL 1,YR KV Mechelen,2:2,RSC Anderlecht,Belgien Jupiler Pro League
 081,09.08.,18:30,SERB 1,Macva Sabac,0:3,Roter Stern B.,Serbien Meridijan Superliga
-086,09.08.,19:00,RUS PL,FC Spartak Moskau,2:2,FK Sochi,Russland Premier League
-087,09.08.,20:00,POL SC,Legia Warschau,abgesagt,Cracovia Krakau,Polen Supercup
 082,09.08.,20:30,SERB 1,Partizan Belgrad,4:0,FK Javor Ivanjica,Serbien Meridijan Superliga
 083,09.08.,20:30,SERB 1,Cukaricki Belgrad,3:0,FK Rad Belgrad,Serbien Meridijan Superliga
+084,09.08.,18:00,IRL 1,FC Derry City,1:2,FC Shamrock Rovers,Irland Premier Division
+085,09.08.,18:15,BEL 1,YR KV Mechelen,2:2,RSC Anderlecht,Belgien Jupiler Pro League
+086,09.08.,19:00,RUS PL,FC Spartak Moskau,2:2,FK Sochi,Russland Premier League
+087,09.08.,20:00,POL SC,Legia Warschau,abgesagt,Cracovia Krakau,Polen Supercup
 088,09.08.,20:30,NOR 1,Rosenborg BK,5:1,Sarpsborg 08,Norwegen Tippeligaen
 089,09.08.,20:45,BEL 1,KV Kortrijk,1:3,Waasland-Beveren,Belgien Jupiler Pro League
 090,09.08.,21:00,ITA B,Frosinone Calcio,0:1,Pordenone Calcio,Italien Serie B

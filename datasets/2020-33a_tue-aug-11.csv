@@ -43,6 +43,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 042,12.08.,12:00,JPN 2,JEF Utd Ichihara,3:0,Matsumoto Yamaga,Japan J.League 2
 043,12.08.,12:00,JPN 2,Ehime FC,0:1,Montedio Yamagata,Japan J.League 2
 044,12.08.,12:00,JPN 2,V-Varen Nagasaki,3:1,Thespakusatsu,Japan J.League 2
+045,12.08.,12:30,JPN 2,Machida Zelvia,0:1,Tokushima Vortis,Japan J.League 2
 046,12.08.,12:00,JPN 2,Omiya Ardija,2:2,Jubilo Iwata,Japan J.League 2
 047,12.08.,12:00,JPN 2,FC Ryukyu,1:2,Ventforet Kofu,Japan J.League 2
 048,12.08.,12:00,JPN LC,Hokkaido Consadole,1:1,Yokohama FC,Japan Nabisco Cup
@@ -51,17 +52,15 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 051,12.08.,12:00,JPN LC,Nagoya Grampus,2:2,Kawasaki Frontale,Japan Nabisco Cup
 052,12.08.,12:00,JPN LC,Shimizu S-Pulse,2:3,Kashima Antlers,Japan Nabisco Cup
 053,12.08.,12:00,JPN LC,Vegalta Sendai,0:3,Cerezo Osaka,Japan Nabisco Cup
+054,12.08.,12:30,JPN LC,Shonan Bellmare,1:2,Gamba Osaka,Japan Nabisco Cup
 055,12.08.,12:00,CHN SL,SIPG Shanghai*,2:1,Wuhan Zall,China Chinese Super League
 056,12.08.,12:10,AUS 1,Western Sydney,2:1,Melbourne Victory,Australien Hyundai A-League
-045,12.08.,12:30,JPN 2,Machida Zelvia,0:1,Tokushima Vortis,Japan J.League 2
-054,12.08.,12:30,JPN LC,Shonan Bellmare,1:2,Gamba Osaka,Japan Nabisco Cup
 057,12.08.,12:30,JPN 2,Tochigi SC,2:1,Fagiano Okayama,Japan J.League 2
 058,12.08.,14:00,CHN SL,Beijing Guoan FC,3:1,Hebei China Fortun,China Chinese Super League
 059,12.08.,17:00,SLO 1,NK Celje,abgesagt,NS Mura,Slowenien PrvaLiga Telekom
 060,12.08.,17:00,FS,SCR Altach AUT,0:6,Bor. Dortmund GER,Freundschaftsspiele International (Klub)
 061,12.08.,18:00,FS,Wolfsberg AUT*,2:2,Sparta Prag CZE,Freundschaftsspiele International (Klub)
 062,12.08.,18:00,RL VBG,Dornbirner SV,1:1,VfB Hohenems,Eliteliga Vorarlberg
-077,12.08.,18:00,FS,Stade Rennes FRA,3:0,St. Etienne FRA,Freundschaftsspiele International (Klub)
 063,12.08.,18:30,BLR 1,Dinamo Brest,abgesagt,FC Slutsk,Weißrussland Premier League
 064,12.08.,18:45,ISR LCP,Hapoel Haifa,2:2,Ironi K. Shmona,"Israel, League Cup Premier"
 065,12.08.,19:00,ISR LCP,Bnei Sakhnin FC,1:0,Maccabi Haifa,"Israel, League Cup Premier"
@@ -76,6 +75,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 074,12.08.,19:00,SWE 2,Trelleborgs FF,1:0,Vasteraas SK,Schweden Superettan
 075,12.08.,19:00,SWE 2,IK Brage,1:1,Norrby IF,Schweden Superettan
 076,12.08.,19:00,SWE 2,Jönköpings Södra,2:1,Dalkurd FF,Schweden Superettan
+077,12.08.,18:00,FS,Stade Rennes FRA,3:0,St. Etienne FRA,Freundschaftsspiele International (Klub)
 078,12.08.,19:00,SCO PS,FC St. Mirren,abgesagt,Celtic Glasgow,Schottland Premiership
 079,12.08.,20:45,SCO PS,Glasgow Rangers,3:0,FC St. Johnstone,Schottland Premiership
 080,12.08.,20:45,SCO PS,FC Motherwell,2:2,FC Livingston,Schottland Premiership
@@ -98,10 +98,10 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 097,13.08.,19:00,SWE 1,IF Elfsborg,4:2,Falkenbergs FF,Schweden Allsvenskan
 098,13.08.,19:00,SWE 1,IK Sirius FK,3:1,Helsingborgs IF,Schweden Allsvenskan
 099,13.08.,19:00,SWE 1,AIK Stockholm,0:1,Östersunds FK,Schweden Allsvenskan
+100,13.08.,19:30,SWE 1,Varbergs BoIS,1:3,BK Häcken,Schweden Allsvenskan
 101,13.08.,19:00,SWE 1,Kalmar FF,1:1,IFK Göteborg,Schweden Allsvenskan
 102,13.08.,19:00,SWE 2,Umea FC,2:2,Örgryte Göteborg,Schweden Superettan
 103,13.08.,19:00,SLO 1,Olimpija Ljubljana,abgesagt,ND Gorica,Slowenien PrvaLiga Telekom
-100,13.08.,19:30,SWE 1,Varbergs BoIS,1:3,BK Häcken,Schweden Allsvenskan
 104,13.08.,19:30,ESP 2,FC Girona,1:0,UD Almeria,Spanien Segunda Division
 105,13.08.,19:30,ISR SC,Maccabi Tel Aviv,2:0,Hap. Beer Sheva,Israel Supercup
 106,13.08.,20:30,POL CUP,Gornik Zabrze,3:1,Jagiellonia Bial.,Polen Cup

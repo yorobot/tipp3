@@ -8,10 +8,10 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 007,05.05.,22:40,DART HO,"Kuivenhoven, Maik",3:5,"Durrant, Glen","Darts, PDC Home Tour (best of 9 Legs)"
 008,06.05.,20:30,DART HO,"Cullen, Joe",5:4,"Murray, Ryan","Darts, PDC Home Tour (best of 9 Legs)"
 009,06.05.,21:00,DART HO,"De Zwaan, Jeffrey",abgesagt,"Michael, John","Darts, PDC Home Tour (best of 9 Legs)"
-011,06.05.,21:25,DART HO,"Murray, Ryan",5:3,"Michael, John","Darts, PDC Home Tour (best of 9 Legs)"
 010,06.05.,21:30,DART CZ,"Smejda, Michal",5:7,"Pisek, David",Czech Darts Premier League
-013,06.05.,22:00,DART HO,"Cullen, Joe",abgesagt,"De Zwaan, Jeffrey","Darts, PDC Home Tour (best of 9 Legs)"
+011,06.05.,21:25,DART HO,"Murray, Ryan",5:3,"Michael, John","Darts, PDC Home Tour (best of 9 Legs)"
 012,06.05.,22:20,DART CZ,"Gawlas, A.",6:7,"Sedlak, Vitezslav",Czech Darts Premier League
+013,06.05.,22:00,DART HO,"Cullen, Joe",abgesagt,"De Zwaan, Jeffrey","Darts, PDC Home Tour (best of 9 Legs)"
 014,06.05.,22:30,DART HO,"De Zwaan, Jeffrey",abgesagt,"Murray, Ryan","Darts, PDC Home Tour (best of 9 Legs)"
 015,06.05.,22:40,DART HO,"Michael, John",3:5,"Cullen, Joe","Darts, PDC Home Tour (best of 9 Legs)"
 016,07.05.,13:00,BLR RES,Gorodeya Reserve*,2:3,FC Minsk Reserve,Weißrussland Reserve Liga
@@ -21,8 +21,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 020,07.05.,21:25,DART CZ,"Masek, Alexander",7:6,"Sedlak, Vitezslav",Czech Darts Premier League
 021,07.05.,22:05,DART CZ,"Ondo, Michal",6:7,"Kysilka, Ondrej",Czech Darts Premier League
 022,08.05.,12:00,KOR 1,Jeonbuk Hyundai,1:0,Suwon Blue Wings,Südkorea K-League 1
+023,09.05.,07:00,KOR 1,Ulsan Hyundai,4:0,Sangju Sangmu Pho.,Südkorea K-League 1
 024,08.05.,16:00,BLR 1,FC Slutsk,1:2,Energet. BGU Minsk,Weißrussland Premier League
 025,08.05.,18:00,BLR 1,FC Gorodeya,1:1,FC Minsk,Weißrussland Premier League
-023,09.05.,07:00,KOR 1,Ulsan Hyundai,4:0,Sangju Sangmu Pho.,Südkorea K-League 1
 026,09.05.,14:00,BLR 1,Slavia Mozyr,0:0,FC Torpedo Zhodino,Weißrussland Premier League
 027,10.05.,17:00,BLR 1,FC Smolevichi,3:5,FC BATE Borisov,Weißrussland Premier League

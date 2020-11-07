@@ -17,7 +17,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 016,25.09.,19:15,EH AUT,HC Innsbruck,4:1,EC Dornbirn,Österreich Eishockey Liga
 017,25.09.,19:30,EH AUT,KAC Klagenfurt,1:4,Black Wings Linz,Österreich Eishockey Liga
 018,25.09.,19:30,AUT RLO,Wiener Sport-Club,1:1,FCM Traiskirchen,Österreich Regionalliga Ost
+019,26.09.,17:00,AUT RLO,Marchfeld Donauaue,3:0,SC Neusiedl,Österreich Regionalliga Ost
 020,25.09.,19:30,AUT RLO,SC Wiener Neustadt,0:2,SC Team Wr. Linien,Österreich Regionalliga Ost
+021,27.09.,16:30,AUT RLO,Admira Amateure,abgesagt,SV Leobendorf,Österreich Regionalliga Ost
 022,25.09.,20:00,NL 1,Twente Enschede,3:1,FC Groningen,Niederlande Eredivisie
 023,25.09.,20:25,AUT 2,Grazer AK,0:1,SK Vorwärts Steyr,Österreich Zweite Liga
 024,25.09.,20:30,GER BL,Hertha BSC,1:3,Eintr. Frankfurt,Deutschland Bundesliga
@@ -46,7 +48,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 047,26.09.,16:00,ENG CS,FC Millwall,1:1,FC Brentford,England Championship
 048,26.09.,16:00,ENG CS,FC Barnsley,0:0,Coventry City,England Championship
 049,26.09.,16:00,ESP 1,FC Valencia,1:1,SD Huesca,Spanien Primera Division
-019,26.09.,17:00,AUT RLO,Marchfeld Donauaue,3:0,SC Neusiedl,Österreich Regionalliga Ost
 050,26.09.,17:00,AUT BL,SKN St. Pölten,1:2,SK Rapid Wien,Österreich Bundesliga
 051,26.09.,17:00,AUT BL,SKN St. Pölten+1,2:2,SK Rapid Wien,Österreich Bundesliga
 052,26.09.,17:00,AUT BL,SV Ried,1:3,RB Salzburg,Österreich Bundesliga
@@ -77,17 +78,16 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 077,27.09.,14:30,AUT BL,FK Austria Wien,2:3,Admira Wacker+1,Österreich Bundesliga
 078,27.09.,14:30,AUT BL,TSV Hartberg,1:1,SK Sturm Graz,Österreich Bundesliga
 079,27.09.,15:00,ENG PL,Tottenham,1:1,Newcastle United,England Premier League
+080,27.09.,18:00,ITA A,SSC Napoli,6:0,FC Genua,Italien Serie A
 081,27.09.,15:00,FRA 1,AS Monaco,3:2,Racing Strasbourg,Frankreich Ligue 1
 082,27.09.,15:00,FRA 1,Dijon Football,2:2,HSC Montpellier,Frankreich Ligue 1
 083,27.09.,15:30,GER BL,TSG Hoffenheim,4:1,FC Bayern München,Deutschland Bundesliga
 084,27.09.,16:00,ESP 1,Atletico Madrid,6:1,Granada CF,Spanien Primera Division
 085,27.09.,16:00,SCO PS,Celtic Glasgow,3:0,Hibernian FC,Schottland Premiership
-021,27.09.,16:30,AUT RLO,Admira Amateure,abgesagt,SV Leobendorf,Österreich Regionalliga Ost
 086,27.09.,17:00,AUT BL,LASK Linz,3:1,Wolfsberger AC,Österreich Bundesliga
 087,27.09.,17:00,AUT BL,LASK Linz,3:2,Wolfsberger AC+1,Österreich Bundesliga
 088,27.09.,17:00,FRA 1,FC Lorient,1:1,Olympique Lyon,Frankreich Ligue 1
 089,27.09.,17:30,ENG PL,Manchester City,2:5,Leicester City,England Premier League
-080,27.09.,18:00,ITA A,SSC Napoli,6:0,FC Genua,Italien Serie A
 090,27.09.,18:00,GER BL,SC Freiburg,1:1,VfL Wolfsburg,Deutschland Bundesliga
 091,27.09.,18:00,ITA A,FC Crotone,0:2,AC Milan,Italien Serie A
 092,27.09.,18:00,TUR 1,Galatasaray,0:0,Fenerbahce,Türkei Süper Lig

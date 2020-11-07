@@ -8,6 +8,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 007,31.07.,18:45,IRL 1,FC Derry City,0:2,FC Sligo Rovers,Irland Premier Division
 008,31.07.,19:00,SERB 1,FK Backa Topola,2:2,FK Vojvodina,Serbien Meridijan Superliga
 009,31.07.,19:00,SERB 1,Spartak Subotica,3:0,FK Zlatibor,Serbien Meridijan Superliga
+010,31.07.,20:45,ROU 1,FCS Bukarest,0:2,FC CFR 1907 Cluj,Rumänien Liga 1
 011,31.07.,19:30,BLR 1,Dinamo Brest,1:0,FC Vitebsk,Weißrussland Premier League
 012,31.07.,20:00,SERB 1,FK Mladost Lucani,2:1,FK Javor Ivanjica,Serbien Meridijan Superliga
 013,31.07.,20:30,AUT 2,SV Ried,9:0,Floridsdorfer AC,Österreich Zweite Liga
@@ -26,7 +27,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 026,31.07.,20:30,SUI SL,FC Lugano,3:1,FC Servette Genf,Schweiz Axpo Super League
 027,31.07.,20:30,SUI SL,FC St. Gallen,6:0,Xamax Neuchatel,Schweiz Axpo Super League
 028,31.07.,20:30,NOR 2,FK Jerv,2:2,Lilleström SK,Norwegen Adeccoligaen
-010,31.07.,20:45,ROU 1,FCS Bukarest,0:2,FC CFR 1907 Cluj,Rumänien Liga 1
 029,31.07.,20:45,IRL 1,FC Dundalk,1:1,St Patrick's,Irland Premier Division
 030,31.07.,21:00,ITA B,AC Chievo Verona,1:0,Delfino Pescara,Italien Serie B
 031,31.07.,21:00,ITA B,Ascoli FC,2:4,Benevento Calcio,Italien Serie B
@@ -70,6 +70,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 069,01.08.,20:45,ITA A,Juventus Turin,1:4,AS Roma+1,Italien Serie A
 070,01.08.,20:45,ITA A,SSC Napoli,3:1,Lazio Rom,Italien Serie A
 071,01.08.,21:45,POR CUP,Benfica Lissabon*,1:2,FC Porto,Portugal Taca de Portugal
+072,02.08.,18:00,SWE 1,Kalmar FF,0:0,AIK Stockholm,Schweden Allsvenskan
 073,02.08.,14:30,SWE 1,Helsingborgs IF,1:1,Hammarby IF,Schweden Allsvenskan
 074,02.08.,14:30,SWE 2,Norrby IF,1:2,Jönköpings Södra,Schweden Superettan
 075,02.08.,15:10,F1,"Bottas, Valtteri",Verstap,"Verstappen, Max",Formel 1
@@ -80,7 +81,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 080,02.08.,17:30,SWE 1,IFK Göteborg,0:3,Malmö FF,Schweden Allsvenskan
 081,02.08.,17:30,SWE 1,Varbergs BoIS,1:1,Östersunds FK,Schweden Allsvenskan
 082,02.08.,17:30,SWE 2,Akropolis IF,2:2,GAIS Göteborg,Schweden Superettan
-072,02.08.,18:00,SWE 1,Kalmar FF,0:0,AIK Stockholm,Schweden Allsvenskan
 083,02.08.,18:00,ITA A,Spal Ferrara,1:3,AC Fiorentina,Italien Serie A
 084,02.08.,18:00,NOR 1,FK Haugesund,3:1,Stabaek IF,Norwegen Tippeligaen
 085,02.08.,18:00,NOR 1,Bodö Glimt,3:2,Strömsgodset,Norwegen Tippeligaen

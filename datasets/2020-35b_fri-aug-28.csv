@@ -87,12 +87,12 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 086,30.08.,17:30,SUI CUP,FC Basel*,1:2,Young Boys Bern,Schweiz Cup
 087,30.08.,18:00,AUT CUP,Grazer AK,0:1,SV Seekirchen,Österreich ÖFB Cup
 088,30.08.,18:00,NOR 1,Rosenborg BK,2:2,Stabaek IF,Norwegen Tippeligaen
+089,30.08.,19:00,NOR 1,Sandefjord Fotball,0:2,Kristiansund BK,Norwegen Tippeligaen
 090,30.08.,18:00,NOR 1,Odds BK,6:1,Mjöndalen,Norwegen Tippeligaen
 091,30.08.,18:00,NOR 1,IK Start,1:0,Aalesunds FK,Norwegen Tippeligaen
 092,30.08.,18:00,NOR 1,Sarpsborg 08,0:3,Bodö Glimt,Norwegen Tippeligaen
 093,30.08.,18:15,BEL 1,Sporting Charleroi,2:0,FC Royal Antwerpen,Belgien Jupiler Pro League
 094,30.08.,18:45,SERB 1,FK Vojvodina,3:2,Partizan Belgrad,Serbien Meridijan Superliga
-089,30.08.,19:00,NOR 1,Sandefjord Fotball,0:2,Kristiansund BK,Norwegen Tippeligaen
 095,30.08.,19:00,AUT CUP,BW Linz,5:1,SC Team Wr. Linien,Österreich ÖFB Cup
 096,30.08.,19:00,RUS PL,FC Krasnodar,1:1,FC Rostov,Russland Premier League
 097,30.08.,20:00,GRE CUP,AEK Athen*,abgesagt,Olympiakos Piräus,Griechenland Cup
@@ -102,19 +102,19 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 101,31.08.,14:00,CHN SL,SIPG Shanghai,4:1,FC Tianjin Taida,China Chinese Super League
 102,31.08.,17:00,RUS 2,FC Chayka,2:1,Fakel Worenesch,Russland 1. Division
 103,31.08.,17:30,FIN 1,FC Lahti,2:2,FC Inter Turku,Finnland Veikkausliiga
+104,31.08.,19:30,ISR 2,H. Petach Tikva,1:1,Hapoel Afula FC,Israel National League
 105,31.08.,18:00,ISR 2,Sectzya Nes Ziona,1:1,M. Ahi Nazareth,Israel National League
 106,31.08.,18:00,NOR 3,FK Arendal,5:0,Odd Grenland 2,"Norwegen 2. Division, avd. 2"
 107,31.08.,18:00,NOR 3,Notodden FK,5:1,Rosenborg BK 2,"Norwegen 2. Division, avd. 2"
 108,31.08.,18:45,IRL CUP,FC Shamrock Rovers,2:1,Cork City FC,Irland FAI Ford Cup
 109,31.08.,19:00,SVK 1,AS Trencin,1:2,Slovan Bratislava,Slowakei Corgon Liga
 110,31.08.,19:00,SWE 2,Norrby IF,2:0,Örgryte Göteborg,Schweden Superettan
-104,31.08.,19:30,ISR 2,H. Petach Tikva,1:1,Hapoel Afula FC,Israel National League
 111,31.08.,19:30,ISR 2,Hap.Kfar Shalem,abgesagt,Hap. Rishon LeZion,Israel National League
 112,31.08.,20:00,NL 2,De Graafschap,4:2,FC Den Bosch,Niederlande Jupiler League
 113,31.08.,20:00,ROU 1,Chindia Targoviste,1:0,Dinamo Bukarest,Rumänien Liga 1
 114,31.08.,20:45,IRL CUP,Boh. Dublin,2:0,Cabinteely FC,Irland FAI Ford Cup
 115,31.08.,22:30,PAR 1,Sportivo Luqueno,0:0,Sp.San Lorenzo,Paraguay Primera Division
-117,02.09.,01:00,NHL,Philadelphia Fl.*,3:3,NY Islanders,USA NHL
 116,02.09.,03:45,NHL,Vegas G.Knights*,1:2,Vancouver Can.,USA NHL
+117,02.09.,01:00,NHL,Philadelphia Fl.*,3:3,NY Islanders,USA NHL
 118,04.09.,20:45,UEFA NL,Norwegen,1:2,Österreich,UEFA Nations League
 119,07.09.,20:45,UEFA NL,Österreich,2:3,Rumänien,UEFA Nations League

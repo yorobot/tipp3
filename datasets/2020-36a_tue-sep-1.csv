@@ -5,9 +5,11 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 004,01.09.,17:30,FIN 1,Haka Valkeakoski,0:2,Tampereen Ilves,Finnland Veikkausliiga
 005,01.09.,18:00,AUT RLM,Sturm Graz Amat.,2:2,St Anna am Aigen,Österreich Regionalliga Mitte
 006,01.09.,18:00,TEN ATP,"Murray, Andy*",3:2,"Nishioka, Yoshi.",Tennis ATP
+007,01.09.,20:05,TEN ATP,"Chardy, Jeremy*",0:3,"Rublev, Andrey",Tennis ATP
+008,01.09.,18:50,TEN ATP,"Munar Clar, Jaume*",w.o.,"Thiem, Dominic",Tennis ATP
+009,01.09.,19:45,TEN WTA,"Watson, Heather*",0:2,"Konta, Johanna",Tennis WTA
 010,01.09.,18:30,ENG LTR,AFC Wimbledon,2:1,Charlton Athletic,England Football League Trophy
 011,01.09.,18:30,ROU 2,Petrolul Ploiesti,1:2,Farul Constanta,"Rumänien, Liga 2"
-008,01.09.,18:50,TEN ATP,"Munar Clar, Jaume*",w.o.,"Thiem, Dominic",Tennis ATP
 012,01.09.,19:00,AUT RLO,Admira Amateure,abgesagt,Wiener Sport-Club,Österreich Regionalliga Ost
 013,01.09.,19:00,AUT RLM,FC Gleisdorf,3:2,SV Allerheiligen,Österreich Regionalliga Mitte
 014,01.09.,19:00,AUT RLM,WSC Hertha Wels,3:1,WAC Amateure,Österreich Regionalliga Mitte
@@ -15,23 +17,21 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 016,01.09.,19:00,AUT RLM,Bad Gleichenberg,3:1,Union Vöcklamarkt,Österreich Regionalliga Mitte
 017,01.09.,19:00,AUT RLM,SC Weiz,0:1,SC Kalsdorf,Österreich Regionalliga Mitte
 018,01.09.,19:00,RL SBG,SAK 1914 Salzburg,3:2,Pinzgau Saalfelden,Regionalliga Salzburg
+019,01.09.,21:50,TEN ATP,"Pospisil, Vasek*",3:0,Kohlschreiber P.,Tennis ATP
 020,01.09.,19:30,AUT RLO,SC Wiener Neustadt,abgesagt,SC Neusiedl,Österreich Regionalliga Ost
 021,01.09.,19:30,AUT RLO,ASV Draßburg,3:4,SV Leobendorf,Österreich Regionalliga Ost
-009,01.09.,19:45,TEN WTA,"Watson, Heather*",0:2,"Konta, Johanna",Tennis WTA
 022,01.09.,20:00,ENG LTR,Carlisle United,1:3,Fleetwood Town,England Football League Trophy
 023,01.09.,20:00,FRA 3,Cholet,3:1,FC Sete 34,Frankreich National
 024,01.09.,20:00,FRA 3,Lyon Duchere,1:2,Concarneau,Frankreich National
-007,01.09.,20:05,TEN ATP,"Chardy, Jeremy*",0:3,"Rublev, Andrey",Tennis ATP
 025,01.09.,20:45,FRA 3,Red Star FC 93,0:0,Le Mans UC 72,Frankreich National
-019,01.09.,21:50,TEN ATP,"Pospisil, Vasek*",3:0,Kohlschreiber P.,Tennis ATP
-027,01.09.,22:00,BRA 2,Botafogo FC SP,1:1,Cuiaba MT,Brasilien Brasilero Serie B
-029,02.09.,00:15,TEN ATP,"Dimitrov, Grigor*",3:0,"Paul, Tommy",Tennis ATP
 026,02.09.,00:20,TEN WTA,Azarenka V.*,2:0,"Haas, Barbara",Tennis WTA
-032,02.09.,01:00,TEN WTA,"Muchova, Karolina*",2:0,"Williams, Venus",Tennis WTA
+027,01.09.,22:00,BRA 2,Botafogo FC SP,1:1,Cuiaba MT,Brasilien Brasilero Serie B
 028,02.09.,01:35,TEN ATP,"Tiafoe, Francis*",3:1,"Seppi, Andreas",Tennis ATP
-033,02.09.,02:00,USA MLS,FC Toronto,0:1,Montreal Impact,USA Major League Soccer
-031,02.09.,03:40,TEN WTA,"Vekic, Donna*",2:1,"Pliskova, Kristyna",Tennis WTA
+029,02.09.,00:15,TEN ATP,"Dimitrov, Grigor*",3:0,"Paul, Tommy",Tennis ATP
 030,02.09.,03:45,TEN WTA,"Clijsters, Kim*",1:2,"Alexandrova, Eka.",Tennis WTA
+031,02.09.,03:40,TEN WTA,"Vekic, Donna*",2:1,"Pliskova, Kristyna",Tennis WTA
+032,02.09.,01:00,TEN WTA,"Muchova, Karolina*",2:0,"Williams, Venus",Tennis WTA
+033,02.09.,02:00,USA MLS,FC Toronto,0:1,Montreal Impact,USA Major League Soccer
 034,02.09.,12:00,JPN LC,Cerezo Osaka,0:3,Kashiwa Reysol,Japan Nabisco Cup
 035,02.09.,12:00,JPN LC,Vissel Kobe,0:6,Kawasaki Frontale,Japan Nabisco Cup
 036,02.09.,12:00,JPN LC,FC Tokyo,3:0,Nagoya Grampus,Japan Nabisco Cup
@@ -51,22 +51,22 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 050,03.09.,00:00,BRA 1,Ceara SC CE,1:0,Fortaleza EC CE,Brasilien Brasilero Serie A
 051,03.09.,00:15,BRA 1,Goias EC GO,1:2,Corinthians SP,Brasilien Brasilero Serie A
 052,03.09.,00:15,BRA 1,Fluminense RJ,1:1,Atletico GO,Brasilien Brasilero Serie A
-063,03.09.,01:00,USA MLS,Atlanta United FC,0:0,Inter Miami CF,USA Major League Soccer
+053,03.09.,02:30,BRA 1,SE Palmeiras SP,1:1,Internacional RS,Brasilien Brasilero Serie A
 054,03.09.,01:30,BRA 1,Botafogo FR RJ,0:0,Coritiba FC PR,Brasilien Brasilero Serie A
 055,03.09.,01:30,BRA 1,Atletico PR,1:1,RB Bragantino SP,Brasilien Brasilero Serie A
 056,03.09.,01:30,BRA 1,EC Bahia BA,3:5,CR Flamengo RJ,Brasilien Brasilero Serie A
+057,03.09.,02:30,BRA 1,Santos SP,2:2,Vasco Da Gama RJ,Brasilien Brasilero Serie A
 058,03.09.,01:30,USA MLS,FC Cincinnati,0:0,Chicago Fire,USA Major League Soccer
 059,03.09.,01:30,USA MLS,NY Red Bulls,0:1,DC United,USA Major League Soccer
-062,03.09.,01:30,USA MLS,Columbus Crew,1:0,Philadelphia Union,USA Major League Soccer
 060,03.09.,02:00,USA MLS,New England Rev.,0:2,New York City FC,USA Major League Soccer
 061,03.09.,02:00,USA MLS,Houston Dynamo,3:0,FC Minnesota Utd.,USA Major League Soccer
-053,03.09.,02:30,BRA 1,SE Palmeiras SP,1:1,Internacional RS,Brasilien Brasilero Serie A
-057,03.09.,02:30,BRA 1,Santos SP,2:2,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+062,03.09.,01:30,USA MLS,Columbus Crew,1:0,Philadelphia Union,USA Major League Soccer
+063,03.09.,01:00,USA MLS,Atlanta United FC,0:0,Inter Miami CF,USA Major League Soccer
 064,03.09.,02:30,USA MLS,Nashville SC,1:1,Orlando City SC,USA Major League Soccer
 065,03.09.,02:30,USA MLS,Sp. Kansas City,1:1,FC Dallas,USA Major League Soccer
 066,03.09.,03:30,USA MLS,Real Salt Lake,2:2,Seattle Sounders,USA Major League Soccer
-068,03.09.,04:30,USA MLS,Portland Timbers,2:3,LA Galaxy,USA Major League Soccer
 067,03.09.,05:00,USA MLS,Los Angeles FC,5:1,SJ Earthquakes,USA Major League Soccer
+068,03.09.,04:30,USA MLS,Portland Timbers,2:3,LA Galaxy,USA Major League Soccer
 069,03.09.,18:00,UEFA NL,Lettland,0:0,Andorra,UEFA Nations League
 070,03.09.,18:00,UEFA NL,Lettland,0:1,Andorra+1,UEFA Nations League
 071,03.09.,18:45,U21 EMQ,Nordmazedonien U21,0:1,Spanien U21,U21 EM Qualifikation

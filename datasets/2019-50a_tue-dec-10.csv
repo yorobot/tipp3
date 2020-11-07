@@ -19,10 +19,10 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 018,10.12.,20:45,ENG FA,Hartlepool United,0:0,Exeter City,England FA Cup
 019,10.12.,20:45,ENG LTR,Accrington Stanley,2:0,Bolton Wanderers,England Football League Trophy
 020,10.12.,20:45,ENG CS,Bristol City,1:2,FC Millwall,England Championship
+021,10.12.,20:55,ENG CS,Charlton Athletic,0:1,Huddersfield Town,England Championship
 022,10.12.,20:45,ENG CS,Leeds United,2:0,Hull City,England Championship
 023,10.12.,20:45,ENG CS,Nottingham Forest,1:1,FC Middlesbrough,England Championship
 024,10.12.,20:45,ENG CS,Preston North End,2:1,FC Fulham,England Championship
-021,10.12.,20:55,ENG CS,Charlton Athletic,0:1,Huddersfield Town,England Championship
 025,10.12.,21:00,ENG CS,Stoke City,3:0,Luton Town,England Championship
 026,10.12.,21:00,CL,Bor. Dortmund GER,2:1,Slavia Prag CZE,UEFA Champions League
 027,10.12.,21:00,CL,Bor. Dortmund,2:3,SK Slavia Prag+2,UEFA Champions League
@@ -76,8 +76,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 075,11.12.,21:00,CL,Atl. Madrid ESP,2:0,Lok Moskau RUS,UEFA Champions League
 076,11.12.,21:00,CL,Leverkusen GER,0:2,Juventus Turin ITA,UEFA Champions League
 077,11.12.,23:15,BOL 1,Blooming,2:0,Real Potosi,Bolivien Liga Profesjonal
-079,12.12.,01:00,NHL,Washington Cap.,3:2,Boston Bruins,USA NHL
 078,12.12.,01:30,BOL 1,San Jose Oruro,2:2,Bolivar La Paz,Bolivien Liga Profesjonal
+079,12.12.,01:00,NHL,Washington Cap.,3:2,Boston Bruins,USA NHL
 080,12.12.,01:30,NHL,Montreal Canad.,2:2,Ottawa Senators,USA NHL
 081,12.12.,03:30,NHL,Colorado Avalan.,3:1,Philadelphia Fl.,USA NHL
 082,12.12.,18:00,BB EL,Khimki Moskau RUS,104:87,Alba Berlin GER,Euroleague

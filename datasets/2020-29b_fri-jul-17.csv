@@ -66,14 +66,12 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 065,19.07.,16:00,SUI SL,FC Servette Genf,2:2,FC Basel,Schweiz Axpo Super League
 066,19.07.,16:00,SUI SL,FC Thun,2:1,FC St. Gallen,Schweiz Axpo Super League
 067,19.07.,17:00,ENG PL,Tottenham,3:0,Leicester City,England Premier League
-091,19.07.,17:00,ESP 1,CD Alaves,0:5,FC Barcelona,Spanien Primera Division
 068,19.07.,17:15,ITA A,FC Parma,2:3,Sampdoria Genua,Italien Serie A
 069,19.07.,17:30,RUS CUP,Zenit St.Petersb.,2:1,FC Spartak Moskau,Russland Russian Cup
 070,19.07.,18:00,NOR 1,Rosenborg BK,2:1,Sandefjord Fotball,Norwegen Tippeligaen
 071,19.07.,18:00,NOR 1,Strömsgodset,0:4,Molde FK,Norwegen Tippeligaen
 072,19.07.,18:00,NOR 1,Kristiansund BK,0:0,Valerenga IF,Norwegen Tippeligaen
 073,19.07.,18:30,ESP 1,Real Valladolid,2:0,Betis Sevilla,Spanien Primera Division
-092,19.07.,18:30,ESP 1,Villarreal CF,4:0,SD Eibar,Spanien Primera Division
 074,19.07.,19:00,ENG FA,Manchester United*,1:3,FC Chelsea,England FA Cup
 075,19.07.,19:00,ENG FA,Manchester United,1:4,FC Chelsea+1,England FA Cup
 076,19.07.,19:00,ENG FA,Manchester Utd.+1,2:3,FC Chelsea,England FA Cup
@@ -91,6 +89,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 088,19.07.,21:00,ESP 1,FC Sevilla,1:0,FC Valencia,Spanien Primera Division
 089,19.07.,21:00,ESP 1,Espanyol Barcelona,0:0,Celta de Vigo,Spanien Primera Division
 090,19.07.,21:00,ESP 1,Levante UD*,1:0,Getafe CF,Spanien Primera Division
+091,19.07.,17:00,ESP 1,CD Alaves,0:5,FC Barcelona,Spanien Primera Division
+092,19.07.,18:30,ESP 1,Villarreal CF,4:0,SD Eibar,Spanien Primera Division
 093,19.07.,21:00,ESP 1,Granada CF,4:0,Athletic Bilbao,Spanien Primera Division
 094,19.07.,21:00,ESP 1,CA Osasuna,2:2,RCD Mallorca,Spanien Primera Division
 095,19.07.,21:00,ESP 1,Atletico Madrid,1:1,Real Sociedad,Spanien Primera Division

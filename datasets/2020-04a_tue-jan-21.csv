@@ -31,7 +31,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 030,21.01.,23:15,COPA L,Carabobo FC VEN*,1:1,Universitario PER,Copa Libertadores
 031,22.01.,12:00,TUR CUP,Kasimpasa,3:2,Alanyaspor,Türkei Türkiye Kupasi
 032,22.01.,15:00,TUR CUP,Göztepe,2:2,Antalyaspor,Türkei Türkiye Kupasi
-063,22.01.,15:30,ITA C1C,US Casertana 1908,0:0,Potenza SC,"Italien, Lega Pro Prima Divisione, Girone C"
 033,22.01.,16:00,ITA C1B,FC Südtirol,2:0,Vis Pesaro 1898,"Italien Lega Pro Prima Divisione, Girone B"
 034,22.01.,16:00,HB EM,Kroatien,22:22,Spanien,Handball Europameisterschaft
 035,22.01.,16:00,HB EM,Portugal,34:26,Ungarn,Handball Europameisterschaft
@@ -62,6 +61,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 060,22.01.,20:45,ITA C1B,Padua Calcio,3:2,V.Vecomp Verona,"Italien Lega Pro Prima Divisione, Girone B"
 061,22.01.,20:45,ITA C1B,Vicenza Calcio,1:0,FC Modena,"Italien Lega Pro Prima Divisione, Girone B"
 062,22.01.,20:45,ITA C1C,Reggina 1914,1:2,Virtus Francavilla,"Italien, Lega Pro Prima Divisione, Girone C"
+063,22.01.,15:30,ITA C1C,US Casertana 1908,0:0,Potenza SC,"Italien, Lega Pro Prima Divisione, Girone C"
 064,22.01.,20:45,ITA CUP,Juventus Turin,3:1,AS Roma,Italien Coppa Italia
 065,22.01.,20:45,ITA CUP,Juventus Turin,3:2,AS Roma+1,Italien Coppa Italia
 066,22.01.,20:45,POR LC,Vitoria Guimaraes,1:2,FC Porto,Portugal Carlsberg Cup

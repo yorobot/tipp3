@@ -5,8 +5,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 004,13.10.,16:45,INT FS,Japan*,1:0,Elfenbeinküste,Internationale Freundschaftsspiele
 005,13.10.,17:00,U21 EMQ,Luxemburg U21,0:2,Island U21,U21 EM Qualifikation
 006,13.10.,17:00,U21 EMQ,Georgien U21,1:0,Aserbaidschan U21,U21 EM Qualifikation
-008,13.10.,17:00,U21 EMQ,Italien U21,2:0,Irland U21,U21 EM Qualifikation
 007,13.10.,17:30,U21 EMQ,Litauen U21,0:1,Tschechien U21,U21 EM Qualifikation
+008,13.10.,17:00,U21 EMQ,Italien U21,2:0,Irland U21,U21 EM Qualifikation
 009,13.10.,18:00,UEFA NL,Aserbaidschan*,0:0,Zypern,UEFA Nations League
 010,13.10.,18:00,UEFA NL,Lettland,0:1,Malta,UEFA Nations League
 011,13.10.,18:00,U21 EMQ,Polen U21,1:1,Bulgarien U21,U21 EM Qualifikation
@@ -90,11 +90,11 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 089,15.10.,02:30,BRA 1,Atletico PR,0:1,Corinthians SP,Brasilien Brasilero Serie A
 090,15.10.,02:30,BRA 1,Sport Recife PE,3:5,Internacional RS,Brasilien Brasilero Serie A
 091,15.10.,17:00,FIN 1,Rovaniemi PS,0:4,FC Lahti,Finnland Veikkausliiga
-096,15.10.,17:00,EGY 1,Ismaily SC,4:2,Aswan FC,Ägypten Premier League
 092,15.10.,17:30,FIN 1,Seinajoen JK,1:2,HJK Helsinki,Finnland Veikkausliiga
 093,15.10.,17:30,FIN 1,HIFK Helsinki,1:2,Tampereen Ilves,Finnland Veikkausliiga
 094,15.10.,17:30,FIN 1,FC Inter Turku,2:0,Kuopio PS,Finnland Veikkausliiga
 095,15.10.,17:30,FIN 1,FC Honka,1:0,IFK Mariehamn,Finnland Veikkausliiga
+096,15.10.,17:00,EGY 1,Ismaily SC,4:2,Aswan FC,Ägypten Premier League
 097,15.10.,17:30,EH FIN,Jukurit Mikkeli,2:2,Ässät Pori,Finnland SM-Liiga
 098,15.10.,18:00,KHL,HC Red Star Kunlun,5:3,Salavat Yulaev Ufa,Kontinental Hockey League
 099,15.10.,18:00,KHL,Sev. Cherepovets,0:4,Traktor Chelyab.,Kontinental Hockey League

@@ -10,6 +10,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 009,03.04.,18:00,EH BLR,Yunost Minsk,2:2,Shakhter Soligorsk,Weißrussland Extraliga
 010,03.04.,18:00,EH BLR,Yunost Minsk,2:3,Sh. Soligorsk+1,Weißrussland Extraliga
 011,04.04.,13:00,BLR RES,FC Isloch Reserve,4:0,FC Slutsk Reserve,Weißrussland Reserve Liga
+012,04.04.,15:30,BLR RES,RES Vitebsk*,0:4,FC Smolevichi Res,Weißrussland Reserve Liga
 013,04.04.,13:00,BLR RES,Energetik Minsk Re,1:2,FC Minsk Reserve,Weißrussland Reserve Liga
 014,04.04.,13:00,FTSBLR1,Ohrana-Dinamo,6:6,Dinamo-Bntu Minsk,Weißrussland 1. Division
 015,04.04.,13:00,FTSBLR1,CKK Svetlogorsk,abgesagt,Dorozhnik Minsk,Weißrussland 1. Division
@@ -20,7 +21,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 020,04.04.,14:30,BLR 1,Shakhter Soligorsk,0:0,Neman Grodno,Weißrussland Premier League
 021,04.04.,14:30,BLR 1,Shakhter Soligorsk,0:1,Neman Grodno+1,Weißrussland Premier League
 022,04.04.,15:00,FTSBLR1,UVD-Dinamo Grodno,6:3,MFK Minsk,Weißrussland 1. Division
-012,04.04.,15:30,BLR RES,RES Vitebsk*,0:4,FC Smolevichi Res,Weißrussland Reserve Liga
 023,04.04.,16:00,FTSBLR1,MFK Stalitsa Minsk,4:4,MFK Viten Orsha,Weißrussland 1. Division
 024,04.04.,16:00,FTSBLR1,MFK Borisov-900,2:7,BCH Gomel,Weißrussland 1. Division
 025,04.04.,16:30,BLR 1,FC BATE Borisov,1:0,FC Rukh Brest,Weißrussland Premier League

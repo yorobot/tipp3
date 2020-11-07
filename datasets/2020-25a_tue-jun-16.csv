@@ -86,6 +86,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 085,17.06.,21:45,ESP 2,Rayo Vallecano,1:0,Fuenlabrada,Spanien Segunda Division
 086,17.06.,22:00,ESP 1,CA Osasuna,0:5,Atletico Madrid,Spanien Primera Division
 087,17.06.,22:15,POR 1,Rio Ave FC,1:2,Benfica Lissabon,Portugal Primeira Liga
+088,19.06.,17:00,CZE 2,FK Fotbal Trinec,abgesagt,FC Graffin Vlasim,Tschechien 1. Division
 089,18.06.,17:00,CZE 2,FK Varnsdorf,2:2,FK Slavoj Vysehrad,Tschechien 1. Division
 090,18.06.,17:00,CZE 2,FC Jihlava,0:1,FK Viktoria Zizkov,Tschechien 1. Division
 091,18.06.,17:00,CZE 2,FK Dukla Prag,3:1,FK Banik Sokolov,Tschechien 1. Division
@@ -118,4 +119,3 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 118,18.06.,22:00,ESP 1,Real Madrid,3:0,FC Valencia,Spanien Primera Division
 119,18.06.,22:00,ESP 1,Real Madrid,3:1,FC Valencia+1,Spanien Primera Division
 120,18.06.,22:15,POR 1,Sporting Lissabon,2:0,CD Tondela,Portugal Primeira Liga
-088,19.06.,17:00,CZE 2,FK Fotbal Trinec,abgesagt,FC Graffin Vlasim,Tschechien 1. Division

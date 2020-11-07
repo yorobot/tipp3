@@ -29,8 +29,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 028,14.07.,21:45,ITA A,Atalanta Bergamo,6:4,Brescia Calcio+2,Italien Serie A
 029,14.07.,22:30,POR 1,Benfica Lissabon,2:0,Vitoria Guimaraes,Portugal Primeira Liga
 030,14.07.,22:30,POR 1,Gil Vicente FC,3:2,CD Tondela,Portugal Primeira Liga
-032,15.07.,15:00,RUS PL,Ural Jekaterinburg,1:3,Arsenal Tula,Russland Premier League
 031,15.07.,17:00,RUS PL,Kryliya Sovetov,0:0,FC Krasnodar,Russland Premier League
+032,15.07.,15:00,RUS PL,Ural Jekaterinburg,1:3,Arsenal Tula,Russland Premier League
 033,15.07.,17:00,RUS PL,FC Spartak Moskau,3:0,FK Achmat Grozny,Russland Premier League
 034,15.07.,18:00,ENG CS,FC Brentford,1:0,Preston North End,England Championship
 035,15.07.,18:00,ENG CS,Bristol City,1:1,Stoke City,England Championship
@@ -41,6 +41,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 040,15.07.,18:00,NOR 1,Valerenga IF,1:0,FK Haugesund,Norwegen Tippeligaen
 041,15.07.,18:15,GRE 1,Aris Thessaloniki,0:1,Panathinaikos,Griechenland Super League
 042,15.07.,18:15,GRE 1,OFI Kreta,1:3,Olympiakos Piräus,Griechenland Super League
+043,16.07.,18:15,SUI SL,Xamax Neuchatel,0:0,FC Sion,Schweiz Axpo Super League
 044,15.07.,19:00,ENG PL,Manchester City,2:1,AFC Bournemouth,England Premier League
 045,15.07.,19:00,ENG PL,Manchester City,2:3,Bournemouth+2,England Premier League
 046,15.07.,19:00,ENG PL,FC Burnley,1:1,Wolverhampton,England Premier League
@@ -84,9 +85,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 084,16.07.,18:00,UKR 1,Desna Tschernihiw,1:3,FC Oleksandria,Ukraine Premier League
 085,16.07.,18:00,UKR 1,FC Dynamo Kiev,3:1,FC Zorya Lugansk,Ukraine Premier League
 086,16.07.,18:10,POL 2,Miedz Legnica,3:0,GKS Belchatow,Polen I Liga
-043,16.07.,18:15,SUI SL,Xamax Neuchatel,0:0,FC Sion,Schweiz Axpo Super League
 087,16.07.,18:30,DEN 2,Hvidovre IF,0:2,Skive IK,Dänemark 1. Division
-115,16.07.,18:30,ESP 1,SD Eibar,3:1,Real Valladolid,Spanien Primera Division
 088,16.07.,19:00,SWE 1,Kalmar FF,1:2,Hammarby IF,Schweden Allsvenskan
 089,16.07.,19:00,SWE 1,Varbergs BoIS,1:0,Mjällby AIF,Schweden Allsvenskan
 090,16.07.,19:00,SWE 1,Östersunds FK,1:2,Malmö FF,Schweden Allsvenskan
@@ -114,6 +113,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 112,16.07.,21:00,ESP 1,Athletic Bilbao,0:2,CD Leganes,Spanien Primera Division
 113,16.07.,21:00,ESP 1,Celta de Vigo,2:3,Levante UD,Spanien Primera Division
 114,16.07.,21:00,ESP 1,RCD Mallorca,1:2,Granada CF,Spanien Primera Division
+115,16.07.,18:30,ESP 1,SD Eibar,3:1,Real Valladolid,Spanien Primera Division
 116,16.07.,21:15,ENG PL,Crystal Palace,0:2,Manchester United,England Premier League
 117,16.07.,21:15,ENG PL,Crystal Palace+1,1:2,Manchester United,England Premier League
 118,16.07.,21:15,ENG PL,FC Southampton,1:1,Brighton & Hove,England Premier League

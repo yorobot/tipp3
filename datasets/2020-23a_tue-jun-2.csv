@@ -23,12 +23,12 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 022,02.06.,19:45,ISR 1,Hapoel Tel Aviv,3:0,Beitar Jerusalem,Israel Winner League
 023,02.06.,20:00,CZE 1,1. FK Pribram,0:1,SK Slavia Prag,Tschechien Gambrinus Liga
 024,02.06.,20:00,POL 2,Nieciecza KS,1:0,Wigry Suwalki,Polen I Liga
-030,02.06.,20:00,FRO 1,IF Fuglafjordur,2:1,EB/Streymur,Färöer Inseln Premier League
 025,02.06.,20:30,POL 2,Miedz Legnica,1:2,FKS Stal Mielec,Polen I Liga
 026,02.06.,20:30,AUT BL,FK Austria Wien,1:0,Admira Wacker,"Österreich Bundesliga, Qualifikationsgruppe"
 027,02.06.,20:30,AUT BL,FK Austria Wien,1:1,Admira Wacker+1,"Österreich Bundesliga, Qualifikationsgruppe"
 028,02.06.,20:30,GER 3,Unterhaching,1:2,FC Ingolstadt,Deutschland 3. Liga
 029,02.06.,20:30,GER 3,Hansa Rostock,0:1,W. Mannheim,Deutschland 3. Liga
+030,02.06.,20:00,FRO 1,IF Fuglafjordur,2:1,EB/Streymur,Färöer Inseln Premier League
 031,02.06.,20:30,DART HO,"Clayton, Jonny",6:3,"Waites, Scott","Darts, PDC Home Tour (best of 9 Legs)"
 032,02.06.,21:05,DART HO,"Hopp, Max",6:3,"Wilkinson, Carl","Darts, PDC Home Tour (best of 9 Legs)"
 033,02.06.,21:35,DART HO,"Waites, Scott",6:0,"Wilkinson, Carl","Darts, PDC Home Tour (best of 9 Legs)"
@@ -82,38 +82,38 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 081,04.06.,19:00,ISR 2,Hapoel K. Jerusale,0:2,Hapoel Nof HaGalil,Israel National League
 082,04.06.,19:00,ISR 2,I. Ramat Hasharon,0:2,Hapoel Ramat Gan,Israel National League
 083,04.06.,19:00,ISR 2,M. Ahi Nazareth,2:4,SC Kfar Qasem,Israel National League
+084,04.06.,19:15,ISR 2,Umm al-Fahm*,1:1,Hap. Rishon LeZion,Israel National League
 085,04.06.,19:00,ISR 2,Hapoel Afula FC,0:0,Beitar Tel Aviv,Israel National League
 086,04.06.,19:00,ISR 2,Macc. Petach Tikva,1:0,Hapoel Akko,Israel National League
 087,04.06.,19:00,ISR 2,Hapoel Ashkelon,2:1,Bnei Sakhnin FC,Israel National League
 088,04.06.,19:00,ISR 2,Hapoel Bnei Lod,1:1,H. Petach Tikva,Israel National League
 089,04.06.,19:00,POR 1,Maritimo Funchal,1:1,Vitoria Setubal,Portugal Primeira Liga
-084,04.06.,19:15,ISR 2,Umm al-Fahm*,1:1,Hap. Rishon LeZion,Israel National League
 090,04.06.,20:15,POR 1,Benfica Lissabon,0:0,CD Tondela,Portugal Primeira Liga
 091,04.06.,20:40,POL 2,GKS Tychy 71,1:1,Zaglebie Sosnowiec,Polen I Liga
 092,04.06.,22:15,POR 1,Vitoria Guimaraes,2:2,Sporting Lissabon,Portugal Primeira Liga
 093,04.06.,22:15,POR 1,Vitoria Guimaraes,2:3,Sporting Lissab.+1,Portugal Primeira Liga
 094,04.06.,23:00,CRC 1,Limon FC,0:2,Municipal Grecia,Costa Rica Primera División
 095,05.06.,03:00,CRC 1,Guadalupe FC,3:0,LD Alajuelense,Costa Rica Primera División
+096,06.06.,17:00,AUT BL,SKN St. Pölten,1:1,FK Austria Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+097,06.06.,17:00,AUT BL,SCR Altach,1:1,WSG Swarovs. Tirol,"Österreich Bundesliga, Qualifikationsgruppe"
+098,06.06.,17:00,AUT BL,Admira Wacker,0:2,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
+099,07.06.,17:00,AUT BL,Wolfsberger AC,3:3,LASK Linz,Österreich Bundesliga
+100,07.06.,17:00,AUT BL,TSV Hartberg,0:6,RB Salzburg,Österreich Bundesliga
+101,07.06.,19:30,AUT BL,SK Rapid Wien,4:0,SK Sturm Graz,Österreich Bundesliga
 102,05.06.,18:30,AUT 2,SV Horn,1:1,FC Liefering,Österreich Zweite Liga
 103,05.06.,18:30,AUT 2,FC Dornbirn,0:4,SKU Amstetten,Österreich Zweite Liga
 104,05.06.,18:30,AUT 2,Floridsdorfer AC,0:0,SK Vorwärts Steyr,Österreich Zweite Liga
 105,05.06.,18:30,AUT 2,Young Violets A.W.,3:0,BW Linz,Österreich Zweite Liga
 106,05.06.,20:25,AUT 2,SV Ried,3:1,SV Lafnitz,Österreich Zweite Liga
-110,05.06.,20:30,GER BL,SC Freiburg,1:0,Mönchengladbach,Deutschland Bundesliga
 107,06.06.,15:00,AUT 2,FC Juniors OÖ,2:1,Wacker Innsbruck,Österreich Zweite Liga
+108,06.06.,20:25,AUT 2,Grazer AK*,1:1,Austria Lustenau,Österreich Zweite Liga
+109,07.06.,10:30,AUT 2,Austria Klagenfurt,3:2,Kapfenberger SV,Österreich Zweite Liga
+110,05.06.,20:30,GER BL,SC Freiburg,1:0,Mönchengladbach,Deutschland Bundesliga
 111,06.06.,15:30,GER BL,Fortuna Düsseldorf,2:2,TSG Hoffenheim,Deutschland Bundesliga
 112,06.06.,15:30,GER BL,Eintr. Frankfurt,0:2,FSV Mainz 05,Deutschland Bundesliga
 113,06.06.,15:30,GER BL,RB Leipzig,1:1,SC Paderborn,Deutschland Bundesliga
 114,06.06.,15:30,GER BL,Bayer Leverkusen,2:4,FC Bayern München,Deutschland Bundesliga
-096,06.06.,17:00,AUT BL,SKN St. Pölten,1:1,FK Austria Wien,"Österreich Bundesliga, Qualifikationsgruppe"
-097,06.06.,17:00,AUT BL,SCR Altach,1:1,WSG Swarovs. Tirol,"Österreich Bundesliga, Qualifikationsgruppe"
-098,06.06.,17:00,AUT BL,Admira Wacker,0:2,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
 115,06.06.,18:30,GER BL,Bor. Dortmund,1:0,Hertha BSC,Deutschland Bundesliga
-108,06.06.,20:25,AUT 2,Grazer AK*,1:1,Austria Lustenau,Österreich Zweite Liga
-109,07.06.,10:30,AUT 2,Austria Klagenfurt,3:2,Kapfenberger SV,Österreich Zweite Liga
 116,07.06.,13:30,GER BL,Werder Bremen,0:1,VfL Wolfsburg,Deutschland Bundesliga
 117,07.06.,15:30,GER BL,FC Union Berlin,1:1,FC Schalke 04,Deutschland Bundesliga
-099,07.06.,17:00,AUT BL,Wolfsberger AC,3:3,LASK Linz,Österreich Bundesliga
-100,07.06.,17:00,AUT BL,TSV Hartberg,0:6,RB Salzburg,Österreich Bundesliga
 118,07.06.,18:00,GER BL,FC Augsburg,1:1,1. FC Köln,Deutschland Bundesliga
-101,07.06.,19:30,AUT BL,SK Rapid Wien,4:0,SK Sturm Graz,Österreich Bundesliga

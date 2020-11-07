@@ -19,6 +19,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 018,04.02.,20:45,GER CUP,Werder Bremen,3:2,Bor. Dortmund,Deutschland DFB Pokal
 019,04.02.,20:45,GER CUP,W. Bremen+1,4:2,Bor. Dortmund,Deutschland DFB Pokal
 020,04.02.,20:45,GER CUP,FC Schalke 04,2:2,Hertha BSC,Deutschland DFB Pokal
+021,04.02.,21:00,ENG FA,FC Liverpool,1:0,Shrewsbury Town,England FA Cup
 022,04.02.,20:45,ENG FA,Birmingham City,1:1,Coventry City,England FA Cup
 023,04.02.,20:45,ENG FA,Derby County,4:2,Northampton,England FA Cup
 024,04.02.,20:45,ENG FA,Cardiff City,2:2,FC Reading,England FA Cup
@@ -26,7 +27,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 026,04.02.,20:45,NIRL 1,FC Cliftonville,3:1,FC Carrick Rangers,Nordirland JJB Sports Premiership
 027,04.02.,20:45,BB EL,O.Milano ITA,96:102,Alba Berlin GER,Euroleague
 028,04.02.,20:45,BB EL,Asvel Lyon Vil FRA,75:65,Bayern München GER,Euroleague
-021,04.02.,21:00,ENG FA,FC Liverpool,1:0,Shrewsbury Town,England FA Cup
 029,04.02.,21:00,ESP CUP,Granada CF,2:1,FC Valencia,Spanien Copa del Rey
 030,04.02.,21:05,FRA 1,FC Nantes,1:2,Paris SG,Frankreich Ligue 1
 031,04.02.,21:05,FRA 2,FC Lorient,4:2,Le Mans UC 72,Frankreich Ligue 2
@@ -81,11 +81,11 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 080,05.02.,21:00,FRA 1,AS Saint Etienne,0:2,Olymp. Marseille,Frankreich Ligue 1
 081,05.02.,21:00,BB EL,Valencia Bask. ESP,76:77,FC Barcelona ESP,Euroleague
 082,06.02.,16:00,EGY 1,Al-Masry Club,2:2,FC Tanta,Ägypten Premier League
-087,06.02.,17:30,EH TOUR,Finnland,3:0,Russland,Euro Hockey Tour
 083,06.02.,18:00,GRE CUP,Aris Thessaloniki,0:0,Atromitos Athen,Griechenland Cup
 084,06.02.,18:30,TUR CUP,Antalyaspor,0:0,Sivasspor,Türkei Türkiye Kupasi
 085,06.02.,18:30,EGY 1,Pyramids FC,1:2,Al Ahly Cairo,Ägypten Premier League
 086,06.02.,18:30,BB EL,Efes Istanbul TUR,96:91,BC Zalgiris LTU,Euroleague
+087,06.02.,17:30,EH TOUR,Finnland,3:0,Russland,Euro Hockey Tour
 088,06.02.,19:00,EH TOUR,Tschechien*,1:2,Schweden,Euro Hockey Tour
 089,06.02.,19:00,ESP CUP,Real Madrid,3:4,Real Sociedad,Spanien Copa del Rey
 090,06.02.,19:00,ESP CUP,Real Madrid,3:5,Real Sociedad+1,Spanien Copa del Rey
@@ -101,21 +101,21 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 100,06.02.,21:00,ESP CUP,Athletic Bilbao+1,2:0,FC Barcelona,Spanien Copa del Rey
 101,06.02.,21:00,BB EL,Baskonia G. ESP,79:65,Asvel Lyon Vil FRA,Euroleague
 102,06.02.,23:15,COPA S,Blooming BOL,0:3,CS Emelec ECU,Copa Sudamericana
-107,07.02.,01:00,NHL,NY Islanders,5:3,Los Angeles Kings,USA NHL
-108,07.02.,01:00,NHL,Tampa Bay Lightn.,4:2,Pittsburgh Peng.,USA NHL
 103,07.02.,01:30,COPA S,Union Santa Fe ARG,3:0,Atletico MG BRA,Copa Sudamericana
 104,07.02.,01:30,COPA S,Millonarios COL,2:0,Alw.Ready BOL,Copa Sudamericana
-106,07.02.,02:00,NHL,St. Louis Blues,2:4,Winnipeg Jets,USA NHL
 105,07.02.,04:15,MEX 1,Atlas FC,1:3,Mazatlan FC,Mexiko Primera Division
+106,07.02.,02:00,NHL,St. Louis Blues,2:4,Winnipeg Jets,USA NHL
+107,07.02.,01:00,NHL,NY Islanders,5:3,Los Angeles Kings,USA NHL
+108,07.02.,01:00,NHL,Tampa Bay Lightn.,4:2,Pittsburgh Peng.,USA NHL
 109,07.02.,18:00,AUT CUP,SKN St. Pölten,2:2,Wacker Innsbruck,Österreich ÖFB Cup
-112,07.02.,20:30,GER BL,Eintr. Frankfurt,5:0,FC Augsburg,Deutschland Bundesliga
 110,08.02.,15:00,AUT CUP,Austria Lustenau,1:1,WSG Swarovs. Tirol,Österreich ÖFB Cup
+111,08.02.,18:00,AUT CUP,LASK Linz,2:0,SK Sturm Graz,Österreich ÖFB Cup
+112,07.02.,20:30,GER BL,Eintr. Frankfurt,5:0,FC Augsburg,Deutschland Bundesliga
 113,08.02.,15:30,GER BL,VfL Wolfsburg,1:1,Fortuna Düsseldorf,Deutschland Bundesliga
 114,08.02.,15:30,GER BL,Werder Bremen,0:2,FC Union Berlin,Deutschland Bundesliga
 115,08.02.,15:30,GER BL,Hertha BSC,1:3,FSV Mainz 05,Deutschland Bundesliga
 116,08.02.,15:30,GER BL,SC Freiburg,1:0,TSG Hoffenheim,Deutschland Bundesliga
 117,08.02.,15:30,GER BL,FC Schalke 04,1:1,SC Paderborn,Deutschland Bundesliga
-111,08.02.,18:00,AUT CUP,LASK Linz,2:0,SK Sturm Graz,Österreich ÖFB Cup
 118,08.02.,18:30,GER BL,Bayer Leverkusen,4:3,Bor. Dortmund,Deutschland Bundesliga
 119,09.02.,15:30,GER BL,Mönchengladbach,abgesagt,1. FC Köln,Deutschland Bundesliga
 120,09.02.,18:00,GER BL,FC Bayern München,0:0,RB Leipzig,Deutschland Bundesliga

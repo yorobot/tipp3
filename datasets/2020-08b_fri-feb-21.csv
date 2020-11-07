@@ -68,8 +68,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 067,23.02.,12:30,AUT 2,Wacker Innsbruck,1:1,SK Vorwärts Steyr,Österreich Zweite Liga
 068,23.02.,12:30,ITA A,FC Genua,2:3,Lazio Rom,Italien Serie A
 069,23.02.,13:30,GER 2,1. FC Nürnberg,1:2,SV Darmstadt 98,Deutschland 2. Bundesliga
-071,23.02.,13:30,GER 2,SV Sandhausen,0:2,Karlsruher SC,Deutschland 2. Bundesliga
 070,23.02.,14:00,GER 2,Arminia Bielefeld,1:0,Hannover 96,Deutschland 2. Bundesliga
+071,23.02.,13:30,GER 2,SV Sandhausen,0:2,Karlsruher SC,Deutschland 2. Bundesliga
 072,23.02.,14:00,ESP 1,CD Alaves,2:1,Athletic Bilbao,Spanien Primera Division
 073,23.02.,14:30,AUT BL,LASK Linz,4:1,SKN St. Pölten,Österreich Bundesliga
 074,23.02.,14:30,AUT BL,TSV Hartberg,2:2,SK Rapid Wien,Österreich Bundesliga
@@ -83,11 +83,11 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 082,23.02.,16:00,ESP 1,Real Valladolid,2:1,Espanyol Barcelona,Spanien Primera Division
 083,23.02.,16:00,SUI SL,FC Basel,2:2,FC Servette Genf,Schweiz Axpo Super League
 084,23.02.,16:00,SUI SL,FC St. Gallen,3:3,Young Boys Bern,Schweiz Axpo Super League
+085,23.02.,17:30,EH AUT,EC RB Salzburg,1:6,Vienna Capitals,Österreich Eishockey Liga
 086,23.02.,17:00,AUT BL,FK Austria Wien,2:2,RB Salzburg,Österreich Bundesliga
 087,23.02.,17:00,AUT BL,FK Austria Wien+1,3:2,RB Salzburg,Österreich Bundesliga
 088,23.02.,17:00,FRA 1,Stade Rennes,2:1,Olympique Nimes,Frankreich Ligue 1
 089,23.02.,17:00,TUR 1,Fenerbahce,1:3,Galatasaray,Türkei Süper Lig
-085,23.02.,17:30,EH AUT,EC RB Salzburg,1:6,Vienna Capitals,Österreich Eishockey Liga
 090,23.02.,17:30,ENG PL,FC Arsenal,3:2,FC Everton,England Premier League
 091,23.02.,17:30,EH AUT,EC Dornbirn,1:1,HC Innsbruck,Österreich Eishockey Liga
 092,23.02.,17:30,EH AUT,HC Znojmo,6:4,Black Wings Linz,Österreich Eishockey Liga

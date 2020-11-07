@@ -23,8 +23,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 022,03.11.,20:00,ENG 1,Charlton Athletic,3:2,Fleetwood Town,England League One
 023,03.11.,20:00,ENG 1,Oxford United,3:1,FC Rochdale,England League One
 024,03.11.,20:00,ENG 1,Plymouth Argyle,4:2,Swindon Town,England League One
-026,03.11.,20:25,AUT CUP,Floridsdorfer AC,abgesagt,Austria Klagenfurt,Österreich ÖFB Cup
 025,03.11.,20:30,ENG 1,AFC Sunderland,2:1,Ipswich Town,England League One
+026,03.11.,20:25,AUT CUP,Floridsdorfer AC,abgesagt,Austria Klagenfurt,Österreich ÖFB Cup
 027,03.11.,20:45,ENG CS,Blackburn Rovers,0:0,FC Middlesbrough,England Championship
 028,03.11.,20:45,ENG CS,Cardiff City,3:0,FC Barnsley,England Championship
 029,03.11.,20:45,ENG 1,AFC Wimbledon,2:2,Doncaster Rovers,England League One
@@ -113,9 +113,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 112,05.11.,21:00,EL,YB Bern SUI,3:0,ZSKA Sofia BUL,UEFA Europa League
 113,05.11.,21:00,EL,Celtic Glasgow SCO,1:4,Sparta Prag CZE,UEFA Europa League
 114,05.11.,21:00,EL,AC Milan ITA,0:3,Lille OSC FRA,UEFA Europa League
+115,05.11.,22:10,EL,Villarreal CF ESP,4:0,Macc. Tel Aviv ISR,UEFA Europa League
 116,05.11.,21:00,EL,Feyenoord NED,3:1,ZSKA Moskau RUS,UEFA Europa League
 117,05.11.,21:00,EL,Roter Stern B. SRB,2:1,KAA Gent BEL,UEFA Europa League
 118,05.11.,21:00,EL,Hoffenheim GER,5:0,Slovan Liberec CZE,UEFA Europa League
 119,05.11.,21:00,EL,TSG Hoffenheim,5:1,Slovan Liberec+1,UEFA Europa League
-115,05.11.,22:10,EL,Villarreal CF ESP,4:0,Macc. Tel Aviv ISR,UEFA Europa League
 120,06.11.,02:20,NFL,San Francisco 49,17:34,Green Bay Packers,USA NFL

@@ -30,9 +30,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 029,18.08.,21:00,NHL,Montreal Canad.*,0:2,Philadelphia Fl.,USA NHL
 030,18.08.,22:00,PAR 1,Guairena FC,0:1,Sportivo Luqueno,Paraguay Primera Division
 031,18.08.,22:00,NBA,Indiana Pacers*,101:113,Miami Heat,USA NBA
-034,18.08.,23:30,NHL,Dallas Stars*,2:1,Calgary Flames,USA NHL
 032,19.08.,00:30,NBA,Houston Rockets*,123:108,Oklahoma City Th.,USA NBA
 033,19.08.,00:30,PAR 1,Sol de America,0:1,Club Cerro Porteno,Paraguay Primera Division
+034,18.08.,23:30,NHL,Dallas Stars*,2:1,Calgary Flames,USA NHL
 035,19.08.,02:00,NHL,NY Islanders*,2:3,Washington Cap.,USA NHL
 036,19.08.,03:00,NBA,LA Lakers*,93:100,Portland T.,USA NBA
 037,19.08.,11:30,AUS 1,Western United FC*,1:3,Melbourne City FC,Australien Hyundai A-League
@@ -55,7 +55,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 054,19.08.,17:00,RUS PL,FK Achmat Grozny,3:1,FC Rotor Wolgograd,Russland Premier League
 055,19.08.,18:00,RUS PL,Dinamo Moskau,2:0,FC Rostov,Russland Premier League
 056,19.08.,18:00,CL Q,Molde FK NOR,5:0,Kuopio PS FIN,"UEFA Champions League, Qualifikation"
-088,19.08.,18:00,NHL,Tampa Bay Lightn.*,4:4,Columbus Blue J.,USA NHL
 057,19.08.,18:30,CL Q,Flora Tallinn EST,1:1,Suduva Marija. LTU,"UEFA Champions League, Qualifikation"
 058,19.08.,19:00,CL Q,NK Celje SLO*,3:0,FC Dundalk IRL,"UEFA Champions League, Qualifikation"
 059,19.08.,19:00,CL Q,Macc. Tel Aviv ISR,2:0,FC Riga LAT,"UEFA Champions League, Qualifikation"
@@ -64,13 +63,14 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 062,19.08.,19:00,SWE CUP,Enskede IK,2:4,Taby FK,Schweden Cup
 063,19.08.,19:00,SWE CUP,Karlbergs BK,1:3,IF Brommapojkarna,Schweden Cup
 064,19.08.,19:00,RL SBG,Austria Salzburg,2:0,SK Bischofshofen,Regionalliga Salzburg
-068,19.08.,19:00,CL Q,Ferencvaros HUN,2:0,Djurgardens IF SWE,"UEFA Champions League, Qualifikation"
-069,19.08.,19:00,CL Q,Ferencvaros,2:1,Djurgardens IF+1,"UEFA Champions League, Qualifikation"
 065,19.08.,19:30,RL SBG,SV Kuchl,3:0,SV Seekirchen,Regionalliga Salzburg
 066,19.08.,19:30,NBA,Toronto Raptors*,104:99,Brooklyn Nets,USA NBA
 067,19.08.,20:00,CL Q,B.Podgorica MNE,1:3,Ludog. Razgrad BUL,"UEFA Champions League, Qualifikation"
+068,19.08.,19:00,CL Q,Ferencvaros HUN,2:0,Djurgardens IF SWE,"UEFA Champions League, Qualifikation"
+069,19.08.,19:00,CL Q,Ferencvaros,2:1,Djurgardens IF+1,"UEFA Champions League, Qualifikation"
 070,19.08.,20:00,CL Q,Connah's Quay WAL,0:2,FK Sarajevo BIH,"UEFA Champions League, Qualifikation"
 071,19.08.,20:00,CL Q,FC Sheriff T. MDA,2:0,CS Fola Esch LUX,"UEFA Champions League, Qualifikation"
+072,21.08.,18:00,CL Q,KI Klaksvik FRO,abgesagt,Slov. Bratisl. SVK,"UEFA Champions League, Qualifikation"
 073,19.08.,20:00,ISL 2,Fram Reykjavik,3:0,Magni,Island 2. Liga
 074,19.08.,20:00,ISL 2,Thor Akureyri,5:1,L. Faskrudsfjördur,Island 2. Liga
 075,19.08.,20:00,ISL 2,Keflavik IF,6:1,Vikingur Olafsvik,Island 2. Liga
@@ -83,14 +83,15 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 082,19.08.,21:00,CL Q,Floriana FC MLT,0:2,FC CFR Cluj ROU,"UEFA Champions League, Qualifikation"
 083,19.08.,21:15,ISL 2,Throttur Reykjavik,2:4,UMF Grindavik,Island 2. Liga
 084,19.08.,22:00,NBA,Denver Nuggets*,105:124,Utah Jazz,USA NBA
-089,19.08.,22:00,NHL,Boston Bruins*,2:1,Carolina Hurric.,USA NHL
-091,19.08.,23:30,NHL,Colorado Av.*,7:1,Arizona Coyotes,USA NHL
 085,20.08.,00:15,BRA 1,CR Flamengo RJ,1:1,Gremio RS,Brasilien Brasilero Serie A
 086,20.08.,00:15,BRA 1,RB Bragantino SP,2:1,Fluminense RJ,Brasilien Brasilero Serie A
 087,20.08.,00:30,BRA 1,Atletico PR,0:1,SE Palmeiras SP,Brasilien Brasilero Serie A
+088,19.08.,18:00,NHL,Tampa Bay Lightn.*,4:4,Columbus Blue J.,USA NHL
+089,19.08.,22:00,NHL,Boston Bruins*,2:1,Carolina Hurric.,USA NHL
+090,20.08.,02:00,NHL,Philadelphia Fl.*,3:5,Montreal Canad.,USA NHL
+091,19.08.,23:30,NHL,Colorado Av.*,7:1,Arizona Coyotes,USA NHL
 092,20.08.,01:30,BRA 1,Internacional RS,3:0,Atletico GO,Brasilien Brasilero Serie A
 093,20.08.,01:30,BRA 1,Goias EC GO,1:3,Fortaleza EC CE,Brasilien Brasilero Serie A
-090,20.08.,02:00,NHL,Philadelphia Fl.*,3:5,Montreal Canad.,USA NHL
 094,20.08.,02:30,BRA 1,Botafogo FR RJ,2:1,Atletico MG,Brasilien Brasilero Serie A
 095,20.08.,02:30,BRA 1,Corinthians SP,3:1,Coritiba FC PR,Brasilien Brasilero Serie A
 096,20.08.,12:00,CHN SL,Guangzhou Ev.,2:1,Jiangsu Suning,China Chinese Super League
@@ -112,10 +113,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 112,20.08.,21:30,NBA,Houston Rockets*,111:98,Oklahoma City Th.,USA NBA
 113,20.08.,22:00,ESP 2,Elche CF,0:0,FC Girona,Spanien Segunda Division
 114,21.08.,00:00,NBA,Milwaukee Bucks*,111:96,Orlando Magic,USA NBA
+115,21.08.,03:00,NBA,LA Lakers*,111:88,Portland T.,USA NBA
 116,21.08.,00:15,BRA 1,Sport Recife PE,0:1,Santos SP,Brasilien Brasilero Serie A
 117,21.08.,01:00,BRA 1,Ceara SC CE,0:3,Vasco Da Gama RJ,Brasilien Brasilero Serie A
 118,21.08.,01:00,BRA 1,Sao Paulo SP,1:1,EC Bahia BA,Brasilien Brasilero Serie A
 119,21.08.,01:00,USA MLS,NY Red Bulls,1:0,New York City FC,USA Major League Soccer
 120,21.08.,01:30,USA MLS,Columbus Crew,3:0,Chicago Fire,USA Major League Soccer
-115,21.08.,03:00,NBA,LA Lakers*,111:88,Portland T.,USA NBA
-072,21.08.,18:00,CL Q,KI Klaksvik FRO,abgesagt,Slov. Bratisl. SVK,"UEFA Champions League, Qualifikation"

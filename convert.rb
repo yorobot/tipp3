@@ -44,7 +44,7 @@ prog_ids.each do |prog_id|
 
 
   # sort by num (1st record filed e.g. 001, 002, 003, etc. - is sometimes out of order (and sorted by date))
-  rows = rows.sort_by {|row| row[0]}
+  rows = rows.sort_by {|row| row[:num] }
   pp rows[0..2]
 
   prog_meta = PROGS_BY_ID[ prog_id ]

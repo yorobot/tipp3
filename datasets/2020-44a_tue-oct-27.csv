@@ -1,8 +1,10 @@
 Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,27.10.,15:45,ATPWIEN,"Djokovic, Novak",2:0,"Krajinovic, Filip","Tennis ATP Wien, Einzel"
+002,28.10.,15:25,ATPWIEN,"Tsitsipas, Stefan.",2:1,"Struff, Jan-L.","Tennis ATP Wien, Einzel"
 003,27.10.,14:00,ATPWIEN,"De Minaur, Alex",abgesagt,"Medvedev, Daniil","Tennis ATP Wien, Einzel"
+004,27.10.,20:20,ATPWIEN,"Garin, Cristian",2:1,"Wawrinka, Stan","Tennis ATP Wien, Einzel"
 005,27.10.,14:00,ATPWIEN,"Dimitrov, Grigor",2:0,"Khachanov, Karen","Tennis ATP Wien, Einzel"
 006,27.10.,14:00,ATPWIEN,"Lajovic, Dusan",abgesagt,Schwartzman D.,"Tennis ATP Wien, Einzel"
-001,27.10.,15:45,ATPWIEN,"Djokovic, Novak",2:0,"Krajinovic, Filip","Tennis ATP Wien, Einzel"
 007,27.10.,18:00,ATPWIEN,"Nishikori, Kei",abgesagt,"Thiem, Dominic","Tennis ATP Wien, Einzel"
 008,27.10.,18:45,NL CUP,Twente Enschede,1:3,De Graafschap,Niederlande KNVB Cup
 009,27.10.,18:55,CL,Lok Moskau RUS,1:2,Bayern München GER,UEFA Champions League
@@ -20,7 +22,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 021,27.10.,20:00,ENG 1,Peterborough Utd.,2:2,Burton Albion,England League One
 022,27.10.,20:00,ENG 1,AFC Wimbledon,1:0,FC Blackpool,England League One
 023,27.10.,20:00,ENG CS,FC Barnsley,3:0,Queens Park R.,England Championship
-004,27.10.,20:20,ATPWIEN,"Garin, Cristian",2:1,"Wawrinka, Stan","Tennis ATP Wien, Einzel"
 024,27.10.,20:45,ENG CS,Swansea City,2:0,Stoke City,England Championship
 025,27.10.,20:45,ENG CS,Wycombe Wanderers,1:1,FC Watford,England Championship
 026,27.10.,20:45,ENG CS,Blackburn Rovers,2:4,FC Reading,England Championship
@@ -40,7 +41,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 040,27.10.,21:00,CL,FC Liverpool ENG,2:0,FC Midtjylland DEN,UEFA Champions League
 041,27.10.,21:00,CL,FC Liverpool,2:2,FC Midtjylland+2,UEFA Champions League
 042,27.10.,21:00,EMQDA,Österreich Damen,0:0,Frankreich Damen,"EM Qualifikation, Damen"
-002,28.10.,15:25,ATPWIEN,"Tsitsipas, Stefan.",2:1,"Struff, Jan-L.","Tennis ATP Wien, Einzel"
 043,28.10.,16:00,ITA CUP,Benevento Calcio,2:4,FC Empoli,Italien Coppa Italia
 044,28.10.,16:00,ITA CUP,Brescia Calcio,3:0,Perugia Calcio,Italien Coppa Italia
 045,28.10.,17:00,ITA CUP,Hellas Verona,2:2,SSC Venezia,Italien Coppa Italia

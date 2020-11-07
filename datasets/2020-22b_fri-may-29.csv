@@ -56,8 +56,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 055,30.05.,18:30,GER BL,FC Bayern München,5:2,Fort. Düsseldorf+2,Deutschland Bundesliga
 056,30.05.,19:00,ISR 1,Maccabi Tel Aviv,2:0,Hapoel Haifa,Israel Winner League
 057,30.05.,19:00,HUN 1,Diosgyör VTK,1:0,Mezokovesd Zsory S,Ungarn NB I
-059,30.05.,19:30,SERB 1,FK Napredak,1:1,FK Radnicki Nis,Serbien Meridijan Superliga
 058,30.05.,19:45,ISR 1,Beitar Jerusalem,1:1,Hap. Beer Sheva,Israel Winner League
+059,30.05.,19:30,SERB 1,FK Napredak,1:1,FK Radnicki Nis,Serbien Meridijan Superliga
 060,30.05.,20:00,ISR 1,Maccabi Haifa,1:2,Hapoel Tel Aviv,Israel Winner League
 061,30.05.,20:00,CZE 1,SK Slavia Prag,5:0,FK Baumit Jablonec,Tschechien Gambrinus Liga
 062,30.05.,20:00,POL 1,Lech Posen,0:1,Legia Warschau,Polen Orange Ekstraklasa
@@ -94,6 +94,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 093,01.06.,14:00,DEN 1,Randers FC,0:1,Hobro IK,Dänemark Superligaen
 094,01.06.,16:00,FRO 1,B36 Torshavn,2:4,HB Torshavn,Färöer Inseln Premier League
 095,01.06.,16:00,FRO 1,Vikingur Gota,0:0,TB Tvoeroyri,Färöer Inseln Premier League
+096,01.06.,20:00,FRO 1,AB Argir,0:6,KI Klaksvik,Färöer Inseln Premier League
 097,01.06.,16:00,DEN 1,FC Midtjylland,0:1,AC Horsens,Dänemark Superligaen
 098,01.06.,17:00,BLR 1,FC Minsk,1:0,FC Slutsk,Weißrussland Premier League
 099,01.06.,17:00,LIT 1,Suduva Marijampole,1:0,FK Zalgiris Kaunas,Litauen A lyga
@@ -108,7 +109,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 108,01.06.,19:00,ISR 2,SC Kfar Qasem,0:3,Macc. Petach Tikva,Israel National League
 109,01.06.,19:00,CZE 2,Zbrojovka Brno,0:0,FK Dukla Prag,Tschechien 1. Division
 110,01.06.,19:15,ISR 1,Bnei Yehuda,0:0,Hapoel Kfar Saba,Israel Winner League
-096,01.06.,20:00,FRO 1,AB Argir,0:6,KI Klaksvik,Färöer Inseln Premier League
 111,01.06.,20:00,DEN 1,AGF Aarhus,1:0,Odense BK,Dänemark Superligaen
 112,01.06.,20:30,GER BL,1. FC Köln,2:4,RB Leipzig,Deutschland Bundesliga
 113,01.06.,20:30,GER BL,1. FC Köln+1,3:4,RB Leipzig,Deutschland Bundesliga

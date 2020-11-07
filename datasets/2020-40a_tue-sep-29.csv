@@ -1,7 +1,8 @@
 Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,29.09.,19:25,TEN ATP,"Bautista, Roberto",3:0,"Gasquet, Richard",Tennis ATP
 002,29.09.,11:00,TEN ATP,"Garin, Cristian",3:1,Kohlschreiber P.,Tennis ATP
-004,29.09.,17:45,ISL 2,UMF Grindavik,3:0,Vikingur Olafsvik,Island 2. Liga
 003,29.09.,18:00,TEN ATP,"Shapovalov, Denis",3:1,"Simon, Gilles",Tennis ATP
+004,29.09.,17:45,ISL 2,UMF Grindavik,3:0,Vikingur Olafsvik,Island 2. Liga
 005,29.09.,18:00,DEN 2,Hobro IK,2:1,Skive IK,Dänemark 1. Division
 006,29.09.,18:00,PER 1,Academia Cantolao,2:2,FC Carlos Stein,Peru Primera Division
 007,29.09.,18:00,KHL,Sev. Cherepovets,1:4,HK Dinamo Minsk,Kontinental Hockey League
@@ -18,7 +19,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 018,29.09.,19:00,ESP 1,Real Sociedad,0:1,FC Valencia,Spanien Primera Division
 019,29.09.,19:00,DEN 2,BK Fremad Amager,2:3,Esbjerg FB,Dänemark 1. Division
 020,29.09.,19:00,NOR 2,Ullensaker/Kisa,0:7,Tromsö IL,Norwegen Adeccoligaen
-001,29.09.,19:25,TEN ATP,"Bautista, Roberto",3:0,"Gasquet, Richard",Tennis ATP
 021,29.09.,20:00,ISL 2,Throttur Reykjavik,0:1,Magni,Island 2. Liga
 022,29.09.,20:25,AUT 2,Wacker Innsbruck,0:0,Austria Lustenau,Österreich Zweite Liga
 023,29.09.,20:25,AUT 2,Wacker Innsbruck,0:1,Austria Lustenau+1,Österreich Zweite Liga
@@ -29,22 +29,22 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 028,29.09.,21:00,CL Q,Ferencvaros HUN,0:0,Molde FK NOR,"UEFA Champions League, Qualifikation"
 029,29.09.,21:00,POR 2,Academ. Coimbra,0:1,CD Feirense,Portugal Segunda Liga
 030,29.09.,21:30,ESP 1,Getafe CF,3:0,Betis Sevilla,Spanien Primera Division
+031,30.09.,15:20,TEN ATP,"Nishikori, Kei",2:3,"Travaglia, Stefano",Tennis ATP
 032,30.09.,11:30,TEN ATP,"Korda, Sebastian",3:1,"Isner, John",Tennis ATP
+033,30.09.,14:00,TEN ATP,"Gombos, Norbert",3:1,"Rodionov, Jurij",Tennis ATP
+034,30.09.,16:10,TEN ATP,"Paire, Benoit",1:3,"Coria, Federico",Tennis ATP
 035,30.09.,11:30,TEN ATP,"Wawrinka, Stan",3:1,"Koepfer, Dominik",Tennis ATP
 036,30.09.,12:00,JPN 1,Yokohama F Marinos,1:1,Sagan Tosu,Japan J.League
 037,30.09.,12:00,JPN 1,Vissel Kobe,1:0,Nagoya Grampus,Japan J.League
 038,30.09.,12:30,JPN 1,Urawa RD,0:1,FC Tokyo,Japan J.League
-033,30.09.,14:00,TEN ATP,"Gombos, Norbert",3:1,"Rodionov, Jurij",Tennis ATP
 039,30.09.,15:00,ITA CUP,Frosinone Calcio,1:3,Padua Calcio,Italien Coppa Italia
 040,30.09.,15:00,ITA CUP,AS Cittadella,3:1,Novara Calcio,Italien Coppa Italia
-031,30.09.,15:20,TEN ATP,"Nishikori, Kei",2:3,"Travaglia, Stefano",Tennis ATP
 041,30.09.,16:00,ITA CUP,Virtus Entella,2:1,UC Albinoleffe,Italien Coppa Italia
-034,30.09.,16:10,TEN ATP,"Paire, Benoit",1:3,"Coria, Federico",Tennis ATP
-043,30.09.,16:30,KHL,Salavat Yulaev Ufa,1:4,Avtomobilist,Kontinental Hockey League
 042,30.09.,17:00,ITA CUP,Vicenza Calcio,1:1,Pro Patria,Italien Coppa Italia
-046,30.09.,17:00,ITA CUP,FC Empoli,2:1,AC Renate,Italien Coppa Italia
+043,30.09.,16:30,KHL,Salavat Yulaev Ufa,1:4,Avtomobilist,Kontinental Hockey League
 044,30.09.,18:00,ITA A,Benevento Calcio,2:5,Inter Mailand,Italien Serie A
 045,30.09.,18:00,ITA A,Udinese Calcio,0:2,Spezia Calcio,Italien Serie A
+046,30.09.,17:00,ITA CUP,FC Empoli,2:1,AC Renate,Italien Coppa Italia
 047,30.09.,18:00,ITA CUP,Salernitana Calcio,3:0,FC Südtirol,Italien Coppa Italia
 048,30.09.,18:00,ITA CUP,AC Reggiana,1:1,AC Monopoli,Italien Coppa Italia
 049,30.09.,18:00,DEN 2,Viborg FF,3:1,Vendsyssel FF,Dänemark 1. Division
@@ -79,12 +79,12 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 078,01.10.,02:30,BRA 1,Botafogo FR RJ,1:2,EC Bahia BA,Brasilien Brasilero Serie A
 079,01.10.,02:30,BRA 1,Corinthians SP,0:0,Atletico GO,Brasilien Brasilero Serie A
 080,01.10.,03:00,NBA,LA Lakers,116:98,Miami Heat,USA NBA
+081,01.10.,19:00,EL,Ararat-Arm. ARM*,1:2,Roter Stern B. SRB,UEFA Europa League
 082,01.10.,17:30,EH FIN,HPK Hämeenlinna,2:4,Kärpät Oulu,Finnland SM-Liiga
 083,01.10.,17:30,EL,FC CFR Cluj ROU,3:1,Kuopio PS FIN,UEFA Europa League
 084,01.10.,18:30,ENG LC,FC Brentford,3:0,FC Fulham,England Liga Cup
 085,01.10.,18:30,CHI 1,Palestino,0:1,Univ. d.Concepcion,Chile Primera Divison
 086,01.10.,18:30,KHL,Spartak Moskau,4:5,HK CSKA Moskau,Kontinental Hockey League
-081,01.10.,19:00,EL,Ararat-Arm. ARM*,1:2,Roter Stern B. SRB,UEFA Europa League
 087,01.10.,19:00,EL,Malmö FF SWE,1:3,Granada CF ESP,UEFA Europa League
 088,01.10.,19:00,EL,Rosenborg BK NOR,0:2,PSV Eindhoven NED,UEFA Europa League
 089,01.10.,19:00,EL,Slovan Liberec CZE,1:0,APOEL Nikosia CYP,UEFA Europa League
@@ -117,5 +117,5 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 116,01.10.,21:00,EL,Rio Ave FC POR,1:1,AC Milan ITA,UEFA Europa League
 117,01.10.,21:00,EL,Tottenham ENG,7:2,Maccabi Haifa ISR,UEFA Europa League
 118,01.10.,21:15,ISL 1,Vikingur Reykjavik,0:2,KR Reykjavik,Island Urvalsdeild
-120,01.10.,21:30,ESP 1,Celta de Vigo,0:3,FC Barcelona,Spanien Primera Division
 119,01.10.,22:15,ISL 1,Stjarnan Gardab.,1:1,FH Hafnarfjördur,Island Urvalsdeild
+120,01.10.,21:30,ESP 1,Celta de Vigo,0:3,FC Barcelona,Spanien Primera Division

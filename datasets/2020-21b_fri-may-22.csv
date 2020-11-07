@@ -1,8 +1,8 @@
 Num,Date,Time,League,Team 1,Score,Team 2,League Name
 001,22.05.,12:30,KOR 1,Pohang Steelers FC,1:2,FC Seoul,Südkorea K-League 1
 002,22.05.,13:00,BLR RES,FC Isloch Reserve,2:1,Energetik Minsk Re,Weißrussland Reserve Liga
-004,22.05.,13:00,BLR RES,FC Vitebsk Reserve,1:7,Din Minsk Reserve,Weißrussland Reserve Liga
 003,22.05.,15:00,BLR RES,FC Slutsk Reserve,3:2,Rukh Brest Reserve,Weißrussland Reserve Liga
+004,22.05.,13:00,BLR RES,FC Vitebsk Reserve,1:7,Din Minsk Reserve,Weißrussland Reserve Liga
 005,22.05.,17:00,BLR 1,Slavia Mozyr,1:1,FC Gorodeya,Weißrussland Premier League
 006,22.05.,17:00,FS,RB Salzburg AUT,1:1,WSG Sw.Tirol AUT,Freundschaftsspiele International (Klub)
 007,22.05.,18:30,GER 2,1. FC Nürnberg,1:1,Erzgebirge Aue,Deutschland 2. Bundesliga
@@ -44,10 +44,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 043,23.05.,18:30,GER BL,FC Bayern München,5:4,Eintr. Frankfurt+2,Deutschland Bundesliga
 044,23.05.,19:00,FRO 1,EB/Streymur,2:0,TB Tvoeroyri,Färöer Inseln Premier League
 045,23.05.,19:30,BLR 1,FC Vitebsk,1:1,FC Dinamo Minsk,Weißrussland Premier League
-065,23.05.,23:00,CRC 1,ADR Jicaral,1:1,Municipal Grecia,Costa Rica Primera División
 046,24.05.,00:00,CRC 1,Perez Zeledon,0:1,CS Cartagines,Costa Rica Primera División
 047,24.05.,03:00,CRC 1,LD Alajuelense,3:0,AD San Carlos,Costa Rica Primera División
-067,24.05.,04:00,CRC 1,Santos de Guapiles,2:4,Deportivo Saprissa,Costa Rica Primera División
 048,24.05.,09:30,KOR 1,Jeonbuk Hyundai,2:0,Daegu FC,Südkorea K-League 1
 049,24.05.,12:00,EST 1,JK Narva Trans,2:3,FC Flora Tallinn,Estland Meistriliiga
 050,24.05.,12:00,EST 1,Tammeka Tartu,0:2,JK Tallinna Kalev,Estland Meistriliiga
@@ -65,7 +63,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 062,24.05.,16:00,BLR CUP,Dinamo Brest*,0:0,FC BATE Borisov,Weißrussland Cup
 063,24.05.,18:00,GER BL,1. FC Köln,2:2,Fortuna Düsseldorf,Deutschland Bundesliga
 064,24.05.,18:00,GER BL,1. FC Köln,2:3,Fort. Düsseldorf+1,Deutschland Bundesliga
+065,23.05.,23:00,CRC 1,ADR Jicaral,1:1,Municipal Grecia,Costa Rica Primera División
 066,24.05.,23:00,CRC 1,Limon FC,3:3,Uni. de Costa Rica,Costa Rica Primera División
+067,24.05.,04:00,CRC 1,Santos de Guapiles,2:4,Deportivo Saprissa,Costa Rica Primera División
 068,25.05.,02:00,CRC 1,CS Herediano,0:0,Guadalupe FC,Costa Rica Primera División
 069,25.05.,10:30,VIE CUP,FC Dong Thap,3:1,Hai Phong FC,Vietnam Cup
 070,25.05.,12:00,VIE CUP,Pho Hien FC,1:2,FC Thanh Hoa,Vietnam Cup

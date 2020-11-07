@@ -3,9 +3,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 002,22.09.,14:00,CHN SL,Shijiazhuang Ever,0:1,SIPG Shanghai,China Chinese Super League
 003,22.09.,16:30,KHL,Salavat Yulaev Ufa,2:3,HC Sochi,Kontinental Hockey League
 004,22.09.,18:00,KHL,AK Bars Kasan,1:1,Avangard Omsk,Kontinental Hockey League
+005,22.09.,18:30,KHL,Neftekhimik,2:2,Amur Chabarowsk,Kontinental Hockey League
 006,22.09.,18:00,ROU 2,FC Univ. Cluj,3:1,FC Unirea 2004 Slo,"Rumänien, Liga 2"
 007,22.09.,18:00,PER 1,Univ. San Martin,1:1,UTC de Cajamarca,Peru Primera Division
-005,22.09.,18:30,KHL,Neftekhimik,2:2,Amur Chabarowsk,Kontinental Hockey League
 008,22.09.,18:45,NL 2,Excel. Rotterdam,1:2,SC Telstar,Niederlande Jupiler League
 009,22.09.,19:00,AUT RLM,Union Gurten,0:2,SC Kalsdorf,Österreich Regionalliga Mitte
 010,22.09.,19:00,ENG LC,Leyton Orient,abgesagt,Tottenham,England Liga Cup
@@ -84,6 +84,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 083,24.09.,18:30,KHL,HC Sochi,2:3,Dynamo Moskau,Kontinental Hockey League
 084,24.09.,19:00,RL SBG,SV Grödig,2:4,SV Seekirchen,Regionalliga Salzburg
 085,24.09.,19:00,EL,Sp. Charleroi BEL,1:1,FK Partizan SRB,UEFA Europa League
+086,24.09.,21:00,EL,Willem II NED,0:4,Gl.Rangers SCO,UEFA Europa League
 087,24.09.,19:00,EL,Malmö FF SWE,5:0,Lok. Zagreb CRO,UEFA Europa League
 088,24.09.,19:00,EL,Djurgardens IF SWE,0:1,FC CFR Cluj ROU,UEFA Europa League
 089,24.09.,19:00,EL,Besiktas Ist. TUR,1:1,Rio Ave FC POR,UEFA Europa League
@@ -91,7 +92,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 091,24.09.,19:00,EL,NS Mura SLO,1:5,PSV Eindhoven NED,UEFA Europa League
 092,24.09.,19:00,EL,ZSKA Sofia BUL,3:1,B36 Torshavn FRO,UEFA Europa League
 093,24.09.,19:00,EL,Rosenborg BK NOR,1:0,Alanyaspor TUR,UEFA Europa League
-111,24.09.,19:00,EL,Floriana FC MLT,0:0,Flora Tallinn EST,UEFA Europa League
 094,24.09.,19:30,EL,FCS Bukarest ROU,0:2,Slovan Liberec CZE,UEFA Europa League
 095,24.09.,19:30,EL,H. Beer Sheva ISR,3:0,FC Motherwell SCO,UEFA Europa League
 096,24.09.,20:00,EL,FK Sarajevo BIH,2:1,B.Podgorica MNE,UEFA Europa League
@@ -109,12 +109,12 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 108,24.09.,20:30,EL,LASK Linz,7:1,Dunajska Streda+1,UEFA Europa League
 109,24.09.,20:30,EL,FC St. Gallen SUI,0:1,AEK Athen GRE,UEFA Europa League
 110,24.09.,20:30,EL,FC Basel SUI,3:2,Anorthosis F. CYP,UEFA Europa League
+111,24.09.,19:00,EL,Floriana FC MLT,0:0,Flora Tallinn EST,UEFA Europa League
 112,24.09.,20:30,EL,AC Milan ITA,3:2,Bodö Glimt NOR,UEFA Europa League
 113,24.09.,20:30,EL,Legia Warschau POL,2:0,KF Drita KOS,UEFA Europa League
 114,24.09.,20:45,EL,HNK Rijeka CRO,0:0,K.Kovalivka UKR,UEFA Europa League
 115,24.09.,20:45,ENG LC,Lincoln City,2:7,FC Liverpool,England Liga Cup
 116,24.09.,20:45,ENG LC,Manchester City,2:1,AFC Bournemouth,England Liga Cup
-086,24.09.,21:00,EL,Willem II NED,0:4,Gl.Rangers SCO,UEFA Europa League
 117,24.09.,21:00,UEFA SC,Bayern Mün. GER*,1:1,FC Sevilla ESP,UEFA Super Cup
 118,24.09.,21:00,UEFA SC,FC Bayern München,1:2,FC Sevilla+1,UEFA Super Cup
 119,24.09.,21:00,EL,Sporting Liss. POR,1:0,FC Aberdeen SCO,UEFA Europa League

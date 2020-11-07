@@ -74,6 +74,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 073,01.07.,20:30,AUT BL,RB Salzburg,5:2,SK Sturm Graz,Österreich Bundesliga
 074,01.07.,20:30,AUT BL,SK Rapid Wien,3:1,LASK Linz,Österreich Bundesliga
 075,01.07.,20:30,AUT BL,SK Rapid Wien+1,4:1,LASK Linz,Österreich Bundesliga
+076,02.07.,18:30,AUT BL,TSV Hartberg,3:3,Wolfsberger AC,Österreich Bundesliga
 077,01.07.,20:30,GRE 1,Olympiakos Piräus,2:1,OFI Kreta,Griechenland Super League
 078,01.07.,20:30,SUI SL,FC Thun,3:2,FC Zürich,Schweiz Axpo Super League
 079,01.07.,20:30,SUI SL,Xamax Neuchatel,1:2,FC St. Gallen,Schweiz Axpo Super League
@@ -93,7 +94,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 093,02.07.,18:00,ENG CS,Hull City,2:1,FC Middlesbrough,England Championship
 094,02.07.,18:00,NOR 1,Kristiansund BK,2:2,Molde FK,Norwegen Tippeligaen
 095,02.07.,18:10,POL 2,GKS Belchatow,1:1,Podbeskidzie Biala,Polen I Liga
-076,02.07.,18:30,AUT BL,TSV Hartberg,3:3,Wolfsberger AC,Österreich Bundesliga
 096,02.07.,18:30,DEN 2,FC Fredericia,1:2,Hvidovre IF,Dänemark 1. Division
 097,02.07.,19:00,ENG PL,Sheffield United,3:1,Tottenham,England Premier League
 098,02.07.,19:00,TUR 2,Balikesirspor,0:5,Fatih Karagumruk,Türkei TFF 1. Lig
@@ -106,9 +106,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 105,02.07.,19:15,ISR 1,FC Ashdod,3:1,Hapoel Hadera,Israel Winner League
 106,02.07.,19:30,ESP 1,SD Eibar,0:2,CA Osasuna,Spanien Primera Division
 107,02.07.,19:30,ESP 1,Real Sociedad,2:1,Espanyol Barcelona,Spanien Primera Division
+108,02.07.,20:00,ESP 2,Albacete Balompie,1:1,Alcorcon AD,Spanien Segunda Division
 109,02.07.,19:30,ESP 2,SD Huesca,1:0,Las Palmas UD,Spanien Segunda Division
 110,02.07.,19:30,ITA A,Atalanta Bergamo,2:0,SSC Napoli,Italien Serie A
-108,02.07.,20:00,ESP 2,Albacete Balompie,1:1,Alcorcon AD,Spanien Segunda Division
 111,02.07.,20:30,GER BL,Werder Bremen,0:0,FC Heidenheim,Deutschland Bundesliga
 112,02.07.,20:30,GER BL,Werder Bremen,0:1,FC Heidenheim+1,Deutschland Bundesliga
 113,02.07.,20:30,SUI SL,FC Sion,0:2,FC Luzern,Schweiz Axpo Super League

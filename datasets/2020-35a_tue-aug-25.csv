@@ -69,8 +69,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 068,27.08.,02:30,USA MLS,FC Dallas,abgesagt,Colorado Rapids,USA Major League Soccer
 069,27.08.,03:30,USA MLS,Real Salt Lake,abgesagt,Los Angeles FC,USA Major League Soccer
 070,27.08.,04:30,USA MLS,SJ Earthquakes,abgesagt,Portland Timbers,USA Major League Soccer
-072,27.08.,04:30,NHL,Dallas Stars*,4:6,Colorado Avalan.,USA NHL
 071,27.08.,05:00,USA MLS,LA Galaxy,abgesagt,Seattle Sounders,USA Major League Soccer
+072,27.08.,04:30,NHL,Dallas Stars*,4:6,Colorado Avalan.,USA NHL
 073,27.08.,16:00,EL,Ordabassy Sch. KAZ,1:2,FC Botosani ROU,UEFA Europa League
 074,27.08.,16:00,EL,Kairat Almaty KAZ,4:1,FC Noah ARM,UEFA Europa League
 075,27.08.,16:30,EL,JK Nomme Kalju EST,abgesagt,NS Mura SLO,UEFA Europa League
@@ -82,10 +82,10 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 081,27.08.,18:00,EL,Apollon L. CYP,5:1,Sab.Tiflis GEO,UEFA Europa League
 082,27.08.,18:00,EL,Bodö Glimt NOR,6:1,Zalg. Kaunas LTU,UEFA Europa League
 083,27.08.,18:00,EL,Sumgayit FK AZE,0:2,Shk.Tetovo MKD,UEFA Europa League
+084,27.08.,19:00,EL,SC Gjilani KOS,0:0,APOEL Nikosia CYP,UEFA Europa League
 085,27.08.,18:00,PER 1,Universitario Dep.,2:0,Univ. San Martin,Peru Primera Division
 086,27.08.,18:30,EL,Fehervar FC HUN,1:1,Boh. Dublin IRL,UEFA Europa League
 087,27.08.,18:30,EL,Ol. Ljubljana SLO,1:1,Vikingur Reykj ISL,UEFA Europa League
-084,27.08.,19:00,EL,SC Gjilani KOS,0:0,APOEL Nikosia CYP,UEFA Europa League
 088,27.08.,19:00,EL,Zalg. Vilnius LTU,2:0,Paide Linnam. EST,UEFA Europa League
 089,27.08.,19:00,EL,AGF Aarhus DEN,5:2,FC Honka FIN,UEFA Europa League
 090,27.08.,19:00,EL,Rosenborg BK NOR,4:2,Breidablik ISL,UEFA Europa League

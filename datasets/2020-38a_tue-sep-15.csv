@@ -18,9 +18,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 017,15.09.,20:00,ENG LC,Fleetwood Town,2:1,Port Vale FC,England Liga Cup
 018,15.09.,20:00,ENG LC,Newport County,1:0,Cambridge United,England Liga Cup
 019,15.09.,20:00,ENG LC,Oxford United,1:1,FC Watford,England Liga Cup
-022,15.09.,20:00,CL Q,PAOK Thessal. GRE,2:1,Benfica Lissab POR,"UEFA Champions League, Qualifikation"
 020,15.09.,20:30,CL Q,KAA Gent BEL,2:1,SK Rapid Wien AUT,"UEFA Champions League, Qualifikation"
 021,15.09.,20:30,CL Q,KAA Gent,2:2,SK Rapid Wien+1,"UEFA Champions League, Qualifikation"
+022,15.09.,20:00,CL Q,PAOK Thessal. GRE,2:1,Benfica Lissab POR,"UEFA Champions League, Qualifikation"
 023,15.09.,20:30,ENG LC,Newcastle United,1:0,Blackburn Rovers,England Liga Cup
 024,15.09.,20:30,ENG LC,West Ham United,3:0,Charlton Athletic,England Liga Cup
 025,15.09.,20:45,ENG LC,Burton Albion,1:3,Aston Villa,England Liga Cup
@@ -110,8 +110,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 109,17.09.,20:45,EL,NK Osijek CRO,1:2,FC Basel SUI,UEFA Europa League
 110,17.09.,20:45,ENG LC,Brighton & Hove,4:0,FC Portsmouth,England Liga Cup
 111,17.09.,21:00,EL,FK Topola SRB,4:4,FCS Bukarest ROU,UEFA Europa League
-113,17.09.,21:00,FRA 1,Olymp. Marseille,0:2,AS Saint Etienne,Frankreich Ligue 1
 112,17.09.,21:05,EL,Honved Budap. HUN,0:2,Malmö FF SWE,UEFA Europa League
+113,17.09.,21:00,FRA 1,Olymp. Marseille,0:2,AS Saint Etienne,Frankreich Ligue 1
 114,17.09.,22:00,COPA L,Racing Club ARG,0:1,Club Nacional URU,Copa Libertadores
 115,18.09.,00:00,COPA L,Sao Paulo SP BRA,2:2,CA River Plate ARG,Copa Libertadores
 116,18.09.,00:00,COPA L,Defensa y Jus. ARG,3:0,Delfin SC ECU,Copa Libertadores

@@ -40,6 +40,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 039,29.07.,12:30,KOR CUP,FC Seoul,1:5,Pohang Steelers FC,Südkorea FA Cup
 040,29.07.,12:30,KOR CUP,Ulsan Hyundai,3:0,Gangwon FC,Südkorea FA Cup
 041,29.07.,16:00,ROU 1,Chindia Targoviste,3:1,FC Academica Clinc,Rumänien Liga 1
+042,29.07.,18:30,UKR 1,Kolos Kovalivka*,0:0,FK Mariupol,Ukraine Premier League
 043,29.07.,17:00,LAT 1,Rigas Futb.Skola,5:2,Valmiera FK,Lettland LMT Virsliga
 044,29.07.,18:00,ROU 1,AFC Hermannstadt,2:0,Viitorul Constanta,Rumänien Liga 1
 045,29.07.,18:00,NOR 1,Strömsgodset,3:1,SK Brann,Norwegen Tippeligaen
@@ -47,13 +48,13 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 047,29.07.,18:00,NOR 1,Kristiansund BK,3:1,Sandefjord Fotball,Norwegen Tippeligaen
 048,29.07.,18:00,NOR 1,Sarpsborg 08,0:0,FK Haugesund,Norwegen Tippeligaen
 049,29.07.,18:00,NOR 1,Aalesunds FK,3:2,IK Start,Norwegen Tippeligaen
-042,29.07.,18:30,UKR 1,Kolos Kovalivka*,0:0,FK Mariupol,Ukraine Premier League
 050,29.07.,19:00,SWE 2,Jönköpings Södra,3:3,GIF Sundsvall,Schweden Superettan
 051,29.07.,19:00,SWE 2,GAIS Göteborg,1:1,Ljungskile SK,Schweden Superettan
 052,29.07.,19:00,SWE 2,Vasteraas SK,2:3,Halmstads BK,Schweden Superettan
 053,29.07.,19:00,SWE 2,Degerfors IF,3:1,Östers IF,Schweden Superettan
 054,29.07.,19:00,SWE 2,Dalkurd FF,0:0,Örgryte Göteborg,Schweden Superettan
 055,29.07.,19:00,SWE 2,Norrby IF,0:0,AFC Eskilstuna,Schweden Superettan
+056,01.08.,19:00,IRI 1,Esteghlal Tehran,2:1,Foolad Mobarakeh S,Iran Pro League
 057,29.07.,19:30,ITA A,Hellas Verona,3:0,Spal Ferrara,Italien Serie A
 058,29.07.,19:30,ITA A,Sampdoria Genua,1:4,AC Milan,Italien Serie A
 059,29.07.,19:30,ITA A,Sampdoria Genua+1,2:4,AC Milan,Italien Serie A
@@ -61,6 +62,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 061,29.07.,19:30,ITA A,Lazio Rom,2:0,Brescia Calcio,Italien Serie A
 062,29.07.,19:30,ITA A,US Sassuolo,5:0,FC Genua,Italien Serie A
 063,29.07.,20:30,TUR CUP,Trabzonspor*,2:0,Alanyaspor,Türkei Türkiye Kupasi
+064,31.07.,17:45,ROU 1,AFC Astra Giurgiu,abgesagt,CS Uni Craiova,Rumänien Liga 1
 065,29.07.,20:30,NOR 1,Molde FK,4:1,Valerenga IF,Norwegen Tippeligaen
 066,29.07.,20:45,ENG CS,FC Brentford,3:1,Swansea City,England Championship
 067,29.07.,20:45,ENG CS,FC Brentford,3:2,Swansea City+1,England Championship
@@ -96,12 +98,12 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 097,30.07.,21:15,ISL CUP,Fram Reykjavik,1:1,Fylkir Reykjavik,Island Cup
 098,30.07.,21:15,ISL CUP,Breidablik,3:0,Grotta,Island Cup
 099,30.07.,21:15,ISL CUP,HK Kopavogs,6:2,Afturelding,Island Cup
+100,31.07.,21:15,ISL CUP,Valur Reykjavik,abgesagt,IA Akranes,Island Cup
 101,30.07.,21:15,ISL CUP,KR Reykjavik,2:0,Fjölnir,Island Cup
 102,30.07.,22:00,ISL CUP,Vikingur Reykjavik,1:2,Stjarnan Gardab.,Island Cup
 103,30.07.,23:00,MAR 1,Raja Casablanca At,3:1,Khemis Zemamra,"Marokko, 1. Liga"
 104,31.07.,00:30,NBA,New Orleans Pel.*,104:106,Utah Jazz,USA NBA
 105,31.07.,03:00,NBA,LA Lakers*,103:101,LA Clippers,USA NBA
-064,31.07.,17:45,ROU 1,AFC Astra Giurgiu,abgesagt,CS Uni Craiova,Rumänien Liga 1
 106,31.07.,20:30,AUT 2,SV Ried,9:0,Floridsdorfer AC,Österreich Zweite Liga
 107,31.07.,20:30,AUT 2,Austria Klagenfurt,6:1,Wacker Innsbruck,Österreich Zweite Liga
 108,31.07.,20:30,AUT 2,Grazer AK*,2:2,SV Lafnitz,Österreich Zweite Liga
@@ -111,10 +113,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 112,31.07.,20:30,AUT 2,Kapfenberger SV,0:3,Young Violets A.W.,Österreich Zweite Liga
 113,31.07.,20:30,AUT 2,Austria Lustenau,1:3,SKU Amstetten,Österreich Zweite Liga
 114,31.07.,21:10,FRA LC,Paris SG*,0:0,Olympique Lyon,Frankreich Coupe de la Ligue
-100,31.07.,21:15,ISL CUP,Valur Reykjavik,abgesagt,IA Akranes,Island Cup
 115,01.08.,18:30,ENG FA,FC Arsenal*,2:1,FC Chelsea,England FA Cup
-056,01.08.,19:00,IRI 1,Esteghlal Tehran,2:1,Foolad Mobarakeh S,Iran Pro League
+116,01.08.,21:45,POR CUP,Benfica Lissabon*,1:2,FC Porto,Portugal Taca de Portugal
 117,01.08.,20:45,ITA A,Atalanta Bergamo,0:2,Inter Mailand,Italien Serie A
 118,01.08.,20:45,ITA A,Juventus Turin,1:3,AS Roma,Italien Serie A
 119,01.08.,20:45,ITA A,SSC Napoli,3:1,Lazio Rom,Italien Serie A
-116,01.08.,21:45,POR CUP,Benfica Lissabon*,1:2,FC Porto,Portugal Taca de Portugal

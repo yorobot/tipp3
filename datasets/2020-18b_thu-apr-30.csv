@@ -5,12 +5,12 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 004,30.04.,20:00,DART CZ,"Smejda, Michal",1:6,"Pisek, David",Czech Darts Premier League
 005,30.04.,20:25,DART CZ,"Masek, Alexander",6:2,"Rosi, David",Czech Darts Premier League
 006,30.04.,20:30,DART HO,"Dobey, Chris",5:2,"Teehan, Ciaran","Darts, PDC Home Tour (best of 9 Legs)"
-008,30.04.,20:55,DART HO,"Meulenkamp, Ron",5:4,"Leung, Kai Fan","Darts, PDC Home Tour (best of 9 Legs)"
 007,30.04.,21:00,DART CZ,"Ondo, Michal",6:4,"Gawlas, A.",Czech Darts Premier League
+008,30.04.,20:55,DART HO,"Meulenkamp, Ron",5:4,"Leung, Kai Fan","Darts, PDC Home Tour (best of 9 Legs)"
 009,30.04.,21:30,DART HO,"Teehan, Ciaran",5:1,"Leung, Kai Fan","Darts, PDC Home Tour (best of 9 Legs)"
 010,30.04.,21:30,DART CZ,"Sedlak, Vitezslav",3:6,"Kysilka, Ondrej",Czech Darts Premier League
-012,30.04.,21:55,DART HO,"Dobey, Chris",5:1,"Meulenkamp, Ron","Darts, PDC Home Tour (best of 9 Legs)"
 011,30.04.,22:00,DART CZ,"Barborak, Daniel",2:6,"Jirkal, Pavel",Czech Darts Premier League
+012,30.04.,21:55,DART HO,"Dobey, Chris",5:1,"Meulenkamp, Ron","Darts, PDC Home Tour (best of 9 Legs)"
 013,30.04.,22:20,DART HO,"Meulenkamp, Ron",5:1,"Teehan, Ciaran","Darts, PDC Home Tour (best of 9 Legs)"
 014,30.04.,22:40,DART HO,"Leung, Kai Fan",5:4,"Dobey, Chris","Darts, PDC Home Tour (best of 9 Legs)"
 015,01.05.,12:00,BLR RES,Din Minsk Reserve,2:1,FC Slutsk Reserve,Weißrussland Reserve Liga
@@ -24,26 +24,26 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 023,01.05.,22:00,DART HO,"Webster, Darren",5:2,"Baker, Scott","Darts, PDC Home Tour (best of 9 Legs)"
 024,01.05.,22:25,DART HO,"Baker, Scott",1:5,"Brooks, Bradley","Darts, PDC Home Tour (best of 9 Legs)"
 025,01.05.,22:45,DART HO,"Hamilton, Andy",3:5,"Webster, Darren","Darts, PDC Home Tour (best of 9 Legs)"
+026,02.05.,15:00,BLR 3,FK Bumprom,4:0,FC Zhlobin,Weißrussland Vtoraya Liga
+027,02.05.,13:00,BLR 3,Smiavtotrans,0:7,FC Dnepr Mogilev,Weißrussland Vtoraya Liga
 028,02.05.,12:00,BLR 3,Vik.Maryina Gorka,2:2,Energetik Bgatu,Weißrussland Vtoraya Liga
+029,02.05.,13:00,BLR 3,FK Kronon Stolbtsy,1:2,Melio. Zhitkovichi,Weißrussland Vtoraya Liga
+030,02.05.,16:30,BLR 3,FC BGU Minsk,0:3,FC Ostrovets,Weißrussland Vtoraya Liga
+031,02.05.,14:00,BLR 3,FK Polock 2019,8:2,Dnepr Rohachev,Weißrussland Vtoraya Liga
+032,02.05.,13:00,BLR 3,FC Gorki,1:4,Shakhtar2 Petrikov,Weißrussland Vtoraya Liga
+033,02.05.,15:00,BLR 3,FK Baranovichi,9:1,Ivatsevichi,Weißrussland Vtoraya Liga
+034,02.05.,14:00,BLR RES,FC Vitebsk Reserve,1:1,Sl. Mozyr Reserve,Weißrussland Reserve Liga
 035,02.05.,12:00,BLR RES,Belshina B. Res.,0:0,Dinamo Brest Reser,Weißrussland Reserve Liga
+036,02.05.,13:00,BLR RES,Sh. Soligorsk Rese,0:1,FC Isloch Reserve,Weißrussland Reserve Liga
 037,02.05.,12:30,BLR RES,Bate Borisov Reser,1:2,Neman Grodno Res.,Weißrussland Reserve Liga
 038,02.05.,12:30,BLR 2,Arsenal Dzerzhinsk,1:0,FC Khimik Svetlogo,Weißrussland Pervaya Liga
-027,02.05.,13:00,BLR 3,Smiavtotrans,0:7,FC Dnepr Mogilev,Weißrussland Vtoraya Liga
-029,02.05.,13:00,BLR 3,FK Kronon Stolbtsy,1:2,Melio. Zhitkovichi,Weißrussland Vtoraya Liga
-032,02.05.,13:00,BLR 3,FC Gorki,1:4,Shakhtar2 Petrikov,Weißrussland Vtoraya Liga
-036,02.05.,13:00,BLR RES,Sh. Soligorsk Rese,0:1,FC Isloch Reserve,Weißrussland Reserve Liga
 039,02.05.,13:00,BLR 1,FC Minsk,2:5,FC Torpedo Zhodino,Weißrussland Premier League
 040,02.05.,13:00,BLR 1,FC Minsk,2:6,Torpedo Zhodino+1,Weißrussland Premier League
 041,02.05.,13:00,BLR 1,FC Minsk+1,3:5,FC Torpedo Zhodino,Weißrussland Premier League
-031,02.05.,14:00,BLR 3,FK Polock 2019,8:2,Dnepr Rohachev,Weißrussland Vtoraya Liga
-034,02.05.,14:00,BLR RES,FC Vitebsk Reserve,1:1,Sl. Mozyr Reserve,Weißrussland Reserve Liga
-026,02.05.,15:00,BLR 3,FK Bumprom,4:0,FC Zhlobin,Weißrussland Vtoraya Liga
-033,02.05.,15:00,BLR 3,FK Baranovichi,9:1,Ivatsevichi,Weißrussland Vtoraya Liga
 042,02.05.,15:00,BLR 1,FC Rukh Brest,1:1,FC Gorodeya,Weißrussland Premier League
 043,02.05.,15:00,BLR 1,FC Rukh Brest,1:2,FC Gorodeya+1,Weißrussland Premier League
 044,02.05.,15:00,BLR 2,Lokomotiv Gomel,3:3,Naftan Novopolotsk,Weißrussland Pervaya Liga
 045,02.05.,16:00,BLR 2,FK Volna Pinsk,3:2,FC Oshmyany,Weißrussland Pervaya Liga
-030,02.05.,16:30,BLR 3,FC BGU Minsk,0:3,FC Ostrovets,Weißrussland Vtoraya Liga
 046,02.05.,17:00,BLR 2,FC Orsha,0:0,FK Smorgon,Weißrussland Pervaya Liga
 047,02.05.,17:00,BLR 1,FC Dinamo Minsk,1:2,FC Slutsk,Weißrussland Premier League
 048,02.05.,17:00,BLR 1,FC Dinamo Minsk,1:3,FC Slutsk+1,Weißrussland Premier League
@@ -69,10 +69,10 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 068,03.05.,17:00,BLR 1,FC BATE Borisov,3:3,Neman Grodno+2,Weißrussland Premier League
 069,03.05.,19:00,BLR 1,Shakhter Soligorsk,4:0,Isloch,Weißrussland Premier League
 070,03.05.,19:00,BLR 1,Shakhter Soligorsk,4:1,Isloch+1,Weißrussland Premier League
-074,04.05.,14:00,TURK 1,Merw Mary,2:0,Nebitci Balkanabat,Turkmenistan 1. Liga
-073,04.05.,14:15,TURK 1,Shagadam Turkmen.,1:0,Kopetdag Asgabat,Turkmenistan 1. Liga
 071,04.05.,15:30,TURK 1,Altyn Asyr FC,4:1,FC Asgabat,Turkmenistan 1. Liga
 072,04.05.,15:30,TURK 1,Altyn Asyr FC,4:2,FC Asgabat+1,Turkmenistan 1. Liga
+073,04.05.,14:15,TURK 1,Shagadam Turkmen.,1:0,Kopetdag Asgabat,Turkmenistan 1. Liga
+074,04.05.,14:00,TURK 1,Merw Mary,2:0,Nebitci Balkanabat,Turkmenistan 1. Liga
 075,08.05.,16:00,BLR 1,FC Slutsk,1:2,Energet. BGU Minsk,Weißrussland Premier League
 076,08.05.,18:00,BLR 1,FC Gorodeya,1:1,FC Minsk,Weißrussland Premier League
 077,09.05.,14:00,BLR 1,Slavia Mozyr,0:0,FC Torpedo Zhodino,Weißrussland Premier League

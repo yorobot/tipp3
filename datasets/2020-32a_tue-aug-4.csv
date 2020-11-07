@@ -104,15 +104,15 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 103,06.08.,19:00,SWE 1,Mjällby AIF,1:1,IK Sirius FK,Schweden Allsvenskan
 104,06.08.,19:00,BLR 1,Shakhter Soligorsk,1:0,Dinamo Brest,Weißrussland Premier League
 105,06.08.,20:00,EGY 1,El Zamalek,1:0,Al-Masry Club,Ägypten Premier League
-114,06.08.,20:30,NHL,Minnesota Wild*,0:3,Vancouver Can.,USA NHL
 106,06.08.,21:00,EL,Wolverhampton ENG,1:0,Olympiakos P. GRE,UEFA Europa League
 107,06.08.,21:00,EL,Wolverhampton,1:1,Olympiakos Pir.+1,UEFA Europa League
 108,06.08.,21:00,EL,FC Basel SUI,1:0,E. Frankfurt GER,UEFA Europa League
 109,06.08.,21:00,EL,FC Basel,1:1,Eintr. Frankfurt+1,UEFA Europa League
 110,06.08.,21:00,EL,FC Basel+1,2:0,Eintr. Frankfurt,UEFA Europa League
-112,06.08.,22:00,NHL,Philadelphia Fl.*,3:1,Washington Cap.,USA NHL
 111,07.08.,00:30,NHL,St. Louis Blues*,4:6,Vegas Gold.Knights,USA NHL
+112,06.08.,22:00,NHL,Philadelphia Fl.*,3:1,Washington Cap.,USA NHL
 113,07.08.,02:00,NHL,Columbus Blue J.*,3:3,Toronto Maple L.,USA NHL
+114,06.08.,20:30,NHL,Minnesota Wild*,0:3,Vancouver Can.,USA NHL
 115,07.08.,02:00,MEX 1,CF Pachuca,1:0,Queretaro FC,Mexiko Primera Division
 116,07.08.,03:14,MLSBACK,Orlando City SC*,3:1,FC Minnesota Utd.,"USA, MLS is Back Tournament"
 117,07.08.,21:00,CL,Man. City ENG,2:1,Real Madrid ESP,UEFA Champions League

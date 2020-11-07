@@ -55,6 +55,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 054,20.06.,17:00,AUT BL,WSG Swarovs. Tirol,1:2,FK Austria Wien,"Österreich Bundesliga, Qualifikationsgruppe"
 055,20.06.,17:00,ESP 1,Athletic Bilbao,1:0,Betis Sevilla,Spanien Primera Division
 056,20.06.,18:00,ITA B,FC Crotone,1:1,AC Chievo Verona,Italien Serie B
+057,21.06.,18:00,ITA B,US Cremonese,0:1,Benevento Calcio,Italien Serie B
 058,20.06.,18:00,ITA B,Salernitana Calcio,1:1,SC Pisa,Italien Serie B
 059,20.06.,18:00,RUS PL,ZSKA Moskau,0:4,Zenit St.Petersb.,Russland Premier League
 060,20.06.,18:15,SUI SL,Xamax Neuchatel,2:1,FC Thun,Schweiz Axpo Super League
@@ -88,7 +89,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 088,21.06.,17:00,AUT BL,RB Salzburg,2:2,Wolfsberger AC,Österreich Bundesliga
 089,21.06.,17:15,ENG PL,Aston Villa,1:2,FC Chelsea,England Premier League
 090,21.06.,17:30,TUR 1,Kasimpasa,2:0,Fenerbahce,Türkei Süper Lig
-057,21.06.,18:00,ITA B,US Cremonese,0:1,Benevento Calcio,Italien Serie B
 091,21.06.,18:00,DEN 1,Bröndby IF,1:1,FC Kopenhagen,Dänemark Superligaen
 092,21.06.,19:30,AUT BL,SK Sturm Graz,0:2,LASK Linz,Österreich Bundesliga
 093,21.06.,19:30,ESP 1,FC Valencia,2:0,CA Osasuna,Spanien Primera Division
@@ -106,16 +106,16 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 105,22.06.,19:00,SWE 1,Helsingborgs IF,0:0,IF Elfsborg,Schweden Allsvenskan
 106,22.06.,19:00,SWE 1,IFK Göteborg,2:2,Mjällby AIF,Schweden Allsvenskan
 107,22.06.,19:00,SWE 1,IK Sirius FK,2:2,BK Häcken,Schweden Allsvenskan
+108,22.06.,22:00,ESP 1,CD Leganes,0:0,Granada CF,Spanien Primera Division
 109,22.06.,19:30,ITA A,US Lecce,1:4,AC Milan,Italien Serie A
 110,22.06.,19:30,ITA A,AC Fiorentina,1:1,Brescia Calcio,Italien Serie A
 111,22.06.,19:30,BUL 1,Et. Veliko Tarnovo,0:1,Tsarsko Selo Sofia,Bulgarien Premier League
-118,22.06.,19:30,ESP 1,Villarreal CF,2:2,FC Sevilla,Spanien Primera Division
-119,22.06.,19:30,ESP 1,Villarreal CF,2:3,FC Sevilla+1,Spanien Primera Division
 112,22.06.,20:00,TUR 1,Alanyaspor,2:2,Trabzonspor,Türkei Süper Lig
 113,22.06.,20:00,TUR 1,Antalyaspor,3:1,Caykur Rizespor,Türkei Süper Lig
 114,22.06.,21:00,ENG PL,Manchester City,5:0,FC Burnley,England Premier League
 115,22.06.,21:00,ENG PL,Manchester City,5:2,FC Burnley+2,England Premier League
 116,22.06.,21:45,ITA A,Bologna FC,0:2,Juventus Turin,Italien Serie A
 117,22.06.,21:45,ESP 2,Sporting Gijon,0:1,Real Oviedo,Spanien Segunda Division
-108,22.06.,22:00,ESP 1,CD Leganes,0:0,Granada CF,Spanien Primera Division
+118,22.06.,19:30,ESP 1,Villarreal CF,2:2,FC Sevilla,Spanien Primera Division
+119,22.06.,19:30,ESP 1,Villarreal CF,2:3,FC Sevilla+1,Spanien Primera Division
 120,22.06.,22:00,POR 1,Portimonense SC,3:2,Maritimo Funchal,Portugal Primeira Liga

@@ -66,6 +66,8 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 065,27.11.,21:00,URU 1,Danubio FC,3:2,RC Montevideo,Uruguay Primera Division
 066,27.11.,21:00,URU 1,Plaza Colonia,0:0,Montev. Wanderers,Uruguay Primera Division
 067,27.11.,21:00,URU 1,CA Cerro,0:2,Liverpool Montevid,Uruguay Primera Division
+068,29.11.,01:30,COL 1,America de Cali,2:0,Indep. Santa Fe,Kolumbien Primera Liga
+069,29.11.,01:30,COL 1,AD Cali,0:0,Alianza Petrolera,Kolumbien Primera Liga
 070,27.11.,23:30,BRA 1,Internacional RS,1:2,Goias EC GO,Brasilien Brasilero Serie A
 071,27.11.,23:30,BRA 1,Chapecoense SC,0:1,Botafogo FR RJ,Brasilien Brasilero Serie A
 072,27.11.,23:30,ECU 1,CD Catolica,0:2,LDU Quito,Ecuador Serie A
@@ -113,9 +115,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 114,28.11.,21:00,EL,Celtic Glasgow SCO,3:1,Stade Rennes FRA,UEFA Europa League
 115,28.11.,22:30,NFL,Dallas Cowboys,15:26,Buffalo Bills,USA NFL
 116,28.11.,23:30,BRA 1,Fluminense RJ,1:0,SE Palmeiras SP,Brasilien Brasilero Serie A
-119,29.11.,00:00,BRA 1,Fortaleza EC CE,2:1,Santos SP,Brasilien Brasilero Serie A
-118,29.11.,00:30,BRA 1,Sao Paulo SP,1:0,Vasco Da Gama RJ,Brasilien Brasilero Serie A
-068,29.11.,01:30,COL 1,America de Cali,2:0,Indep. Santa Fe,Kolumbien Primera Liga
-069,29.11.,01:30,COL 1,AD Cali,0:0,Alianza Petrolera,Kolumbien Primera Liga
 117,29.11.,01:30,BRA 1,Cruzeiro EC MG,0:1,CS Alagoano AL,Brasilien Brasilero Serie A
+118,29.11.,00:30,BRA 1,Sao Paulo SP,1:0,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+119,29.11.,00:00,BRA 1,Fortaleza EC CE,2:1,Santos SP,Brasilien Brasilero Serie A
 120,29.11.,02:20,NFL,Atlanta Falcons,18:26,N. Orleans Saints,USA NFL

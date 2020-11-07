@@ -25,12 +25,15 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 024,18.03.,00:00,BB BRA,Pato Basquete,abgesagt,Paulistano SP,Brasilien NBB
 025,18.03.,00:00,BB BRA,Basquete Cearense,abgesagt,Sao Paulo,Brasilien NBB
 026,18.03.,00:30,CHI 2,Union San Felipe,1:1,CD Santa Cruz,"Chile, Primera B"
+027,01.04.,02:10,ARG CUP,CA Independiente,abgesagt,Villa Mitre B.B.,Argentinien Cup
+028,19.03.,02:00,NIC 1,Real Esteli FC,2:0,Municipal Jalapa,Nicaragua Primera Division
 029,18.03.,10:30,AUSQPR,Brisbane City FC,abgesagt,Peninsula Power FC,"Australien, Queensland Premier"
 030,18.03.,12:30,TUR 2B,Hekimoglu Trabzon,2:0,Kirklarelispor,"Turkei, 2.Lig, Beyaz Gruppe"
 031,18.03.,12:30,TUR 2B,Gümüshane Dogansp.,0:3,Bugsasspor,"Turkei, 2.Lig, Beyaz Gruppe"
 032,18.03.,12:30,TUR 2KI,Belediye Vanspor,2:1,Ergene Velimese,"Türkei, 2.Lig, Kirmizi Gruppe"
 033,18.03.,12:45,SIN 1,Tampines Rovers FC,4:0,Lion City Sailors,Singapur S.League
 034,18.03.,12:45,SIN 1,Balestier Khalsa,2:2,Houang United FC,Singapur S.League
+035,19.03.,14:00,TZA PL,Mbeya City FC,abgesagt,Alliance FC,Tansania Premier League
 036,18.03.,14:00,TZA PL,Ndanda FC,abgesagt,Biashara Utd Mara,Tansania Premier League
 037,18.03.,14:00,TZA PL,Coastal Union FC,abgesagt,Mtibwa Sugar FC,Tansania Premier League
 038,18.03.,14:00,TZA PL,Namungo FC,abgesagt,Kagera Sugar,Tansania Premier League
@@ -40,9 +43,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 042,18.03.,15:00,HUN 2,FC Dorogi,abgesagt,Szeged-Csanad Gros,Ungarn NB II
 043,18.03.,15:00,HUN 2,Soroksar SC,abgesagt,BFC Siofok,Ungarn NB II
 044,18.03.,15:00,HUN 2,Budaörsi SC,abgesagt,Szolnoki Mav FC,Ungarn NB II
-069,18.03.,15:00,HUN 2,Nyiregyhaza FC,abgesagt,MTK Budapest FC,Ungarn NB II
-071,18.03.,15:00,HUN 2,ETO FC Győr,abgesagt,Aqvital FC Csákvár,Ungarn NB II
-072,18.03.,15:00,HUN 2,Bekescsabai Elore,abgesagt,Gyirmot SE,Ungarn NB II
 045,18.03.,16:00,CRC ASC,Puntarenas FC,abgesagt,CD Barrio Mexico,"Costa Rica, Liga de Ascenso"
 046,18.03.,16:00,CRC ASC,Aserri FC,abgesagt,Municipal Liberia,"Costa Rica, Liga de Ascenso"
 047,18.03.,16:00,CRC ASC,AD Carmelita,abgesagt,AD Guanacasteca,"Costa Rica, Liga de Ascenso"
@@ -67,7 +67,10 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 066,18.03.,17:30,KHL,HK CSKA Moskau,abgesagt,Dynamo Moskau,Kontinental Hockey League
 067,18.03.,18:30,RSA PL,Kaizer Chiefs,abgesagt,Bidwest Wits FC,"Südafrika, Premier League"
 068,18.03.,18:30,RSA PL,Kaizer Chiefs,abgesagt,Bidwest Wits FC+1,"Südafrika, Premier League"
+069,18.03.,15:00,HUN 2,Nyiregyhaza FC,abgesagt,MTK Budapest FC,Ungarn NB II
 070,18.03.,19:00,HUN 2,FC Ajka,abgesagt,Haladas Szombat.,Ungarn NB II
+071,18.03.,15:00,HUN 2,ETO FC Győr,abgesagt,Aqvital FC Csákvár,Ungarn NB II
+072,18.03.,15:00,HUN 2,Bekescsabai Elore,abgesagt,Gyirmot SE,Ungarn NB II
 073,18.03.,19:00,HUN 2,SC Vasas Budapest,abgesagt,Dunakanyar Vac FC,Ungarn NB II
 074,18.03.,21:00,COL COP,Leones FC,abgesagt,UM Santa Marta,Copa Colombia
 075,18.03.,21:00,COL COP,Real Cartagena FC,abgesagt,Tigres FC,Copa Colombia
@@ -76,7 +79,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 078,18.03.,23:00,BB BRA,Rio Claro Basquete,abgesagt,Flamengo,Brasilien NBB
 079,19.03.,00:00,BB BRA,Sao Jose d.Campos,abgesagt,Franca SP,Brasilien NBB
 080,19.03.,01:00,BB BRA,Mogi das Cruzes,abgesagt,Bauru Basket SP,Brasilien NBB
-028,19.03.,02:00,NIC 1,Real Esteli FC,2:0,Municipal Jalapa,Nicaragua Primera Division
 081,19.03.,02:00,NIC 1,Juventus Managua,5:0,Las Sabanas CF,Nicaragua Primera Division
 082,19.03.,02:00,NIC 1,CD Walter Ferretti,0:1,Managua FC,Nicaragua Primera Division
 083,19.03.,02:00,NIC 1,CD Ocotal,1:0,Chinandega FC,Nicaragua Primera Division
@@ -85,7 +87,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 086,19.03.,10:05,RUG AUS,Canterbury Bulldog,16:24,North Queensland,Australien NRL
 087,19.03.,10:30,UZB 1,Qizilqum Zarafshon,abgesagt,FK Agmk,Usbekistan PFL
 088,19.03.,13:00,VBCEVCH,Lokomotiv Novo RUS,3:1,Zenit St Petersb.,"CEV Cup, Männer"
-035,19.03.,14:00,TZA PL,Mbeya City FC,abgesagt,Alliance FC,Tansania Premier League
 089,19.03.,14:30,KHL,HC Barys,abgesagt,Sibir Nowosibirsk,Kontinental Hockey League
 090,19.03.,15:00,BLR 1,Energet. BGU Minsk,3:1,FC BATE Borisov,Weißrussland Premier League
 091,19.03.,17:00,BLR 1,Shakhter Soligorsk,0:1,FC Torpedo Zhodino,Weißrussland Premier League
@@ -101,4 +102,3 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 101,20.03.,00:00,CHI 1,Univ. d.Concepcion,abgesagt,Union Espanola,Chile Primera Divison
 102,20.03.,01:10,ARG LC,Velez Sarsfield,abgesagt,Union de Santa Fe,"Argentinien, Ligacup"
 103,20.03.,01:10,ARG LC,Velez Sarsfield,abgesagt,Union Santa Fe+1,"Argentinien, Ligacup"
-027,01.04.,02:10,ARG CUP,CA Independiente,abgesagt,Villa Mitre B.B.,Argentinien Cup

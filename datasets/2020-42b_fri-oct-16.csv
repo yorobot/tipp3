@@ -7,6 +7,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 006,16.10.,19:00,AUT RLO,SC Neusiedl,abgesagt,Wiener Viktoria,Österreich Regionalliga Ost
 007,16.10.,19:00,AUT RLM,SV Spittal/Drau,2:0,SC Weiz,Österreich Regionalliga Mitte
 008,16.10.,19:00,AUT RLM,FC Wels,1:4,WAC Amateure,Österreich Regionalliga Mitte
+009,18.10.,18:00,AUT RLM,FC Gleisdorf,1:0,WSC Hertha Wels,Österreich Regionalliga Mitte
 010,16.10.,19:00,GER 3,FC Magdeburg,2:0,Türkgücü München,Deutschland 3. Liga
 011,16.10.,19:00,FRA 1,Dijon Football,1:1,Stade Rennes,Frankreich Ligue 1
 012,16.10.,19:00,RL SBG,SAK 1914 Salzburg,0:6,SV Grödig,Regionalliga Salzburg
@@ -51,12 +52,12 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 051,17.10.,17:00,AUT CUP,Wacker Innsbruck,1:0,SV Stripfing,Österreich ÖFB Cup
 052,17.10.,18:00,ITA A,Inter Mailand,1:2,AC Milan,Italien Serie A
 053,17.10.,18:00,ITA A,Sampdoria Genua,3:0,Lazio Rom,Italien Serie A
+054,17.10.,19:30,HB AUT,Handball Tirol,31:30,Fivers Margareten,Österreich HLA
 055,17.10.,18:30,GER BL,Arminia Bielefeld,1:4,FC Bayern München,Deutschland Bundesliga
 056,17.10.,18:30,GER BL,Arm. Bielefeld+2,3:4,FC Bayern München,Deutschland Bundesliga
 057,17.10.,18:30,ENG PL,Manchester City,1:0,FC Arsenal,England Premier League
 058,17.10.,18:30,ESP 1,Real Madrid,0:1,Cadiz CF,Spanien Primera Division
 059,17.10.,19:00,BB AUT,Swans Gmunden,90:72,Kapfenberg Bulls,Österreich Basketball Superliga
-054,17.10.,19:30,HB AUT,Handball Tirol,31:30,Fivers Margareten,Österreich HLA
 060,17.10.,20:25,AUT CUP,First Vienna FC,3:2,SK Vorwärts Steyr,Österreich ÖFB Cup
 061,17.10.,20:30,GER BL,Mönchengladbach,1:1,VfL Wolfsburg,Deutschland Bundesliga
 062,17.10.,20:45,ITA A,FC Crotone,1:1,Juventus Turin,Italien Serie A
@@ -89,7 +90,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 089,18.10.,17:15,AUT CUP,Wolfsberger AC,2:3,SV Ried+1,Österreich ÖFB Cup
 090,18.10.,17:30,ENG PL,Tottenham,3:3,West Ham United,England Premier League
 091,18.10.,17:30,EH AUT,KAC Klagenfurt,2:1,HC Innsbruck,Österreich Eishockey Liga
-009,18.10.,18:00,AUT RLM,FC Gleisdorf,1:0,WSC Hertha Wels,Österreich Regionalliga Mitte
 092,18.10.,18:00,GER BL,FC Schalke 04,1:1,FC Union Berlin,Deutschland Bundesliga
 093,18.10.,18:00,ITA A,Udinese Calcio,3:2,FC Parma,Italien Serie A
 094,18.10.,18:30,ESP 1,CD Alaves,0:2,Elche CF,Spanien Primera Division

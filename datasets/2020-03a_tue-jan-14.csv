@@ -22,9 +22,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 021,14.01.,19:00,ESP 2,Albacete Balompie,1:1,Fuenlabrada,Spanien Segunda Division
 022,14.01.,19:00,POR CUP,FC Porto,2:1,Varzim SC,Portugal Taca de Portugal
 023,14.01.,19:15,EH AUT,EC RB Salzburg,2:3,EC Graz 99ers,Österreich Eishockey Liga
+024,14.01.,19:45,EH AUT,HC Bozen Foxes,3:2,Black Wings Linz,Österreich Eishockey Liga
 025,14.01.,19:15,EH AUT,Fehervar,3:2,KAC Klagenfurt,Österreich Eishockey Liga
 026,14.01.,19:15,EH AUT,Villacher SV,6:1,EC Dornbirn,Österreich Eishockey Liga
-024,14.01.,19:45,EH AUT,HC Bozen Foxes,3:2,Black Wings Linz,Österreich Eishockey Liga
 027,14.01.,19:45,EH SUI,Zürcher SC Lions,6:1,SCL Tigers Langnau,Schweiz National League A
 028,14.01.,19:45,EH SUI,HC Servette Genf,0:2,HC Lugano,Schweiz National League A
 029,14.01.,20:00,ESP 2,Malaga CF,1:0,Ponferradina SD,Spanien Segunda Division
@@ -59,11 +59,11 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 058,15.01.,18:00,ITA CUP,AC Milan,3:0,Spal Ferrara,Italien Coppa Italia
 059,15.01.,18:00,CYP 1,Ethnikos Achnas,0:0,APOEL Nikosia,Zypern 1. Division
 060,15.01.,18:00,BB EL,Zenit Petersb. RUS,72:66,Baskonia G. ESP,Euroleague
+061,15.01.,19:00,BB AUTC,SKN St. Pölten,92:91,Swans Gmunden,Basketball Cup Österreich
 062,15.01.,18:15,HB EM,Island,18:24,Ungarn,Handball Europameisterschaft
 063,15.01.,18:15,ISR CUP,Bnei Yehuda,1:0,Hapoel Afula FC,Israel Cup
 064,15.01.,18:15,ISR CUP,Hapoel Haifa,1:0,SC Kfar Qasem,Israel Cup
 065,15.01.,18:30,TUR CUP,Caykur Rizespor,1:1,Galatasaray,Türkei Türkiye Kupasi
-061,15.01.,19:00,BB AUTC,SKN St. Pölten,92:91,Swans Gmunden,Basketball Cup Österreich
 066,15.01.,19:00,ESP 2,SD Huesca,2:1,Teneriffa CD,Spanien Segunda Division
 067,15.01.,19:00,ESP 2,Alcorcon AD,2:2,Numancia CD,Spanien Segunda Division
 068,15.01.,19:00,FRA 1,Olympique Nimes,0:1,Stade Rennes,Frankreich Ligue 1
@@ -89,7 +89,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 088,16.01.,14:30,KHL,HC Barys,4:3,Met. Magnitogorsk,Kontinental Hockey League
 089,16.01.,15:00,KHL,Avtomobilist,4:2,Salavat Yulaev Ufa,Kontinental Hockey League
 090,16.01.,16:00,TUR CUP,Antalyaspor,4:3,Göztepe,Türkei Türkiye Kupasi
-100,16.01.,16:00,HB EM,Spanien,31:25,Tschechien,Handball Europameisterschaft
 091,16.01.,16:30,GRE CUP,Asteras Tripolis,1:1,AEK Athen,Griechenland Cup
 092,16.01.,17:00,KHL,Neftekhimik,3:3,Traktor Chelyab.,Kontinental Hockey League
 093,16.01.,17:00,KHL,Sev. Cherepovets,1:1,Spartak Moskau,Kontinental Hockey League
@@ -99,8 +98,11 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 097,16.01.,17:30,KHL,HC Vityaz Podolsk,5:1,HK Dinamo Minsk,Kontinental Hockey League
 098,16.01.,18:00,BB EL,Khimki Moskau RUS,102:94,Real Madrid BC ESP,Euroleague
 099,16.01.,18:15,HB EM,Kroatien,27:23,Österreich,Handball Europameisterschaft
+100,16.01.,16:00,HB EM,Spanien,31:25,Tschechien,Handball Europameisterschaft
+101,16.01.,20:30,HB EM,Weißrussland,23:31,Deutschland,Handball Europameisterschaft
 102,16.01.,18:30,TUR CUP,Trabzonspor,2:0,Denizlispor,Türkei Türkiye Kupasi
 103,16.01.,18:30,ISR CUP,Maccabi Netanya,1:2,Hap. Beer Sheva,Israel Cup
+104,16.01.,19:30,BB AUTC,UBSC Graz,73:83,Klosterneuburg,Basketball Cup Österreich
 105,16.01.,18:45,BB EL,Fenerbahce TUR,74:80,FC Barcelona ESP,Euroleague
 106,16.01.,19:00,ESP 2,Dep. La Coruna,2:1,Racing Santander,Spanien Segunda Division
 107,16.01.,19:00,EH SWE,Djurgardens IF,3:2,Linköpings HC,Schweden Elitserien
@@ -109,11 +111,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 110,16.01.,19:00,EH SWE,Leksands IF,0:1,HC Örebro,Schweden Elitserien
 111,16.01.,19:00,EH SWE,IK Oskarshamn,5:1,Frölunda HC,Schweden Elitserien
 112,16.01.,19:00,EH SWE,Växjö Lakers,1:2,Skelleftea AIK,Schweden Elitserien
-104,16.01.,19:30,BB AUTC,UBSC Graz,73:83,Klosterneuburg,Basketball Cup Österreich
 113,16.01.,19:30,EH GER,Bremerhaven P.,4:6,EHC München,Deutschland Deutsche Eishockey Liga
 114,16.01.,20:00,ESP 2,FC Girona,3:1,UD Extremadura,Spanien Segunda Division
 115,16.01.,20:05,BB EL,M.Tel Aviv ISR,69:63,O.Milano ITA,Euroleague
-101,16.01.,20:30,HB EM,Weißrussland,23:31,Deutschland,Handball Europameisterschaft
 116,16.01.,20:55,FRA CUP,FC Pau,2:2,Bordeaux,Frankreich Coupe de France
 117,16.01.,21:00,ESP 2,UD Almeria,2:0,Real Oviedo,Spanien Segunda Division
 118,16.01.,21:00,POR CUP,Academico Viseu,1:0,Canelas 2010,Portugal Taca de Portugal

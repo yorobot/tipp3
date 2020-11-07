@@ -1,5 +1,6 @@
 Num,Date,Time,League,Team 1,Score,Team 2,League Name
 001,06.10.,15:30,TEN ATP,Schwartzman D.,3:2,"Thiem, Dominic",Tennis ATP
+002,06.10.,22:25,TEN ATP,"Sinner, Jannik",0:3,"Nadal, Rafael",Tennis ATP
 003,06.10.,17:30,KHL,Jokerit Helsinki,7:1,Spartak Moskau,Kontinental Hockey League
 004,06.10.,18:30,KHL,HK CSKA Moskau,2:0,Dynamo Moskau,Kontinental Hockey League
 005,06.10.,18:30,ENG LTR,FC Stevenage,2:3,MK Dons,England Football League Trophy
@@ -33,13 +34,13 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 033,06.10.,20:45,WAL 1,Connah's Quay,3:1,Caernarfon Town,Wales Premier League
 034,06.10.,20:45,WAL 1,Newi Cefn Druids,0:4,Aberystwyth Town,Wales Premier League
 035,06.10.,21:00,NL 2,Helmond Sport,1:5,SC Cambuur,Niederlande Jupiler League
-002,06.10.,22:25,TEN ATP,"Sinner, Jannik",0:3,"Nadal, Rafael",Tennis ATP
 036,07.10.,03:00,NBA,Miami Heat*,96:102,LA Lakers,USA NBA
 037,07.10.,12:00,JPN 1,Sagan Tosu,1:2,Gamba Osaka,Japan J.League
 038,07.10.,12:00,JPN LC,Kawasaki Frontale,0:2,FC Tokyo,Japan Nabisco Cup
 039,07.10.,12:00,JPN LC,Yokohama F Marinos,0:1,Kashiwa Reysol,Japan Nabisco Cup
 040,07.10.,16:00,KHL,Traktor Chelyab.,4:2,HC Red Star Kunlun,Kontinental Hockey League
 041,07.10.,16:00,KHL,Avtomobilist,3:2,HC Barys,Kontinental Hockey League
+042,07.10.,18:20,TEN ATP,"Djokovic, Novak",3:1,"Carreno-Busta, Pa.",Tennis ATP
 043,07.10.,16:05,TEN ATP,"Rublev, Andrey",0:3,"Tsitsipas, Stefan.",Tennis ATP
 044,07.10.,17:30,EH FIN,Ässät Pori,3:3,HPK Hämeenlinna,Finnland SM-Liiga
 045,07.10.,18:00,KHL,SKA St. Petersburg,1:4,Met. Magnitogorsk,Kontinental Hockey League
@@ -49,7 +50,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 049,07.10.,18:00,INT FS,Estland,1:3,Litauen,Internationale Freundschaftsspiele
 050,07.10.,18:00,INT FS,Montenegro,1:1,Lettland,Internationale Freundschaftsspiele
 051,07.10.,18:15,RL VBG,FC Lauterach,6:3,SW Bregenz,Eliteliga Vorarlberg
-042,07.10.,18:20,TEN ATP,"Djokovic, Novak",3:1,"Carreno-Busta, Pa.",Tennis ATP
 052,07.10.,18:30,RL VBG,VfB Hohenems,4:3,FC Wolfurt,Eliteliga Vorarlberg
 053,07.10.,19:00,RL TIR,SC Schwaz,2:1,SV Wörgl,Regionalliga Tirol
 054,07.10.,20:15,INT FS,Luxemburg,1:2,Liechtenstein,Internationale Freundschaftsspiele
@@ -106,9 +106,9 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 105,08.10.,21:00,INT FS,England,3:1,Wales+1,Internationale Freundschaftsspiele
 106,09.10.,00:30,WM Q,Paraguay,2:2,Peru,"WM Qualifikation, CONMEBOL"
 107,09.10.,00:45,WM Q,Uruguay,2:1,Chile,"WM Qualifikation, CONMEBOL"
-110,09.10.,02:20,NFL,Chicago Bears,20:19,Tampa Bay Buccan.,USA NFL
 108,09.10.,02:30,WM Q,Argentinien,1:0,Ekuador,"WM Qualifikation, CONMEBOL"
 109,09.10.,02:30,WM Q,Argentinien,1:1,Ekuador+1,"WM Qualifikation, CONMEBOL"
+110,09.10.,02:20,NFL,Chicago Bears,20:19,Tampa Bay Buccan.,USA NFL
 111,10.10.,20:45,UEFA NL,Ukraine,1:2,Deutschland,UEFA Nations League
 112,10.10.,20:45,UEFA NL,Spanien,1:0,Schweiz,UEFA Nations League
 113,11.10.,18:00,UEFA NL,Bosnien-Herzegow.,0:0,Niederlande,UEFA Nations League

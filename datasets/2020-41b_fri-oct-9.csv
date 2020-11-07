@@ -1,10 +1,10 @@
 Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,09.10.,18:20,TEN ATP,"Djokovic, Novak",3:2,"Tsitsipas, Stefan.",Tennis ATP
 002,09.10.,15:00,TEN ATP,Schwartzman D.,0:3,"Nadal, Rafael",Tennis ATP
 003,09.10.,17:30,U21 EMQ,Island U21,abgesagt,Italien U21,U21 EM Qualifikation
 004,09.10.,17:30,U21 EMQ,Ukraine U21,1:0,Rumänien U21,U21 EM Qualifikation
 005,09.10.,18:00,U21 EMQ,Serbien U21,1:0,Polen U21,U21 EM Qualifikation
 006,09.10.,18:00,U21 EMQ,Georgien U21,0:3,Schweiz U21,U21 EM Qualifikation
-001,09.10.,18:20,TEN ATP,"Djokovic, Novak",3:2,"Tsitsipas, Stefan.",Tennis ATP
 007,09.10.,18:30,U21 EMQ,Schottland U21,2:0,Tschechien U21,U21 EM Qualifikation
 008,09.10.,18:45,IRL 1,Boh. Dublin,3:0,Cork City FC,Irland Premier Division
 009,09.10.,19:00,U21 EMQ,Kosovo U21,0:1,Österreich U21,U21 EM Qualifikation
@@ -65,13 +65,11 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 064,10.10.,20:45,UEFA NL,Spanien,1:0,Schweiz,UEFA Nations League
 065,10.10.,20:45,UEFA NL,Spanien,1:1,Schweiz+1,UEFA Nations League
 066,10.10.,20:45,UEFA NL,Andorra,0:0,Malta,UEFA Nations League
-095,11.10.,12:00,ESP 2,CD Lugo,0:1,RCD Mallorca,Spanien Segunda Division
 067,11.10.,13:00,GER 3,Unterhaching,2:1,SV Meppen,Deutschland 3. Liga
 068,11.10.,14:00,GER 3,FC Viktoria Köln,2:0,FC Ingolstadt,Deutschland 3. Liga
 069,11.10.,15:00,UEFA NL,Irland,0:0,Wales,UEFA Nations League
 070,11.10.,15:00,UEFA NL,Kasachstan,0:0,Albanien,UEFA Nations League
 071,11.10.,15:10,TEN ATP,"Djokovic, Novak",0:3,"Nadal, Rafael",Tennis ATP
-101,11.10.,16:00,ESP 2,CD Leganes,0:1,FC Girona,Spanien Segunda Division
 072,11.10.,16:30,EH AUT,EC RB Salzburg,4:2,KAC Klagenfurt,Österreich Eishockey Liga
 073,11.10.,17:30,EH AUT,Villacher SV,2:6,EC Graz 99ers,Österreich Eishockey Liga
 074,11.10.,17:30,EH AUT,HC Innsbruck,1:6,Vienna Capitals,Österreich Eishockey Liga
@@ -83,7 +81,6 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 080,11.10.,18:00,UEFA NL,Armenien*,2:2,Georgien,UEFA Nations League
 081,11.10.,18:00,UEFA NL,Estland,3:3,Nordmazedonien,UEFA Nations League
 082,11.10.,18:00,UEFA NL,Litauen,2:2,Weißrussland,UEFA Nations League
-111,11.10.,18:00,ESP 2,Real Saragossa,1:0,Albacete Balompie,Spanien Segunda Division
 083,11.10.,20:45,UEFA NL,Russland,1:1,Türkei,UEFA Nations League
 084,11.10.,20:45,UEFA NL,Island,0:3,Dänemark,UEFA Nations League
 085,11.10.,20:45,UEFA NL,Polen,0:0,Italien,UEFA Nations League
@@ -96,11 +93,13 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 092,11.10.,20:45,UEFA NL,Griechenland,2:0,Moldawien,UEFA Nations League
 093,11.10.,20:45,UEFA NL,Kosovo,0:1,Slowenien,UEFA Nations League
 094,11.10.,22:25,NFL,Cleveland Browns,32:23,Indianapolis Colts,USA NFL
+095,11.10.,12:00,ESP 2,CD Lugo,0:1,RCD Mallorca,Spanien Segunda Division
 096,12.10.,18:00,KHL,Torp. Nowgorod,3:2,Sibir Nowosibirsk,Kontinental Hockey League
 097,12.10.,18:30,KHL,Spartak Moskau,6:4,HC Red Star Kunlun,Kontinental Hockey League
 098,12.10.,18:30,KHL,SKA St. Petersburg,3:4,Dynamo Moskau,Kontinental Hockey League
 099,12.10.,18:30,KHL,HC Vityaz Podolsk,6:3,Amur Chabarowsk,Kontinental Hockey League
 100,12.10.,18:30,KHL,HC Sochi,2:7,Avangard Omsk,Kontinental Hockey League
+101,11.10.,16:00,ESP 2,CD Leganes,0:1,FC Girona,Spanien Segunda Division
 102,12.10.,18:30,ROU 2,AFC Turris-Oltul,1:4,FC Univ. Cluj,"Rumänien, Liga 2"
 103,12.10.,19:00,GER 3,Hallescher FC,0:2,FSV Zwickau,Deutschland 3. Liga
 104,12.10.,19:00,GER 3,Hallescher FC,0:3,FSV Zwickau+1,Deutschland 3. Liga
@@ -110,6 +109,7 @@ Num,Date,Time,League,Team 1,Score,Team 2,League Name
 108,12.10.,20:00,NL 2,FC Den Bosch,1:2,Helmond Sport,Niederlande Jupiler League
 109,12.10.,20:00,EGY 1,Haras El Hodood,1:2,El Zamalek,Ägypten Premier League
 110,12.10.,21:00,U21 EMQ,Frankreich U21,1:0,Slowakei U21,U21 EM Qualifikation
+111,11.10.,18:00,ESP 2,Real Saragossa,1:0,Albacete Balompie,Spanien Segunda Division
 112,12.10.,21:00,ITA C1A,Alessandria Calcio,1:2,Novara Calcio,"Italien Lega Pro Prima Divisione, Girone A"
 113,13.10.,02:15,NFL,N. Orleans Saints,27:27,LA Chargers,USA NFL
 114,13.10.,20:45,UEFA NL,Deutschland,3:3,Schweiz,UEFA Nations League
