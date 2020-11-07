@@ -7,16 +7,29 @@ require_relative 'program_ids'
 require_relative 'programs'
 
 
+require 'sportdb/config'
+
+## use (switch to) "external" datasets
+SportDb::Import.config.clubs_dir   = "../../openfootball/clubs"
+SportDb::Import.config.leagues_dir = "../../openfootball/leagues"
+
+LEAGUES = SportDb::Import.catalog.leagues
+
+
+
+
 
 leagues = {}    ## track league usage & names
 
-PROGRAMS_2020.each do |program|
+programs = PROGRAMS_2020
+# programs = PROGRAMS_2019
+programs.each do |program|
    recs = CsvHash.read( "datasets/#{program}.csv", :header_converters => :symbol )
-   pp recs.size
-   ## pp recs[0]
+
+   puts "#{recs.size} rec(s) - #{program}:"
 
    recs.each do |rec|
-     league_code = EXTRA_LEAGUE_MAPPINGS[ rec[:league] ] || rec[:league]    ## check for corrections / (re)mappings first
+     league_code = rec[:league]
      league_name = rec[:league_name]
 
      next if HOCKEY_LEAGUES.include?( league_code ) ||     ## skip (ice) hockey leagues
@@ -25,11 +38,30 @@ PROGRAMS_2020.each do |program|
              MORE_LEAGUES.include?( league_code ) ||      ## skip amercian football, etc.
              WINTER_LEAGUES.include?( league_code )       ## skip ski alpin
 
+      print_line = false
 
-      puts "#{league_code} | #{league_name}"
+      line = String.new('')
+      line << "  #{league_code} "
+      ## check for corrections / (re)mappings
+      if EXTRA_LEAGUE_MAPPINGS[ league_code ]
+        league_code = EXTRA_LEAGUE_MAPPINGS[ league_code ]
+        line << "=> #{league_code} "
+        print_line = true
+      end
+
+      line << "| #{league_name}"
+      line << "\n"
+
+      ## note: for now now only print if corrections
+      puts line    if print_line
 
       leagues[ league_code ] ||= [0, league_name]
       leagues[ league_code ][0] += 1
+
+      ## for debugging print match line for some codes
+      if ['CAND'].include?( league_code )
+        pp rec
+      end
    end
 end
 
@@ -42,21 +74,14 @@ end
 
 
 
-require 'sportdb/config'
-
-## use (switch to) "external" datasets
-SportDb::Import.config.clubs_dir   = "../../openfootball/clubs"
-SportDb::Import.config.leagues_dir = "../../openfootball/leagues"
-
-LEAGUES = SportDb::Import.catalog.leagues
 
 
 
 ## mark unknown season
-puts "sorted (#{sorted_leagues.size}) - #{PROGRAMS.join(' ')}:"
+puts "sorted (#{sorted_leagues.size}) - #{programs.join(' ')}:"
 sorted_leagues.each do |l|
   m = LEAGUES.match( l[0] )
-  if m
+  if m.size > 0
     if m.size == 1
       print "    "
     else

@@ -84,6 +84,7 @@ MORE_LEAGUES = [
   'DA INT',   # Darts, International
   'DART HO',  # Darts, PDC Home Tour (best of 9 Legs)
   'DART CZ',  # Czech Darts Premier League
+  'CAND',     # Candidates 2020      -- World Chess
 ]
 
 
