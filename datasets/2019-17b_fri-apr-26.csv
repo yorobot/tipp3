@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,26.04.,17:15,HB AUT,SG Westwien,28:22,Bregenz Handball,Österreich HLA
+002,26.04.,18:30,GER 2,1. FC Köln,1:2,SV Darmstadt 98,Deutschland 2. Bundesliga
+003,26.04.,18:30,GER 2,FC Ingolstadt,1:0,Dynamo Dresden,Deutschland 2. Bundesliga
+004,26.04.,18:30,AUT RLW,SVG Reichenau,1:3,SC Schwaz,Österreich Regionalliga West
+005,26.04.,19:00,AUT RLW,SV Seekirchen,1:0,SK Bischofshofen,Österreich Regionalliga West
+006,26.04.,19:00,AUT RLO,SK Rapid Wien II,0:1,FCM Traiskirchen,Österreich Regionalliga Ost
+007,26.04.,19:00,AUT RLO,SC Parndorf,1:1,FC Stadlau,Österreich Regionalliga Ost
+008,26.04.,19:00,AUT RLM,Union Vöcklamarkt,4:1,WSC Hertha Wels,Österreich Regionalliga Mitte
+009,26.04.,19:00,AUT RLM,SC Weiz,2:3,ATSV Stadl-Paura,Österreich Regionalliga Mitte
+010,26.04.,19:00,AUT RLM,FC Gleisdorf,0:0,Deutschlandsberg,Österreich Regionalliga Mitte
+011,26.04.,19:00,AUT RLM,FC Wels,1:3,Sturm Graz Amat.,Österreich Regionalliga Mitte
+012,26.04.,19:00,AUT RLM,SV Allerheiligen,1:1,Bad Gleichenberg,Österreich Regionalliga Mitte
+013,26.04.,19:00,GER 3,Großaspach,1:1,Hallescher FC,Deutschland 3. Liga
+014,26.04.,19:30,DEN 1,Aalborg BK,1:1,Hobro IK,Dänemark Superligaen
+015,26.04.,19:00,HB AUT,HSG Graz,25:34,Fivers Margareten,Österreich HLA
+016,26.04.,19:10,AUT 2,SV Ried,7:0,SC Wiener Neustadt,Österreich Zweite Liga
+017,26.04.,19:10,AUT 2,Kapfenberger SV,2:0,Austria Lustenau,Österreich Zweite Liga
+018,26.04.,19:10,AUT 2,FC Liefering,2:4,BW Linz,Österreich Zweite Liga
+019,26.04.,19:10,AUT 2,Austria Klagenfurt,1:1,Floridsdorfer AC,Österreich Zweite Liga
+020,26.04.,19:10,AUT 2,SKU Amstetten,1:1,Young Violets A.W.,Österreich Zweite Liga
+021,26.04.,19:10,AUT 2,FC Juniors OÖ,6:1,SV Horn,Österreich Zweite Liga
+022,26.04.,19:10,AUT 2,SK Vorwärts Steyr,0:3,SV Lafnitz,Österreich Zweite Liga
+023,26.04.,19:15,AUT RLW,Altach Amateure,0:2,USK Anif,Österreich Regionalliga West
+024,26.04.,19:30,AUT RLO,Marchfeld Donauaue,4:0,SV Mattersburg Am.,Österreich Regionalliga Ost
+025,26.04.,19:30,AUT RLO,ASK Ebreichsdorf,1:1,Bruck/Leitha,Österreich Regionalliga Ost
+026,26.04.,19:30,AUT RLO,SV Schwechat,0:0,SV Leobendorf,Österreich Regionalliga Ost
+027,26.04.,19:30,TUR 1,Istanbul Basakseh.,0:2,Göztepe,Türkei Süper Lig
+028,26.04.,19:30,EH GER,Adler Mannheim,4:4,EHC München,Deutschland Deutsche Eishockey Liga
+029,26.04.,20:30,GER BL,FC Augsburg,1:4,Bayer Leverkusen,Deutschland Bundesliga
+030,26.04.,20:30,BEL 1,FC Royal Antwerpen,2:1,Standard Lüttich,Belgien Jupiler Pro League
+031,26.04.,20:45,FRA 1,Bordeaux,2:3,Olympique Lyon,Frankreich Ligue 1
+032,26.04.,21:00,ENG PL,FC Liverpool,5:0,Huddersfield Town,England Premier League
+033,26.04.,21:30,POR 1,Rio Ave FC,2:2,FC Porto,Portugal Primeira Liga
+034,27.04.,13:00,GER 2,SV Sandhausen,3:2,Holstein Kiel,Deutschland 2. Bundesliga
+035,27.04.,13:00,GER 2,FC St. Pauli,4:3,Jahn Regensburg,Deutschland 2. Bundesliga
+036,27.04.,13:00,GER 2,FC Magdeburg,2:1,Greuther Fürth,Deutschland 2. Bundesliga
+037,27.04.,13:00,ESP 1,Athletic Bilbao,1:1,CD Alaves,Spanien Primera Division
+038,27.04.,13:30,ENG PL,Tottenham,0:1,West Ham United,England Premier League
+039,27.04.,14:30,ENG CS,FC Millwall,0:0,Stoke City,England Championship
+040,27.04.,15:00,ITA A,Bologna FC,3:1,FC Empoli,Italien Serie A
+041,27.04.,15:30,GER BL,Bor. Dortmund,2:4,FC Schalke 04,Deutschland Bundesliga
+042,27.04.,15:30,GER BL,Eintr. Frankfurt,0:0,Hertha BSC,Deutschland Bundesliga
+043,27.04.,15:30,GER BL,Hannover 96,1:0,FSV Mainz 05,Deutschland Bundesliga
+044,27.04.,15:30,GER BL,Fortuna Düsseldorf,4:1,Werder Bremen,Deutschland Bundesliga
+045,27.04.,15:30,GER BL,RB Leipzig,2:1,SC Freiburg,Deutschland Bundesliga
+046,27.04.,16:00,ENG PL,FC Southampton,3:3,AFC Bournemouth,England Premier League
+047,27.04.,16:00,ENG PL,FC Watford,1:2,Wolverhampton,England Premier League
+048,27.04.,16:00,ENG PL,FC Fulham,1:0,Cardiff City,England Premier League
+049,27.04.,16:00,ENG PL,Crystal Palace,0:0,FC Everton,England Premier League
+050,27.04.,16:00,ENG CS,Birmingham City,1:1,Wigan Athletic,England Championship
+051,27.04.,16:00,ENG CS,Bristol City,0:2,Derby County,England Championship
+052,27.04.,16:00,ENG CS,FC Middlesbrough,2:1,FC Reading,England Championship
+053,27.04.,16:00,ENG CS,Swansea City,2:2,Hull City,England Championship
+054,27.04.,16:15,ESP 1,Atletico Madrid,1:0,Real Valladolid,Spanien Primera Division
+055,27.04.,17:00,AUT BL,SK Rapid Wien,3:4,TSV Hartberg,"Österreich Bundesliga, Qualifikationsgruppe"
+056,27.04.,17:00,AUT BL,SV Mattersburg,1:1,Admira Wacker,"Österreich Bundesliga, Qualifikationsgruppe"
+057,27.04.,17:00,AUT BL,SCR Altach,1:4,Wacker Innsbruck,"Österreich Bundesliga, Qualifikationsgruppe"
+058,27.04.,18:00,ITA A,AS Roma,3:0,Cagliari Calcio,Italien Serie A
+059,27.04.,18:00,TUR 1,Fenerbahce,1:1,Trabzonspor,Türkei Süper Lig
+060,27.04.,18:30,GER BL,VfB Stuttgart,1:0,Mönchengladbach,Deutschland Bundesliga
+061,27.04.,18:30,ENG PL,Brighton & Hove,1:1,Newcastle United,England Premier League
+062,27.04.,18:30,ESP 1,CD Leganes,0:0,Celta de Vigo,Spanien Primera Division
+063,27.04.,19:00,POR 1,Sporting Lissabon,2:0,Vitoria Guimaraes,Portugal Primeira Liga
+064,27.04.,20:00,EH FS,Deutschland,5:1,Österreich,"Freundschaftsspiele, Herren"
+065,27.04.,20:05,BB AUT,Flyers Wels,85:80,Swans Gmunden,Österreich Basketball Superliga
+066,27.04.,20:30,ENG CS,Norwich City,2:1,Blackburn Rovers,England Championship
+067,27.04.,20:30,ITA A,Inter Mailand,1:1,Juventus Turin,Italien Serie A
+068,27.04.,20:45,ESP 1,FC Barcelona,1:0,Levante UD,Spanien Primera Division
+069,27.04.,21:00,FRA CUP,Stade Rennes*,2:2,Paris SG,Frankreich Coupe de France
+070,28.04.,10:30,AUT 2,Wack. Innsbruck II,3:2,WSG Swarovs. Tirol,Österreich Zweite Liga
+071,28.04.,12:00,ESP 1,FC Valencia,0:1,SD Eibar,Spanien Primera Division
+072,28.04.,12:30,ITA A,Frosinone Calcio,0:2,SSC Napoli,Italien Serie A
+073,28.04.,13:00,ENG PL,Leicester City,3:0,FC Arsenal,England Premier League
+074,28.04.,13:30,GER 2,FC Union Berlin,2:0,Hamburger SV,Deutschland 2. Bundesliga
+075,28.04.,13:30,GER 2,Erzgebirge Aue,3:2,VfL Bochum,Deutschland 2. Bundesliga
+076,28.04.,13:30,GER 2,SC Paderborn,3:1,FC Heidenheim,Deutschland 2. Bundesliga
+077,28.04.,14:00,ESP 1,FC Girona,1:0,FC Sevilla,Spanien Primera Division
+078,28.04.,14:30,AUT BL,Wolfsberger AC,2:1,RB Salzburg,Österreich Bundesliga
+079,28.04.,14:30,AUT BL,SKN St. Pölten,1:2,FK Austria Wien,Österreich Bundesliga
+080,28.04.,15:00,FRA 1,OGC Nizza,3:0,EA Guingamp,Frankreich Ligue 1
+081,28.04.,15:00,FRA 1,Lille OSC,5:0,Olympique Nimes,Frankreich Ligue 1
+082,28.04.,15:05,ENG PL,FC Burnley,0:1,Manchester City,England Premier League
+083,28.04.,15:30,GER BL,TSG Hoffenheim,1:4,VfL Wolfsburg,Deutschland Bundesliga
+084,28.04.,16:00,SUI SL,Young Boys Bern,2:2,FC Lugano,Schweiz Axpo Super League
+085,28.04.,16:15,ESP 1,Real Sociedad,2:1,Getafe CF,Spanien Primera Division
+086,28.04.,17:00,AUT BL,SK Sturm Graz,2:3,LASK Linz,Österreich Bundesliga
+087,28.04.,17:00,FRA 1,AS Saint Etienne,2:0,FC Toulouse,Frankreich Ligue 1
+088,28.04.,17:30,ENG PL,Manchester United,1:1,FC Chelsea,England Premier League
+089,28.04.,18:00,GER BL,1. FC Nürnberg,1:1,FC Bayern München,Deutschland Bundesliga
+090,28.04.,18:00,ITA A,Sampdoria Genua,1:2,Lazio Rom,Italien Serie A
+091,28.04.,18:00,TUR 1,Besiktas Istanbul,4:1,MKE Ankaragücü,Türkei Süper Lig
+092,28.04.,18:00,BEL 1,Club Brügge,1:0,RSC Anderlecht,Belgien Jupiler Pro League
+093,28.04.,18:30,ESP 1,Villarreal CF,1:1,SD Huesca,Spanien Primera Division
+094,28.04.,18:30,POR 1,Sporting Braga,1:4,Benfica Lissabon,Portugal Primeira Liga
+095,28.04.,20:00,NOR 1,Molde FK,3:0,Rosenborg BK,Norwegen Tippeligaen
+096,28.04.,20:30,ITA A,FC Torino,2:0,AC Milan,Italien Serie A
+097,28.04.,20:45,ESP 1,Rayo Vallecano,1:0,Real Madrid,Spanien Primera Division
+098,28.04.,21:00,FRA 1,Olymp. Marseille,1:2,FC Nantes,Frankreich Ligue 1
+099,29.04.,16:00,RUS PL,Gazovik Orenburg,1:1,Arsenal Tula,Russland Premier League
+100,29.04.,16:30,BUL 1,PFC Slavia Sofia,2:2,Lokomotiv Plovdiv,Bulgarien Premier League
+101,29.04.,17:00,ROU 1,CS Uni Craiova,1:0,Sepsi Sf.Gheorghe,Rumänien Liga 1
+102,29.04.,18:00,POL 1,Gornik Zabrze,4:0,Zaglebie Sosnowiec,Polen Orange Ekstraklasa
+103,29.04.,18:30,RUS PL,FC Spartak Moskau,1:1,FC Rubin Kazan,Russland Premier League
+104,29.04.,19:00,GER 3,Wehen Wiesbaden,2:0,FC Kaiserslautern,Deutschland 3. Liga
+105,29.04.,19:00,ITA A,Atalanta Bergamo,2:0,Udinese Calcio,Italien Serie A
+106,29.04.,19:00,TUR 1,Yeni Malatyaspor,2:1,Kasimpasa,Türkei Süper Lig
+107,29.04.,19:00,TUR 1,Konyaspor,0:0,Galatasaray,Türkei Süper Lig
+108,29.04.,19:00,DEN 1,FC Nordsjaelland,1:2,FC Midtjylland,Dänemark Superligaen
+109,29.04.,19:00,BUL 1,Botev Plovdiv,2:0,ZSKA Sofia,Bulgarien Premier League
+110,29.04.,19:00,NOR 1,Valerenga IF,1:0,Odds BK,Norwegen Tippeligaen
+111,29.04.,19:00,SWE 1,Örebro SK,1:1,Kalmar FF,Schweden Allsvenskan
+112,29.04.,19:00,SWE 1,IFK Göteborg,3:0,AIK Stockholm,Schweden Allsvenskan
+113,29.04.,19:00,SWE 1,GIF Sundsvall,3:1,Falkenbergs FF,Schweden Allsvenskan
+114,29.04.,19:00,SWE 1,Östersunds FK,3:0,Helsingborgs IF,Schweden Allsvenskan
+115,29.04.,20:00,ISR 1,Bnei Yehuda,2:2,Maccabi Haifa,Israel Winner League
+116,29.04.,20:00,ROU 1,FC CFR 1907 Cluj,3:1,Viitorul Constanta,Rumänien Liga 1
+117,29.04.,20:30,GER 2,MSV Duisburg,2:2,Arminia Bielefeld,Deutschland 2. Bundesliga
+118,29.04.,20:45,FRA 2,FC Lorient,2:2,AJ Auxerre,Frankreich Ligue 2
+119,29.04.,21:00,ESP 1,Betis Sevilla,1:1,Espanyol Barcelona,Spanien Primera Division
+120,29.04.,21:00,ITA A,AC Fiorentina,0:1,US Sassuolo,Italien Serie A

@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,04.01.,18:45,EH AUT,Fehervar,4:6,HC Znojmo,Österreich Eishockey Liga
+002,04.01.,19:00,ESP 1,Levante UD,2:2,FC Girona,Spanien Primera Division
+003,04.01.,19:15,EH AUT,Black Wings Linz,2:2,Vienna Capitals,Österreich Eishockey Liga
+004,04.01.,19:15,EH AUT,HC Innsbruck,2:2,HC Bozen Foxes,Österreich Eishockey Liga
+005,04.01.,19:15,EH AUT,KAC Klagenfurt,2:4,EC Graz 99ers,Österreich Eishockey Liga
+006,04.01.,19:15,EH AUT,EC RB Salzburg,1:2,EC Dornbirn,Österreich Eishockey Liga
+007,04.01.,19:30,EH GER,DEG Metro Stars,2:3,Adler Mannheim,Deutschland Deutsche Eishockey Liga
+008,04.01.,19:30,EH GER,Nürnberg Ice Tiger,5:3,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+009,04.01.,19:30,EH GER,EHC Wolfsburg,4:4,Krefeld Pinguine,Deutschland Deutsche Eishockey Liga
+010,04.01.,19:30,EH GER,Bremerhaven P.,4:5,ERC Ingolstadt,Deutschland Deutsche Eishockey Liga
+011,04.01.,19:30,EH GER,Kölner Haie,2:1,Iserlohn Roosters,Deutschland Deutsche Eishockey Liga
+012,04.01.,19:30,EH GER,Eisbären Berlin,0:0,Straubing Tigers,Deutschland Deutsche Eishockey Liga
+013,04.01.,19:30,EH GER,EHC München,1:1,Schwenninger W.W.,Deutschland Deutsche Eishockey Liga
+014,04.01.,19:45,EH SUI,Fribourg Gotteron,2:2,HC Lausanne,Schweiz National League A
+015,04.01.,19:45,EH SUI,Rapperswil Lakers,1:2,SC Bern,Schweiz National League A
+016,04.01.,19:45,EH SUI,HC Lugano,3:4,HC Ambri Piotta,Schweiz National League A
+017,04.01.,19:45,EH SUI,SCL Tigers Langnau,3:0,EV Zug,Schweiz National League A
+018,04.01.,19:45,EH SUI,Zürcher SC Lions,4:0,EHC Biel Bienne,Schweiz National League A
+019,04.01.,20:45,ENG FA,Tranmere Rovers,0:7,Tottenham,England FA Cup
+020,04.01.,20:45,SCO CS,Greenock Morton,1:0,FC Ross County,Schottland Championship
+021,04.01.,20:55,FRA CUP,FC Nantes,4:1,LB Chateauroux,Frankreich Coupe de France
+022,04.01.,20:55,FRA CUP,Grenoble Foot,abgesagt,Racing Strasbourg,Frankreich Coupe de France
+023,04.01.,21:00,ESP 1,Espanyol Barcelona,1:0,CD Leganes,Spanien Primera Division
+024,04.01.,21:00,ESP 2,Granada CF,1:1,Albacete Balompie,Spanien Segunda Division
+025,04.01.,21:00,ESP 2,Teneriffa CD,2:1,Elche CF,Spanien Segunda Division
+026,05.01.,13:00,DA-SL,"Shiffrin, Mikaela",Shiffri,"Vlhova, Petra","Ski Alpin, Damen Slalom"
+027,05.01.,13:00,DA-SL,"Hansdotter, Frida",Holdene,"Holdener, Wendy","Ski Alpin, Damen Slalom"
+028,05.01.,13:00,DA-SL,"Schild, Bernadette",Swenn-L,Swenn-Larsson A.,"Ski Alpin, Damen Slalom"
+029,05.01.,13:00,DA-SL,"Liensberger, Kath.",Truppe,"Truppe, Katharina","Ski Alpin, Damen Slalom"
+030,05.01.,13:00,ESP 1,Real Valladolid,0:1,Rayo Vallecano,Spanien Primera Division
+031,05.01.,13:30,ENG FA,Shrewsbury Town,1:1,Stoke City,England FA Cup
+032,05.01.,13:30,ENG FA,West Ham United,2:0,Birmingham City,England FA Cup
+033,05.01.,13:30,ENG FA,AFC Bournemouth,1:3,Brighton & Hove,England FA Cup
+034,05.01.,13:30,ENG FA,FC Burnley,1:0,FC Barnsley,England FA Cup
+035,05.01.,13:30,ENG FA,West Bromwich,1:0,Wigan Athletic,England FA Cup
+036,05.01.,13:30,ENG FA,Sheffield Wednes.,0:0,Luton Town,England FA Cup
+037,05.01.,13:30,ENG FA,Manchester United,2:0,FC Reading,England FA Cup
+038,05.01.,15:00,FRA CUP,Amiens SC,1:0,FC Valenciennes,Frankreich Coupe de France
+039,05.01.,16:00,ENG FA,Derby County,2:2,FC Southampton,England FA Cup
+040,05.01.,16:00,ENG FA,FC Chelsea,2:0,Nottingham Forest,England FA Cup
+041,05.01.,16:00,ENG FA,FC Gillingham,1:0,Cardiff City,England FA Cup
+042,05.01.,16:00,ENG FA,Fleetwood Town,2:3,AFC Wimbledon,England FA Cup
+043,05.01.,16:00,ENG FA,Aston Villa,0:3,Swansea City,England FA Cup
+044,05.01.,16:00,ENG FA,FC Brentford,1:0,Oxford United,England FA Cup
+045,05.01.,16:00,ENG FA,Accrington Stanley,1:0,Ipswich Town,England FA Cup
+046,05.01.,16:00,ENG FA,FC Everton,2:1,Lincoln City,England FA Cup
+047,05.01.,16:00,ENG FA,FC Middlesbrough,5:0,Peterborough Utd.,England FA Cup
+048,05.01.,16:00,ENG FA,Bolton Wanderers,5:2,FC Walsall,England FA Cup
+049,05.01.,16:00,ENG 1,Charlton Athletic,1:1,AFC Sunderland,England League One
+050,05.01.,16:00,ENG 1,FC Rochdale,0:4,Burton Albion,England League One
+051,05.01.,16:00,ENG 1,Scunthorpe United,2:1,Coventry City,England League One
+052,05.01.,16:00,ESP 2,Sporting Gijon,1:2,Real Saragossa,Spanien Segunda Division
+053,05.01.,16:00,SCO CS,Ayr United,0:1,FC Falkirk,Schottland Championship
+054,05.01.,16:00,SCO CS,Dundee United,1:1,Partick Thistle,Schottland Championship
+055,05.01.,16:00,SCO CS,Dunfermline,2:2,FC Alloa Athletic,Schottland Championship
+056,05.01.,16:00,SCO CS,Inverness CT,1:2,Queen of South,Schottland Championship
+057,05.01.,16:15,ESP 1,CD Alaves,2:1,FC Valencia,Spanien Primera Division
+058,05.01.,17:00,ASICUP,Ver. Arab. Emirate,1:1,Bahrain,Asien Cup
+059,05.01.,18:00,FRA CUP,Red Star FC 93,0:1,SM Caen,Frankreich Coupe de France
+060,05.01.,18:30,ENG FA,Norwich City,0:1,FC Portsmouth,England FA Cup
+061,05.01.,18:30,ENG FA,Crystal Palace,1:0,Grimsby Town,England FA Cup
+062,05.01.,18:30,ENG FA,Newcastle United,1:1,Blackburn Rovers,England FA Cup
+063,05.01.,18:30,ENG FA,Bristol City,1:0,Huddersfield Town,England FA Cup
+064,05.01.,18:30,ENG FA,FC Blackpool,0:3,FC Arsenal,England FA Cup
+065,05.01.,19:00,BB AUT,Kapfenberg Bulls,80:71,Oberwart Gunners,Österreich Basketball Superliga
+066,05.01.,20:45,ESP 1,SD Huesca,2:1,Betis Sevilla,Spanien Primera Division
+067,05.01.,21:30,POR 1,Maritimo Funchal,2:1,Portimonense SC,Portugal Primeira Liga
+068,05.01.,22:35,NFL,Houston Texans,7:21,Indianapolis Colts,USA NFL
+069,06.01.,02:15,NFL,Dallas Cowboys,24:22,Seattle Seahawks,USA NFL
+070,06.01.,12:00,ESP 1,SD Eibar,0:0,Villarreal CF,Spanien Primera Division
+071,06.01.,12:00,ESP 2,UD Almeria,2:0,RCD Mallorca,Spanien Segunda Division
+072,06.01.,12:15,HE-SL,"Hirscher, Marcel",Hirsche,Kristoffersen H.,"Ski Alpin, Herren Slalom"
+073,06.01.,12:15,HE-SL,"Schwarz, Marco",Tipp X,"Matt, Michael","Ski Alpin, Herren Slalom"
+074,06.01.,12:15,HE-SL,"Yule, Daniel",Yule D.,"Myhrer, Andre","Ski Alpin, Herren Slalom"
+075,06.01.,12:15,HE-SL,"Ryding, Dave",Feller,"Feller, Manuel","Ski Alpin, Herren Slalom"
+076,06.01.,12:15,HE-SL,"Neureuther, Felix",Neureut,"Zenhäusern, Ramon","Ski Alpin, Herren Slalom"
+077,06.01.,12:15,HE-SL,"Pinturault, Alexis",Pintura,"Hirschbühl, C.","Ski Alpin, Herren Slalom"
+078,06.01.,14:15,FRA CUP,Stade de Reims,2:0,RC Lens,Frankreich Coupe de France
+079,06.01.,14:15,FRA CUP,Stade Rennes,2:2,Stade Brest,Frankreich Coupe de France
+080,06.01.,15:00,ENG FA,Preston North End,1:3,Doncaster Rovers,England FA Cup
+081,06.01.,15:00,ENG FA,Manchester City,7:0,Rotherham United,England FA Cup
+082,06.01.,15:00,ENG FA,FC Woking,0:2,FC Watford,England FA Cup
+083,06.01.,15:00,ENG FA,FC Millwall,2:1,Hull City,England FA Cup
+084,06.01.,15:00,ENG FA,Queens Park R.,2:1,Leeds United,England FA Cup
+085,06.01.,15:00,ENG FA,FC Fulham,1:2,Oldham Athletic,England FA Cup
+086,06.01.,15:00,ENG FA,Sheffield United,0:1,FC Barnet,England FA Cup
+087,06.01.,16:15,ESP 1,FC Sevilla,1:1,Atletico Madrid,Spanien Primera Division
+088,06.01.,17:00,BB AUT,Flyers Wels,76:86,Klosterneuburg,Österreich Basketball Superliga
+089,06.01.,17:15,FRA CUP,Bordeaux,0:1,Le Havre AC,Frankreich Coupe de France
+090,06.01.,17:15,FRA CUP,FC Toulouse,4:1,OGC Nizza,Frankreich Coupe de France
+091,06.01.,17:30,ENG FA,Newport County,2:1,Leicester City,England FA Cup
+092,06.01.,17:30,EH AUT,EC Graz 99ers,2:5,Villacher SV,Österreich Eishockey Liga
+093,06.01.,17:30,EH AUT,HC Znojmo,5:7,Vienna Capitals,Österreich Eishockey Liga
+094,06.01.,17:30,EH AUT,EC Dornbirn,3:6,HC Innsbruck,Österreich Eishockey Liga
+095,06.01.,17:30,EH AUT,Black Wings Linz,2:3,Fehervar,Österreich Eishockey Liga
+096,06.01.,18:00,EH AUT,HC Bozen Foxes,2:4,EC RB Salzburg,Österreich Eishockey Liga
+097,06.01.,18:00,BB AUT,BC Vienna,89:86,Traiskirchen,Österreich Basketball Superliga
+098,06.01.,18:30,ESP 1,Real Madrid,0:2,Real Sociedad,Spanien Primera Division
+099,06.01.,18:30,POR 1,Benfica Lissabon,4:2,Rio Ave FC,Portugal Primeira Liga
+100,06.01.,19:05,NFL,Baltimore Ravens,17:23,LA Chargers,USA NFL
+101,06.01.,20:45,ESP 1,Getafe CF,1:2,FC Barcelona,Spanien Primera Division
+102,06.01.,21:00,POR 1,Sporting Braga,1:0,Boavista FC,Portugal Primeira Liga
+103,06.01.,22:40,NFL,Chicago Bears,15:16,Philadelph. Eagles,USA NFL
+104,07.01.,15:00,FS,M'gladbach GER*,1:2,FC Magdeburg GER,Freundschaftsspiele International (Klub)
+105,07.01.,15:30,FS,FC Nürnberg GER*,1:1,FC Zwolle NED,Freundschaftsspiele International (Klub)
+106,07.01.,16:00,FS,Bor. Dortmund GER*,3:2,F. Düsseldorf GER,Freundschaftsspiele International (Klub)
+107,07.01.,18:00,ESP 2,Numancia CD,2:3,Real Oviedo,Spanien Segunda Division
+108,07.01.,18:00,CYP 1,Ermis Aradippou FC,0:0,Enosis N.Paralimni,Zypern 1. Division
+109,07.01.,20:00,POR 1,CD Tondela,2:1,Sporting Lissabon,Portugal Primeira Liga
+110,07.01.,20:00,ISR 1,Maccabi Tel Aviv,4:1,Maccabi Netanya,Israel Winner League
+111,07.01.,20:45,ENG FA,Wolverhampton,2:1,FC Liverpool,England FA Cup
+112,07.01.,21:00,ESP 1,Celta de Vigo,1:2,Athletic Bilbao,Spanien Primera Division
+113,07.01.,21:00,ESP 2,R. Majadahonda,0:0,Las Palmas UD,Spanien Segunda Division
+114,07.01.,20:55,FRA CUP,Lille OSC,1:0,FC Sochaux,Frankreich Coupe de France
+115,07.01.,22:15,POR 1,FC Porto,3:1,CD Nacional,Portugal Primeira Liga
+116,08.01.,01:00,NHL,Toronto Maple L.,0:4,Nashville Pred.,USA NHL
+117,08.01.,01:00,NHL,Philadelphia Fl.,0:3,St. Louis Blues,USA NHL
+118,08.01.,01:30,NHL,Montreal Canad.,0:1,Minnesota Wild,USA NHL
+119,08.01.,02:30,NHL,Chicago Blackhawks,3:4,Calgary Flames,USA NHL
+120,08.01.,04:30,NHL,San Jose Sharks,3:1,Los Angeles Kings,USA NHL

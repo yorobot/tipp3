@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,03.05.,18:00,AUT RLW,USK Anif,1:1,SV Wals-Grünau,Österreich Regionalliga West
+002,03.05.,18:30,GER 2,Arminia Bielefeld,2:0,SC Paderborn,Deutschland 2. Bundesliga
+003,03.05.,18:30,GER 2,Dynamo Dresden,2:1,FC St. Pauli,Deutschland 2. Bundesliga
+004,03.05.,18:30,AUT RLO,FCM Traiskirchen,2:4,SC Team Wr. Linien,Österreich Regionalliga Ost
+005,03.05.,19:00,AUT RLO,SC Neusiedl,3:0,Bruck/Leitha,Österreich Regionalliga Ost
+006,03.05.,19:00,AUT RLW,FC Kitzbühel,1:0,SV Seekirchen,Österreich Regionalliga West
+007,03.05.,19:00,AUT RLM,Sturm Graz Amat.,3:2,VST Völkermarkt,Österreich Regionalliga Mitte
+008,03.05.,19:00,AUT RLM,ATSV Stadl-Paura,6:3,Union Vöcklamarkt,Österreich Regionalliga Mitte
+009,03.05.,19:00,AUT RLM,WSC Hertha Wels,2:3,Union Gurten,Österreich Regionalliga Mitte
+010,03.05.,19:00,AUT RLM,Deutschlandsberg,0:1,FC Wels,Österreich Regionalliga Mitte
+011,03.05.,19:00,AUT RLM,Bad Gleichenberg,2:1,SC Kalsdorf,Österreich Regionalliga Mitte
+012,03.05.,19:00,GER 3,VfL Osnabrück,1:2,Hansa Rostock,Deutschland 3. Liga
+013,03.05.,19:10,AUT 2,WSG Swarovs. Tirol,2:1,Young Violets A.W.,Österreich Zweite Liga
+014,03.05.,19:10,AUT 2,Wack. Innsbruck II,3:4,SV Ried,Österreich Zweite Liga
+015,03.05.,19:10,AUT 2,SV Lafnitz,2:3,FC Liefering,Österreich Zweite Liga
+016,03.05.,19:10,AUT 2,Austria Klagenfurt,1:0,Kapfenberger SV,Österreich Zweite Liga
+017,03.05.,19:10,AUT 2,Floridsdorfer AC,1:0,SV Horn,Österreich Zweite Liga
+018,03.05.,19:30,AUT RLO,FC Mauerwerk,2:2,Marchfeld Donauaue,Österreich Regionalliga Ost
+019,03.05.,19:30,AUT RLO,Wiener Sport-Club,1:1,SC Parndorf,Österreich Regionalliga Ost
+020,03.05.,19:30,AUT RLW,SC Schwaz,2:1,SK Bischofshofen,Österreich Regionalliga West
+021,03.05.,19:30,AUT RLW,SV Wörgl,0:1,SV Grödig,Österreich Regionalliga West
+022,03.05.,19:30,TUR 1,Sivasspor,0:0,Istanbul Basakseh.,Türkei Süper Lig
+023,03.05.,20:00,FRA 2,Paris FC 98,1:0,Grenoble Foot,Frankreich Ligue 2
+024,03.05.,20:30,GER BL,FSV Mainz 05,3:3,RB Leipzig,Deutschland Bundesliga
+025,03.05.,20:30,ITA A,Juventus Turin,1:1,FC Torino,Italien Serie A
+026,03.05.,20:30,BEL 1,KRC Genk,4:0,FC Royal Antwerpen,Belgien Jupiler Pro League
+027,03.05.,20:45,FRA 1,Racing Strasbourg,1:1,Olymp. Marseille,Frankreich Ligue 1
+028,03.05.,21:00,ENG PL,FC Everton,2:0,FC Burnley,England Premier League
+029,03.05.,21:00,ESP 1,FC Sevilla,0:3,CD Leganes,Spanien Primera Division
+030,03.05.,21:30,POR 1,Moreirense FC,1:2,Rio Ave FC,Portugal Primeira Liga
+031,04.05.,13:00,GER 2,Hamburger SV,0:3,FC Ingolstadt,Deutschland 2. Bundesliga
+032,04.05.,13:00,GER 2,VfL Bochum,4:2,FC Magdeburg,Deutschland 2. Bundesliga
+033,04.05.,13:00,GER 2,FC Heidenheim,2:3,SV Sandhausen,Deutschland 2. Bundesliga
+034,04.05.,13:00,ESP 1,Levante UD,4:1,Rayo Vallecano,Spanien Primera Division
+035,04.05.,13:30,ENG PL,AFC Bournemouth,1:0,Tottenham,England Premier League
+036,04.05.,13:30,SCO PS,FC Aberdeen,0:3,Celtic Glasgow,Schottland Premiership
+037,04.05.,14:30,AUT 2,SC Wiener Neustadt,1:0,SKU Amstetten,Österreich Zweite Liga
+038,04.05.,15:30,GER BL,Mönchengladbach,2:2,TSG Hoffenheim,Deutschland Bundesliga
+039,04.05.,15:30,GER BL,Hertha BSC,3:1,VfB Stuttgart,Deutschland Bundesliga
+040,04.05.,15:30,GER BL,VfL Wolfsburg,2:0,1. FC Nürnberg,Deutschland Bundesliga
+041,04.05.,15:30,GER BL,FC Bayern München,3:4,Hannover 96+3,Deutschland Bundesliga
+042,04.05.,16:00,ENG PL,West Ham United,3:0,FC Southampton,England Premier League
+043,04.05.,16:00,ENG PL,Wolverhampton,1:0,FC Fulham,England Premier League
+044,04.05.,16:15,ESP 1,Espanyol Barcelona,3:0,Atletico Madrid,Spanien Primera Division
+045,04.05.,16:30,AUT 2,Austria Lustenau,2:0,SK Vorwärts Steyr,Österreich Zweite Liga
+046,04.05.,16:30,POR 1,Maritimo Funchal,1:0,Sporting Braga,Portugal Primeira Liga
+047,04.05.,17:00,AUT BL,Wacker Innsbruck,1:0,TSV Hartberg,"Österreich Bundesliga, Qualifikationsgruppe"
+048,04.05.,17:00,AUT BL,Admira Wacker,3:4,SK Rapid Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+049,04.05.,17:00,AUT BL,SV Mattersburg,0:0,SCR Altach,"Österreich Bundesliga, Qualifikationsgruppe"
+050,04.05.,17:00,FRA 1,Paris SG,1:1,OGC Nizza,Frankreich Ligue 1
+051,04.05.,18:00,ITA A,AC Chievo Verona,0:4,Spal Ferrara,Italien Serie A
+052,04.05.,18:00,RUS PL,Arsenal Tula,2:0,Lok Moskau,Russland Premier League
+053,04.05.,18:00,TUR 1,Kasimpasa,1:3,Fenerbahce,Türkei Süper Lig
+054,04.05.,18:30,GER BL,Werder Bremen,2:2,Bor. Dortmund,Deutschland Bundesliga
+055,04.05.,18:30,ENG PL,Cardiff City,2:3,Crystal Palace,England Premier League
+056,04.05.,18:30,ESP 1,CD Alaves,0:1,Real Sociedad,Spanien Primera Division
+057,04.05.,19:00,SUI SL,FC Basel,3:0,FC Zürich,Schweiz Axpo Super League
+058,04.05.,20:00,FRA 1,Bordeaux,0:1,SCO Angers,Frankreich Ligue 1
+059,04.05.,20:00,FRA 1,EA Guingamp,0:0,SM Caen,Frankreich Ligue 1
+060,04.05.,20:00,FRA 1,Stade de Reims,0:3,Olympique Nimes,Frankreich Ligue 1
+061,04.05.,19:00,HB AUT,Alpla HC Hard,25:15,Handball Tirol,Österreich HLA
+062,04.05.,20:30,ITA A,Udinese Calcio,0:0,Inter Mailand,Italien Serie A
+063,04.05.,20:45,ENG PL,Newcastle United,2:3,FC Liverpool,England Premier League
+064,04.05.,20:45,ESP 1,Celta de Vigo,2:0,FC Barcelona,Spanien Primera Division
+065,05.05.,10:30,AUT 2,BW Linz,0:2,FC Juniors OÖ,Österreich Zweite Liga
+066,05.05.,12:00,ESP 1,Getafe CF,2:0,FC Girona,Spanien Primera Division
+067,05.05.,12:30,ITA A,FC Empoli,1:0,AC Fiorentina,Italien Serie A
+068,05.05.,13:30,GER BL,FC Schalke 04,0:0,FC Augsburg,Deutschland Bundesliga
+069,05.05.,13:30,GER 2,Holstein Kiel,0:2,MSV Duisburg,Deutschland 2. Bundesliga
+070,05.05.,13:30,GER 2,Jahn Regensburg,1:3,Erzgebirge Aue,Deutschland 2. Bundesliga
+071,05.05.,13:30,GER 2,SV Darmstadt 98,2:1,FC Union Berlin,Deutschland 2. Bundesliga
+072,05.05.,14:00,ESP 1,SD Eibar,1:0,Betis Sevilla,Spanien Primera Division
+073,05.05.,14:30,AUT BL,LASK Linz,3:0,Wolfsberger AC,Österreich Bundesliga
+074,05.05.,14:30,AUT BL,SKN St. Pölten,0:1,SK Sturm Graz,Österreich Bundesliga
+075,05.05.,15:00,ENG PL,Huddersfield Town,1:1,Manchester United,England Premier League
+076,05.05.,15:00,ENG PL,FC Chelsea,3:0,FC Watford,England Premier League
+077,05.05.,15:00,ITA A,Lazio Rom,1:3,Atalanta Bergamo,Italien Serie A
+078,05.05.,15:00,ITA A,US Sassuolo,2:2,Frosinone Calcio,Italien Serie A
+079,05.05.,15:00,ITA A,FC Parma,3:3,Sampdoria Genua,Italien Serie A
+080,05.05.,15:00,FRA 1,HSC Montpellier,1:1,Amiens SC,Frankreich Ligue 1
+081,05.05.,15:00,FRA 1,FC Nantes,3:0,Dijon Football,Frankreich Ligue 1
+082,05.05.,15:30,GER BL,SC Freiburg,1:1,Fortuna Düsseldorf,Deutschland Bundesliga
+083,05.05.,15:30,RUS PL,ZSKA Moskau,2:2,Dinamo Moskau,Russland Premier League
+084,05.05.,16:00,DEN 1,FC Kopenhagen,3:2,Bröndby IF,Dänemark Superligaen
+085,05.05.,16:00,SUI SL,FC Sion,0:4,Young Boys Bern,Schweiz Axpo Super League
+086,05.05.,16:15,ESP 1,Real Madrid,3:2,Villarreal CF,Spanien Primera Division
+087,05.05.,16:15,EH FS,Österreich,1:3,Dänemark,"Freundschaftsspiele, Herren"
+088,05.05.,16:30,SCO PS,Glasgow Rangers,1:0,Hibernian FC,Schottland Premiership
+089,05.05.,17:00,AUT BL,FK Austria Wien,1:2,RB Salzburg,Österreich Bundesliga
+090,05.05.,17:00,FRA 1,AS Monaco,2:3,AS Saint Etienne,Frankreich Ligue 1
+091,05.05.,17:30,ENG PL,FC Arsenal,1:1,Brighton & Hove,England Premier League
+092,05.05.,18:00,GER BL,Bayer Leverkusen,6:1,Eintr. Frankfurt,Deutschland Bundesliga
+093,05.05.,18:00,ITA A,FC Genua,1:1,AS Roma,Italien Serie A
+094,05.05.,18:00,NL CUP,Willem II Tilburg*,0:4,Ajax Amsterdam,Niederlande KNVB Cup
+095,05.05.,18:00,TUR 1,Galatasaray,2:0,Besiktas Istanbul,Türkei Süper Lig
+096,05.05.,18:00,BEL 1,KAA Gent,0:1,Club Brügge,Belgien Jupiler Pro League
+097,05.05.,18:30,ESP 1,Real Valladolid,1:0,Athletic Bilbao,Spanien Primera Division
+098,05.05.,18:30,POR 1,Belenenses L.,1:8,Sporting Lissabon,Portugal Primeira Liga
+099,05.05.,20:30,ITA A,SSC Napoli,2:1,Cagliari Calcio,Italien Serie A
+100,05.05.,20:45,ESP 1,SD Huesca,2:6,FC Valencia,Spanien Primera Division
+101,05.05.,21:00,FRA 1,Olympique Lyon,2:2,Lille OSC,Frankreich Ligue 1
+102,06.05.,18:00,POL 1,Jagiellonia Bial.,4:2,Pogon Szczecin,Polen Orange Ekstraklasa
+103,06.05.,18:00,SLO 1,NK Celje,0:0,NK Krsko,Slowenien PrvaLiga Telekom
+104,06.05.,19:00,GER 3,Fortuna Köln,1:1,SV Meppen,Deutschland 3. Liga
+105,06.05.,19:30,TUR 1,Trabzonspor,4:2,Kayserispor,Türkei Süper Lig
+106,06.05.,19:00,DEN 1,Esbjerg FB,0:0,FC Nordsjaelland,Dänemark Superligaen
+107,06.05.,19:00,NOR 1,Viking FK,1:1,Valerenga IF,Norwegen Tippeligaen
+108,06.05.,19:00,SWE 1,IF Elfsborg,0:0,IFK Norrköping,Schweden Allsvenskan
+109,06.05.,19:00,SWE 1,Helsingborgs IF,1:1,Djurgardens IF,Schweden Allsvenskan
+110,06.05.,19:00,SWE 2,IK Frej,3:3,Trelleborgs FF,Schweden Superettan
+111,06.05.,20:00,ISR 1,Maccabi Haifa,3:1,Hap. Beer Sheva,Israel Winner League
+112,06.05.,20:00,ROU 1,AFC Astra Giurgiu,1:5,FC CFR 1907 Cluj,Rumänien Liga 1
+113,06.05.,20:30,GER 2,Greuther Fürth,0:4,1. FC Köln,Deutschland 2. Bundesliga
+114,06.05.,20:30,ITA A,AC Milan,2:1,Bologna FC,Italien Serie A
+115,06.05.,20:45,FRA 2,FC Chamois Niort,2:2,FC Lorient,Frankreich Ligue 2
+116,06.05.,21:00,ENG PL,Manchester City,1:0,Leicester City,England Premier League
+117,06.05.,21:00,ESP 2,Cadiz CF,1:1,Malaga CF,Spanien Segunda Division
+118,06.05.,21:00,ITA B,US Foggia,1:0,Perugia Calcio,Italien Serie B
+119,06.05.,21:15,POR 1,Vitoria Setubal,0:3,Boavista FC,Portugal Primeira Liga
+120,06.05.,21:15,ISL 1,Vikingur Reykjavik,1:1,FH Hafnarfjördur,Island Urvalsdeild

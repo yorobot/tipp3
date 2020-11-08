@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,11.12.,13:45,SUZ CUP,Malaysia,2:2,Vietnam,AFF Suzuki Cup
+002,11.12.,14:30,ITA C1B,AS Gubbio,2:0,Vicenza Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+003,11.12.,17:00,EH CL,HC Pilsen CZE,1:1,Skelleftea AIK SWE,Champions Hockey League
+004,11.12.,17:30,KHL,Jokerit Helsinki,2:3,Salavat Yulaev Ufa,Kontinental Hockey League
+005,11.12.,17:30,KHL,Dynamo Moskau,3:1,Sev. Cherepovets,Kontinental Hockey League
+006,11.12.,17:30,EH FIN,Pelicans Lahti,2:4,Lukko Rauma,Finnland SM-Liiga
+007,11.12.,18:00,EH CL,Frölunda HC SWE,6:1,Kometa Brünn CZE,Champions Hockey League
+008,11.12.,18:00,EH CL,Malmö IF SWE,5:4,EHC München GER,Champions Hockey League
+009,11.12.,18:00,EH CL,Kärpät Oulu FIN,1:1,EC RB Salzburg AUT,Champions Hockey League
+010,11.12.,18:00,HB EMDA,Spanien,25:27,Rumänien,Europameisterschaft Frauen
+011,11.12.,18:55,CL,FC Schalke 04 GER,1:0,Lok Moskau RUS,UEFA Champions League
+012,11.12.,18:55,CL,Galatasaray TUR,2:3,FC Porto POR,UEFA Champions League
+013,11.12.,19:00,ITA C1B,Rimini Calcio,1:0,SSD Monza 1912,"Italien Lega Pro Prima Divisione, Girone B"
+014,11.12.,19:00,EHU20WM,U20 Lettland,4:1,U20 Österreich,Weltmeisterschaft U20
+015,11.12.,20:00,ENG LTR,FC Rochdale,2:0,Oldham Athletic,England Football League Trophy
+016,11.12.,20:30,ITA C1B,Fano Calcio,0:0,Vis Pesaro 1898,"Italien Lega Pro Prima Divisione, Girone B"
+017,11.12.,20:30,ITA C1B,AC Feralpisalo,0:1,Imolese Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+018,11.12.,20:30,ITA C1B,US Fermana,1:0,Triestina Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+019,11.12.,20:30,ITA C1B,Giana Erminio,0:1,AC Renate,"Italien Lega Pro Prima Divisione, Girone B"
+020,11.12.,20:30,ITA C1B,Ravenna Calcio,0:1,V.Vecomp Verona,"Italien Lega Pro Prima Divisione, Girone B"
+021,11.12.,20:30,ITA C1B,Teramo Calcio,0:2,Pordenone Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+022,11.12.,20:30,BB EC,Arka Gdynia POL,64:76,Alba Berlin GER,Eurocup
+023,11.12.,20:30,BB EC,Valencia Bask. ESP,97:89,Zenit Petersb. RUS,Eurocup
+024,11.12.,20:30,BB EC,Asvel Lyon Vil FRA,75:78,Partizan Belgr SRB,Eurocup
+025,11.12.,20:45,ENG 1,FC Portsmouth,1:2,Charlton Athletic,England League One
+026,11.12.,20:45,ENG FA,AFC Sunderland,0:1,FC Walsall,England FA Cup
+027,11.12.,20:45,ENG FA,Newport County,4:0,Wrexham FC,England FA Cup
+028,11.12.,20:45,ENG FA,Bradford City FC,4:4,Peterborough Utd.,England FA Cup
+029,11.12.,20:45,SCO PS,FC Aberdeen,3:2,FC Livingston,Schottland Premiership
+030,11.12.,20:45,NIRL LC,Crusaders Belfast,0:1,Ballymena United,Nordirland CO-Operative Insurance Cup
+031,11.12.,20:45,NIRL LC,FC Dungannon,0:0,FC Linfield,Nordirland CO-Operative Insurance Cup
+032,11.12.,21:00,CL,FC Barcelona ESP,1:1,Tottenham ENG,UEFA Champions League
+033,11.12.,21:00,CL,Inter Mailand ITA,1:1,PSV Eindhoven NED,UEFA Champions League
+034,11.12.,21:00,CL,Club Brügge BEL,0:0,Atl. Madrid ESP,UEFA Champions League
+035,11.12.,21:00,CL,AS Monaco FRA,0:2,Bor. Dortmund GER,UEFA Champions League
+036,11.12.,21:00,CL,FC Liverpool ENG,1:0,SSC Napoli ITA,UEFA Champions League
+037,11.12.,21:00,CL,FC Liverpool,1:1,SSC Napoli+1,UEFA Champions League
+038,11.12.,21:00,CL,Roter Stern B. SRB,1:4,Paris SG FRA,UEFA Champions League
+039,11.12.,21:00,HB EMDA,Niederlande,16:29,Norwegen,Europameisterschaft Frauen
+040,12.12.,02:30,NBA,San Antonio Spurs,111:86,Phoenix Suns,USA NBA
+041,12.12.,12:30,KHL,HC Red Star Kunlun,1:4,HC Barys,Kontinental Hockey League
+042,12.12.,14:30,ITA C1A,AC Gozzano,1:1,Carrarese Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+043,12.12.,14:30,ITA C1A,Virtus Entella,0:1,Pro Patria,"Italien Lega Pro Prima Divisione, Girone A"
+044,12.12.,14:30,ITA C1C,Juve Stabia,4:0,Sicula Leonzio,"Italien, Lega Pro Prima Divisione, Girone C"
+045,12.12.,14:30,ITA C1C,US Siracusa,0:0,US Casertana 1908,"Italien, Lega Pro Prima Divisione, Girone C"
+046,12.12.,16:25,ITA C1C,Paganese Calcio,2:2,Matera FC,"Italien, Lega Pro Prima Divisione, Girone C"
+047,12.12.,17:30,EH FIN,HIFK Helsinki,3:3,SaiPa Lappeenr.,Finnland SM-Liiga
+048,12.12.,17:30,EH FIN,JYP Jyväskylä,2:2,HPK Hämeenlinna,Finnland SM-Liiga
+049,12.12.,17:30,EH FIN,KalPa Kuopio,3:2,Vaasan Sport,Finnland SM-Liiga
+050,12.12.,17:30,EH FIN,Kärpät Oulu,6:1,Kookoo,Finnland SM-Liiga
+051,12.12.,17:30,EH FIN,HC TPS Turku,4:3,Jukurit Mikkeli,Finnland SM-Liiga
+052,12.12.,18:30,ITA C1A,Pro Piacenza,2:1,AC Arezzo,"Italien Lega Pro Prima Divisione, Girone A"
+053,12.12.,18:30,ITA C1A,Robur Siena,4:1,Albissola 2010,"Italien Lega Pro Prima Divisione, Girone A"
+054,12.12.,18:30,ITA C1B,FC Südtirol,2:1,Ternana Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+055,12.12.,18:30,ITA C1C,Reggina 1914,0:3,SS Cavese,"Italien, Lega Pro Prima Divisione, Girone C"
+056,12.12.,18:30,ITA C1C,Potenza SC,1:1,Trapani Calcio,"Italien, Lega Pro Prima Divisione, Girone C"
+057,12.12.,18:30,KHL,Slovan Bratislava,3:4,HK Dinamo Riga,Kontinental Hockey League
+058,12.12.,18:55,CL,Vikt. Pilsen CZE,2:1,AS Roma ITA,UEFA Champions League
+059,12.12.,18:55,CL,Real Madrid ESP,0:3,ZSKA Moskau RUS,UEFA Champions League
+060,12.12.,19:30,ITA C1A,AC Pistoiese,0:1,Pontedera,"Italien Lega Pro Prima Divisione, Girone A"
+061,12.12.,19:30,EH ALP,Bregenzerwald AUT,7:4,EK Zell am See AUT,Alps Hockey League
+062,12.12.,20:00,EHU20WM,U20 Weißrussland,5:0,U20 Österreich,Weltmeisterschaft U20
+063,12.12.,20:30,ITA C1A,Alessandria Calcio,1:1,Novara Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+064,12.12.,20:30,ITA C1A,SC Pisa,2:0,Arzachena Costa Sm,"Italien Lega Pro Prima Divisione, Girone A"
+065,12.12.,20:30,ITA C1B,UC Albinoleffe,0:0,Sambenedettese,"Italien Lega Pro Prima Divisione, Girone B"
+066,12.12.,20:30,ITA C1C,Rende,2:1,FC Rieti,"Italien, Lega Pro Prima Divisione, Girone C"
+067,12.12.,20:30,ITA C1C,Catania Calcio,1:0,Virtus Francavilla,"Italien, Lega Pro Prima Divisione, Girone C"
+068,12.12.,20:30,ITA C1C,AC Monopoli,1:0,Vibonese Calcio,"Italien, Lega Pro Prima Divisione, Girone C"
+069,12.12.,21:00,CL,FC Valencia ESP,2:1,Manchester U. ENG,UEFA Champions League
+070,12.12.,21:00,CL,YB Bern SUI,2:1,Juventus Turin ITA,UEFA Champions League
+071,12.12.,21:00,CL,Man. City ENG,2:1,Hoffenheim GER,UEFA Champions League
+072,12.12.,21:00,CL,Shakhtar Don. UKR*,1:1,Ol. Lyon FRA,UEFA Champions League
+073,12.12.,21:00,CL,Ajax Amsterd. NED,3:3,Bayern München GER,UEFA Champions League
+074,12.12.,21:00,CL,Ajax Amsterdam+1,4:3,FC Bayern München,UEFA Champions League
+075,12.12.,21:00,CL,Benfica Lissab POR,1:0,AEK Athen GRE,UEFA Champions League
+076,13.12.,00:45,COPA S,Atletico PR BRA,1:1,Atl. Junior COL,Copa Sudamericana
+077,13.12.,02:00,PER 1,Alianza Lima,1:4,Sporting Cristal,Peru Primera Division
+078,13.12.,02:00,ECU 1,Club Sport Emelec,1:1,LDU Quito,Ecuador Serie A
+079,13.12.,14:30,ITA C1A,Cuneo,0:0,Piacenza Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+080,13.12.,16:45,EH TOUR,Schweden*,2:2,Russland,Euro Hockey Tour
+081,13.12.,17:30,EH TOUR,Finnland,3:3,Tschechien,Euro Hockey Tour
+082,13.12.,17:45,BB EL,Olympiakos P. GRE,88:81,Efes Istanbul TUR,Euroleague
+083,13.12.,18:00,BB EL,ZSKA Moskau RUS,88:74,Khimki Moskau RUS,Euroleague
+084,13.12.,18:30,ITA C1A,Lucchese Libertas,1:1,Pro Vercelli,"Italien Lega Pro Prima Divisione, Girone A"
+085,13.12.,18:55,EL,Stade Rennes FRA,2:0,FC Astana KAZ,UEFA Europa League
+086,13.12.,18:55,EL,Dynamo Kiev UKR,0:1,FK Jablonec CZE,UEFA Europa League
+087,13.12.,18:55,EL,PAOK Thessal. GRE,1:3,BATE Borisov BLR,UEFA Europa League
+088,13.12.,18:55,EL,Fehervar FC HUN,2:2,FC Chelsea ENG,UEFA Europa League
+089,13.12.,18:55,EL,Besiktas Ist. TUR,0:1,Malmö FF SWE,UEFA Europa League
+090,13.12.,18:55,EL,KRC Genk BEL,4:0,Sarpsborg 08 NOR,UEFA Europa League
+091,13.12.,18:55,EL,FC Sevilla ESP,3:0,FC Krasnodar RUS,UEFA Europa League
+092,13.12.,18:55,EL,Akhisarspor TUR,0:0,Stand. Lüttich BEL,UEFA Europa League
+093,13.12.,18:55,EL,Villarreal CF ESP,2:0,Spartak Moskau RUS,UEFA Europa League
+094,13.12.,18:55,EL,SK Rapid Wien AUT,1:0,Gl.Rangers SCO,UEFA Europa League
+095,13.12.,18:55,EL,SK Rapid Wien,1:1,Glasgow Rangers+1,UEFA Europa League
+096,13.12.,18:55,EL,SK Rapid Wien+1,2:0,Glasgow Rangers,UEFA Europa League
+097,13.12.,18:55,EL,Ol. Marseille FRA,1:3,Apollon L. CYP,UEFA Europa League
+098,13.12.,18:55,EL,Lazio Rom ITA,1:2,E. Frankfurt GER,UEFA Europa League
+099,13.12.,19:00,HB GER,Ludwigshafen,26:27,VfL Gummersbach,Deutsche Handball Bundesliga
+100,13.12.,19:00,HB GER,TVB Stuttgart,31:26,SG BBM Bietigheim,Deutsche Handball Bundesliga
+101,13.12.,19:30,EH GER,Nürnberg Ice Tiger,7:3,Bremerhaven P.,Deutschland Deutsche Eishockey Liga
+102,13.12.,19:30,BB EL,Fenerbahce TUR,92:85,O.Milano ITA,Euroleague
+103,13.12.,20:05,BB EL,M.Tel Aviv ISR,79:81,Baskonia G. ESP,Euroleague
+104,13.12.,20:15,EH FS,Schweiz,3:1,Österreich,"Freundschaftsspiele, Herren"
+105,13.12.,20:30,FRA 3,Stade Laval,1:0,FC Tours,Frankreich National
+106,13.12.,21:00,EL,Sporting Liss. POR,3:0,Vorskla Poltaw UKR,UEFA Europa League
+107,13.12.,21:00,EL,FC Arsenal ENG,1:0,Qarabag FK AZE,UEFA Europa League
+108,13.12.,21:00,EL,F91 Dudelange LUX,0:0,Betis Sevilla ESP,UEFA Europa League
+109,13.12.,21:00,EL,Olympiakos P. GRE,3:1,AC Milan ITA,UEFA Europa League
+110,13.12.,21:00,EL,FC Kopenhagen DEN,0:1,Bordeaux FRA,UEFA Europa League
+111,13.12.,21:00,EL,Slavia Prag CZE,2:0,Zenit St.Peter RUS,UEFA Europa League
+112,13.12.,21:00,EL,Spartak Trnava SVK,1:0,Fenerbahce TUR,UEFA Europa League
+113,13.12.,21:00,EL,Dinamo Zagreb CRO,0:0,RSC Anderlecht BEL,UEFA Europa League
+114,13.12.,21:00,EL,AEK Larnaca CYP,1:5,Leverkusen GER,UEFA Europa League
+115,13.12.,21:00,EL,Ludog. Razgrad BUL,1:1,FC Zürich SUI,UEFA Europa League
+116,13.12.,21:00,EL,RB Leipzig GER,1:1,Rosenborg BK NOR,UEFA Europa League
+117,13.12.,21:00,EL,Celtic Glasgow SCO,1:2,RB Salzburg AUT,UEFA Europa League
+118,13.12.,21:00,EL,Celtic Glasgow,1:3,RB Salzburg+1,UEFA Europa League
+119,13.12.,21:00,BB EL,Real Madrid BC ESP,92:65,FC Barcelona ESP,Euroleague
+120,14.12.,02:20,NFL,Kansas Chiefs,28:29,LA Chargers,USA NFL

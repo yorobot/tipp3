@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,12.11.,15:00,TEN ATP,"Federer, Roger",2:0,"Berrettini, Matteo",Tennis ATP
+002,12.11.,17:00,EH CL,Yunost Minsk BLR,2:3,EHC München GER,Champions Hockey League
+003,12.11.,17:30,KHL,AK Bars Kasan,3:0,Avangard Omsk,Kontinental Hockey League
+004,12.11.,17:30,KHL,Dynamo Moskau,3:6,Neftekhimik,Kontinental Hockey League
+005,12.11.,17:30,KHL,HK CSKA Moskau,2:2,Spartak Moskau,Kontinental Hockey League
+006,12.11.,17:55,EMQDA,Österreich Damen,9:3,Kasachstan Damen+3,"EM Qualifikation, Damen"
+007,12.11.,18:00,EH CL,Tappara Tamper FIN,3:3,EV Zug SUI,Champions Hockey League
+008,12.11.,18:00,EH CL,HC Pilsen CZE,1:2,HC Lausanne SUI,Champions Hockey League
+009,12.11.,18:00,EH CL,Färjestads BK SWE,6:3,Frölunda HC SWE,Champions Hockey League
+010,12.11.,18:00,EH CL,Skelleftea AIK SWE,3:3,Djurgardens IF SWE,Champions Hockey League
+011,12.11.,18:30,KHL,HK Dinamo Riga,1:1,Salavat Yulaev Ufa,Kontinental Hockey League
+012,12.11.,19:15,EH AUT,Fehervar,1:1,Villacher SV,Österreich Eishockey Liga
+013,12.11.,19:15,EH AUT,EC RB Salzburg,1:2,EC Dornbirn,Österreich Eishockey Liga
+014,12.11.,19:15,EH AUT,EC Graz 99ers,3:2,KAC Klagenfurt,Österreich Eishockey Liga
+015,12.11.,19:15,EH AUT,Black Wings Linz,3:3,HC Znojmo,Österreich Eishockey Liga
+016,12.11.,19:15,EH AUT,HC Bozen Foxes,4:1,HC Innsbruck,Österreich Eishockey Liga
+017,12.11.,19:30,EH CL,Augsburger P. GER,2:2,EHC Biel SUI,Champions Hockey League
+018,12.11.,19:45,EH CL,SC Bern SUI,0:3,Lulea Hockey SWE,Champions Hockey League
+019,12.11.,19:45,EH SUI,Fribourg Gotteron,1:1,HC Servette Genf,Schweiz National League A
+020,12.11.,19:45,EH SUI,Zürcher SC Lions,7:2,HC Lugano,Schweiz National League A
+021,12.11.,20:00,ENG LTR,FC Walsall,6:0,Forest Green,England Football League Trophy
+022,12.11.,20:30,ENG LTR,Bradford City FC,1:2,FC Rochdale,England Football League Trophy
+023,12.11.,20:30,ENG LTR,Colchester United,1:0,Ipswich Town,England Football League Trophy
+024,12.11.,20:30,ENG LTR,Peterborough Utd.,2:1,Cambridge United,England Football League Trophy
+025,12.11.,20:45,ENG LTR,Scunthorpe United,3:0,AFC Sunderland,England Football League Trophy
+026,12.11.,20:45,ENG LTR,Tranmere Rovers,0:2,Salford City,England Football League Trophy
+027,12.11.,20:45,ENG LTR,Burton Albion,1:2,Mansfield Town,England Football League Trophy
+028,12.11.,20:45,ENG LTR,FC Morecambe,3:1,Carlisle United,England Football League Trophy
+029,12.11.,20:45,ENG LTR,Lincoln City,3:0,Rotherham United,England Football League Trophy
+030,12.11.,20:45,ENG LTR,Crawley Town,1:4,Oxford United,England Football League Trophy
+031,12.11.,20:45,ENG LTR,Cheltenham Town,4:7,Newport County,England Football League Trophy
+032,12.11.,20:45,ENG LTR,MK Dons,1:2,Wycombe Wanderers,England Football League Trophy
+033,12.11.,20:45,ENG FA,Yeovil Town,1:4,Hartlepool United,England FA Cup
+034,12.11.,21:00,TEN ATP,"Djokovic, Novak",1:2,"Thiem, Dominic",Tennis ATP
+035,13.11.,12:00,RUS 2,FC Neftekhimik,1:1,FC Avangard Kursk,Russland 1. Division
+036,13.11.,12:30,KHL,HC Red Star Kunlun,2:3,Jokerit Helsinki,Kontinental Hockey League
+037,13.11.,15:00,KHL,Avtomobilist,5:1,HC Sochi,Kontinental Hockey League
+038,13.11.,16:30,RUS 2,Tekstilshchik,0:2,FC Tom Tomsk,Russland 1. Division
+039,13.11.,16:30,RUS 2,FC Chayka,3:1,Mordovia Saransk,Russland 1. Division
+040,13.11.,16:30,RUS 2,Shinnik Yaroslavl,3:1,Luch Wladivostok,Russland 1. Division
+041,13.11.,16:30,RUS 2,Fakel Worenesch,0:2,Energ. Khabarovsk,Russland 1. Division
+042,13.11.,16:30,RUS 2,FK Khimki,0:2,FC Rotor Wolgograd,Russland 1. Division
+043,13.11.,17:00,RUS 2,FC Chertanovo Mosk,3:1,FK Baltika,Russland 1. Division
+044,13.11.,17:30,RUS 2,FC Torpedo Moskau,0:2,FC Nizhny Novgorod,Russland 1. Division
+045,13.11.,17:30,EH FIN,JYP Jyväskylä,5:2,Lukko Rauma,Finnland SM-Liiga
+046,13.11.,17:30,EH FIN,KalPa Kuopio,3:3,Jukurit Mikkeli,Finnland SM-Liiga
+047,13.11.,17:30,EH FIN,Ilves Tampere,3:0,Vaasan Sport,Finnland SM-Liiga
+048,13.11.,17:30,EH FIN,Pelicans Lahti,1:1,Kookoo,Finnland SM-Liiga
+049,13.11.,17:30,EH CZE,PSG Berani Zlin,5:4,HC Kometa Brünn,Tschechische Republik Extraliga
+050,13.11.,17:30,KHL,HK Dinamo Minsk,4:3,HC Vityaz Podolsk,Kontinental Hockey League
+051,13.11.,18:00,EH CL,Mountfield HK CZE,1:0,Adler Mannheim GER,Champions Hockey League
+052,13.11.,18:30,EH CZE,Sparta Prag,6:2,HC Kladno,Tschechische Republik Extraliga
+053,13.11.,19:00,HB AUT,Alpla HC Hard,30:25,HC Linz AG,Österreich HLA
+054,13.11.,20:00,HB CL,FC Porto POR,29:30,THW Kiel GER,"Champions League, Herren"
+055,13.11.,20:30,ENG LTR,Shrewsbury Town,3:1,Macclesfield Town,England Football League Trophy
+056,13.11.,20:45,ENG LTR,Fleetwood Town,5:2,Oldham Athletic,England Football League Trophy
+057,13.11.,20:45,ENG LTR,Southend United,3:1,AFC Wimbledon,England Football League Trophy
+058,13.11.,20:45,ENG LTR,Bristol Rovers,1:0,Swindon Town,England Football League Trophy
+059,14.11.,01:30,BRA 1,CR Flamengo RJ,4:4,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+060,14.11.,13:00,WM Q,Usbekistan,2:3,Saudi Arabien,"WM Qualifikation, Asien"
+061,14.11.,13:45,WM Q,Malaysia,2:1,Thailand,"WM Qualifikation, Asien"
+062,14.11.,14:00,WM Q,Vietnam,1:0,Ver. Arab. Emirate,"WM Qualifikation, Asien"
+063,14.11.,14:00,WM Q,Libanon,0:0,Südkorea,"WM Qualifikation, Asien"
+064,14.11.,15:00,WM Q,Syrien*,2:1,China,"WM Qualifikation, Asien"
+065,14.11.,15:00,WM Q,Irak*,2:1,Iran,"WM Qualifikation, Asien"
+066,14.11.,15:00,TEN ATP,"Thiem, Dominic",0:2,"Berrettini, Matteo",Tennis ATP
+067,14.11.,21:00,TEN ATP,"Djokovic, Novak",0:2,"Federer, Roger",Tennis ATP
+068,14.11.,17:00,WM Q,Jordanien,0:1,Australien,"WM Qualifikation, Asien"
+069,14.11.,17:00,KHL,Torp. Nowgorod,6:2,Sibir Nowosibirsk,Kontinental Hockey League
+070,14.11.,17:00,KHL,Lok. Jaroslawl,6:3,Neftekhimik,Kontinental Hockey League
+071,14.11.,17:00,KHL,Sev. Cherepovets,1:5,Avangard Omsk,Kontinental Hockey League
+072,14.11.,17:00,KHL,AK Bars Kasan,4:1,Traktor Chelyab.,Kontinental Hockey League
+073,14.11.,17:30,KHL,Dynamo Moskau,2:2,HC Barys,Kontinental Hockey League
+074,14.11.,17:30,KHL,HK CSKA Moskau,2:5,Salavat Yulaev Ufa,Kontinental Hockey League
+075,14.11.,18:00,EM Q,Türkei,0:0,Island,Europameisterschaft Qualifikation
+076,14.11.,18:00,EM Q,Türkei,0:1,Island+1,Europameisterschaft Qualifikation
+077,14.11.,18:00,INT FS,Ukraine,1:0,Estland,Internationale Freundschaftsspiele
+078,14.11.,18:00,INT FS,Bulgarien,0:1,Paraguay,Internationale Freundschaftsspiele
+079,14.11.,18:30,U21 EMQ,Israel U21,0:0,Montenegro U21,U21 EM Qualifikation
+080,14.11.,19:00,U21 EMQ,Rumänien U21,4:1,Finnland U21,U21 EM Qualifikation
+081,14.11.,19:00,EH SWE,HV 71,5:0,Rögle BK,Schweden Elitserien
+082,14.11.,19:00,EH SWE,Frölunda HC,4:1,HC Örebro,Schweden Elitserien
+083,14.11.,19:00,EH SWE,Skelleftea AIK,1:4,Växjö Lakers,Schweden Elitserien
+084,14.11.,19:00,EH SWE,Färjestads BK,2:1,Brynas IF,Schweden Elitserien
+085,14.11.,19:00,EH SWE,Linköpings HC,4:1,Leksands IF,Schweden Elitserien
+086,14.11.,19:00,EH SWE,Malmö IF,4:1,IK Oskarshamn,Schweden Elitserien
+087,14.11.,19:00,EH SWE,Djurgardens IF,1:3,Lulea Hockey,Schweden Elitserien
+088,14.11.,19:00,HB GER,SC DHfK Leipzig,28:29,Rhein-Neckar L.,Deutsche Handball Bundesliga
+089,14.11.,19:30,EH GER,EHC Wolfsburg,4:1,DEG Metro Stars,Deutschland Deutsche Eishockey Liga
+090,14.11.,20:00,BB EL,Panathinaikos GRE,88:88,Alba Berlin GER,Euroleague
+091,14.11.,20:00,AFR CQ,Mali,2:2,Guinea,"Africa Cup, Qualifikation"
+092,14.11.,20:00,AFR CQ,Ghana,2:0,Südafrika,"Africa Cup, Qualifikation"
+093,14.11.,20:45,EM Q,England,7:0,Montenegro,Europameisterschaft Qualifikation
+094,14.11.,20:45,EM Q,England,7:2,Montenegro+2,Europameisterschaft Qualifikation
+095,14.11.,20:45,EM Q,Tschechien,2:1,Kosovo,Europameisterschaft Qualifikation
+096,14.11.,20:45,EM Q,Serbien,3:2,Luxemburg,Europameisterschaft Qualifikation
+097,14.11.,20:45,EM Q,Serbien,3:4,Luxemburg+2,Europameisterschaft Qualifikation
+098,14.11.,20:45,EM Q,Portugal,6:3,Litauen+3,Europameisterschaft Qualifikation
+099,14.11.,20:45,EM Q,Frankreich,2:4,Moldawien+3,Europameisterschaft Qualifikation
+100,14.11.,20:45,EM Q,Albanien,2:4,Andorra+2,Europameisterschaft Qualifikation
+101,14.11.,20:45,INT FS,Irland,3:1,Neuseeland,Internationale Freundschaftsspiele
+102,14.11.,21:00,ARG CUP,CA Central Cordob*,1:0,Atletico Lanus,Argentinien Cup
+103,14.11.,21:00,BB EL,Real Madrid BC ESP,86:76,FC Barcelona ESP,Euroleague
+104,15.11.,02:20,NFL,Cleveland Browns,21:7,Pittsbgh. Steelers,USA NFL
+105,15.11.,18:00,EM Q,Armenien,0:1,Griechenland,Europameisterschaft Qualifikation
+106,15.11.,20:45,EM Q,Rumänien,0:2,Schweden,Europameisterschaft Qualifikation
+107,15.11.,20:45,EM Q,Bosnien-Herzegow.,0:3,Italien,Europameisterschaft Qualifikation
+108,16.11.,15:00,EM Q,Zypern,1:2,Schottland,Europameisterschaft Qualifikation
+109,16.11.,18:00,EM Q,Russland,1:4,Belgien,Europameisterschaft Qualifikation
+110,16.11.,20:45,EM Q,Nordirland,0:0,Niederlande,Europameisterschaft Qualifikation
+111,16.11.,20:45,EM Q,Kroatien,3:1,Slowakei,Europameisterschaft Qualifikation
+112,16.11.,20:45,EM Q,Israel,1:2,Polen,Europameisterschaft Qualifikation
+113,16.11.,20:45,EM Q,Österreich,2:1,Nordmazedonien,Europameisterschaft Qualifikation
+114,16.11.,20:45,EM Q,Österreich,2:2,Nordmazedonien+1,Europameisterschaft Qualifikation
+115,17.11.,15:00,EM Q,Serbien,2:2,Ukraine,Europameisterschaft Qualifikation
+116,17.11.,18:00,EM Q,Bulgarien,1:0,Tschechien,Europameisterschaft Qualifikation
+117,17.11.,18:00,EM Q,Kosovo,0:4,England,Europameisterschaft Qualifikation
+118,18.11.,20:45,EM Q,Irland,1:1,Dänemark,Europameisterschaft Qualifikation
+119,19.11.,20:45,EM Q,Polen,3:2,Slowenien,Europameisterschaft Qualifikation
+120,19.11.,20:45,EM Q,Lettland,1:0,Österreich,Europameisterschaft Qualifikation

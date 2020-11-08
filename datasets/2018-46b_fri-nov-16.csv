@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,16.11.,11:30,INT FS,Japan,1:1,Venezuela,Internationale Freundschaftsspiele
+002,16.11.,15:00,SVK CUP,Sport Podbrezova,0:2,FC Spartak Trnava,Slowakei Cup
+003,16.11.,15:25,INT FS,Ver. Arab. Emirate,0:0,Bolivien,Internationale Freundschaftsspiele
+004,16.11.,17:00,AFR CQ,Ägypten,3:2,Tunesien,"Africa Cup, Qualifikation"
+005,16.11.,17:00,CZE CUP,FK Dukla Prag,1:3,FK Teplice,Tschechien Cup
+006,16.11.,17:00,U21 EMQ,Griechenland U21,0:1,Österreich U21,U21 EM Qualifikation
+007,16.11.,18:00,U21 EMQ,Polen U21,0:1,Portugal U21,U21 EM Qualifikation
+008,16.11.,19:00,AUT RLO,Admira Amateure,4:2,SC Team Wr. Linien,Österreich Regionalliga Ost
+009,16.11.,19:00,AUT RLO,St. Pölten Amat.,0:2,SV Schwechat,Österreich Regionalliga Ost
+010,16.11.,19:00,AUT RLO,SV Mattersburg Am.,0:1,SV Leobendorf,Österreich Regionalliga Ost
+011,16.11.,19:00,HB AUT,SG Westwien,24:24,Handball Tirol,Österreich HLA
+012,16.11.,19:15,EH AUT,Black Wings Linz,4:2,EC RB Salzburg,Österreich Eishockey Liga
+013,16.11.,19:15,EH AUT,EC Graz 99ers,0:0,HC Bozen Foxes,Österreich Eishockey Liga
+014,16.11.,19:15,EH AUT,HC Innsbruck,1:3,KAC Klagenfurt,Österreich Eishockey Liga
+015,16.11.,19:15,EH AUT,Villacher SV,2:1,Vienna Capitals,Österreich Eishockey Liga
+016,16.11.,19:30,AUT RLO,ASK Ebreichsdorf,4:1,Marchfeld Donauaue,Österreich Regionalliga Ost
+017,16.11.,19:30,AUT RLO,FC Mauerwerk,1:0,FCM Traiskirchen,Österreich Regionalliga Ost
+018,16.11.,19:30,AUT RLO,Wiener Sport-Club,2:0,Bruck/Leitha,Österreich Regionalliga Ost
+019,16.11.,20:00,AFR CQ,Marokko,2:0,Kamerun,"Africa Cup, Qualifikation"
+020,16.11.,20:00,FS U21,Deutschland U21,3:0,Niederlande U21,U21 Freundschaftsspiele
+021,16.11.,20:30,BEL 2,OH Leuven,1:2,Saint-Gilloise,Belgium Tweede Klasse
+022,16.11.,20:45,UEFA NL,Slowakei,4:1,Ukraine,UEFA Nations League
+023,16.11.,20:45,UEFA NL,Wales,1:2,Dänemark,UEFA Nations League
+024,16.11.,20:45,UEFA NL,Zypern,1:1,Bulgarien,UEFA Nations League
+025,16.11.,20:45,UEFA NL,Slowenien,1:1,Norwegen,UEFA Nations League
+026,16.11.,20:45,UEFA NL,Gibraltar,2:6,Armenien,UEFA Nations League
+027,16.11.,20:45,UEFA NL,Liechtenstein,0:2,Nordmazedonien,UEFA Nations League
+028,16.11.,20:45,UEFA NL,Niederlande,2:0,Frankreich,UEFA Nations League
+029,16.11.,21:00,INT FS,Brasilien*,1:0,Uruguay,Internationale Freundschaftsspiele
+030,16.11.,21:00,ESP 2,Las Palmas UD,2:2,Granada CF,Spanien Segunda Division
+031,17.11.,01:00,INT FS,Argentinien,2:0,Mexiko,Internationale Freundschaftsspiele
+032,17.11.,01:15,INT FS,Chile,2:3,Costa Rica,Internationale Freundschaftsspiele
+033,17.11.,03:00,INT FS,Honduras,1:0,Panama,Internationale Freundschaftsspiele
+034,17.11.,09:50,INT FS,Australien,1:1,Südkorea,Internationale Freundschaftsspiele
+035,17.11.,13:00,ENG 1,Fleetwood Town,0:0,FC Walsall,England League One
+036,17.11.,14:00,AFR CQ,Südafrika,1:1,Nigeria,"Africa Cup, Qualifikation"
+037,17.11.,14:00,AUT RLO,FC Stadlau,4:0,SC Neusiedl,Österreich Regionalliga Ost
+038,17.11.,15:00,AUT RLO,SC Parndorf,1:2,SK Rapid Wien II,Österreich Regionalliga Ost
+039,17.11.,15:00,UEFA NL,Serbien,2:1,Montenegro,UEFA Nations League
+040,17.11.,16:00,AFR CQ,Äquatorialguinea,0:1,Senegal,"Africa Cup, Qualifikation"
+041,17.11.,16:00,ENG 1,Accrington Stanley,0:2,FC Barnsley,England League One
+042,17.11.,16:00,ENG 1,Bristol Rovers,1:2,Scunthorpe United,England League One
+043,17.11.,16:00,ENG 1,Burton Albion,1:0,Coventry City,England League One
+044,17.11.,16:00,ENG 1,Doncaster Rovers,2:1,AFC Wimbledon,England League One
+045,17.11.,16:00,ENG 1,Luton Town,5:1,Plymouth Argyle,England League One
+046,17.11.,16:00,ENG 1,Oxford United,1:0,FC Gillingham,England League One
+047,17.11.,16:00,ENG 1,Peterborough Utd.,1:1,Bradford City FC,England League One
+048,17.11.,16:00,ENG 1,Shrewsbury Town,3:2,FC Rochdale,England League One
+049,17.11.,16:00,ENG 1,Southend United,1:2,FC Blackpool,England League One
+050,17.11.,16:00,ENG 1,AFC Sunderland,1:1,Wycombe Wanderers,England League One
+051,17.11.,16:00,ESP 2,Malaga CF,2:0,Gimn. Tarragona,Spanien Segunda Division
+052,17.11.,17:30,EH AUT,Fehervar,3:2,EC Dornbirn,Österreich Eishockey Liga
+053,17.11.,18:00,UEFA NL,Türkei,0:1,Schweden,UEFA Nations League
+054,17.11.,18:00,UEFA NL,Aserbaidschan,2:0,Färöer Inseln,UEFA Nations League
+055,17.11.,18:00,UEFA NL,Malta,0:5,Kosovo,UEFA Nations League
+056,17.11.,18:00,ESP 2,CA Osasuna,2:0,Teneriffa CD,Spanien Segunda Division
+057,17.11.,18:00,ESP 2,CF Reus Deportiu,1:4,UD Extremadura,Spanien Segunda Division
+058,17.11.,19:00,BB AUT,Kapfenberg Bulls,86:65,UBSC Graz,Österreich Basketball Superliga
+059,17.11.,19:00,BB AUT,Flyers Wels,85:101,Vienna Timberw.,Österreich Basketball Superliga
+060,17.11.,19:00,HB AUT,Union Leoben,21:28,UHK Krems,Österreich HLA
+061,17.11.,19:00,HB AUT,HC Linz AG,28:29,SC Ferlach,Österreich HLA
+062,17.11.,19:30,HB AUT,Fivers Margareten,28:29,HSG Graz,Österreich HLA
+063,17.11.,20:30,ESP 2,Real Saragossa,2:2,RCD Mallorca,Spanien Segunda Division
+064,17.11.,20:45,ESP 2,Real Oviedo,2:1,Sporting Gijon,Spanien Segunda Division
+065,17.11.,20:45,UEFA NL,Albanien,0:4,Schottland,UEFA Nations League
+066,17.11.,20:45,UEFA NL,Rumänien,3:0,Litauen,UEFA Nations League
+067,17.11.,20:45,UEFA NL,Italien,0:0,Portugal,UEFA Nations League
+068,17.11.,21:10,ARG 1,Boca Juniors,1:0,Patronato Parana,Argentinien Primera Division
+069,17.11.,22:00,BRA 1,Corinthians SP,1:0,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+070,17.11.,22:00,BRA 1,EC Vitoria BA,1:2,Atletico PR,Brasilien Brasilero Serie A
+071,18.11.,00:00,BRA 1,Atletico MG,1:0,EC Bahia BA,Brasilien Brasilero Serie A
+072,18.11.,10:15,HE-SL,"Hirscher, Marcel",Hirsche,Kristoffersen H.,"Ski Alpin, Herren Slalom"
+073,18.11.,12:00,ESP 2,Numancia CD,1:2,R. Majadahonda,Spanien Segunda Division
+074,18.11.,15:00,UEFA NL,England,2:1,Kroatien,UEFA Nations League
+075,18.11.,15:00,ITA B,Spezia Calcio,3:1,Benevento Calcio,Italien Serie B
+076,18.11.,16:00,ESP 2,Cordoba CF,1:3,Cadiz CF,Spanien Segunda Division
+077,18.11.,16:00,EH AUT,EC Graz 99ers,2:2,EC RB Salzburg,Österreich Eishockey Liga
+078,18.11.,17:00,BB AUT,Swans Gmunden,109:67,Oberwart Gunners,Österreich Basketball Superliga
+079,18.11.,17:00,EH AUT,HC Bozen Foxes,5:8,HC Innsbruck,Österreich Eishockey Liga
+080,18.11.,17:30,EH AUT,Vienna Capitals,3:3,EC Dornbirn,Österreich Eishockey Liga
+081,18.11.,17:30,EH AUT,KAC Klagenfurt,5:2,Villacher SV,Österreich Eishockey Liga
+082,18.11.,17:30,EH AUT,HC Znojmo,3:1,Black Wings Linz,Österreich Eishockey Liga
+083,18.11.,18:00,AFR CQ,Guinea,1:1,Elfenbeinküste,"Africa Cup, Qualifikation"
+084,18.11.,18:00,UEFA NL,Nordirland,1:2,Österreich,UEFA Nations League
+085,18.11.,18:00,UEFA NL,Nordirland+1,2:2,Österreich,UEFA Nations League
+086,18.11.,18:00,UEFA NL,Moldawien,1:1,Luxemburg,UEFA Nations League
+087,18.11.,18:00,UEFA NL,San Marino,0:2,Weißrussland,UEFA Nations League
+088,18.11.,18:00,ESP 2,Albacete Balompie,1:0,CD Lugo,Spanien Segunda Division
+089,18.11.,18:00,ESP 2,Alcorcon AD,1:0,Elche CF,Spanien Segunda Division
+090,18.11.,18:00,BB AUT,BC Vienna,81:93,Klosterneuburg,Österreich Basketball Superliga
+091,18.11.,20:00,BRA 1,Botafogo FR RJ,1:0,Internacional RS,Brasilien Brasilero Serie A
+092,18.11.,20:00,BRA 1,Parana Clube PR,1:1,SE Palmeiras SP,Brasilien Brasilero Serie A
+093,18.11.,20:00,BRA 1,Sport Recife PE,0:1,CR Flamengo RJ,Brasilien Brasilero Serie A
+094,18.11.,20:00,BRA 1,America Mineiro MG,2:1,Santos SP,Brasilien Brasilero Serie A
+095,18.11.,20:45,UEFA NL,Ungarn,2:0,Finnland,UEFA Nations League
+096,18.11.,20:45,UEFA NL,Griechenland,0:1,Estland,UEFA Nations League
+097,18.11.,20:45,UEFA NL,Schweiz,5:2,Belgien,UEFA Nations League
+098,18.11.,20:45,INT FS,Spanien,1:0,Bosnien-Herzegow.,Internationale Freundschaftsspiele
+099,18.11.,22:00,BRA 1,Sao Paulo SP,1:0,Cruzeiro EC MG,Brasilien Brasilero Serie A
+100,18.11.,22:00,BRA 1,Gremio RS,2:0,Chapecoense SC,Brasilien Brasilero Serie A
+101,18.11.,22:25,NFL,N. Orleans Saints,48:7,Philadelph. Eagles,USA NFL
+102,19.11.,02:20,NFL,Chicago Bears,25:20,Minnesota Vikings,USA NFL
+103,19.11.,18:00,UEFA NL,Andorra,0:0,Lettland,UEFA Nations League
+104,19.11.,18:00,UEFA NL,Georgien,2:1,Kasachstan,UEFA Nations League
+105,19.11.,18:00,FS U20,Tschechien U20,2:1,Schweiz U20,U20 Freundschaftsspiele
+106,19.11.,18:30,FS U21,Italien U21,1:2,Deutschland U21,U21 Freundschaftsspiele
+107,19.11.,19:30,INT FS,Island*,2:2,Katar,Internationale Freundschaftsspiele
+108,19.11.,20:45,UEFA NL,Tschechien,1:0,Slowakei,UEFA Nations League
+109,19.11.,20:45,UEFA NL,Dänemark,0:0,Irland,UEFA Nations League
+110,19.11.,20:45,UEFA NL,Bulgarien,1:1,Slowenien,UEFA Nations League
+111,19.11.,20:45,UEFA NL,Zypern,0:2,Norwegen,UEFA Nations League
+112,19.11.,20:45,UEFA NL,Nordmazedonien,4:0,Gibraltar,UEFA Nations League
+113,19.11.,20:45,UEFA NL,Liechtenstein,2:2,Armenien,UEFA Nations League
+114,19.11.,20:45,UEFA NL,Deutschland,2:2,Niederlande,UEFA Nations League
+115,19.11.,20:45,UEFA NL,Deutschland,2:3,Niederlande+1,UEFA Nations League
+116,19.11.,20:45,ITA C1A,AC Arezzo,2:2,Carrarese Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+117,19.11.,20:00,FS U20,England U20,2:0,Deutschland U20,U20 Freundschaftsspiele
+118,19.11.,21:00,ESP 2,UD Almeria,1:1,Dep. La Coruna,Spanien Segunda Division
+119,19.11.,23:00,BRA 1,Fluminense RJ,0:0,Ceara SC CE,Brasilien Brasilero Serie A
+120,20.11.,02:15,NFL,Los Angeles Rams,54:51,Kansas Chiefs,USA NFL

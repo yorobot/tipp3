@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,02.04.,17:00,CZE CUP,FK Teplice,1:1,Sparta Prag,Tschechien Cup
+002,02.04.,17:30,BUL CUP,Et. Veliko Tarnovo,1:1,Lokomotiv Plovdiv,Bulgarien Cup
+003,02.04.,18:00,POL 1,Cracovia Krakau,2:1,Korona Kielce,Polen Orange Ekstraklasa
+004,02.04.,18:00,POL 1,Slask Wroclaw,0:0,Miedz Legnica,Polen Orange Ekstraklasa
+005,02.04.,18:30,GER CUP,SC Paderborn,0:2,Hamburger SV,Deutschland DFB Pokal
+006,02.04.,18:30,NL 1,Vitesse Arnheim,2:2,AZ Alkmaar,Niederlande Eredivisie
+007,02.04.,19:00,ITA A,AC Milan,1:1,Udinese Calcio,Italien Serie A
+008,02.04.,19:00,TUR CUP,Galatasaray,0:0,Yeni Malatyaspor,Türkei Türkiye Kupasi
+009,02.04.,19:00,AUT RLO,SK Rapid Wien II,2:0,SV Schwechat,Österreich Regionalliga Ost
+010,02.04.,19:00,AUT RLM,WAC Amateure,5:2,FC Gleisdorf,Österreich Regionalliga Mitte
+011,02.04.,19:10,AUT 2,SK Vorwärts Steyr,1:1,Kapfenberger SV,Österreich Zweite Liga
+012,02.04.,19:15,EH AUT,EC Graz 99ers,0:3,KAC Klagenfurt,Österreich Eishockey Liga
+013,02.04.,19:15,EH AUT,Vienna Capitals,3:3,EC RB Salzburg,Österreich Eishockey Liga
+014,02.04.,19:30,ESP 1,Atletico Madrid,2:0,FC Girona,Spanien Primera Division
+015,02.04.,19:30,EH GER,Adler Mannheim,1:0,Kölner Haie,Deutschland Deutsche Eishockey Liga
+016,02.04.,19:45,NL 1,Heracles Almelo,3:4,Willem II Tilburg,Niederlande Eredivisie
+017,02.04.,20:00,EH SUI,EHC Biel Bienne,2:5,SC Bern,Schweiz National League A
+018,02.04.,20:05,SCO CS,Inverness CT,1:2,FC Ross County,Schottland Championship
+019,02.04.,20:30,ESP 1,Espanyol Barcelona,1:1,Getafe CF,Spanien Primera Division
+020,02.04.,20:30,BEL 1,FC Royal Antwerpen,1:0,KRC Genk,Belgien Jupiler Pro League
+021,02.04.,20:30,BEL 1,RE Mouscron,0:2,Saint-Gilloise,Belgien Jupiler Pro League
+022,02.04.,20:30,BEL 1,Waasland-Beveren,2:3,KV Kortrijk,Belgien Jupiler Pro League
+023,02.04.,20:30,BEL 1,Cercle Brügge KSV,3:3,SV Zulte Waregem,Belgien Jupiler Pro League
+024,02.04.,20:30,POL 1,Zaglebie Lubin,1:1,Gornik Zabrze,Polen Orange Ekstraklasa
+025,02.04.,20:30,POL 1,Arka Gdynia 1929,0:0,KS Lechia Gdansk,Polen Orange Ekstraklasa
+026,02.04.,20:45,GER CUP,FC Augsburg,1:1,RB Leipzig,Deutschland DFB Pokal
+027,02.04.,20:45,GER CUP,FC Augsburg+1,2:1,RB Leipzig,Deutschland DFB Pokal
+028,02.04.,20:45,ENG PL,Wolverhampton,2:1,Manchester United,England Premier League
+029,02.04.,20:45,ENG PL,FC Watford,4:1,FC Fulham,England Premier League
+030,02.04.,20:45,ENG CS,FC Middlesbrough,0:1,Bristol City,England Championship
+031,02.04.,20:45,ENG CS,Swansea City,3:0,FC Brentford,England Championship
+032,02.04.,20:45,NL 1,FC Groningen,1:0,De Graafschap,Niederlande Eredivisie
+033,02.04.,20:45,SCO CS,Ayr United,1:1,Greenock Morton,Schottland Championship
+034,02.04.,20:45,SCO CS,Queen of South,1:1,FC Falkirk,Schottland Championship
+035,02.04.,21:00,ITA A,Cagliari Calcio,0:2,Juventus Turin,Italien Serie A
+036,02.04.,21:00,ITA B,Hellas Verona,2:2,Brescia Calcio,Italien Serie B
+037,02.04.,21:00,ITA B,Spezia Calcio,2:1,Salernitana Calcio,Italien Serie B
+038,02.04.,20:00,EH SUI,HC Lausanne,0:2,EV Zug,Schweiz National League A
+039,02.04.,21:10,FRA CUP,Olympique Lyon,2:3,Stade Rennes,Frankreich Coupe de France
+040,02.04.,21:15,POR CUP,Sporting Braga,1:1,FC Porto,Portugal Taca de Portugal
+041,02.04.,21:30,ESP 1,Villarreal CF,4:4,FC Barcelona,Spanien Primera Division
+042,03.04.,17:00,EH CZE,HC Liberec,3:3,HC Kometa Brünn,Tschechische Republik Extraliga
+043,03.04.,17:30,BUL CUP,Ludogorets,0:1,ZSKA Sofia,Bulgarien Cup
+044,03.04.,18:00,POL 1,Piast Gliwice,1:0,Wisla Plock,Polen Orange Ekstraklasa
+045,03.04.,18:00,POL 1,Lech Posen,3:2,Pogon Szczecin,Polen Orange Ekstraklasa
+046,03.04.,18:00,AUT CUP,Grazer AK,0:6,RB Salzburg,Österreich ÖFB Cup
+047,03.04.,18:00,AUT CUP,Grazer AK+1,1:6,RB Salzburg,Österreich ÖFB Cup
+048,03.04.,18:00,AUT CUP,Grazer AK+2,2:6,RB Salzburg,Österreich ÖFB Cup
+049,03.04.,18:30,GER CUP,FC Bayern München,5:4,FC Heidenheim,Deutschland DFB Pokal
+050,03.04.,18:30,GER CUP,FC Bayern München,5:6,FC Heidenheim+2,Deutschland DFB Pokal
+051,03.04.,18:30,RUS CUP,Lok Moskau,2:2,FC Rostov,Russland Russian Cup
+052,03.04.,18:30,NL 1,VVV Venlo,2:6,FC Utrecht,Niederlande Eredivisie
+053,03.04.,18:30,KHL,SKA St. Petersburg,3:1,HK CSKA Moskau,Kontinental Hockey League
+054,03.04.,19:00,ITA A,FC Empoli,2:1,SSC Napoli,Italien Serie A
+055,03.04.,19:00,ITA B,US Lecce,3:1,Cosenza Calcio,Italien Serie B
+056,03.04.,19:00,FRA 1,HSC Montpellier,2:0,EA Guingamp,Frankreich Ligue 1
+057,03.04.,19:00,FRA 1,Racing Strasbourg,4:0,Stade de Reims,Frankreich Ligue 1
+058,03.04.,19:00,CRO 1,HNK Hajduk Split,0:1,NK Dinamo Zagreb,Kroatien 1. HNL
+059,03.04.,19:00,EH CZE,HC Trinec,1:4,HC Pilsen,Tschechische Republik Extraliga
+060,03.04.,19:30,AUT RLW,FC Kitzbühel,2:0,SC Schwaz,Österreich Regionalliga West
+061,03.04.,19:30,ESP 1,Athletic Bilbao,3:2,Levante UD,Spanien Primera Division
+062,03.04.,19:30,DEN CUP,FC Midtjylland,4:0,Odense BK,Dänemark Landspokalturneringen
+063,03.04.,19:30,EH GER,EHC München,1:1,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+064,03.04.,17:30,EH FIN,Kärpät Oulu,2:2,HIFK Helsinki,Finnland SM-Liiga
+065,03.04.,19:45,NL 1,Excel. Rotterdam,1:2,NAC Breda,Niederlande Eredivisie
+066,03.04.,19:45,NL 1,Fortuna Sittard,0:0,ADO Den Haag,Niederlande Eredivisie
+067,03.04.,20:00,SUI SL,FC Lugano,0:0,Xamax Neuchatel,Schweiz Axpo Super League
+068,03.04.,20:00,SUI SL,FC St. Gallen,0:0,Grasshoppers,Schweiz Axpo Super League
+069,03.04.,20:00,SUI SL,FC Zürich,0:2,FC Basel,Schweiz Axpo Super League
+070,03.04.,19:00,ROU CUP,FC CFR 1907 Cluj,1:3,AFC Astra Giurgiu,Rumänien Cup
+071,03.04.,20:30,AUT CUP,LASK Linz,1:1,SK Rapid Wien,Österreich ÖFB Cup
+072,03.04.,20:30,AUT CUP,LASK Linz,1:2,SK Rapid Wien+1,Österreich ÖFB Cup
+073,03.04.,20:30,ESP 1,SD Eibar,2:1,Rayo Vallecano,Spanien Primera Division
+074,03.04.,20:30,ESP 1,SD Huesca,3:3,Celta de Vigo,Spanien Primera Division
+075,03.04.,20:30,BEL 1,KAA Gent,1:2,Standard Lüttich,Belgien Jupiler Pro League
+076,03.04.,20:30,POL 1,Legia Warschau,3:0,Jagiellonia Bial.,Polen Orange Ekstraklasa
+077,03.04.,20:45,GER CUP,FC Schalke 04,0:2,Werder Bremen,Deutschland DFB Pokal
+078,03.04.,20:45,GER CUP,FC Schalke 04,0:3,W. Bremen+1,Deutschland DFB Pokal
+079,03.04.,20:45,ENG PL,Manchester City,2:0,Cardiff City,England Premier League
+080,03.04.,20:45,ENG PL,Tottenham,2:0,Crystal Palace,England Premier League
+081,03.04.,20:45,ENG PL,FC Chelsea,3:0,Brighton & Hove,England Premier League
+082,03.04.,20:45,ENG 1,Accrington Stanley,0:3,AFC Sunderland,England League One
+083,03.04.,20:45,SCO PS,FC Aberdeen,3:1,FC Motherwell,Schottland Premiership
+084,03.04.,20:45,SCO PS,Hibernian FC,0:0,FC Kilmarnock,Schottland Premiership
+085,03.04.,20:45,SCO PS,FC Livingston,2:0,Hamilton FC,Schottland Premiership
+086,03.04.,20:45,SCO PS,Glasgow Rangers,3:0,Heart of Midl.,Schottland Premiership
+087,03.04.,20:45,SCO PS,FC St. Johnstone,2:0,FC Dundee,Schottland Premiership
+088,03.04.,20:45,SCO PS,FC St. Mirren,0:2,Celtic Glasgow,Schottland Premiership
+089,03.04.,21:00,ITA A,AS Roma,2:2,AC Fiorentina,Italien Serie A
+090,03.04.,21:00,ITA A,FC Genua,0:4,Inter Mailand,Italien Serie A
+091,03.04.,21:00,ITA A,Spal Ferrara,1:0,Lazio Rom,Italien Serie A
+092,03.04.,21:00,ITA A,Frosinone Calcio,3:2,FC Parma,Italien Serie A
+093,03.04.,21:00,ITA A,FC Torino,2:1,Sampdoria Genua,Italien Serie A
+094,03.04.,21:00,ITA B,Pescara Calcio,3:2,US Palermo,Italien Serie B
+095,03.04.,21:00,FRA CUP,Paris SG,3:0,FC Nantes,Frankreich Coupe de France
+096,03.04.,21:30,ESP 1,FC Valencia,2:1,Real Madrid,Spanien Primera Division
+097,03.04.,21:45,POR CUP,Sporting Lissabon,1:0,Benfica Lissabon,Portugal Taca de Portugal
+098,04.04.,16:00,KHL,Salavat Yulaev Ufa,2:4,Avangard Omsk,Kontinental Hockey League
+099,04.04.,18:00,CRO 1,NK Rudes,1:0,NK Istra 1961,Kroatien 1. HNL
+100,04.04.,18:30,NL 1,PSV Eindhoven,4:0,FC Zwolle,Niederlande Eredivisie
+101,04.04.,19:00,GER 2,Greuther Fürth,0:0,Dynamo Dresden,Deutschland 2. Bundesliga
+102,04.04.,19:00,ITA A,US Sassuolo,4:0,AC Chievo Verona,Italien Serie A
+103,04.04.,19:00,ROU CUP,CS Uni Craiova,1:2,Viitorul Constanta,Rumänien Cup
+104,04.04.,19:00,BB AUT,Kapfenberg Bulls,88:63,Flyers Wels,Österreich Basketball Superliga
+105,04.04.,19:00,BB AUT,UBSC Graz,83:102,Swans Gmunden,Österreich Basketball Superliga
+106,04.04.,19:00,BB AUT,Oberwart Gunners,88:80,Klosterneuburg,Österreich Basketball Superliga
+107,04.04.,19:30,ESP 1,FC Sevilla,2:0,CD Alaves,Spanien Primera Division
+108,04.04.,19:30,DEN CUP,Bröndby IF,1:0,Aalborg BK,Dänemark Landspokalturneringen
+109,04.04.,17:30,EH FIN,Tappara Tampere,1:0,HPK Hämeenlinna,Finnland SM-Liiga
+110,04.04.,20:00,SUI SL,FC Luzern,abgesagt,Young Boys Bern,Schweiz Axpo Super League
+111,04.04.,20:00,SUI SL,FC Thun,1:2,FC Sion,Schweiz Axpo Super League
+112,04.04.,20:00,SLO CUP,NK Aluminij,1:2,Olimpija Ljubljana,Slowenien Cup
+113,04.04.,20:00,EH SUI,SC Bern,0:2,EHC Biel Bienne,Schweiz National League A
+114,04.04.,20:00,EH SUI,EV Zug,5:2,HC Lausanne,Schweiz National League A
+115,04.04.,20:30,ESP 1,CD Leganes,1:0,Real Valladolid,Spanien Primera Division
+116,04.04.,20:30,BEL 1,RSC Anderlecht,2:3,Club Brügge,Belgien Jupiler Pro League
+117,04.04.,20:45,NL 1,Feyenoord,3:0,SC Heerenveen,Niederlande Eredivisie
+118,04.04.,21:00,ITA A,Atalanta Bergamo,4:1,Bologna FC,Italien Serie A
+119,04.04.,21:00,INT FSD,Frankreich Damen,3:1,Japan Damen,"Internationale Freundschaftsspiele, Damen"
+120,04.04.,21:30,ESP 1,Real Sociedad,2:1,Betis Sevilla,Spanien Primera Division

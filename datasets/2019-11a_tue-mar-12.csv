@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,12.03.,17:30,EH FIN,Kookoo,4:4,JYP Jyväskylä,Finnland SM-Liiga
+002,12.03.,17:30,EH FIN,Kärpät Oulu,3:2,Pelicans Lahti,Finnland SM-Liiga
+003,12.03.,17:30,EH FIN,Lukko Rauma,1:6,Jukurit Mikkeli,Finnland SM-Liiga
+004,12.03.,17:30,EH FIN,SaiPa Lappeenr.,2:5,KalPa Kuopio,Finnland SM-Liiga
+005,12.03.,17:30,EH FIN,Vaasan Sport,4:1,HC TPS Turku,Finnland SM-Liiga
+006,12.03.,17:30,EH FIN,Tappara Tampere,4:2,HIFK Helsinki,Finnland SM-Liiga
+007,12.03.,17:30,EH FIN,Ässät Pori,0:4,Ilves Tampere,Finnland SM-Liiga
+008,12.03.,19:00,FRA 1,Dijon Football,0:4,Paris SG,Frankreich Ligue 1
+009,12.03.,19:00,GER 3,FSV Zwickau,2:0,KFC Uerdingen 05,Deutschland 3. Liga
+010,12.03.,19:00,GER 3,Fortuna Köln,0:0,VfL Osnabrück,Deutschland 3. Liga
+011,12.03.,19:00,GER 3,SV Meppen,1:1,Kickers Würzburg,Deutschland 3. Liga
+012,12.03.,19:00,GER 3,TSV 1860 München,1:0,Unterhaching,Deutschland 3. Liga
+013,12.03.,19:00,GER 3,Preussen Münster,0:1,Hansa Rostock,Deutschland 3. Liga
+014,12.03.,19:00,EH SWE,Timra IK,3:5,HV 71,Schweden Elitserien
+015,12.03.,19:00,EH SWE,Malmö IF,3:0,Rögle BK,Schweden Elitserien
+016,12.03.,19:00,EH SWE,Färjestads BK,3:0,Lulea Hockey,Schweden Elitserien
+017,12.03.,19:00,EH SWE,Växjö Lakers,1:1,Skelleftea AIK,Schweden Elitserien
+018,12.03.,19:00,EH SWE,Djurgardens IF,4:2,Frölunda HC,Schweden Elitserien
+019,12.03.,19:00,EH SWE,Linköpings HC,2:2,Brynas IF,Schweden Elitserien
+020,12.03.,19:00,EH SWE,HC Örebro,4:1,Mora IK,Schweden Elitserien
+021,12.03.,19:30,EH GER,Augsburger Panth.,7:1,DEG Metro Stars,Deutschland Deutsche Eishockey Liga
+022,12.03.,19:30,EH GER,Kölner Haie,2:6,ERC Ingolstadt,Deutschland Deutsche Eishockey Liga
+023,12.03.,20:00,EH SUI,HC Servette Genf,2:2,SC Bern,Schweiz National League A
+024,12.03.,20:00,EH SUI,SCL Tigers Langnau,0:3,HC Lausanne,Schweiz National League A
+025,12.03.,20:00,EH SUI,HC Lugano,1:5,EV Zug,Schweiz National League A
+026,12.03.,20:00,EH SUI,HC Ambri Piotta,2:3,EHC Biel Bienne,Schweiz National League A
+027,12.03.,20:45,ENG CS,Blackburn Rovers,3:0,Wigan Athletic,England Championship
+028,12.03.,20:45,ENG CS,Bristol City,1:1,Ipswich Town,England Championship
+029,12.03.,20:45,ENG CS,Sheffield United,2:0,FC Brentford,England Championship
+030,12.03.,20:45,ENG 1,AFC Wimbledon,1:0,Peterborough Utd.,England League One
+031,12.03.,20:45,ENG 1,FC Barnsley,0:0,AFC Sunderland,England League One
+032,12.03.,20:45,ENG 1,FC Blackpool,1:1,Doncaster Rovers,England League One
+033,12.03.,20:45,ENG 1,Bradford City FC,0:1,Luton Town,England League One
+034,12.03.,20:45,ENG 1,Charlton Athletic,2:1,Burton Albion,England League One
+035,12.03.,20:45,ENG 1,Coventry City,2:1,Fleetwood Town,England League One
+036,12.03.,20:45,ENG 1,FC Gillingham,0:1,Bristol Rovers,England League One
+037,12.03.,20:45,ENG 1,Plymouth Argyle,2:1,Shrewsbury Town,England League One
+038,12.03.,20:45,ENG 1,FC Rochdale,0:0,Oxford United,England League One
+039,12.03.,20:45,ENG 1,Scunthorpe United,4:1,Southend United,England League One
+040,12.03.,20:45,ENG 1,FC Walsall,2:3,FC Portsmouth,England League One
+041,12.03.,20:45,ENG 1,Wycombe Wanderers,1:3,Accrington Stanley,England League One
+042,12.03.,20:45,SCO CS,FC Ross County,2:1,FC Falkirk,Schottland Championship
+043,12.03.,20:45,SCO FA,Glasgow Rangers,0:2,FC Aberdeen,Schottland FA Cup
+044,12.03.,20:45,SCO FA,Heart of Midl.,2:1,Partick Thistle,Schottland FA Cup
+045,12.03.,21:00,CL,Juventus Turin ITA,3:0,Atl. Madrid ESP,UEFA Champions League
+046,12.03.,21:00,CL,Juventus Turin,3:1,Atletico Madrid+1,UEFA Champions League
+047,12.03.,21:00,CL,Man. City ENG,7:0,FC Schalke 04 GER,UEFA Champions League
+048,12.03.,21:00,ENG CS,Bolton Wanderers,0:2,Sheffield Wednes.,England Championship
+049,12.03.,21:00,ENG CS,FC Reading,0:3,Leeds United,England Championship
+050,13.03.,10:30,HE-ABF,"Paris, Dominik",Paris,"Feuz, Beat","Ski Alpin, Herren Abfahrt"
+051,13.03.,10:30,HE-ABF,Kriechmayr V.,Jansrud,"Jansrud, Kjetil","Ski Alpin, Herren Abfahrt"
+052,13.03.,10:30,HE-ABF,"Mayer, Matthias",Mayer,Innerhofer C.,"Ski Alpin, Herren Abfahrt"
+053,13.03.,10:30,HE-ABF,"Kilde, Aleks. A.",Striedi,"Striedinger, Otmar","Ski Alpin, Herren Abfahrt"
+054,13.03.,11:00,JPN LC,Hokkaido Consadole,0:0,V-Varen Nagasaki,Japan Nabisco Cup
+055,13.03.,11:00,JPN LC,Shonan Bellmare,2:0,Yokohama F Marinos,Japan Nabisco Cup
+056,13.03.,11:00,JPN LC,Kashiwa Reysol,0:1,Sagan Tosu,Japan Nabisco Cup
+057,13.03.,11:00,JPN LC,Vegalta Sendai,2:1,FC Tokyo,Japan Nabisco Cup
+058,13.03.,11:00,JPN LC,Nagoya Grampus,2:1,Oita Trinita,Japan Nabisco Cup
+059,13.03.,11:00,JPN LC,Vissel Kobe,0:0,Cerezo Osaka,Japan Nabisco Cup
+060,13.03.,11:00,JPN LC,Gamba Osaka,2:1,Matsumoto Yamaga,Japan Nabisco Cup
+061,13.03.,11:00,JPN LC,Shimizu S-Pulse,1:0,Jubilo Iwata,Japan Nabisco Cup
+062,13.03.,11:00,AFC CL,Kawasaki Front JPN,1:0,Sydney FC AUS,AFC Champions League
+063,13.03.,13:00,AFC CL,Beijing Guoan CHN,0:0,Urawa RD JPN,AFC Champions League
+064,13.03.,15:30,SER CUP,FK Napredak,0:4,Partizan Belgrad,Serbien Cup
+065,13.03.,16:00,BOS CUP,Zrinjski Mostar,0:1,FK Sarajevo,Bosnien Cup
+066,13.03.,17:00,SER CUP,FK Radnicki Nis,2:1,FK Vojvodina,Serbien Cup
+067,13.03.,18:00,POL CUP,Rakow Czestochowa,1:1,Legia Warschau,Polen Cup
+068,13.03.,18:00,HUN CUP,Ferencvaros,1:2,Fehervar FC,Ungarn Cup
+069,13.03.,19:15,EH AUT,Fehervar,1:0,EC RB Salzburg,Österreich Eishockey Liga
+070,13.03.,19:00,GER 3,FC Kaiserslautern,0:0,E. Braunschweig,Deutschland 3. Liga
+071,13.03.,19:00,GER 3,Karlsruher SC,0:3,VfR Aalen,Deutschland 3. Liga
+072,13.03.,19:00,GER 3,FC Carl Zeiss Jena,1:1,SF Lotte,Deutschland 3. Liga
+073,13.03.,19:00,GER 3,Großaspach,2:3,Wehen Wiesbaden,Deutschland 3. Liga
+074,13.03.,19:00,GER 3,Hallescher FC,2:3,Energie Cottbus,Deutschland 3. Liga
+075,13.03.,19:15,EH AUT,Vienna Capitals,7:0,HC Znojmo,Österreich Eishockey Liga
+076,13.03.,19:15,EH AUT,EC Graz 99ers,7:3,Black Wings Linz,Österreich Eishockey Liga
+077,13.03.,19:15,EH AUT,KAC Klagenfurt,4:4,HC Bozen Foxes,Österreich Eishockey Liga
+078,13.03.,19:30,EH GER,Adler Mannheim,7:2,Nürnberg Ice Tiger,Deutschland Deutsche Eishockey Liga
+079,13.03.,19:30,EH GER,EHC München,2:2,Eisbären Berlin,Deutschland Deutsche Eishockey Liga
+080,13.03.,20:45,ENG CS,Birmingham City,0:2,FC Millwall,England Championship
+081,13.03.,20:45,ENG CS,Nottingham Forest,1:3,Aston Villa,England Championship
+082,13.03.,20:45,ENG CS,Derby County,0:0,Stoke City,England Championship
+083,13.03.,20:45,ENG CS,FC Middlesbrough,1:2,Preston North End,England Championship
+084,13.03.,20:45,ENG CS,Norwich City,3:2,Hull City,England Championship
+085,13.03.,20:45,ENG CS,Queens Park R.,1:2,Rotherham United,England Championship
+086,13.03.,21:00,CL,Bayern München GER,1:3,FC Liverpool ENG,UEFA Champions League
+087,13.03.,21:00,CL,FC Bayern München,1:4,FC Liverpool+1,UEFA Champions League
+088,13.03.,21:00,CL,FC Barcelona ESP,5:1,Ol. Lyon FRA,UEFA Champions League
+089,13.03.,21:00,ENG CS,West Bromwich,3:0,Swansea City,England Championship
+090,14.03.,12:00,HE-SG,Kriechmayr V.,Kriechm,"Kilde, Aleks. A.","Ski Alpin, Herren Super G"
+091,14.03.,12:00,HE-SG,"Jansrud, Kjetil",Jansrud,"Mayer, Matthias","Ski Alpin, Herren Super G"
+092,14.03.,12:00,HE-SG,"Feuz, Beat",Feuz B.,"Clarey, Johan","Ski Alpin, Herren Super G"
+093,14.03.,12:00,HE-SG,Innerhofer C.,Cavieze,"Caviezel, Mauro","Ski Alpin, Herren Super G"
+094,14.03.,18:00,DEN CUP,Naestved BK,1:3,Aalborg BK,Dänemark Landspokalturneringen
+095,14.03.,18:30,BB AUT,Traiskirchen,77:65,UBSC Graz,Österreich Basketball Superliga
+096,14.03.,18:55,EL,RB Salzburg AUT,3:1,SSC Napoli ITA,UEFA Europa League
+097,14.03.,18:55,EL,RB Salzburg,3:2,SSC Napoli+1,UEFA Europa League
+098,14.03.,18:55,EL,RB Salzburg+1,4:1,SSC Napoli,UEFA Europa League
+099,14.03.,18:55,EL,Dynamo Kiev UKR,0:5,FC Chelsea ENG,UEFA Europa League
+100,14.03.,18:55,EL,FC Krasnodar RUS,1:1,FC Valencia ESP,UEFA Europa League
+101,14.03.,19:00,EH SWE,HV 71,4:0,Linköpings HC,Schweden Elitserien
+102,14.03.,19:00,EH SWE,Malmö IF,3:1,HC Örebro,Schweden Elitserien
+103,14.03.,19:00,EH SWE,Färjestads BK,2:2,Djurgardens IF,Schweden Elitserien
+104,14.03.,19:00,EH SWE,Mora IK,5:3,Timra IK,Schweden Elitserien
+105,14.03.,19:00,EH SWE,Rögle BK,2:3,Skelleftea AIK,Schweden Elitserien
+106,14.03.,19:00,EH SWE,Lulea Hockey,3:2,Växjö Lakers,Schweden Elitserien
+107,14.03.,19:00,EH SWE,Frölunda HC,5:2,Brynas IF,Schweden Elitserien
+108,14.03.,19:00,BB AUT,Klosterneuburg,71:87,Kapfenberg Bulls,Österreich Basketball Superliga
+109,14.03.,19:00,BB AUT,Flyers Wels,69:68,Oberwart Gunners,Österreich Basketball Superliga
+110,14.03.,19:00,BB AUT,Swans Gmunden,88:81,BC Vienna,Österreich Basketball Superliga
+111,14.03.,20:00,EH SUI,EV Zug,5:4,HC Lugano,Schweiz National League A
+112,14.03.,20:00,EH SUI,EHC Biel Bienne,5:3,HC Ambri Piotta,Schweiz National League A
+113,14.03.,20:00,EH SUI,SC Bern,2:2,HC Servette Genf,Schweiz National League A
+114,14.03.,20:00,EH SUI,HC Lausanne,5:2,SCL Tigers Langnau,Schweiz National League A
+115,14.03.,21:00,EL,Inter Mailand ITA,0:1,E. Frankfurt GER,UEFA Europa League
+116,14.03.,21:00,EL,Inter Mailand,0:2,Eintr. Frankfurt+1,UEFA Europa League
+117,14.03.,21:00,EL,Villarreal CF ESP,2:1,Zenit St.Peter RUS,UEFA Europa League
+118,14.03.,21:00,EL,Benfica Lissab POR,1:0,Dinamo Zagreb CRO,UEFA Europa League
+119,14.03.,21:00,EL,Slavia Prag CZE,2:2,FC Sevilla ESP,UEFA Europa League
+120,14.03.,21:00,EL,FC Arsenal ENG,3:0,Stade Rennes FRA,UEFA Europa League

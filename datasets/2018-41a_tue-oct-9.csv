@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,09.10.,11:30,KHL,Amur Chabarowsk,3:1,Traktor Chelyab.,Kontinental Hockey League
+002,09.10.,11:30,KHL,A. Vladivostok,2:3,HC Red Star Kunlun,Kontinental Hockey League
+003,09.10.,14:30,KHL,Sibir Nowosibirsk,1:1,Slovan Bratislava,Kontinental Hockey League
+004,09.10.,15:30,KHL,HC Barys,3:1,HK Dinamo Riga,Kontinental Hockey League
+005,09.10.,16:00,KHL,Salavat Yulaev Ufa,3:2,Avangard Omsk,Kontinental Hockey League
+006,09.10.,17:00,EH CL,HC Pilsen CZE,6:4,B. Bystrica SVK,Champions Hockey League
+007,09.10.,17:30,EH CL,HC Trinec CZE,2:3,Storhamar Hock NOR,Champions Hockey League
+008,09.10.,18:00,EH CL,HC TPS Turku FIN,3:1,Yunost Minsk BLR,Champions Hockey League
+009,09.10.,18:00,EH CL,HIFK Helsinki FIN,1:5,Skelleftea AIK SWE,Champions Hockey League
+010,09.10.,18:00,EH CL,Kärpät Oulu FIN,3:2,Mountfield HK CZE,Champions Hockey League
+011,09.10.,18:30,EH CL,Frölunda HC SWE,6:0,Aalborg Pirate DEN,Champions Hockey League
+012,09.10.,18:30,EH CL,Djurgardens IF SWE,3:5,Tappara Tamper FIN,Champions Hockey League
+013,09.10.,18:30,EH CL,Växjö Lakers SWE,3:1,Cardiff Devils WAL,Champions Hockey League
+014,09.10.,18:30,EH AUT,HC Znojmo,2:1,KAC Klagenfurt,Österreich Eishockey Liga
+015,09.10.,18:30,KHL,Neftekhimik,4:1,Spartak Moskau,Kontinental Hockey League
+016,09.10.,18:30,EH CZE,Sparta Prag,5:2,HC Karlsbad,Tschechische Republik Extraliga
+017,09.10.,19:00,SWE 2,Örgryte Göteborg,2:0,Degerfors IF,Schweden Superettan
+018,09.10.,19:30,AUT RLO,Wiener Sport-Club,0:0,St. Pölten Amat.,Österreich Regionalliga Ost
+019,09.10.,19:30,HB AUT,Handball Tirol,23:26,Bregenz Handball,Österreich HLA
+020,09.10.,19:30,EH CL,EHC München GER,3:2,Malmö IF SWE,Champions Hockey League
+021,09.10.,19:45,EH CL,Zürcher Lions SUI,7:4,Vienna Caps AUT,Champions Hockey League
+022,09.10.,19:45,EH CL,HC Lugano SUI,2:0,JYP Jyväskylä FIN,Champions Hockey League
+023,09.10.,19:45,EH SUI,HC Servette Genf,1:1,HC Lausanne,Schweiz National League A
+024,09.10.,20:30,ENG LTR,Doncaster Rovers,2:0,Grimsby Town,England Football League Trophy
+025,09.10.,20:30,ENG LTR,Plymouth Argyle,0:3,Swindon Town,England Football League Trophy
+026,09.10.,20:45,ENG LTR,Luton Town,3:0,MK Dons,England Football League Trophy
+027,09.10.,20:45,ENG LTR,AFC Sunderland,3:1,Carlisle United,England Football League Trophy
+028,09.10.,20:45,ENG LTR,Fleetwood Town,0:2,FC Rochdale,England Football League Trophy
+029,09.10.,20:45,ENG LTR,Accrington Stanley,4:1,Macclesfield Town,England Football League Trophy
+030,09.10.,20:45,ENG LTR,Port Vale FC,1:0,Burton Albion,England Football League Trophy
+031,09.10.,20:45,ENG LTR,Scunthorpe United,1:1,Lincoln City,England Football League Trophy
+032,09.10.,20:45,ENG LTR,Crawley Town,0:1,FC Portsmouth,England Football League Trophy
+033,09.10.,20:45,ENG LTR,Colchester United,2:0,Southend United,England Football League Trophy
+034,09.10.,20:45,ENG LTR,Bristol Rovers,2:0,Yeovil Town,England Football League Trophy
+035,09.10.,20:45,ENG LTR,Coventry City,1:1,Forest Green,England Football League Trophy
+036,09.10.,20:45,ENG LTR,Oxford United,1:2,Northampton,England Football League Trophy
+037,09.10.,20:45,ENG LTR,FC Stevenage,0:8,Charlton Athletic,England Football League Trophy
+038,10.10.,01:00,NHL,Carolina Hurric.,5:3,Vancouver Can.,USA NHL
+039,10.10.,01:00,NHL,Columbus Blue J.,5:2,Colorado Avalan.,USA NHL
+040,10.10.,01:00,NHL,Philadelphia Fl.,2:8,San Jose Sharks,USA NHL
+041,10.10.,02:00,BRA 1,Botafogo FR RJ,1:1,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+042,10.10.,02:00,NHL,Winnipeg Jets,2:1,Los Angeles Kings,USA NHL
+043,10.10.,02:00,NHL,Nashville Pred.,0:3,Calgary Flames,USA NHL
+044,10.10.,02:30,NHL,Dallas Stars,4:7,Toronto Maple L.,USA NHL
+045,10.10.,12:00,JPN LC,Kashima Antlers,1:2,Yokohama F Marinos,Japan Nabisco Cup
+046,10.10.,12:00,JPN LC,Kashiwa Reysol,1:1,Shonan Bellmare,Japan Nabisco Cup
+047,10.10.,15:30,U19 EMQ,Österreich U19*,0:0,Kosovo U19,"U19 EM, Qualifikation"
+048,10.10.,16:00,RUS CUP,FK Tyumen,0:0,ZSKA Moskau,Russland Russian Cup
+049,10.10.,16:00,KHL,Met. Magnitogorsk,1:4,Avtomobilist,Kontinental Hockey League
+050,10.10.,17:30,KHL,Jokerit Helsinki,4:1,HC Vityaz Podolsk,Kontinental Hockey League
+051,10.10.,17:30,EH CL,GKS Tychy POL,5:3,Bozen Foxes ITA,Champions Hockey League
+052,10.10.,17:30,EH FIN,KalPa Kuopio,3:3,SaiPa Lappeenr.,Finnland SM-Liiga
+053,10.10.,17:30,EH FIN,HPK Hämeenlinna,1:3,Vaasan Sport,Finnland SM-Liiga
+054,10.10.,17:30,EH FIN,Kookoo,1:4,Lukko Rauma,Finnland SM-Liiga
+055,10.10.,17:30,EH FIN,Ilves Tampere,1:0,Jukurit Mikkeli,Finnland SM-Liiga
+056,10.10.,17:30,EH FIN,Ässät Pori,2:5,Pelicans Lahti,Finnland SM-Liiga
+057,10.10.,17:30,EH CZE,PSG Berani Zlin,6:1,HC Pardubice,Tschechische Republik Extraliga
+058,10.10.,18:00,EH CL,Kometa Brünn CZE,2:3,EV Zug SUI,Champions Hockey League
+059,10.10.,18:00,DEN CUP,Nyköbing FC,1:2,Vejle BK,Dänemark Landspokalturneringen
+060,10.10.,18:30,KHL,HK CSKA Moskau,5:1,Dynamo Moskau,Kontinental Hockey League
+061,10.10.,18:30,KHL,SKA St. Petersburg,0:0,Lok. Jaroslawl,Kontinental Hockey League
+062,10.10.,18:30,HB AUT,HC Linz AG,22:23,Alpla HC Hard,Österreich HLA
+063,10.10.,19:00,GER 3,Energie Cottbus,1:2,Hallescher FC,Deutschland 3. Liga
+064,10.10.,19:30,EH ALP,Adler Kitzbühe AUT,4:2,HC Milano ITA,Alps Hockey League
+065,10.10.,19:30,EH ALP,EK Zell am See AUT,4:4,SG Cortina ITA,Alps Hockey League
+066,10.10.,19:30,EH CL,Berlin Eisb. GER,4:1,Neman Grodno BLR,Champions Hockey League
+067,10.10.,19:45,EH CL,SC Bern SUI,1:1,EC RB Salzburg AUT,Champions Hockey League
+068,10.10.,20:00,EH CL,Rouen HE FRA,4:2,Nürnberg Ice T GER,Champions Hockey League
+069,10.10.,20:00,BB EU C,Zorg En Zekerheid,68:57,Kapfenberg B. AUT,Europe Cup
+070,10.10.,20:45,INT FS,Italien,1:1,Ukraine,Internationale Freundschaftsspiele
+071,11.10.,01:30,NHL,Ottawa Senators,4:7,Philadelphia Fl.,USA NHL
+072,11.10.,02:00,NHL,Washington Cap.,5:2,Vegas Gold.Knights,USA NHL
+073,11.10.,02:45,BRA CUP,Cruzeiro EC MG,1:0,Corinthians SP,Brasilien Cup
+074,11.10.,04:00,NHL,Anaheim Ducks,2:2,Arizona Coyotes,USA NHL
+075,11.10.,13:30,KHL,Salavat Yulaev Ufa,5:0,Traktor Chelyab.,Kontinental Hockey League
+076,11.10.,16:00,U21 EMQ,Israel U21,3:1,Irland U21,U21 EM Qualifikation
+077,11.10.,17:30,CZE 2,FK Usti nad Labem,2:1,MFK Vitkovice,Tschechien 1. Division
+078,11.10.,17:30,EH FIN,Lukko Rauma,1:4,HPK Hämeenlinna,Finnland SM-Liiga
+079,11.10.,17:30,EH FIN,HIFK Helsinki,2:2,HC TPS Turku,Finnland SM-Liiga
+080,11.10.,17:30,EH FIN,JYP Jyväskylä,0:1,Kärpät Oulu,Finnland SM-Liiga
+081,11.10.,18:00,U21 EMQ,Weißrussland U21,1:0,Tschechien U21,U21 EM Qualifikation
+082,11.10.,18:00,KHL,AK Bars Kasan,1:0,Spartak Moskau,Kontinental Hockey League
+083,11.10.,18:00,KHL,Torp. Nowgorod,2:2,HC Sochi,Kontinental Hockey League
+084,11.10.,18:30,KHL,Avangard Omsk,2:2,Slovan Bratislava,Kontinental Hockey League
+085,11.10.,18:45,U21 EMQ,Island U21,0:1,Nordirland U21,U21 EM Qualifikation
+086,11.10.,19:00,U21 EMQ,Albanien U21,0:1,Spanien U21,U21 EM Qualifikation
+087,11.10.,19:00,EH SWE,Rögle BK,2:0,HC Örebro,Schweden Elitserien
+088,11.10.,19:00,EH SWE,Lulea Hockey,2:3,Frölunda HC,Schweden Elitserien
+089,11.10.,19:00,EH SWE,Linköpings HC,4:2,Timra IK,Schweden Elitserien
+090,11.10.,19:00,EH SWE,Mora IK,3:3,Färjestads BK,Schweden Elitserien
+091,11.10.,19:00,EH SWE,Växjö Lakers,1:0,Malmö IF,Schweden Elitserien
+092,11.10.,19:00,BB EL,ZSKA Moskau RUS,95:75,FC Barcelona ESP,Euroleague
+093,11.10.,19:00,VB CL,Abiant Lycurgus,1:3,SK Aich/Dob AUT,Champions League Männer
+094,11.10.,19:30,INT FS,Türkei,0:0,Bosnien-Herzegow.,Internationale Freundschaftsspiele
+095,11.10.,19:30,EH GER,Bremerhaven P.,6:2,EHC München,Deutschland Deutsche Eishockey Liga
+096,11.10.,20:00,BB EL,Panathinaikos GRE,89:84,M.Tel Aviv ISR,Euroleague
+097,11.10.,20:00,EH ALP,HC Pustertal ITA,2:1,EHC Lustenau AUT,Alps Hockey League
+098,11.10.,20:00,EH ALP,Ritten Sport ITA,1:4,HC Jesenice SLO,Alps Hockey League
+099,11.10.,20:30,EH ALP,HC Asiago ITA,7:3,HC Gröden ITA,Alps Hockey League
+100,11.10.,20:30,BB EL,Bayern München GER,71:90,Efes Istanbul TUR,Euroleague
+101,11.10.,20:45,UEFA NL,Israel,2:1,Schottland,UEFA Nations League
+102,11.10.,20:45,UEFA NL,Litauen,1:2,Rumänien,UEFA Nations League
+103,11.10.,20:45,UEFA NL,Montenegro,0:2,Serbien,UEFA Nations League
+104,11.10.,20:45,UEFA NL,Färöer Inseln,0:3,Aserbaidschan,UEFA Nations League
+105,11.10.,20:45,UEFA NL,Kosovo,3:1,Malta,UEFA Nations League
+106,11.10.,20:45,UEFA NL,Polen,2:3,Portugal,UEFA Nations League
+107,11.10.,20:45,INT FS,Wales,1:4,Spanien,Internationale Freundschaftsspiele
+108,11.10.,21:00,INT FS,Frankreich,2:2,Island,Internationale Freundschaftsspiele
+109,11.10.,21:45,UEFA NL,Russland,0:0,Schweden,UEFA Nations League
+110,12.10.,03:30,INT FS,Mexiko*,3:2,Costa Rica,Internationale Freundschaftsspiele
+111,12.10.,01:30,INT FS,USA,2:4,Kolumbien,Internationale Freundschaftsspiele
+112,12.10.,02:20,NFL,New York Giants,13:34,Philadelph. Eagles,USA NFL
+113,12.10.,20:45,UEFA NL,Österreich,1:0,Nordirland,UEFA Nations League
+114,12.10.,20:45,UEFA NL,Griechenland,1:0,Ungarn,UEFA Nations League
+115,12.10.,20:45,UEFA NL,Belgien,2:1,Schweiz,UEFA Nations League
+116,12.10.,20:45,UEFA NL,Kroatien,0:0,England,UEFA Nations League
+117,13.10.,15:00,UEFA NL,Slowakei,1:2,Tschechien,UEFA Nations League
+118,13.10.,18:00,UEFA NL,Norwegen,1:0,Slowenien,UEFA Nations League
+119,13.10.,20:45,UEFA NL,Irland,0:0,Dänemark,UEFA Nations League
+120,13.10.,20:45,UEFA NL,Niederlande,3:0,Deutschland,UEFA Nations League

@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,09.04.,11:30,AFC CL,Gyeongnam FC KOR,2:3,Kashima A. JPN,AFC Champions League
+002,09.04.,12:30,AFC CL,Urawa RD JPN,0:1,Jeonbuk Hyu. KOR,AFC Champions League
+003,09.04.,13:00,AFC CL,Buriram United THA,1:3,Beijing Guoan CHN,AFC Champions League
+004,09.04.,13:30,AFC CL,Shandong L. CHN,2:1,Johor D. T. FC MAS,AFC Champions League
+005,09.04.,16:00,AFC CL,FC Pakhtakor T UZB,2:2,Al-Sadd SC QAT,AFC Champions League
+006,09.04.,16:00,INT FSD,Deutschland Damen,2:2,Japan Damen,"Internationale Freundschaftsspiele, Damen"
+007,09.04.,17:30,EH FIN,Tappara Tampere,2:2,HPK Hämeenlinna,Finnland SM-Liiga
+008,09.04.,17:30,AFC CL,Persepolis FC IRI,2:0,Al-Ahli Jeddah KSA,AFC Champions League
+009,09.04.,17:45,AFC CL,AL Rayyan SC QAT,1:2,AL Wahda SCC,AFC Champions League
+010,09.04.,18:00,POL CUP,Jagiellonia Bial.,2:1,Miedz Legnica,Polen Cup
+011,09.04.,18:30,KHL,HK CSKA Moskau,3:1,SKA St. Petersburg,Kontinental Hockey League
+012,09.04.,19:00,EH SWE,Frölunda HC,2:0,Lulea Hockey,Schweden Elitserien
+013,09.04.,19:00,AUT RLW,Pinzgau Saalfelden,0:3,FC Dornbirn,Österreich Regionalliga West
+014,09.04.,19:00,FRA 1,Olympique Nimes,3:1,Stade Rennes,Frankreich Ligue 1
+015,09.04.,19:00,SWE 2,Vasteraas SK,1:1,IK Brage,Schweden Superettan
+016,09.04.,19:10,INT FSD,Österreich Damen,0:2,Schweden Damen,"Internationale Freundschaftsspiele, Damen"
+017,09.04.,19:15,EH AUT,EC RB Salzburg,2:2,Vienna Capitals,Österreich Eishockey Liga
+018,09.04.,19:30,EH GER,Kölner Haie,2:4,Adler Mannheim,Deutschland Deutsche Eishockey Liga
+019,09.04.,19:45,AFC CL,Al-Ittihad KSA,3:2,Lok. Tashkent UZB,AFC Champions League
+020,09.04.,20:00,EH SUI,SC Bern,5:1,EHC Biel Bienne,Schweiz National League A
+021,09.04.,20:00,INT FSD,England Damen,2:1,Spanien Damen,"Internationale Freundschaftsspiele, Damen"
+022,09.04.,20:45,ENG CS,Blackburn Rovers,2:0,Derby County,England Championship
+023,09.04.,20:45,ENG CS,Bristol City,3:2,West Bromwich,England Championship
+024,09.04.,20:45,ENG CS,Preston North End,0:2,Leeds United,England Championship
+025,09.04.,20:45,ENG CS,Sheffield Wednes.,3:0,Nottingham Forest,England Championship
+026,09.04.,20:45,ENG CS,Swansea City,3:1,Stoke City,England Championship
+027,09.04.,20:45,ENG 1,AFC Sunderland,1:1,Burton Albion,England League One
+028,09.04.,20:45,ENG 1,Wycombe Wanderers,0:1,Charlton Athletic,England League One
+029,09.04.,20:45,ENG 1,Accrington Stanley,0:1,FC Rochdale,England League One
+030,09.04.,20:45,SCO CS,Greenock Morton,1:2,FC Alloa Athletic,Schottland Championship
+031,09.04.,20:45,SCO CS,Ayr United,1:0,Queen of South,Schottland Championship
+032,09.04.,20:45,SCO CS,FC Ross County,1:0,Dunfermline,Schottland Championship
+033,09.04.,21:00,CL,Tottenham ENG,1:0,Man. City ENG,UEFA Champions League
+034,09.04.,21:00,CL,Tottenham+1,2:0,Manchester City,UEFA Champions League
+035,09.04.,21:00,CL,FC Liverpool ENG,2:0,FC Porto POR,UEFA Champions League
+036,09.04.,21:00,CL,FC Liverpool,2:1,FC Porto+1,UEFA Champions League
+037,09.04.,21:00,CL,FC Liverpool,2:2,FC Porto+2,UEFA Champions League
+038,09.04.,21:00,ENG CS,Bolton Wanderers,0:2,FC Middlesbrough,England Championship
+039,10.04.,00:15,COPA L,Ol. Asuncion PAR,2:1,CD Godoy Cruz ARG,Copa Libertadores
+040,10.04.,00:15,COPA L,Atletico PR BRA,1:0,Dep.Tolima COL,Copa Libertadores
+041,10.04.,00:15,BRA CUP,EC Bahia BA,1:0,CR Brasil AL,Brasilien Cup
+042,11.04.,00:15,BRA CUP,Fluminense RJ,2:0,Luverdense EC MT,Brasilien Cup
+043,10.04.,02:00,USA MLS,DC United,0:0,Montreal Impact,USA Major League Soccer
+044,10.04.,02:30,COPA L,CA San Lorenzo ARG,2:0,FBC Melgar PER,Copa Libertadores
+045,10.04.,02:30,COPA L,Internacional BRA,3:2,Palestino CHI,Copa Libertadores
+046,10.04.,02:30,COPA L,CA Penarol URU,1:0,LDU Quito ECU,Copa Libertadores
+047,10.04.,11:30,AFC CL,Sydney FC AUS,3:3,SIPG Shanghai CHN,AFC Champions League
+048,10.04.,12:00,AFC CL,S. Hiroshima JPN,2:0,Daegu FC KOR,AFC Champions League
+049,10.04.,12:00,JPN LC,Hokkaido Consadole,4:1,Shonan Bellmare,Japan Nabisco Cup
+050,10.04.,12:00,JPN LC,Vegalta Sendai,2:1,Kashiwa Reysol,Japan Nabisco Cup
+051,10.04.,12:00,JPN LC,FC Tokyo,1:0,Sagan Tosu,Japan Nabisco Cup
+052,10.04.,12:00,JPN LC,Vissel Kobe,2:0,Oita Trinita,Japan Nabisco Cup
+053,10.04.,12:00,JPN LC,Matsumoto Yamaga,1:3,Jubilo Iwata,Japan Nabisco Cup
+054,10.04.,12:00,JPN LC,Shimizu S-Pulse,1:1,Gamba Osaka,Japan Nabisco Cup
+055,10.04.,12:30,JPN LC,Yokohama F Marinos,2:2,V-Varen Nagasaki,Japan Nabisco Cup
+056,10.04.,12:30,JPN LC,Cerezo Osaka,3:0,Nagoya Grampus,Japan Nabisco Cup
+057,10.04.,13:00,AFC CL,Ulsan Hyundai KOR,1:0,Kawasaki Front JPN,AFC Champions League
+058,10.04.,14:00,AFC CL,Guangzhou Ev. CHN,4:0,Melbourne Vic. AUS,AFC Champions League
+059,10.04.,16:00,SLO 1,NK Rudar Velenje,0:3,NK Celje,Slowenien PrvaLiga Telekom
+060,10.04.,16:45,SLO 1,NK Krsko,0:1,NK Maribor,Slowenien PrvaLiga Telekom
+061,10.04.,18:00,SLO 1,NK Domzale,6:1,NK Triglav,Slowenien PrvaLiga Telekom
+062,10.04.,18:00,POL CUP,Rakow Czestochowa,0:1,KS Lechia Gdansk,Polen Cup
+063,10.04.,18:30,GER 2,MSV Duisburg,4:4,1. FC Köln,Deutschland 2. Bundesliga
+064,10.04.,18:30,NOR 1,SK Brann,2:1,Kristiansund BK,Norwegen Tippeligaen
+065,10.04.,18:30,NOR 1,Molde FK,4:1,Valerenga IF,Norwegen Tippeligaen
+066,10.04.,18:45,SUI SL,FC Luzern,1:3,Young Boys Bern,Schweiz Axpo Super League
+067,10.04.,19:00,EH SWE,Färjestads BK,1:2,Djurgardens IF,Schweden Elitserien
+068,10.04.,19:30,EH GER,Augsburger Panth.,1:2,EHC München,Deutschland Deutsche Eishockey Liga
+069,10.04.,20:45,ENG CS,Norwich City,2:2,FC Reading,England Championship
+070,10.04.,20:45,ENG CS,Birmingham City,1:1,Sheffield United,England Championship
+071,10.04.,20:45,ENG CS,FC Brentford,2:0,Ipswich Town,England Championship
+072,10.04.,20:45,ENG CS,Hull City,2:1,Wigan Athletic,England Championship
+073,10.04.,20:45,ENG CS,FC Millwall,0:0,Queens Park R.,England Championship
+074,10.04.,20:45,ENG CS,Rotherham United,1:2,Aston Villa,England Championship
+075,10.04.,21:00,CL,Manchester U. ENG,0:1,FC Barcelona ESP,UEFA Champions League
+076,10.04.,21:00,CL,Manchester Utd.+1,1:1,FC Barcelona,UEFA Champions League
+077,10.04.,21:00,CL,Manchester United,0:2,FC Barcelona+1,UEFA Champions League
+078,10.04.,21:00,CL,Ajax Amsterd. NED,1:1,Juventus Turin ITA,UEFA Champions League
+079,10.04.,21:00,CL,Ajax Amsterdam+1,2:1,Juventus Turin,UEFA Champions League
+080,10.04.,21:00,CL,Ajax Amsterdam,1:2,Juventus Turin+1,UEFA Champions League
+081,11.04.,00:15,COPA L,Cruzeiro EC MG BRA,4:0,CA Huracan ARG,Copa Libertadores
+082,11.04.,00:15,COPA L,Sp. Cristal PER,2:0,UD Concepcion CHI,Copa Libertadores
+083,11.04.,00:15,COPA L,Club Nacional URU,1:0,Zamora FC VEN,Copa Libertadores
+084,11.04.,00:15,COPA L,Cerro Porteno PAR,4:1,Atletico MG BRA,Copa Libertadores
+085,11.04.,01:00,NHL,Tampa Bay Lightn.,3:4,Columbus Blue J.,USA NHL
+086,11.04.,01:30,NHL,NY Islanders,3:3,Pittsburgh Peng.,USA NHL
+087,11.04.,02:00,NHL,Winnipeg Jets,1:2,St. Louis Blues,USA NHL
+088,11.04.,02:00,CCC CL,Santos Laguna MEX,3:2,UANL Tigres MEX,CONCACAF Champions League
+089,11.04.,02:30,COPA L,SE Palmeiras S BRA,3:0,Atl. Junior COL,Copa Libertadores
+090,11.04.,02:30,COPA L,Boca Juniors ARG,4:0,J.Wilstermann BOL,Copa Libertadores
+091,11.04.,02:30,COPA L,Gremio RS BRA,3:1,Rosario Cen. ARG,Copa Libertadores
+092,11.04.,02:30,COPA L,Univ. Catolica CHI,2:3,Club Libertad PAR,Copa Libertadores
+093,11.04.,03:00,USA MLS,Colorado Rapids,abgesagt,Seattle Sounders,USA Major League Soccer
+094,11.04.,03:30,NHL,Nashville Pred.,2:3,Dallas Stars,USA NHL
+095,11.04.,04:30,NHL,San Jose Sharks,5:2,Vegas Gold.Knights,USA NHL
+096,11.04.,15:45,SLO 1,NK Aluminij,3:1,ND Gorica,Slowenien PrvaLiga Telekom
+097,11.04.,17:30,EH FIN,HPK Hämeenlinna,1:1,Tappara Tampere,Finnland SM-Liiga
+098,11.04.,18:00,TUR 2,Adana Demirspor,3:1,Umraniyespor,Türkei TFF 1. Lig
+099,11.04.,18:00,SLO 1,NS Mura,0:0,Olimpija Ljubljana,Slowenien PrvaLiga Telekom
+100,11.04.,18:45,DEN 2,Silkeborg IF,1:3,Naestved BK,Dänemark 1. Division
+101,11.04.,19:00,EH SWE,Lulea Hockey,3:1,Frölunda HC,Schweden Elitserien
+102,11.04.,17:00,EH CZE,HC Liberec,5:2,HC Kometa Brünn,Tschechische Republik Extraliga
+103,11.04.,19:00,EH NOR,Frisk/Asker,1:5,Storhamar Hockey,Norwegen GET-Ligaen
+104,11.04.,20:15,EHF EUC,Österreich,29:28,Spanien,EHF EURO Cup
+105,11.04.,21:00,EL,Benfica Lissab POR,4:2,E. Frankfurt GER,UEFA Europa League
+106,11.04.,21:00,EL,Benfica Lissabon,4:3,Eintr. Frankfurt+1,UEFA Europa League
+107,11.04.,21:00,EL,Benfica Lissabon+1,5:2,Eintr. Frankfurt,UEFA Europa League
+108,11.04.,21:00,EL,Slavia Prag CZE,0:1,FC Chelsea ENG,UEFA Europa League
+109,11.04.,21:00,EL,SK Slavia Prag+1,1:1,FC Chelsea,UEFA Europa League
+110,11.04.,21:00,EL,Villarreal CF ESP,1:3,FC Valencia ESP,UEFA Europa League
+111,11.04.,21:00,EL,Villarreal CF,1:4,FC Valencia+1,UEFA Europa League
+112,11.04.,21:00,EL,FC Arsenal ENG,2:0,SSC Napoli ITA,UEFA Europa League
+113,11.04.,21:00,EL,FC Arsenal,2:1,SSC Napoli+1,UEFA Europa League
+114,11.04.,21:00,EL,FC Arsenal+1,3:0,SSC Napoli,UEFA Europa League
+115,12.04.,00:15,BRA CUP,EC Juventude RS,2:1,Botafogo FR RJ,Brasilien Cup
+116,12.04.,02:30,BRA CUP,Santos SP,3:0,Atletico GO,Brasilien Cup
+117,12.04.,01:00,NHL,Boston Bruins,1:4,Toronto Maple L.,USA NHL
+118,12.04.,01:30,NHL,Washington Cap.,4:2,Carolina Hurric.,USA NHL
+119,12.04.,04:00,NHL,Calgary Flames,4:0,Colorado Avalan.,USA NHL
+120,12.04.,04:00,COPA L,CS Emelec ECU,2:2,Deportivo Lara VEN,Copa Libertadores

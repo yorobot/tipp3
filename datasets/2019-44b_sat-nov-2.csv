@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,02.11.,10:00,RUG WM,England*,12:32,Südafrika,Rugby Union WM
+002,02.11.,13:00,AUT RLM,WAC Amateure,3:3,Bad Gleichenberg,Österreich Regionalliga Mitte
+003,02.11.,13:00,GER 2,FC St. Pauli,2:2,Karlsruher SC,Deutschland 2. Bundesliga
+004,02.11.,13:00,GER 2,Greuther Fürth,3:1,SV Darmstadt 98,Deutschland 2. Bundesliga
+005,02.11.,13:00,GER 2,Erzgebirge Aue,1:1,FC Heidenheim,Deutschland 2. Bundesliga
+006,02.11.,13:00,ESP 1,Espanyol Barcelona,1:2,FC Valencia,Spanien Primera Division
+007,02.11.,13:30,ENG PL,AFC Bournemouth,1:0,Manchester United,England Premier League
+008,02.11.,14:00,AUT RLO,FC Mauerwerk,2:2,Bruck/Leitha,Österreich Regionalliga Ost
+009,02.11.,14:00,RL TIR,FC Kitzbühel,2:2,SC Schwaz,Regionalliga Tirol
+010,02.11.,14:30,AUT 2,Young Violets A.W.,0:1,FC Dornbirn,Österreich Zweite Liga
+011,02.11.,15:00,AUT RLO,Wiener Viktoria,3:1,SV Mattersburg Am.,Österreich Regionalliga Ost
+012,02.11.,15:00,AUT RLM,Union Gurten,4:2,SC Weiz,Österreich Regionalliga Mitte
+013,02.11.,15:00,AUT RLM,St Anna am Aigen,1:4,WSC Hertha Wels,Österreich Regionalliga Mitte
+014,02.11.,15:00,ITA A,AS Roma,2:1,SSC Napoli,Italien Serie A
+015,02.11.,15:30,GER BL,Eintr. Frankfurt,5:1,FC Bayern München,Deutschland Bundesliga
+016,02.11.,15:30,GER BL,Bor. Dortmund,3:0,VfL Wolfsburg,Deutschland Bundesliga
+017,02.11.,15:30,GER BL,RB Leipzig,8:0,FSV Mainz 05,Deutschland Bundesliga
+018,02.11.,15:30,GER BL,Bayer Leverkusen,1:2,Mönchengladbach,Deutschland Bundesliga
+019,02.11.,15:30,GER BL,Werder Bremen,2:2,SC Freiburg,Deutschland Bundesliga
+020,02.11.,16:00,ENG PL,FC Arsenal,1:1,Wolverhampton,England Premier League
+021,02.11.,16:00,ENG PL,Aston Villa,1:2,FC Liverpool,England Premier League
+022,02.11.,16:00,ENG PL,Brighton & Hove,2:0,Norwich City,England Premier League
+023,02.11.,16:00,ENG PL,Manchester City,2:1,FC Southampton,England Premier League
+024,02.11.,16:00,ENG PL,Sheffield United,3:0,FC Burnley,England Premier League
+025,02.11.,16:00,ENG PL,West Ham United,2:3,Newcastle United,England Premier League
+026,02.11.,16:00,ESP 1,Levante UD,3:1,FC Barcelona,Spanien Primera Division
+027,02.11.,17:00,RUS PL,Zenit St.Petersb.,1:1,ZSKA Moskau,Russland Premier League
+028,02.11.,17:00,AUT BL,SK Sturm Graz,0:4,Wolfsberger AC,Österreich Bundesliga
+029,02.11.,17:00,AUT BL,SK Rapid Wien,0:1,SKN St. Pölten,Österreich Bundesliga
+030,02.11.,17:00,AUT BL,SV Mattersburg,0:3,RB Salzburg,Österreich Bundesliga
+031,02.11.,17:00,AUT RLM,Deutschlandsberg,5:0,ATSV Wolfsberg,Österreich Regionalliga Mitte
+032,02.11.,17:30,AUT RLO,SC Wiener Neustadt,1:0,ASK Ebreichsdorf,Österreich Regionalliga Ost
+033,02.11.,17:30,AUT RLO,SV Leobendorf,0:0,FCM Traiskirchen,Österreich Regionalliga Ost
+034,02.11.,17:30,EH AUT,HC Znojmo,2:4,HC Bozen Foxes,Österreich Eishockey Liga
+035,02.11.,17:30,FRA 1,Olymp. Marseille,2:1,Lille OSC,Frankreich Ligue 1
+036,02.11.,18:00,ITA A,Bologna FC,1:2,Inter Mailand,Italien Serie A
+037,02.11.,18:00,TUR 1,Antalyaspor,1:2,Besiktas Istanbul,Türkei Süper Lig
+038,02.11.,18:30,GER BL,FC Union Berlin,1:0,Hertha BSC,Deutschland Bundesliga
+039,02.11.,18:30,ENG PL,FC Watford,1:2,FC Chelsea,England Premier League
+040,02.11.,18:30,ESP 1,FC Sevilla,1:1,Atletico Madrid,Spanien Primera Division
+041,02.11.,18:30,SCO LC,Hibernian FC*,2:5,Celtic Glasgow,Schottland League Cup
+042,02.11.,20:00,FRA 1,Olympique Nimes,abgesagt,Stade Rennes,Frankreich Ligue 1
+043,02.11.,20:00,FRA 1,FC Metz,2:2,HSC Montpellier,Frankreich Ligue 1
+044,02.11.,20:00,FRA 1,FC Toulouse,2:3,Olympique Lyon,Frankreich Ligue 1
+045,02.11.,20:00,FRA 1,SCO Angers,1:0,Racing Strasbourg,Frankreich Ligue 1
+046,02.11.,20:00,FRA 1,Amiens SC,1:0,Stade Brest,Frankreich Ligue 1
+047,02.11.,20:45,ITA A,FC Torino,0:1,Juventus Turin,Italien Serie A
+048,02.11.,21:00,ESP 1,Real Madrid,0:0,Betis Sevilla,Spanien Primera Division
+049,03.11.,10:30,AUT 2,Austria Lustenau,2:3,Wacker Innsbruck,Österreich Zweite Liga
+050,03.11.,12:00,AUT DA,USC Landhaus Damen,1:5,St. Pölten Damen,Österreich Damen Bundesliga
+051,03.11.,12:00,ESP 1,Real Valladolid,3:0,RCD Mallorca,Spanien Primera Division
+052,03.11.,12:30,ITA A,Atalanta Bergamo,0:2,Cagliari Calcio,Italien Serie A
+053,03.11.,13:00,ENG CS,Charlton Athletic,0:1,Preston North End,England Championship
+054,03.11.,13:30,GER 2,VfB Stuttgart,3:1,Dynamo Dresden,Deutschland 2. Bundesliga
+055,03.11.,13:30,GER 2,Arminia Bielefeld,2:1,Holstein Kiel,Deutschland 2. Bundesliga
+056,03.11.,13:30,GER 2,Wehen Wiesbaden,1:1,Hamburger SV,Deutschland 2. Bundesliga
+057,03.11.,14:00,ESP 1,Villarreal CF,0:0,Athletic Bilbao,Spanien Primera Division
+058,03.11.,14:30,AUT BL,Admira Wacker,0:1,TSV Hartberg,Österreich Bundesliga
+059,03.11.,14:30,AUT BL,WSG Swarovs. Tirol,0:4,SCR Altach,Österreich Bundesliga
+060,03.11.,15:00,ENG PL,Crystal Palace,0:2,Leicester City,England Premier League
+061,03.11.,15:00,ITA A,FC Genua,1:3,Udinese Calcio,Italien Serie A
+062,03.11.,15:00,ITA A,Hellas Verona,2:1,Brescia Calcio,Italien Serie A
+063,03.11.,15:00,ITA A,US Lecce,2:2,US Sassuolo,Italien Serie A
+064,03.11.,15:00,FRA 1,Bordeaux,2:0,FC Nantes,Frankreich Ligue 1
+065,03.11.,15:30,GER BL,Fortuna Düsseldorf,2:0,1. FC Köln,Deutschland Bundesliga
+066,03.11.,15:30,NFL,Jacksonv. Jaguars*,3:26,Houston Texans,USA NFL
+067,03.11.,16:00,ESP 1,CA Osasuna,4:2,CD Alaves,Spanien Primera Division
+068,03.11.,16:00,SCO LC,Glasgow Rangers*,3:0,Heart of Midl.,Schottland League Cup
+069,03.11.,16:00,SUI SL,FC Basel,1:1,Xamax Neuchatel,Schweiz Axpo Super League
+070,03.11.,16:00,SUI SL,FC Luzern,1:2,FC Lugano,Schweiz Axpo Super League
+071,03.11.,17:00,AUT BL,LASK Linz,2:0,FK Austria Wien,Österreich Bundesliga
+072,03.11.,17:00,FRA 1,OGC Nizza,2:0,Stade de Reims,Frankreich Ligue 1
+073,03.11.,17:00,TUR 1,Kayserispor,1:0,Fenerbahce,Türkei Süper Lig
+074,03.11.,17:30,ENG PL,FC Everton,1:1,Tottenham,England Premier League
+075,03.11.,17:30,EH AUT,EC Dornbirn,2:3,EC Graz 99ers,Österreich Eishockey Liga
+076,03.11.,17:30,EH AUT,Vienna Capitals,3:1,HC Bozen Foxes,Österreich Eishockey Liga
+077,03.11.,17:30,EH AUT,Villacher SV,3:1,KAC Klagenfurt,Österreich Eishockey Liga
+078,03.11.,17:30,EH AUT,Black Wings Linz,2:2,EC RB Salzburg,Österreich Eishockey Liga
+079,03.11.,17:30,EH AUT,HC Innsbruck,3:1,Fehervar,Österreich Eishockey Liga
+080,03.11.,18:00,GER BL,FC Augsburg,2:3,FC Schalke 04,Deutschland Bundesliga
+081,03.11.,18:00,ITA A,AC Fiorentina,1:1,FC Parma,Italien Serie A
+082,03.11.,18:00,BEL 1,KAA Gent,3:1,Standard Lüttich,Belgien Jupiler Pro League
+083,03.11.,18:30,ESP 1,Celta de Vigo,0:1,Getafe CF,Spanien Primera Division
+084,03.11.,18:30,ESP 1,CD Leganes,1:2,SD Eibar,Spanien Primera Division
+085,03.11.,20:45,ITA A,AC Milan,1:2,Lazio Rom,Italien Serie A
+086,03.11.,21:00,ESP 1,Granada CF,1:2,Real Sociedad,Spanien Primera Division
+087,03.11.,21:00,FRA 1,AS Saint Etienne,1:0,AS Monaco,Frankreich Ligue 1
+088,03.11.,22:25,NFL,LA Chargers,26:11,Green Bay Packers,USA NFL
+089,04.11.,12:00,RUS PL,Ural Jekaterinburg,1:2,Gazovik Orenburg,Russland Premier League
+090,04.11.,14:30,RUS PL,Kryliya Sovetov,0:0,FC Rubin Kazan,Russland Premier League
+091,04.11.,15:00,KHL,Sev. Cherepovets,0:2,AK Bars Kasan,Kontinental Hockey League
+092,04.11.,15:00,KHL,Lok. Jaroslawl,2:5,A. Vladivostok,Kontinental Hockey League
+093,04.11.,15:00,KHL,HC Vityaz Podolsk,3:3,Torp. Nowgorod,Kontinental Hockey League
+094,04.11.,15:00,KHL,Neftekhimik,4:1,HK CSKA Moskau,Kontinental Hockey League
+095,04.11.,17:00,RUS PL,FC Spartak Moskau,0:1,Arsenal Tula,Russland Premier League
+096,04.11.,17:00,TUR 2,Bursaspor,0:0,Balikesirspor,Türkei TFF 1. Lig
+097,04.11.,17:00,ROU 1,AFC Astra Giurgiu,4:0,CSMS Iasi,Rumänien Liga 1
+098,04.11.,18:00,TUR 1,MKE Ankaragücü,1:2,Gazis. Gaziantep,Türkei Süper Lig
+099,04.11.,18:00,CZE 1,FC Fastav Zlin,1:1,Viktoria Pilsen,Tschechien Gambrinus Liga
+100,04.11.,18:00,POL 1,Slask Wroclaw,3:1,Wisla Plock,Polen Orange Ekstraklasa
+101,04.11.,19:00,GER 3,MSV Duisburg,2:0,KFC Uerdingen 05,Deutschland 3. Liga
+102,04.11.,19:00,GRE 1,Lamia 1964,1:0,Volos NFC,Griechenland Super League
+103,04.11.,19:00,DEN 1,Silkeborg IF,0:1,Bröndby IF,Dänemark Superligaen
+104,04.11.,19:00,NOR 1,Odds BK,3:2,Mjöndalen,Norwegen Tippeligaen
+105,04.11.,19:15,ISR 1,Hapoel Tel Aviv,1:2,Maccabi Haifa,Israel Winner League
+106,04.11.,19:30,ROU 1,CS Uni Craiova*,4:1,Dinamo Bukarest,Rumänien Liga 1
+107,04.11.,20:00,POR 1,Belenenses L.,1:0,FC Pacos Ferreira,Portugal Primeira Liga
+108,04.11.,20:30,GER 2,VfL Bochum,3:1,1. FC Nürnberg,Deutschland 2. Bundesliga
+109,04.11.,20:30,POL 1,Rakow Czestochowa,1:0,Wisla Krakau,Polen Orange Ekstraklasa
+110,04.11.,20:45,ITA A,Spal Ferrara,0:1,Sampdoria Genua,Italien Serie A
+111,04.11.,20:45,ITA C1B,AC Feralpisalo,3:0,Triestina Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+112,04.11.,20:45,FRA 2,Le Havre AC,1:1,AS Nancy,Frankreich Ligue 2
+113,04.11.,21:00,ENG CS,Stoke City,0:2,West Bromwich,England Championship
+114,04.11.,21:00,ITA B,Cosenza Calcio,2:0,US Cremonese,Italien Serie B
+115,04.11.,22:00,POR 1,Vitoria Setubal,1:0,Boavista FC,Portugal Primeira Liga
+116,04.11.,22:00,POR 1,Portimonense SC,1:1,CD Santa Clara,Portugal Primeira Liga
+117,05.11.,01:00,NHL,New York Rangers,2:6,Ottawa Senators,USA NHL
+118,05.11.,01:00,NHL,Boston Bruins,6:4,Pittsburgh Peng.,USA NHL
+119,05.11.,03:00,NHL,Edmonton Oilers,2:2,Arizona Coyotes,USA NHL
+120,05.11.,01:30,NHL,Detroit Red Wings,1:6,Nashville Pred.,USA NHL

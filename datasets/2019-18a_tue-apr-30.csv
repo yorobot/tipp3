@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,30.04.,16:45,BLR CUP,FC Dinamo Minsk,0:0,FC Vitebsk,Weißrussland Cup
+002,30.04.,17:30,FIN 1,FC Lahti,1:1,Vaasa PS,Finnland Veikkausliiga
+003,30.04.,17:30,EGY 1,Ismaily SC,0:1,Haras El Hodood,Ägypten Premier League
+004,30.04.,17:30,EGY 1,Smouha SC,0:0,EL Gouna FC,Ägypten Premier League
+005,30.04.,17:30,EGY 1,Nogoom Mostakbal,1:2,Al Ittihad,Ägypten Premier League
+006,30.04.,18:00,SERB 1,FK Proleter,2:3,FK Radnicki Nis,Serbien Meridijan Superliga
+007,30.04.,18:00,FIN 1,Seinajoen JK,1:0,KPV Kokkola,Finnland Veikkausliiga
+008,30.04.,19:00,FRA 1,HSC Montpellier,3:2,Paris SG,Frankreich Ligue 1
+009,30.04.,19:00,HB AUT,Handball Tirol,18:25,Alpla HC Hard,Österreich HLA
+010,30.04.,19:00,HB AUT,Bregenz Handball,21:25,SG Westwien,Österreich HLA
+011,30.04.,19:00,HB AUT,SC Ferlach,24:33,UHK Krems,Österreich HLA
+012,30.04.,19:30,RSA PL,Black Leopards FC,1:2,Mamelodi FC,"Südafrika, Premier League"
+013,30.04.,20:00,ISL CUP,UMF Grindavik,4:1,Afturelding,Island Cup
+014,30.04.,20:00,ISL CUP,Fram Reykjavik,1:1,UMF Njardvik,Island Cup
+015,30.04.,20:00,ISL CUP,IR Reykjavik,1:3,Fjölnir,Island Cup
+016,30.04.,20:00,EGY 1,Al-Masry Club,0:0,Wadi Degla SC,Ägypten Premier League
+017,30.04.,20:00,EGY 1,Misr LeL Makasa,1:1,Pyramids FC,Ägypten Premier League
+018,30.04.,20:00,EH SWE,Frölunda HC,6:2,Djurgardens IF,Schweden Elitserien
+019,30.04.,20:30,BB GER,Bayern München,85:78,BB Bamberg,Deutschland BBL
+020,30.04.,20:45,ENG CS,FC Millwall,1:2,Bristol City,England Championship
+021,30.04.,20:45,ENG 1,FC Portsmouth,2:3,Peterborough Utd.,England League One
+022,30.04.,20:45,ENG 1,Fleetwood Town,2:1,AFC Sunderland,England League One
+023,30.04.,21:00,CL,Tottenham ENG,0:1,Ajax Amsterd. NED,UEFA Champions League
+024,30.04.,21:00,CL,Tottenham,0:2,Ajax Amsterdam+1,UEFA Champions League
+025,30.04.,21:00,CL,Tottenham+1,1:1,Ajax Amsterdam,UEFA Champions League
+026,01.05.,00:15,COPA S,CA Cerro URU,3:1,UTC Cajamarca PER,Copa Sudamericana
+027,01.05.,01:00,NHL,Columbus Blue J.,2:1,Boston Bruins,USA NHL
+028,01.05.,01:30,PAR 1,General Diaz,0:1,River Pl.Asuncion,Paraguay Primera Division
+029,01.05.,02:00,COL 1,Envigado FC,4:0,Atletico Nacional,Kolumbien Primera Liga
+030,01.05.,02:00,NBA,Milwaukee Bucks,123:102,Boston Celtics,USA NBA
+031,01.05.,02:30,COPA S,Colo Colo CHI,0:1,CD Catolica ECU,Copa Sudamericana
+032,01.05.,04:00,NHL,Colorado Avalan.,2:4,San Jose Sharks,USA NHL
+033,01.05.,04:30,NBA,Golden State W.,115:109,Houston Rockets,USA NBA
+034,01.05.,12:30,ITA B,US Palermo,2:2,Spezia Calcio,Italien Serie B
+035,01.05.,14:30,ITA C1C,US Catanzaro,2:0,Viterbo Calcio,"Italien, Lega Pro Prima Divisione, Girone C"
+036,01.05.,14:30,BEL CUP,KAA Gent*,1:2,YR KV Mechelen,Belgium Beker van Belgie
+037,01.05.,14:45,SLO 1,NK Domzale,1:1,NS Mura,Slowenien PrvaLiga Telekom
+038,01.05.,15:00,ITA B,Carpi FC,1:2,US Cremonese,Italien Serie B
+039,01.05.,15:00,ITA B,Cosenza Calcio,1:1,SSC Venezia,Italien Serie B
+040,01.05.,15:00,ITA B,FC Crotone,1:0,Benevento Calcio,Italien Serie B
+041,01.05.,15:00,ITA B,US Foggia,3:1,Salernitana Calcio,Italien Serie B
+042,01.05.,15:00,ITA B,Hellas Verona,2:3,AS Livorno,Italien Serie B
+043,01.05.,15:00,ITA B,Padua Calcio,2:1,US Lecce,Italien Serie B
+044,01.05.,15:00,ITA B,Perugia Calcio,0:0,AS Cittadella,Italien Serie B
+045,01.05.,15:00,EH TOUR,Schweden,6:4,Russland,Euro Hockey Tour
+046,01.05.,16:00,SERB 1,FK Vojvodina,0:5,Roter Stern B.,Serbien Meridijan Superliga
+047,01.05.,16:30,AUT CUP,RB Salzburg,2:0,SK Rapid Wien,Österreich ÖFB Cup
+048,01.05.,16:30,AUT CUP,RB Salzburg,2:1,SK Rapid Wien+1,Österreich ÖFB Cup
+049,01.05.,17:00,SLO 1,NK Maribor,1:1,NK Aluminij,Slowenien PrvaLiga Telekom
+050,01.05.,17:00,BB EU C,Würzburg Baske GER,79:81,Sassari ITA,Europe Cup
+051,01.05.,17:30,FIN 1,IFK Mariehamn,3:4,Kuopio PS,Finnland Veikkausliiga
+052,01.05.,18:00,BB AUT,Oberwart Gunners,97:64,BC Vienna,Österreich Basketball Superliga
+053,01.05.,18:00,BB AUT,Swans Gmunden,91:45,Traiskirchen,Österreich Basketball Superliga
+054,01.05.,18:00,ITA B,Brescia Calcio,1:0,Ascoli FC,Italien Serie B
+055,01.05.,18:00,SVK CUP,FC Spartak Trnava*,3:3,MSK Zilina,Slowakei Cup
+056,01.05.,18:00,SERB 1,Partizan Belgrad,2:1,FK Mladost Lucani,Serbien Meridijan Superliga
+057,01.05.,18:00,SERB 1,Cukaricki Belgrad,5:2,FK Napredak,Serbien Meridijan Superliga
+058,01.05.,18:00,BLR CUP,Shakhter Soligorsk,2:2,Isloch,Weißrussland Cup
+059,01.05.,18:00,ISL CUP,IBV Vestmannaeyjar,0:0,Stjarnan Gardab.,Island Cup
+060,01.05.,18:30,ISL CUP,Valur Reykjavik,1:2,FH Hafnarfjördur,Island Cup
+061,01.05.,19:00,FRA 1,Stade Rennes,2:2,AS Monaco,Frankreich Ligue 1
+062,01.05.,19:00,BB EL,Efes Istanbul TUR,80:71,FC Barcelona ESP,Euroleague
+063,01.05.,19:00,BB AUT,Klosterneuburg,85:70,Flyers Wels,Österreich Basketball Superliga
+064,01.05.,20:45,ENG CS,Swansea City,1:1,Derby County,England Championship
+065,01.05.,21:00,CL,FC Barcelona ESP,3:0,FC Liverpool ENG,UEFA Champions League
+066,01.05.,21:00,CL,FC Barcelona,3:1,FC Liverpool+1,UEFA Champions League
+067,01.05.,21:00,BRA 1,CS Alagoano AL,1:1,SE Palmeiras SP,Brasilien Brasilero Serie A
+068,01.05.,21:00,BRA 1,Internacional RS,2:1,CR Flamengo RJ,Brasilien Brasilero Serie A
+069,01.05.,21:00,BRA 1,Corinthians SP,1:0,Chapecoense SC,Brasilien Brasilero Serie A
+070,01.05.,21:00,BRA 2,Oeste FC SP,2:0,Guarani FC SP,Brasilien Brasilero Serie B
+071,01.05.,21:00,BOL 1,Alw.Ready La Paz,6:0,Guabira Montero,Bolivien Liga Profesjonal
+072,01.05.,21:00,COL 1,B. Patriotas FC,1:0,Deportes Tolima,Kolumbien Primera Liga
+073,01.05.,23:00,COL 1,Rionegro Aguilas,2:1,Deportivo Pasto,Kolumbien Primera Liga
+074,01.05.,23:00,PAR 1,Deportivo Capiata,2:2,Olimpia Asuncion,Paraguay Primera Division
+075,01.05.,23:15,BOL 1,Club Destroyers,0:1,The Strongest,Bolivien Liga Profesjonal
+076,02.05.,00:15,COPA S,Sol de America PAR,1:0,Min. Guayana VEN,Copa Sudamericana
+077,02.05.,00:15,BRA 1,Cruzeiro EC MG,1:0,Ceara SC CE,Brasilien Brasilero Serie A
+078,02.05.,00:15,BRA 1,Avai FC SC,1:1,Gremio RS,Brasilien Brasilero Serie A
+079,02.05.,01:00,NHL,Carolina Hurric.,5:2,NY Islanders,USA NHL
+080,02.05.,01:30,USA MLS,Philadelphia Union,2:0,FC Cincinnati,USA Major League Soccer
+081,02.05.,02:30,BRA 1,Fortaleza EC CE,2:1,Atletico PR,Brasilien Brasilero Serie A
+082,02.05.,02:30,BRA 1,Vasco Da Gama RJ,1:2,Atletico MG,Brasilien Brasilero Serie A
+083,02.05.,02:30,BRA 1,Goias EC GO,1:2,Sao Paulo SP,Brasilien Brasilero Serie A
+084,02.05.,03:00,NBA,Denver Nuggets,90:97,Portland T.,USA NBA
+085,02.05.,03:30,NHL,Dallas Stars,4:2,St. Louis Blues,USA NHL
+086,02.05.,04:00,CCC CL,CF Monterrey MEX,1:1,UANL Tigres MEX,CONCACAF Champions League
+087,02.05.,14:30,SLO 1,NK Triglav,1:1,ND Gorica,Slowenien PrvaLiga Telekom
+088,02.05.,16:00,POL CUP,Jagiellonia Bial.*,0:1,KS Lechia Gdansk,Polen Cup
+089,02.05.,16:45,SLO 1,NK Celje,1:0,Olimpija Ljubljana,Slowenien PrvaLiga Telekom
+090,02.05.,17:30,FIN 2,Haka Valkeakoski,6:3,FC KTP,Finnland Ykkonen
+091,02.05.,17:30,EH TOUR,Finnland*,3:2,Tschechien,Euro Hockey Tour
+092,02.05.,17:30,EH FIN,HPK Hämeenlinna,1:0,Kärpät Oulu,Finnland SM-Liiga
+093,02.05.,18:00,SLO 1,NK Krsko,1:2,NK Rudar Velenje,Slowenien PrvaLiga Telekom
+094,02.05.,19:30,EH SWE,Djurgardens IF,2:6,Frölunda HC,Schweden Elitserien
+095,02.05.,21:00,EL,FC Arsenal ENG,3:1,FC Valencia ESP,UEFA Europa League
+096,02.05.,21:00,EL,FC Arsenal,3:2,FC Valencia+1,UEFA Europa League
+097,02.05.,21:00,EL,E. Frankfurt GER,1:1,FC Chelsea ENG,UEFA Europa League
+098,02.05.,21:00,EL,Eintr. Frankfurt,1:2,FC Chelsea+1,UEFA Europa League
+099,02.05.,21:00,EL,Eintr. Frankfurt+1,2:1,FC Chelsea,UEFA Europa League
+100,02.05.,23:15,COL 1,CA Bucaramanga,0:1,UM Santa Marta,Kolumbien Primera Liga
+101,03.05.,01:15,COL 1,Atletico Junior,1:1,Alianza Petrolera,Kolumbien Primera Liga
+102,03.05.,03:15,COL 1,America de Cali,2:0,Cucuta Deportivo,Kolumbien Primera Liga
+103,03.05.,02:10,ARG SC,Boca Juniors*,0:0,CA Rosario Central,Argentinien Supercup
+104,03.05.,00:15,BRA 1,Santos SP,2:1,Fluminense RJ,Brasilien Brasilero Serie A
+105,03.05.,01:00,BRA 1,Botafogo FR RJ,3:2,EC Bahia BA,Brasilien Brasilero Serie A
+106,03.05.,02:00,BRA 2,AA Ponte Preta SP,1:1,Criciuma EC SC,Brasilien Brasilero Serie B
+107,03.05.,00:15,BOL 1,Jorge Wilstermann,5:2,Sport Boys Warnes,Bolivien Liga Profesjonal
+108,03.05.,02:30,BOL 1,San Jose Oruro,3:2,Oriente Petrolero,Bolivien Liga Profesjonal
+109,03.05.,01:00,PAR 1,Club Libertad,1:2,Nacional Asuncion,Paraguay Primera Division
+110,03.05.,00:15,COPA S,Est. de Merida VEN,abgesagt,Argentinos Jun ARG,Copa Sudamericana
+111,03.05.,02:30,COPA S,Guar. Asuncion PAR,1:0,AD Cali COL,Copa Sudamericana
+112,03.05.,01:30,NHL,Columbus Blue J.,1:4,Boston Bruins,USA NHL
+113,03.05.,04:00,NHL,Colorado Avalan.,3:0,San Jose Sharks,USA NHL
+114,03.05.,02:00,NBA,Philadelphia 76ers,116:95,Toronto Raptors,USA NBA
+115,04.05.,17:00,AUT BL,Admira Wacker,3:4,SK Rapid Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+116,04.05.,17:00,AUT BL,SV Mattersburg,0:0,SCR Altach,"Österreich Bundesliga, Qualifikationsgruppe"
+117,04.05.,17:00,AUT BL,Wacker Innsbruck,1:0,TSV Hartberg,"Österreich Bundesliga, Qualifikationsgruppe"
+118,05.05.,14:30,AUT BL,LASK Linz,3:0,Wolfsberger AC,Österreich Bundesliga
+119,05.05.,14:30,AUT BL,SKN St. Pölten,0:1,SK Sturm Graz,Österreich Bundesliga
+120,05.05.,17:00,AUT BL,FK Austria Wien,1:2,RB Salzburg,Österreich Bundesliga

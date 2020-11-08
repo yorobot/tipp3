@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,05.02.,12:30,DA-SG,"Shiffrin, Mikaela",Shiffri,"Goggia, Sofia","Ski Alpin, Damen Super G"
+002,05.02.,12:30,DA-SG,Schmidhofer N.,Schmidh,"Weirather, Tina","Ski Alpin, Damen Super G"
+003,05.02.,12:30,DA-SG,Mowinckel R.,Mowinck,"Venier, Stephanie","Ski Alpin, Damen Super G"
+004,05.02.,12:30,DA-SG,"Suter, Corinne","Suter,",Siebenhofer R.,"Ski Alpin, Damen Super G"
+005,05.02.,12:30,DA-SG,"Tippler, Tamara",Tippler,"Ledecka, Ester","Ski Alpin, Damen Super G"
+006,05.02.,17:00,KHL,AK Bars Kasan,5:1,Torp. Nowgorod,Kontinental Hockey League
+007,05.02.,17:30,KHL,Spartak Moskau,3:1,HC Sochi,Kontinental Hockey League
+008,05.02.,18:00,ISR CUP,Hapoel Afula FC,0:2,Bnei Yehuda,Israel Cup
+009,05.02.,18:30,GER CUP,Hamburger SV,1:0,1. FC Nürnberg,Deutschland DFB Pokal
+010,05.02.,18:30,GER CUP,FC Heidenheim,2:1,Bayer Leverkusen,Deutschland DFB Pokal
+011,05.02.,18:30,FRA CUP,FC Metz,0:1,US Orleans 45,Frankreich Coupe de France
+012,05.02.,18:30,FRA CUP,Croix IC,0:3,Dijon Football,Frankreich Coupe de France
+013,05.02.,18:30,FRA CUP,FC Nantes,2:0,FC Toulouse,Frankreich Coupe de France
+014,05.02.,18:30,TUR CUP,Trabzonspor,0:0,Umraniyespor,Türkei Türkiye Kupasi
+015,05.02.,18:45,BB EC,Roter Stern SRB,105:89,CB Malaga ESP,Eurocup
+016,05.02.,19:00,FRA 1,Olymp. Marseille,1:0,Bordeaux,Frankreich Ligue 1
+017,05.02.,19:00,EH CL,Frölunda HC SWE,3:1,EHC München GER,Champions Hockey League
+018,05.02.,20:00,ISR CUP,Maccabi Netanya,1:0,Macc. Petach Tikva,Israel Cup
+019,05.02.,20:45,GER CUP,MSV Duisburg,1:3,SC Paderborn,Deutschland DFB Pokal
+020,05.02.,20:45,GER CUP,Bor. Dortmund,1:1,Werder Bremen,Deutschland DFB Pokal
+021,05.02.,20:45,GER CUP,Bor. Dortmund,1:2,W. Bremen+1,Deutschland DFB Pokal
+022,05.02.,20:45,ENG FA,Queens Park R.,2:0,FC Portsmouth,England FA Cup
+023,05.02.,20:45,ENG FA,Newport County,2:0,FC Middlesbrough,England FA Cup
+024,05.02.,20:45,ENG FA,Wolverhampton,3:2,Shrewsbury Town,England FA Cup
+025,05.02.,20:45,ENG FA,FC Brentford,3:1,FC Barnet,England FA Cup
+026,05.02.,20:45,NIRL 1,FC Dungannon,0:2,FC Coleraine,Nordirland JJB Sports Premiership
+027,05.02.,20:45,BB EC,Alba Berlin GER,97:74,Partizan Belgr SRB,Eurocup
+028,05.02.,21:00,FRA CUP,SC Bastia,1:1,SM Caen,Frankreich Coupe de France
+029,05.02.,21:15,POR 2,FC Famalicao,0:1,FC Pacos Ferreira,Portugal Segunda Liga
+030,05.02.,22:15,COPA L,Danubio FC URU,2:2,Atletico MG BRA,Copa Libertadores
+031,06.02.,00:30,COPA L,The Strongest BOL,1:1,Club Libertad PAR,Copa Libertadores
+032,06.02.,00:30,COPA L,FBC Melgar PER,1:0,Univ. de Chile CHI,Copa Libertadores
+033,06.02.,00:30,COPA S,Un.La Calera CHI,0:0,Chapecoense SC BRA,Copa Sudamericana
+034,06.02.,01:00,NHL,Buffalo Sabres,4:4,Minnesota Wild,USA NHL
+035,06.02.,01:00,NHL,Florida Panthers,2:3,St. Louis Blues,USA NHL
+036,06.02.,01:00,NHL,New Jersey Devils,1:5,Los Angeles Kings,USA NHL
+037,06.02.,01:00,NHL,Pittsburgh Peng.,0:4,Carolina Hurric.,USA NHL
+038,06.02.,01:00,NHL,Washington Cap.,3:2,Vancouver Can.,USA NHL
+039,06.02.,01:30,NHL,Montreal Canad.,4:1,Anaheim Ducks,USA NHL
+040,06.02.,01:30,NHL,Tampa Bay Lightn.,2:2,Vegas Gold.Knights,USA NHL
+041,06.02.,02:00,NHL,Nashville Pred.,5:2,Arizona Coyotes,USA NHL
+042,06.02.,02:00,NHL,Winnipeg Jets,2:2,San Jose Sharks,USA NHL
+043,06.02.,02:00,NHL,Colorado Avalan.,3:6,Columbus Blue J.,USA NHL
+044,06.02.,02:00,NBA,Philadelphia 76ers,107:119,Toronto Raptors,USA NBA
+045,06.02.,12:30,HE-SG,"Paris, Dominik",Paris,Kriechmayr V.,"Ski Alpin, Herren Super G"
+046,06.02.,12:30,HE-SG,"Mayer, Matthias",Kilde A,"Kilde, Aleks. A.","Ski Alpin, Herren Super G"
+047,06.02.,12:30,HE-SG,"Feuz, Beat",Innerho,Innerhofer C.,"Ski Alpin, Herren Super G"
+048,06.02.,12:30,HE-SG,"Reichelt, Hannes",Theaux,"Theaux, Adrien","Ski Alpin, Herren Super G"
+049,06.02.,12:30,HE-SG,Svindal A.,Ferstl,"Ferstl, Josef","Ski Alpin, Herren Super G"
+050,06.02.,15:00,FS,RB Salzburg,0:0,SCR Altach,Freundschaftsspiele Österreich
+051,06.02.,16:00,GRE CUP,Lamia 1964,3:3,Olympiakos Piräus,Griechenland Cup
+052,06.02.,16:00,CYP CUP,Doxa Katokopias,abgesagt,APOEL Nikosia,Zypern Cup
+053,06.02.,16:30,TUR CUP,Yeni Malatyaspor,1:0,Göztepe,Türkei Türkiye Kupasi
+054,06.02.,17:30,EH FIN,Ilves Tampere,4:2,Vaasan Sport,Finnland SM-Liiga
+055,06.02.,17:30,EH FIN,Jukurit Mikkeli,1:1,Lukko Rauma,Finnland SM-Liiga
+056,06.02.,17:30,EH FIN,JYP Jyväskylä,6:2,Pelicans Lahti,Finnland SM-Liiga
+057,06.02.,17:30,EH FIN,Kookoo,2:4,HPK Hämeenlinna,Finnland SM-Liiga
+058,06.02.,17:30,EH FIN,Kärpät Oulu,5:2,KalPa Kuopio,Finnland SM-Liiga
+059,06.02.,18:00,POR 2,SC Covilha,3:0,CD Cova Piedade,Portugal Segunda Liga
+060,06.02.,18:00,GRE CUP,Panionios Athen,2:1,PAOK Thessaloniki,Griechenland Cup
+061,06.02.,18:30,GER CUP,Holstein Kiel,0:1,FC Augsburg,Deutschland DFB Pokal
+062,06.02.,18:30,GER CUP,RB Leipzig,1:0,VfL Wolfsburg,Deutschland DFB Pokal
+063,06.02.,18:30,FRA CUP,AS Vitre,3:2,Lyon Duchere,Frankreich Coupe de France
+064,06.02.,18:30,TUR CUP,Galatasaray,2:0,Hatayspor,Türkei Türkiye Kupasi
+065,06.02.,20:00,SUI SL,FC Lugano,1:3,FC Thun,Schweiz Axpo Super League
+066,06.02.,19:00,HB CL,Rhein-Neckar GER,27:30,Vardar Skopje MKD,"Champions League, Herren"
+067,06.02.,19:30,EH ALP,Bregenzerwald AUT,1:4,EHC Lustenau AUT,Alps Hockey League
+068,06.02.,20:00,ISR CUP,Bnei Sakhnin FC*,1:4,Maccabi Tel Aviv,Israel Cup
+069,06.02.,20:00,SUI SL,FC St. Gallen,3:1,FC Zürich,Schweiz Axpo Super League
+070,06.02.,20:45,GER CUP,FC Schalke 04,4:1,Fortuna Düsseldorf,Deutschland DFB Pokal
+071,06.02.,20:45,GER CUP,Hertha BSC,2:2,FC Bayern München,Deutschland DFB Pokal
+072,06.02.,20:45,GER CUP,Hertha BSC+1,3:2,FC Bayern München,Deutschland DFB Pokal
+073,06.02.,20:45,ENG PL,FC Everton,0:2,Manchester City,England Premier League
+074,06.02.,20:45,SCO PS,FC Aberdeen,2:4,Glasgow Rangers,Schottland Premiership
+075,06.02.,20:45,SCO PS,Celtic Glasgow,2:0,Hibernian FC,Schottland Premiership
+076,06.02.,20:45,SCO PS,FC Dundee,2:2,FC Kilmarnock,Schottland Premiership
+077,06.02.,20:45,SCO PS,Hamilton FC,2:1,FC St. Johnstone,Schottland Premiership
+078,06.02.,20:45,SCO PS,Heart of Midl.,0:0,FC Livingston,Schottland Premiership
+079,06.02.,20:45,SCO PS,FC St. Mirren,1:2,FC Motherwell,Schottland Premiership
+080,06.02.,21:00,ESP CUP,FC Barcelona,1:1,Real Madrid,Spanien Copa del Rey
+081,06.02.,21:00,ESP CUP,FC Barcelona,1:2,Real Madrid+1,Spanien Copa del Rey
+082,06.02.,21:05,ENG FA,West Bromwich,1:1,Brighton & Hove,England FA Cup
+083,06.02.,21:05,FRA CUP,Stade Rennes,2:1,Lille OSC,Frankreich Coupe de France
+084,06.02.,21:45,POR CUP,Benfica Lissabon,2:1,Sporting Lissabon,Portugal Taca de Portugal
+085,06.02.,22:15,COPA L,Delfin SC ECU,1:1,Caracas FC VEN,Copa Libertadores
+086,06.02.,22:15,COPA L,Defensor Sp. URU,1:2,Barcelona G. ECU,Copa Libertadores
+087,07.02.,00:30,COPA L,CA Talleres ARG,2:0,Sao Paulo SP BRA,Copa Libertadores
+088,07.02.,00:30,COPA S,Botafogo FR RJ BRA,1:0,Defensa y Jus. ARG,Copa Sudamericana
+089,07.02.,01:30,NHL,Toronto Maple L.,5:4,Ottawa Senators,USA NHL
+090,07.02.,02:00,NHL,New York Rangers,3:3,Boston Bruins,USA NHL
+091,07.02.,09:50,AUS 1,Newcastle Jets,1:1,Wellington Ph.,Australien Hyundai A-League
+092,07.02.,16:00,GRE CUP,Ergotelis FC,0:1,Asteras Tripolis,Griechenland Cup
+093,07.02.,17:30,EH TOUR,Russland,2:2,Finnland,Euro Hockey Tour
+094,07.02.,18:30,TUR CUP,Akhisarspor,3:1,Kasimpasa,Türkei Türkiye Kupasi
+095,07.02.,18:30,GRE CUP,Atromitos Athen,0:1,AEK Athen,Griechenland Cup
+096,07.02.,18:30,BB EL,Efes Istanbul TUR,93:74,Gran Canaria ESP,Euroleague
+097,07.02.,19:00,BB EL,KK Buducnost V MNE,90:98,Khimki Moskau RUS,Euroleague
+098,07.02.,19:00,HB GER,VfL Gummersbach,20:20,Ludwigshafen,Deutsche Handball Bundesliga
+099,07.02.,19:00,HB GER,TBV Lemgo,34:30,Füchse Berlin,Deutsche Handball Bundesliga
+100,07.02.,19:00,HB GER,Hannover Burgd.,33:22,TVB Stuttgart,Deutsche Handball Bundesliga
+101,07.02.,19:00,EH TOUR,Tschechien*,5:2,Schweden,Euro Hockey Tour
+102,07.02.,20:00,EH FS,Österreich,2:4,Dänemark,"Freundschaftsspiele, Herren"
+103,07.02.,20:05,BB EL,M.Tel Aviv ISR,65:64,Olympiakos P. GRE,Euroleague
+104,07.02.,20:30,ITA A,Lazio Rom,1:0,FC Empoli,Italien Serie A
+105,07.02.,20:30,FRA 3,Rodez Aveyron,2:1,FC Chambly,Frankreich National
+106,07.02.,20:45,HB CL,HBC Nantes FRA,31:35,Paris Handball FRA,"Champions League, Herren"
+107,07.02.,21:00,BB EL,FC Barcelona ESP,78:72,BC Zalgiris LTU,Euroleague
+108,07.02.,21:00,ESP CUP,Betis Sevilla,2:2,FC Valencia,Spanien Copa del Rey
+109,07.02.,21:00,FRA CUP,EA Guingamp,1:2,Olympique Lyon,Frankreich Coupe de France
+110,07.02.,22:15,COPA S,EC Bahia BA BRA,0:1,Liverpool Mont URU,Copa Sudamericana
+111,08.02.,00:30,COPA S,Dep.Santani PAR,1:1,CD Once Caldas COL,Copa Sudamericana
+112,08.02.,00:30,COPA L,Dvo. La Guaira VEN,0:1,Atletico Nac. COL,Copa Libertadores
+113,08.02.,01:00,NHL,Florida Panthers,2:2,Pittsburgh Peng.,USA NHL
+114,08.02.,01:00,NHL,Philadelphia Fl.,2:2,Los Angeles Kings,USA NHL
+115,08.02.,01:00,NHL,Washington Cap.,3:3,Colorado Avalan.,USA NHL
+116,08.02.,01:30,NHL,Montreal Canad.,5:2,Winnipeg Jets,USA NHL
+117,08.02.,01:30,NHL,Detroit Red Wings,3:4,Vegas Gold.Knights,USA NHL
+118,08.02.,01:30,NHL,Tampa Bay Lightn.,0:0,St. Louis Blues,USA NHL
+119,08.02.,02:00,NHL,Nashville Pred.,2:2,Dallas Stars,USA NHL
+120,08.02.,03:00,NHL,Calgary Flames,2:5,San Jose Sharks,USA NHL

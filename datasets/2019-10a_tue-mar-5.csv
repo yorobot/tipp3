@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,05.03.,13:00,AFC CL,Guangzhou Ev. CHN,2:0,S. Hiroshima JPN,AFC Champions League
+002,05.03.,14:30,ITA C1A,Cuneo,2:0,Virtus Entella,"Italien Lega Pro Prima Divisione, Girone A"
+003,05.03.,17:30,EH FIN,HPK Hämeenlinna,4:2,HC TPS Turku,Finnland SM-Liiga
+004,05.03.,18:00,EH AUT,Fehervar,4:2,HC Bozen Foxes,Österreich Eishockey Liga
+005,05.03.,18:30,ITA C1A,Robur Siena,2:3,AC Pistoiese,"Italien Lega Pro Prima Divisione, Girone A"
+006,05.03.,19:00,FRA 1,Bordeaux,1:2,HSC Montpellier,Frankreich Ligue 1
+007,05.03.,19:00,EH SWE,Lulea Hockey,2:2,HV 71,Schweden Elitserien
+008,05.03.,19:00,EH SWE,Frölunda HC,3:1,Linköpings HC,Schweden Elitserien
+009,05.03.,19:00,EH SWE,Timra IK,3:5,HC Örebro,Schweden Elitserien
+010,05.03.,19:00,EH SWE,Malmö IF,7:1,Mora IK,Schweden Elitserien
+011,05.03.,19:00,EH SWE,Färjestads BK,4:1,Brynas IF,Schweden Elitserien
+012,05.03.,19:00,EH SWE,Växjö Lakers,4:1,Rögle BK,Schweden Elitserien
+013,05.03.,19:00,EH SWE,Djurgardens IF,2:2,Skelleftea AIK,Schweden Elitserien
+014,05.03.,19:10,AUT 2,SV Lafnitz,1:1,WSG Swarovs. Tirol,Österreich Zweite Liga
+015,05.03.,19:15,EH AUT,KAC Klagenfurt,1:4,Vienna Capitals,Österreich Eishockey Liga
+016,05.03.,19:15,EH AUT,EC RB Salzburg,1:2,EC Graz 99ers,Österreich Eishockey Liga
+017,05.03.,19:15,EH AUT,EC Dornbirn,1:8,HC Znojmo,Österreich Eishockey Liga
+018,05.03.,19:15,EH AUT,HC Innsbruck,5:1,Black Wings Linz,Österreich Eishockey Liga
+019,05.03.,20:30,ITA C1A,SC Pisa,2:1,Pro Vercelli,"Italien Lega Pro Prima Divisione, Girone A"
+020,05.03.,20:45,ENG CS,Derby County,2:1,Wigan Athletic,England Championship
+021,05.03.,20:45,ENG 1,Accrington Stanley,1:2,FC Blackpool,England League One
+022,05.03.,20:45,ENG LTR,Bristol Rovers,0:2,AFC Sunderland,England Football League Trophy
+023,05.03.,20:45,SCO 1,FC Brechin City,0:0,FC East Fife,Schottland League One
+024,05.03.,21:00,CL,Bor. Dortmund GER,0:1,Tottenham ENG,UEFA Champions League
+025,05.03.,21:00,CL,Bor. Dortmund,0:2,Tottenham+1,UEFA Champions League
+026,05.03.,21:00,CL,Real Madrid ESP,1:4,Ajax Amsterd. NED,UEFA Champions League
+027,05.03.,21:00,CL,Real Madrid,1:5,Ajax Amsterdam+1,UEFA Champions League
+028,05.03.,23:15,INT D,England Damen*,3:0,Japan Damen,"International, Damen"
+029,05.03.,23:15,COPA L,CD Godoy Cruz ARG,0:0,Ol. Asuncion PAR,Copa Libertadores
+030,05.03.,23:15,COPA L,San Jose Oruro BOL,0:1,CR Flamengo RJ BRA,Copa Libertadores
+031,06.03.,01:00,NHL,Boston Bruins,3:3,Carolina Hurric.,USA NHL
+032,06.03.,01:00,NHL,New Jersey Devils,1:1,Columbus Blue J.,USA NHL
+033,06.03.,01:00,NHL,NY Islanders,4:4,Ottawa Senators,USA NHL
+034,06.03.,01:00,NHL,Pittsburgh Peng.,2:2,Florida Panthers,USA NHL
+035,06.03.,01:30,NHL,Tampa Bay Lightn.,5:2,Winnipeg Jets,USA NHL
+036,06.03.,01:30,COPA L,Dep.Tolima COL,1:0,Atletico PR BRA,Copa Libertadores
+037,06.03.,01:30,COPA L,J.Wilstermann BOL,0:0,Boca Juniors ARG,Copa Libertadores
+038,06.03.,02:00,INT D,USA Damen,1:0,Brasilien Damen,"International, Damen"
+039,06.03.,02:00,NHL,Nashville Pred.,4:4,Minnesota Wild,USA NHL
+040,06.03.,02:30,NHL,Dallas Stars,1:0,New York Rangers,USA NHL
+041,06.03.,03:00,NHL,Colorado Avalan.,3:3,Detroit Red Wings,USA NHL
+042,06.03.,03:00,NHL,Arizona Coyotes,1:3,Anaheim Ducks,USA NHL
+043,06.03.,03:45,MEX 1,Club America,1:3,Necaxa,Mexiko Primera Division
+044,06.03.,04:30,NHL,Los Angeles Kings,1:3,Montreal Canad.,USA NHL
+045,06.03.,11:00,JPN LC,V-Varen Nagasaki,2:1,Shonan Bellmare,Japan Nabisco Cup
+046,06.03.,11:00,JPN LC,Kashiwa Reysol,2:1,FC Tokyo,Japan Nabisco Cup
+047,06.03.,11:00,JPN LC,Oita Trinita,2:1,Cerezo Osaka,Japan Nabisco Cup
+048,06.03.,11:00,JPN LC,Nagoya Grampus,2:2,Vissel Kobe,Japan Nabisco Cup
+049,06.03.,11:00,JPN LC,Jubilo Iwata,1:0,Gamba Osaka,Japan Nabisco Cup
+050,06.03.,11:00,JPN LC,Matsumoto Yamaga,2:1,Shimizu S-Pulse,Japan Nabisco Cup
+051,06.03.,11:30,JPN LC,Yokohama F Marinos,1:1,Hokkaido Consadole,Japan Nabisco Cup
+052,06.03.,11:30,JPN LC,Sagan Tosu,1:3,Vegalta Sendai,Japan Nabisco Cup
+053,06.03.,14:30,ITA C1C,Viterbese,0:0,AC Monopoli,"Italien, Lega Pro Prima Divisione, Girone C"
+054,06.03.,16:00,SERB 1,Cukaricki Belgrad,2:1,FK Napredak,Serbien Meridijan Superliga
+055,06.03.,16:00,SERB 1,FK Mladost Lucani,1:3,Roter Stern B.,Serbien Meridijan Superliga
+056,06.03.,17:00,RUS CUP,FC Rubin Kazan,0:1,Lok Moskau,Russland Russian Cup
+057,06.03.,17:00,RUS CUP,Arsenal Tula,1:1,Gazovik Orenburg,Russland Russian Cup
+058,06.03.,17:00,CYP CUP,AEK Larnaca,3:3,APOEL Nikosia,Zypern Cup
+059,06.03.,17:30,EH FIN,HIFK Helsinki,3:6,Pelicans Lahti,Finnland SM-Liiga
+060,06.03.,17:30,EH FIN,Jukurit Mikkeli,0:3,SaiPa Lappeenr.,Finnland SM-Liiga
+061,06.03.,17:30,EH FIN,JYP Jyväskylä,2:2,KalPa Kuopio,Finnland SM-Liiga
+062,06.03.,17:30,EH FIN,Tappara Tampere,4:3,Ässät Pori,Finnland SM-Liiga
+063,06.03.,17:30,EH FIN,HC TPS Turku,1:4,Lukko Rauma,Finnland SM-Liiga
+064,06.03.,18:00,SUI CUP,FC Luzern,4:0,Young Boys Bern,Schweiz Cup
+065,06.03.,18:00,SERB 1,FK Vojvodina,1:2,Spartak Subotica,Serbien Meridijan Superliga
+066,06.03.,18:00,SERB 1,Partizan Belgrad,0:1,FK Radnicki Nis,Serbien Meridijan Superliga
+067,06.03.,18:30,FRA CUP,AS Vitre*,0:2,FC Nantes,Frankreich Coupe de France
+068,06.03.,20:30,ITA C1B,Ternana Calcio,0:0,Sambenedettese,"Italien Lega Pro Prima Divisione, Girone B"
+069,06.03.,21:00,CL,Paris SG FRA,1:3,Manchester U. ENG,UEFA Champions League
+070,06.03.,21:00,CL,Paris SG,1:4,Manchester Utd.+1,UEFA Champions League
+071,06.03.,21:00,CL,FC Porto POR,2:1,AS Roma ITA,UEFA Champions League
+072,06.03.,21:00,CL,FC Porto,2:2,AS Roma+1,UEFA Champions League
+073,06.03.,23:15,COPA L,UD Concepcion CHI,5:4,Sp. Cristal PER,Copa Libertadores
+074,07.03.,01:30,COPA L,Alianza Lima PER,1:1,CA River Plate ARG,Copa Libertadores
+075,07.03.,01:30,COPA L,Zamora FC VEN,0:1,Club Nacional URU,Copa Libertadores
+076,07.03.,01:30,COPA L,Atl. Junior COL,0:2,SE Palmeiras S BRA,Copa Libertadores
+077,07.03.,01:30,COPA L,Rosario Cen. ARG,1:1,Gremio RS BRA,Copa Libertadores
+078,07.03.,01:30,NHL,Philadelphia Fl.,3:5,Washington Cap.,USA NHL
+079,07.03.,03:00,NHL,Vancouver Can.,2:2,Toronto Maple L.,USA NHL
+080,07.03.,04:00,NHL,Anaheim Ducks,4:5,St. Louis Blues,USA NHL
+081,07.03.,04:30,NHL,Vegas Gold.Knights,2:1,Calgary Flames,USA NHL
+082,07.03.,15:00,RUS CUP,Ural Jekaterinburg,1:0,FC Spartak Moskau,Russland Russian Cup
+083,07.03.,16:00,GRE 2,Chania FC,2:2,AO Platanias,Griechenland Super League 2
+084,07.03.,18:15,BB EL,Darüssafaka TUR,67:91,Panathinaikos GRE,Euroleague
+085,07.03.,18:55,EL,E. Frankfurt GER,0:0,Inter Mailand ITA,UEFA Europa League
+086,07.03.,18:55,EL,Eintr. Frankfurt,0:1,Inter Mailand+1,UEFA Europa League
+087,07.03.,18:55,EL,Stade Rennes FRA,3:1,FC Arsenal ENG,UEFA Europa League
+088,07.03.,18:55,EL,Zenit St.Peter RUS,1:3,Villarreal CF ESP,UEFA Europa League
+089,07.03.,18:55,EL,Dinamo Zagreb CRO,1:0,Benfica Lissab POR,UEFA Europa League
+090,07.03.,18:55,EL,FC Sevilla ESP,2:2,Slavia Prag CZE,UEFA Europa League
+091,07.03.,19:00,EH SWE,Mora IK,5:1,Växjö Lakers,Schweden Elitserien
+092,07.03.,19:00,EH SWE,Skelleftea AIK,7:0,Timra IK,Schweden Elitserien
+093,07.03.,19:00,EH SWE,Brynas IF,4:3,Malmö IF,Schweden Elitserien
+094,07.03.,19:00,EH SWE,HC Örebro,1:4,Färjestads BK,Schweden Elitserien
+095,07.03.,19:00,EH SWE,Rögle BK,5:3,Djurgardens IF,Schweden Elitserien
+096,07.03.,19:00,EH SWE,Linköpings HC,0:3,Lulea Hockey,Schweden Elitserien
+097,07.03.,19:00,BB AUT,BC Vienna,80:84,Klosterneuburg,Österreich Basketball Superliga
+098,07.03.,19:00,BB AUT,Kapfenberg Bulls,74:63,UBSC Graz,Österreich Basketball Superliga
+099,07.03.,19:00,BB AUT,Flyers Wels,95:55,Vienna Timberw.,Österreich Basketball Superliga
+100,07.03.,19:00,BB AUT,Swans Gmunden,76:81,Oberwart Gunners,Österreich Basketball Superliga
+101,07.03.,20:30,FRA 3,US Quevilly Rouen,1:1,Le Mans UC 72,Frankreich National
+102,07.03.,20:30,BB EL,Bayern München GER,70:77,M.Tel Aviv ISR,Euroleague
+103,07.03.,21:00,BB EL,Real Madrid BC ESP,101:86,Fenerbahce TUR,Euroleague
+104,07.03.,21:00,EL,SSC Napoli ITA,3:0,RB Salzburg AUT,UEFA Europa League
+105,07.03.,21:00,EL,SSC Napoli,3:1,RB Salzburg+1,UEFA Europa League
+106,07.03.,21:00,EL,FC Valencia ESP,2:1,FC Krasnodar RUS,UEFA Europa League
+107,07.03.,21:00,EL,FC Chelsea ENG,3:0,Dynamo Kiev UKR,UEFA Europa League
+108,07.03.,23:00,COPA L,CA Huracan ARG,0:1,Cruzeiro EC MG BRA,Copa Libertadores
+109,07.03.,23:15,BRA CUP,Avai FC SC,2:0,Brasil de Pelotas,Brasilien Cup
+110,08.03.,01:30,BRA CUP,Santos SP*,4:0,America RN,Brasilien Cup
+111,08.03.,01:00,COPA L,LDU Quito ECU,2:0,CA Penarol URU,Copa Libertadores
+112,08.03.,20:00,COPA L,Deportivo Lara VEN,0:0,CS Emelec ECU,Copa Libertadores
+113,08.03.,01:00,NHL,Boston Bruins,4:3,Florida Panthers,USA NHL
+114,08.03.,01:00,NHL,Pittsburgh Peng.,3:0,Columbus Blue J.,USA NHL
+115,08.03.,01:30,NHL,Ottawa Senators,2:4,NY Islanders,USA NHL
+116,08.03.,01:30,NHL,Detroit Red Wings,2:2,New York Rangers,USA NHL
+117,08.03.,01:30,NHL,Tampa Bay Lightn.,0:3,Minnesota Wild,USA NHL
+118,08.03.,02:30,NHL,Chicago Blackhawks,4:4,Buffalo Sabres,USA NHL
+119,08.03.,02:30,NHL,Dallas Stars,4:0,Colorado Avalan.,USA NHL
+120,08.03.,03:00,NHL,Edmonton Oilers,3:2,Vancouver Can.,USA NHL

@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,06.08.,17:00,EL,Ararat-Arm. ARM*,1:2,Sab.Tiflis GEO,UEFA Europa League
+002,06.08.,17:30,DEN CUP,Marstal/Rise,3:3,Kolding BK,Dänemark Landspokalturneringen
+003,06.08.,18:00,DEN CUP,Aarhus Fremad,1:1,Brabrand IF,Dänemark Landspokalturneringen
+004,06.08.,18:00,DEN CUP,BK Union,1:0,B93 Kopenhagen,Dänemark Landspokalturneringen
+005,06.08.,18:00,EL,FC Riga LAT*,1:1,HJK Helsinki FIN,UEFA Europa League
+006,06.08.,18:00,AFC CL,Al-Duhail SC QAT,1:1,Al-Sadd SC QAT,AFC Champions League
+007,06.08.,18:15,DEN CUP,FC Helsingor*,0:2,AB Gladsaxe,Dänemark Landspokalturneringen
+008,06.08.,18:30,DEN CUP,SFB Oure FA,0:0,Middelfart BK,Dänemark Landspokalturneringen
+009,06.08.,18:30,DEN CUP,Jaegersborg,1:1,HIK Hellerup,Dänemark Landspokalturneringen
+010,06.08.,18:30,DEN CUP,Jammerbugt FC,1:1,Viborg FF,Dänemark Landspokalturneringen
+011,06.08.,18:30,ISR LCP,Sectzya Nes Ziona,0:0,Hapoel Raanana FC,"Israel, League Cup Premier"
+012,06.08.,18:30,ROU 2,FC Arges Pitesti,1:2,Ripensia Timisoara,"Rumänien, Liga 2"
+013,06.08.,18:40,AFC CL,Al-Ahli Jeddah KSA,2:4,Al-Hilal Riyad KSA,AFC Champions League
+014,06.08.,19:00,CL Q,PAOK Thessal. GRE,2:2,Ajax Amsterd. NED,"UEFA Champions League, Qualifikation"
+015,06.08.,19:00,CL Q,PAOK Thessalon.+1,3:2,Ajax Amsterdam,"UEFA Champions League, Qualifikation"
+016,06.08.,19:00,CL Q,APOEL Nikosia CYP,1:2,Qarabag FK AZE,"UEFA Champions League, Qualifikation"
+017,06.08.,19:00,SWE 2,Örgryte Göteborg,3:1,Halmstads BK,Schweden Superettan
+018,06.08.,19:00,RL TIR,SV Hall,0:3,FC Kitzbühel,Regionalliga Tirol
+019,06.08.,19:00,RL TIR,FC Kufstein,1:1,SC Imst 1933,Regionalliga Tirol
+020,06.08.,19:30,RL TIR,Zirl,2:3,SC Schwaz,Regionalliga Tirol
+021,06.08.,19:30,ISR LCP,Hapoel Hadera,1:1,Maccabi Netanya,"Israel, League Cup Premier"
+022,06.08.,19:30,RSA PL,Bidwest Wits FC,0:1,Baroka FC,"Südafrika, Premier League"
+023,06.08.,20:00,CL Q,Dinamo Zagreb CRO,1:1,Ferencvaros HUN,"UEFA Champions League, Qualifikation"
+024,06.08.,20:15,EL,Sutj. Niksic MNE*,1:2,FC Linfield NIR,UEFA Europa League
+025,06.08.,20:30,ITA CUP,Reggina 1914,3:2,Vicenza Calcio,Italien Coppa Italia
+026,06.08.,20:30,CL Q,Club Brügge BEL,1:0,Dynamo Kiev UKR,"UEFA Champions League, Qualifikation"
+027,06.08.,20:45,CL Q,Roter Stern B. SRB,1:1,FC Kopenhagen DEN,"UEFA Champions League, Qualifikation"
+028,06.08.,20:45,ENG LC,FC Portsmouth,3:0,Birmingham City,England Liga Cup
+029,06.08.,21:15,ISL 1,KR Reykjavik,5:2,UMF Grindavik,Island Urvalsdeild
+030,06.08.,21:15,ISL 1,FH Hafnarfjördur,1:0,IA Akranes,Island Urvalsdeild
+031,07.08.,00:15,BRA 2,Atletico GO,0:1,CR Brasil AL,Brasilien Brasilero Serie B
+032,07.08.,01:30,USA CUP,Orlando City SC,0:2,Atlanta United FC,USA US Open Cup
+033,07.08.,02:00,COPA MX,Caf. de Tapachula,abgesagt,CF Monterrey,"Mexiko, Copa MX"
+034,07.08.,02:00,COPA MX,Atletico Morelia S,3:2,Atlas FC,"Mexiko, Copa MX"
+035,07.08.,02:30,COPA S,Independiente ARG,2:1,Indep. d.Valle ECU,Copa Sudamericana
+036,07.08.,02:30,BRA 2,America Mineiro MG,4:3,Londrina EC PR,Brasilien Brasilero Serie B
+037,07.08.,02:45,COL 1,Atletico Nacional,4:1,Atletico Huila,Kolumbien Primera Liga
+038,07.08.,04:00,COPA MX,FC Juarez,1:1,Venados FC,"Mexiko, Copa MX"
+039,07.08.,04:00,COPA MX,Mineros Zacatecas,2:0,Queretaro FC,"Mexiko, Copa MX"
+040,07.08.,11:30,AUS CUP,Melbourne Victory,2:2,Newcastle Jets,"Australien, FFA Cup"
+041,07.08.,11:30,AUS CUP,Sydney FC,0:2,Brisbane Roar,"Australien, FFA Cup"
+042,07.08.,12:30,CL DAM,SC Braga Damen*,2:0,Sturm Graz Damen,UEFA Champions League Damen
+043,07.08.,12:30,AUS CUP,Perth Glory,0:0,Western Sydney,"Australien, FFA Cup"
+044,07.08.,22:45,TEN ATP,"Shapovalov, Denis",1:2,"Thiem, Dominic",Tennis ATP
+045,07.08.,18:30,RL TIR,SVG Reichenau,2:3,SV Wörgl,Regionalliga Tirol
+046,07.08.,18:30,ISR LCP,Hapoel Kfar Saba,1:1,Hapoel Haifa,"Israel, League Cup Premier"
+047,07.08.,19:00,CL Q,FC Krasnodar RUS,0:1,FC Porto POR,"UEFA Champions League, Qualifikation"
+048,07.08.,19:00,FS,RB Salzburg AUT,0:1,Real Madrid ESP,Freundschaftsspiele International (Klub)
+049,07.08.,19:00,FS,RB Salzburg+1,1:1,Real Madrid,Freundschaftsspiele International (Klub)
+050,07.08.,19:00,SWE 3S,Eskilsminne IF,0:1,Lunds BK,Schweden Div 1 Södra
+051,07.08.,19:30,ISR LCP,Beitar Jerusalem,1:1,FC Ashdod,"Israel, League Cup Premier"
+052,07.08.,20:30,TUR SC,Galatasaray*,1:0,Akhisarspor,Türkei Süper Kupa
+053,07.08.,19:45,CL Q,Ist.Basaks TUR,0:1,Olympiakos P. GRE,"UEFA Champions League, Qualifikation"
+054,07.08.,20:00,CL Q,FC CFR Cluj ROU,1:1,Celtic Glasgow SCO,"UEFA Champions League, Qualifikation"
+055,07.08.,20:00,CL Q,FC Basel SUI,1:2,LASK Linz AUT,"UEFA Champions League, Qualifikation"
+056,07.08.,20:00,CL Q,FC Basel,1:3,LASK Linz+1,"UEFA Champions League, Qualifikation"
+057,07.08.,20:00,CL Q,FC Basel,1:4,LASK Linz+2,"UEFA Champions League, Qualifikation"
+058,07.08.,20:00,ISL 1,Breidablik,4:0,KA Akureyri,Island Urvalsdeild
+059,07.08.,19:30,FS,Fenerbahce TUR,2:2,Cagliari ITA,Freundschaftsspiele International (Klub)
+060,07.08.,20:00,FS,AS Roma ITA*,2:2,Athl. Bilbao ESP,Freundschaftsspiele International (Klub)
+061,07.08.,20:15,CL Q,NK Maribor SLO,1:3,Rosenborg BK NOR,"UEFA Champions League, Qualifikation"
+062,07.08.,20:15,EL,Slov. Bratisl. SVK,1:0,FC Dundalk IRL,UEFA Europa League
+063,07.08.,21:15,ISL 1,Stjarnan Gardab.,2:1,Vikingur Reykjavik,Island Urvalsdeild
+064,07.08.,21:15,ISL 1,Valur Reykjavik,1:0,Fylkir Reykjavik,Island Urvalsdeild
+065,08.08.,00:15,BRA 1,Corinthians SP,2:0,Goias EC GO,Brasilien Brasilero Serie A
+066,09.08.,02:30,COL COP,Atletico Junior,2:0,CA Bucaramanga,Copa Colombia
+067,08.08.,01:30,FS,FC Barcelona ESP*,2:1,SSC Napoli ITA,Freundschaftsspiele International (Klub)
+068,08.08.,02:00,USA CUP,FC Minnesota Utd.,2:1,Portland Timbers,USA US Open Cup
+069,08.08.,02:00,COPA MX,Guadalajara Chivas,2:1,Santos Laguna,"Mexiko, Copa MX"
+070,08.08.,02:30,BRA CUP,Cruzeiro EC MG,0:1,Internacional RS,Brasilien Cup
+071,08.08.,02:30,COL COP,Indep. Medellin,2:1,Los Millonarios,Copa Colombia
+072,08.08.,04:00,COPA MX,San Luis,3:1,Potros UAEM,"Mexiko, Copa MX"
+073,08.08.,16:00,EL,FC Astana KAZ,5:1,Valletta FC MLT,UEFA Europa League
+074,08.08.,17:30,EL,AEK Larnaca CYP,1:1,KAA Gent BEL,UEFA Europa League
+075,08.08.,18:00,EL,Sparta Prag CZE,2:2,Trabzonspor TUR,UEFA Europa League
+076,08.08.,18:00,EL,Pyunik Yerevan ARM,0:4,Wolverhampton ENG,UEFA Europa League
+077,08.08.,18:15,EL,CS Uni Craiova ROU,0:2,AEK Athen GRE,UEFA Europa League
+078,08.08.,18:30,EL,Bröndby IF DEN,2:4,Sporting Braga POR,UEFA Europa League
+079,08.08.,18:45,EL,FK Ventspils LAT*,0:3,Vit. Guimaraes POR,UEFA Europa League
+080,08.08.,19:00,EL,FC Thun SUI,2:3,Spartak Moskau RUS,UEFA Europa League
+081,08.08.,19:00,EL,Molde FK NOR,3:0,Aris Saloniki GRE,UEFA Europa League
+082,08.08.,19:00,EL,Neftchi Baku AZE,2:2,Bnei Yehuda ISR,UEFA Europa League
+083,08.08.,19:00,EL,FK Mariupol UKR*,0:0,AZ Alkmaar NED,UEFA Europa League
+084,08.08.,19:00,EL,Malmö FF SWE,3:0,Zrinjs. Mostar BIH,UEFA Europa League
+085,08.08.,19:00,EL,FC Sheriff T. MDA,1:2,AIK Stockholm SWE,UEFA Europa League
+086,08.08.,19:00,EL,FK Haugesund NOR,0:1,PSV Eindhoven NED,UEFA Europa League
+087,08.08.,19:30,EL,R. Antwerpen BEL*,1:0,Vikt. Pilsen CZE,UEFA Europa League
+088,08.08.,19:30,EL,Macc. Tel Aviv ISR,1:2,Suduva Marija. LTU,UEFA Europa League
+089,08.08.,19:30,EL,Feyenoord NED,4:0,Dinamo Tiflis GEO,UEFA Europa League
+090,08.08.,19:30,EL,Lok. Plovdiv BUL,0:1,Strasbourg FRA,UEFA Europa League
+091,08.08.,19:30,EL,Ludog. Razgrad BUL,5:0,The New Saints WAL,UEFA Europa League
+092,08.08.,19:30,EL,ZSKA Sofia BUL*,1:1,Zorya Lugansk UKR,UEFA Europa League
+093,08.08.,19:45,EL,FK Sarajevo BIH*,1:2,BATE Borisov BLR,UEFA Europa League
+094,08.08.,20:00,EL,F91 Dudelange LUX*,3:1,JK Nomme Kalju EST,UEFA Europa League
+095,08.08.,20:00,EL,IFK Norrköping SWE,1:1,H. Beer Sheva ISR,UEFA Europa League
+096,08.08.,20:00,EL,FC Midtjylland DEN,2:4,Gl.Rangers SCO,UEFA Europa League
+097,08.08.,20:00,EL,HNK Rijeka CRO,2:0,FC Aberdeen SCO,UEFA Europa League
+098,08.08.,20:00,SUI 2,FC Chiasso,4:2,FC Aarau,Schweiz Challenge League
+099,08.08.,20:30,EL,FC Vaduz LIE,0:5,E. Frankfurt GER,UEFA Europa League
+100,08.08.,20:30,EL,Austria Wien AUT,1:2,Apollon L. CYP,UEFA Europa League
+101,08.08.,20:30,EL,FK Austria Wien,1:3,Apollon Limassol+1,UEFA Europa League
+102,08.08.,20:30,EL,FCS Bukarest ROU*,0:0,Mlada Boleslav CZE,UEFA Europa League
+103,08.08.,21:00,EL,Legia Warschau POL,0:0,Atromitos Ath. GRE,UEFA Europa League
+104,08.08.,21:00,EL,FC Torino ITA,5:0,Sh. Soligorsk BLR,UEFA Europa League
+105,08.08.,21:00,EL,FK Partizan SRB,3:1,Y. Malatyaspor TUR,UEFA Europa League
+106,08.08.,21:00,EL,FC Luzern SUI,0:3,Espanyol Barc. ESP,UEFA Europa League
+107,08.08.,22:00,COPA S,Zulia FC VEN,1:0,Colon Santa Fe ARG,Copa Sudamericana
+108,09.08.,01:00,USA MLS,New York City FC,3:2,Houston Dynamo,USA Major League Soccer
+109,09.08.,02:30,BRA 2,Oeste FC SP,1:1,Brasil de Pelotas,Brasilien Brasilero Serie B
+110,10.08.,17:00,AUT BL,RB Salzburg,5:2,Wolfsberger AC,Österreich Bundesliga
+111,10.08.,17:00,AUT BL,SK Rapid Wien,2:1,SCR Altach,Österreich Bundesliga
+112,10.08.,17:00,AUT BL,Admira Wacker,0:1,LASK Linz,Österreich Bundesliga
+113,11.08.,17:00,AUT BL,SV Mattersburg,1:5,FK Austria Wien,Österreich Bundesliga
+114,11.08.,17:00,AUT BL,TSV Hartberg,1:0,SK Sturm Graz,Österreich Bundesliga
+115,11.08.,17:00,AUT BL,WSG Swarovs. Tirol,1:1,SKN St. Pölten,Österreich Bundesliga
+116,09.08.,21:00,ENG PL,FC Liverpool,4:1,Norwich City,England Premier League
+117,10.08.,13:30,ENG PL,West Ham United,0:5,Manchester City,England Premier League
+118,10.08.,16:00,ENG PL,FC Burnley,3:0,FC Southampton,England Premier League
+119,11.08.,15:00,ENG PL,Newcastle United,0:1,FC Arsenal,England Premier League
+120,11.08.,17:30,ENG PL,Manchester United,4:0,FC Chelsea,England Premier League

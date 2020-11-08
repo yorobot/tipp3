@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,22.03.,11:20,INT FS,Japan,0:1,Kolumbien,Internationale Freundschaftsspiele
+002,22.03.,12:00,INT FS,Südkorea,1:0,Bolivien,Internationale Freundschaftsspiele
+003,22.03.,12:35,INT FS,Usbekistan*,0:3,Uruguay,Internationale Freundschaftsspiele
+004,22.03.,18:00,EM Q,Bulgarien,1:1,Montenegro,Europameisterschaft Qualifikation
+005,22.03.,19:00,GER 3,Fortuna Köln,1:1,VfR Aalen,Deutschland 3. Liga
+006,22.03.,19:00,AUT RLO,SC Neusiedl,1:3,SC Parndorf,Österreich Regionalliga Ost
+007,22.03.,19:00,AUT RLM,Bad Gleichenberg,0:0,Sturm Graz Amat.,Österreich Regionalliga Mitte
+008,22.03.,19:00,AUT RLM,SV Allerheiligen,6:0,FC Wels,Österreich Regionalliga Mitte
+009,22.03.,19:00,AUT RLM,WSC Hertha Wels,1:1,SC Kalsdorf,Österreich Regionalliga Mitte
+010,22.03.,19:00,AUT RLM,Union Vöcklamarkt,5:1,SC Weiz,Österreich Regionalliga Mitte
+011,22.03.,19:00,HB AUT,UHK Krems,24:26,SG Westwien,Österreich HLA
+012,22.03.,19:15,EH AUT,EC Graz 99ers,2:3,Black Wings Linz,Österreich Eishockey Liga
+013,22.03.,19:15,EH AUT,Fehervar,1:1,EC RB Salzburg,Österreich Eishockey Liga
+014,22.03.,19:15,EH AUT,Vienna Capitals,5:1,HC Znojmo,Österreich Eishockey Liga
+015,22.03.,19:15,EH AUT,KAC Klagenfurt,5:3,HC Bozen Foxes,Österreich Eishockey Liga
+016,22.03.,19:30,AUT RLO,FCM Traiskirchen,1:3,Admira Amateure,Österreich Regionalliga Ost
+017,22.03.,19:30,AUT RLO,FC Mauerwerk,0:0,ASK Ebreichsdorf,Österreich Regionalliga Ost
+018,22.03.,19:30,EH GER,DEG Metro Stars,1:2,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+019,22.03.,19:30,EH GER,ERC Ingolstadt,2:2,Kölner Haie,Deutschland Deutsche Eishockey Liga
+020,22.03.,19:30,EH GER,Nürnberg Ice Tiger,3:3,Adler Mannheim,Deutschland Deutsche Eishockey Liga
+021,22.03.,19:30,EH GER,Eisbären Berlin,2:5,EHC München,Deutschland Deutsche Eishockey Liga
+022,22.03.,20:45,EM Q,England,5:0,Tschechien,Europameisterschaft Qualifikation
+023,22.03.,20:45,EM Q,Portugal,0:0,Ukraine,Europameisterschaft Qualifikation
+024,22.03.,20:45,EM Q,Luxemburg,2:1,Litauen,Europameisterschaft Qualifikation
+025,22.03.,20:45,EM Q,Moldawien,1:4,Frankreich,Europameisterschaft Qualifikation
+026,22.03.,20:45,EM Q,Andorra,0:2,Island,Europameisterschaft Qualifikation
+027,22.03.,20:45,EM Q,Albanien,0:2,Türkei,Europameisterschaft Qualifikation
+028,22.03.,21:00,INT FS,Argentinien*,1:3,Venezuela,Internationale Freundschaftsspiele
+029,22.03.,21:00,ESP 2,Dep. La Coruna,0:0,UD Almeria,Spanien Segunda Division
+030,22.03.,21:00,ESP 2,Teneriffa CD,3:2,CA Osasuna,Spanien Segunda Division
+031,23.03.,01:00,INT FS,Peru*,1:0,Paraguay,Internationale Freundschaftsspiele
+032,23.03.,03:15,INT FS,Mexiko*,3:1,Chile,Internationale Freundschaftsspiele
+033,23.03.,14:00,AUT RLO,FC Stadlau,2:2,SV Mattersburg Am.,Österreich Regionalliga Ost
+034,23.03.,14:00,AUT RLW,FC Kitzbühel,abgesagt,SC Schwaz,Österreich Regionalliga West
+035,23.03.,14:00,AUT RLW,SV Wals-Grünau,0:2,SV Grödig,Österreich Regionalliga West
+036,23.03.,14:00,AUT RLW,VfB Hohenems,0:4,SV Wörgl,Österreich Regionalliga West
+037,23.03.,14:00,GER 3,FC Carl Zeiss Jena,0:0,KFC Uerdingen 05,Deutschland 3. Liga
+038,23.03.,14:00,GER 3,TSV 1860 München,1:0,SV Meppen,Deutschland 3. Liga
+039,23.03.,14:00,GER 3,Großaspach,2:1,Kickers Würzburg,Deutschland 3. Liga
+040,23.03.,14:00,GER 3,Preussen Münster,3:0,Unterhaching,Deutschland 3. Liga
+041,23.03.,14:00,GER 3,Hallescher FC,1:4,Wehen Wiesbaden,Deutschland 3. Liga
+042,23.03.,14:00,GER 3,Karlsruher SC,1:1,Hansa Rostock,Deutschland 3. Liga
+043,23.03.,14:45,EH SWE,Frölunda HC,4:0,Malmö IF,Schweden Elitserien
+044,23.03.,14:45,EH SWE,Djurgardens IF,0:2,Skelleftea AIK,Schweden Elitserien
+045,23.03.,15:00,EM Q,Georgien,0:2,Schweiz,Europameisterschaft Qualifikation
+046,23.03.,15:00,AUT RLW,USK Anif,1:3,FC Kufstein,Österreich Regionalliga West
+047,23.03.,15:00,AUT RLW,Pinzgau Saalfelden,abgesagt,FC Dornbirn,Österreich Regionalliga West
+048,23.03.,15:30,AUT RLW,Altach Amateure,1:0,SVG Reichenau,Österreich Regionalliga West
+049,23.03.,16:00,AUT RLO,Bruck/Leitha,2:0,St. Pölten Amat.,Österreich Regionalliga Ost
+050,23.03.,16:00,AUT RLO,SV Leobendorf,1:1,Wiener Sport-Club,Österreich Regionalliga Ost
+051,23.03.,16:00,AUT RLO,SC Team Wr. Linien,0:2,Marchfeld Donauaue,Österreich Regionalliga Ost
+052,23.03.,16:00,ESP 2,Elche CF,3:1,Alcorcon AD,Spanien Segunda Division
+053,23.03.,17:00,BB AUTC,Swans Gmunden,71:71,Oberwart Gunners,Basketball Cup Österreich
+054,23.03.,18:00,EM Q,Gibraltar+3,3:1,Irland,Europameisterschaft Qualifikation
+055,23.03.,18:00,EM Q,Schweden,2:1,Rumänien,Europameisterschaft Qualifikation
+056,23.03.,18:00,EM Q,Malta,2:1,Färöer Inseln,Europameisterschaft Qualifikation
+057,23.03.,18:00,INT FS,Brasilien*,1:1,Panama,Internationale Freundschaftsspiele
+058,23.03.,18:00,ESP 2,CD Lugo,0:3,Albacete Balompie,Spanien Segunda Division
+059,23.03.,20:15,HB AUT,Handball Tirol,22:29,Fivers Margareten,Österreich HLA
+060,23.03.,18:30,AUT RLM,Grazer AK,5:0,Deutschlandsberg,Österreich Regionalliga Mitte
+061,23.03.,19:00,HB AUT,Bregenz Handball,19:24,HSG Graz,Österreich HLA
+062,23.03.,19:15,BB AUTC,Klosterneuburg,65:74,Kapfenberg Bulls,Basketball Cup Österreich
+063,23.03.,20:45,EM Q,Spanien,2:1,Norwegen,Europameisterschaft Qualifikation
+064,23.03.,20:45,EM Q,Italien,2:0,Finnland,Europameisterschaft Qualifikation
+065,23.03.,20:45,EM Q,Bosnien-Herzegow.,2:1,Armenien,Europameisterschaft Qualifikation
+066,23.03.,20:45,EM Q,Liechtenstein,0:2,Griechenland,Europameisterschaft Qualifikation
+067,24.03.,00:30,USA MLS,NY Red Bulls,0:1,Orlando City SC,USA Major League Soccer
+068,24.03.,12:00,ESP 2,R. Majadahonda,4:0,Numancia CD,Spanien Segunda Division
+069,24.03.,13:00,GER 3,FC Kaiserslautern,1:3,VfL Osnabrück,Deutschland 3. Liga
+070,24.03.,14:00,GER 3,SF Lotte,0:1,E. Braunschweig,Deutschland 3. Liga
+071,24.03.,14:00,EH GER,Augsburger Panth.,3:3,DEG Metro Stars,Deutschland Deutsche Eishockey Liga
+072,24.03.,15:00,EM Q,Wales,1:0,Slowakei,Europameisterschaft Qualifikation
+073,24.03.,15:00,EM Q,Kasachstan,0:4,Russland,Europameisterschaft Qualifikation
+074,24.03.,15:00,AUT RLW,TSV St. Johann,1:3,SK Bischofshofen,Österreich Regionalliga West
+075,24.03.,16:00,ESP 2,Gimn. Tarragona,0:1,Malaga CF,Spanien Segunda Division
+076,24.03.,16:30,BB AUTC,Swans Gmunden,70:80,Kapfenberg Bulls,Basketball Cup Österreich
+077,24.03.,17:00,EH GER,EHC München,0:3,Eisbären Berlin,Deutschland Deutsche Eishockey Liga
+078,24.03.,18:00,AFR CQ,Libyen,1:2,Südafrika,"Africa Cup, Qualifikation"
+079,24.03.,18:00,EM Q,Ungarn,2:1,Kroatien,Europameisterschaft Qualifikation
+080,24.03.,18:00,EM Q,Israel,4:2,Österreich,Europameisterschaft Qualifikation
+081,24.03.,18:00,EM Q,Israel,4:3,Österreich+1,Europameisterschaft Qualifikation
+082,24.03.,18:00,EM Q,Israel+1,5:2,Österreich,Europameisterschaft Qualifikation
+083,24.03.,18:00,EM Q,San Marino+3,3:2,Schottland,Europameisterschaft Qualifikation
+084,24.03.,18:00,ESP 2,Cadiz CF,1:1,Cordoba CF,Spanien Segunda Division
+085,24.03.,19:00,EH GER,Kölner Haie,4:2,ERC Ingolstadt,Deutschland Deutsche Eishockey Liga
+086,24.03.,20:00,ESP 2,Granada CF,1:1,Las Palmas UD,Spanien Segunda Division
+087,24.03.,20:45,ESP 2,Sporting Gijon,1:0,Real Oviedo,Spanien Segunda Division
+088,24.03.,20:45,EM Q,Niederlande,2:3,Deutschland,Europameisterschaft Qualifikation
+089,24.03.,20:45,EM Q,Niederlande,2:4,Deutschland+1,Europameisterschaft Qualifikation
+090,24.03.,20:45,EM Q,Niederlande+1,3:3,Deutschland,Europameisterschaft Qualifikation
+091,24.03.,20:45,EM Q,Nordirland,2:1,Weißrussland,Europameisterschaft Qualifikation
+092,24.03.,20:45,EM Q,Slowenien,1:1,Nordmazedonien,Europameisterschaft Qualifikation
+093,24.03.,20:45,EM Q,Polen,2:0,Lettland,Europameisterschaft Qualifikation
+094,24.03.,20:45,EM Q,Zypern,0:2,Belgien,Europameisterschaft Qualifikation
+095,25.03.,17:30,EH FIN,Pelicans Lahti,1:1,HIFK Helsinki,Finnland SM-Liiga
+096,25.03.,17:30,EH FIN,HC TPS Turku,2:2,HPK Hämeenlinna,Finnland SM-Liiga
+097,25.03.,17:30,EH FIN,Kärpät Oulu,2:1,Ilves Tampere,Finnland SM-Liiga
+098,25.03.,17:30,EH FIN,Tappara Tampere,3:2,Lukko Rauma,Finnland SM-Liiga
+099,25.03.,18:00,EM Q,Türkei,4:0,Moldawien,Europameisterschaft Qualifikation
+100,25.03.,18:00,ISR 2,Hapoel Kfar Saba,2:3,M. Ahi Nazareth,Israel National League
+101,25.03.,18:00,ISR 2,Hapoel Akko,2:2,Sectzya Nes Ziona,Israel National League
+102,26.03.,18:00,ISR 2,Hapoel Ashkelon,abgesagt,I. Ramat Hasharon,Israel National League
+103,25.03.,18:45,FS U21,Spanien U21,3:0,Österreich U21,U21 Freundschaftsspiele
+104,25.03.,19:00,GER 3,FSV Zwickau,2:1,Energie Cottbus,Deutschland 3. Liga
+105,25.03.,19:00,EH SWE,Skelleftea AIK,3:6,Djurgardens IF,Schweden Elitserien
+106,25.03.,19:00,EH SWE,Malmö IF,3:2,Frölunda HC,Schweden Elitserien
+107,25.03.,19:30,BB AUT,UBSC Graz,84:84,BC Vienna,Österreich Basketball Superliga
+108,25.03.,20:45,EM Q,Kosovo,1:1,Bulgarien,Europameisterschaft Qualifikation
+109,25.03.,20:45,EM Q,Montenegro,1:5,England,Europameisterschaft Qualifikation
+110,25.03.,20:45,EM Q,Portugal,1:1,Serbien,Europameisterschaft Qualifikation
+111,25.03.,20:45,EM Q,Luxemburg,1:2,Ukraine,Europameisterschaft Qualifikation
+112,25.03.,20:45,EM Q,Frankreich,4:0,Island,Europameisterschaft Qualifikation
+113,25.03.,20:45,EM Q,Andorra,0:3,Albanien,Europameisterschaft Qualifikation
+114,25.03.,20:45,ITA C1C,Juve Stabia,1:1,FC Rieti,"Italien, Lega Pro Prima Divisione, Girone C"
+115,25.03.,21:00,ESP 2,RCD Mallorca,3:0,Real Saragossa,Spanien Segunda Division
+116,26.03.,00:00,NHL,New York Rangers,2:5,Pittsburgh Peng.,USA NHL
+117,26.03.,00:30,NHL,Tampa Bay Lightn.,5:4,Boston Bruins,USA NHL
+118,26.03.,01:00,NHL,St. Louis Blues,3:1,Vegas Gold.Knights,USA NHL
+119,26.03.,01:00,NHL,Minnesota Wild,0:1,Nashville Pred.,USA NHL
+120,26.03.,01:00,NHL,Winnipeg Jets,2:5,Dallas Stars,USA NHL

@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,26.03.,11:30,INT FS,Japan,1:0,Bolivien,Internationale Freundschaftsspiele
+002,26.03.,12:00,INT FS,Südkorea,2:1,Kolumbien,Internationale Freundschaftsspiele
+003,26.03.,14:00,U19 EMQ,Ungarn U19*,0:3,Deutschland U19,"U19 EM, Qualifikation"
+004,26.03.,14:00,U19 EMQ,Kroatien U19,2:3,Norwegen U19,"U19 EM, Qualifikation"
+005,26.03.,15:00,U19 EMQ,Dänemark U19*,2:2,England U19,"U19 EM, Qualifikation"
+006,26.03.,15:00,U19 EMQ,Israel U19*,0:3,Frankreich U19,"U19 EM, Qualifikation"
+007,26.03.,15:00,U19 EMQ,Polen U19*,0:0,Schweiz U19,"U19 EM, Qualifikation"
+008,26.03.,15:00,U19 EMQ,Serbien U19*,0:2,Italien U19,"U19 EM, Qualifikation"
+009,26.03.,15:00,U19 EMQ,Belgien U19*,2:5,Ukraine U19,"U19 EM, Qualifikation"
+010,26.03.,17:00,U21 EMQ,Bosnien-Herz. U21,4:0,Moldawien U21,U21 EM Qualifikation
+011,26.03.,18:00,INT FS,Nigeria,1:0,Ägypten,Internationale Freundschaftsspiele
+012,26.03.,17:15,U19 EMQ,Zypern U19*,2:2,Türkei U19,"U19 EM, Qualifikation"
+013,26.03.,17:15,U19 EMQ,Schottland U19*,0:4,Portugal U19,"U19 EM, Qualifikation"
+014,26.03.,18:00,EM Q,Armenien,0:2,Finnland,Europameisterschaft Qualifikation
+015,26.03.,18:00,FS U20,Polen U20,0:2,Deutschland U20,U20 Freundschaftsspiele
+016,26.03.,18:00,EH SVK,HKM Zvolen,2:2,HKM Nitra,Slowakei Extraliga
+017,26.03.,19:00,U19 EMQ,Slowenien U19*,3:0,Wales U19,"U19 EM, Qualifikation"
+018,26.03.,19:00,U19 EMQ,Niederlande U19,0:1,Spanien U19,"U19 EM, Qualifikation"
+019,26.03.,19:00,EH SWE,Lulea Hockey,4:0,Växjö Lakers,Schweden Elitserien
+020,26.03.,19:00,EH SWE,Färjestads BK,2:3,HV 71,Schweden Elitserien
+021,26.03.,19:30,EH GER2,ESV Kaufbeuren,6:3,Lausitzer Füchse,Deutschland 2. Eishockey Liga
+022,26.03.,20:00,EH GER2,Bietigheim Steeler,4:1,Dresdner Eislöwen,Deutschland 2. Eishockey Liga
+023,26.03.,20:00,EH SUI,SC Bern,2:4,EHC Biel Bienne,Schweiz National League A
+024,26.03.,20:00,EH SUI,EV Zug,3:1,HC Lausanne,Schweiz National League A
+025,26.03.,20:00,INT FS,Marokko,0:1,Argentinien,Internationale Freundschaftsspiele
+026,26.03.,20:45,EM Q,Schweiz,3:3,Dänemark,Europameisterschaft Qualifikation
+027,26.03.,20:45,EM Q,Norwegen,3:3,Schweden,Europameisterschaft Qualifikation
+028,26.03.,20:45,EM Q,Bosnien-Herzegow.,2:2,Griechenland,Europameisterschaft Qualifikation
+029,26.03.,20:45,EM Q,Irland,1:0,Georgien,Europameisterschaft Qualifikation
+030,26.03.,20:45,EM Q,Rumänien,4:1,Färöer Inseln,Europameisterschaft Qualifikation
+031,26.03.,20:45,EM Q,Malta+3,3:2,Spanien,Europameisterschaft Qualifikation
+032,26.03.,20:45,EM Q,Italien,6:4,Liechtenstein+4,Europameisterschaft Qualifikation
+033,26.03.,20:45,INT FS,Tschechien,1:3,Brasilien,Internationale Freundschaftsspiele
+034,26.03.,20:45,INT FS,Algerien,1:0,Tunesien,Internationale Freundschaftsspiele
+035,26.03.,20:45,FS U21,England U21,1:2,Deutschland U21,U21 Freundschaftsspiele
+036,26.03.,20:45,ENG 1,Doncaster Rovers,4:1,Bristol Rovers,England League One
+037,26.03.,20:45,SCO CS,Inverness CT,3:2,FC Alloa Athletic,Schottland Championship
+038,26.03.,20:45,SCO CS,Dunfermline,0:1,Dundee United,Schottland Championship
+039,27.03.,00:00,NHL,Washington Cap.,4:1,Carolina Hurric.,USA NHL
+040,27.03.,00:00,NHL,Columbus Blue J.,4:0,NY Islanders,USA NHL
+041,27.03.,00:30,NHL,Montreal Canad.,6:1,Florida Panthers,USA NHL
+042,27.03.,00:30,NHL,Ottawa Senators,4:0,Buffalo Sabres,USA NHL
+043,27.03.,00:55,INT FS,USA,1:1,Chile,Internationale Freundschaftsspiele
+044,27.03.,01:00,INT FS,Ekuador*,0:0,Honduras,Internationale Freundschaftsspiele
+045,27.03.,01:00,INT FS,Peru*,0:2,El Salvador,Internationale Freundschaftsspiele
+046,27.03.,03:00,INT FS,Mexiko*,4:2,Paraguay,Internationale Freundschaftsspiele
+047,27.03.,03:00,INT FS,Costa Rica,1:0,Jamaika,Internationale Freundschaftsspiele
+048,27.03.,13:00,GRE 2,Volos NFC,5:0,Pasa Irodotos,Griechenland Super League 2
+049,27.03.,14:00,GRE 2,Ahtitos Spaton,abgesagt,Karaiskakis,Griechenland Super League 2
+050,27.03.,14:00,GRE 2,AO Trikala 1963,1:0,Kerkyra Kassiopi,Griechenland Super League 2
+051,27.03.,14:00,GRE 2,Panachaiki 1891 FC,1:3,Chania FC,Griechenland Super League 2
+052,27.03.,14:00,GRE 2,Apollon Larissas,3:1,Apollon Pontou,Griechenland Super League 2
+053,27.03.,17:00,BB CL,BC Nizhny Novg RUS,68:83,Antwerp G. BEL,Champions League
+054,27.03.,17:30,EH FIN,HPK Hämeenlinna,2:1,HC TPS Turku,Finnland SM-Liiga
+055,27.03.,17:30,EH FIN,HIFK Helsinki,3:1,Pelicans Lahti,Finnland SM-Liiga
+056,27.03.,17:30,EH FIN,Lukko Rauma,1:2,Tappara Tampere,Finnland SM-Liiga
+057,27.03.,17:30,EH FIN,Ilves Tampere,2:2,Kärpät Oulu,Finnland SM-Liiga
+058,27.03.,18:00,EH SVK,HK SKP Poprad,3:0,HC Banska Bystrica,Slowakei Extraliga
+059,27.03.,18:15,CL DAM,Wolfsburg Dame GER,2:4,Ol.Lyon D FRA,UEFA Champions League Damen
+060,27.03.,18:30,CL DAM,Lilleström D NOR,0:1,Barcelona D ESP,UEFA Champions League Damen
+061,27.03.,19:00,CL DAM,Paris SG Damen FRA,2:1,Chelsea Damen ENG,UEFA Champions League Damen
+062,27.03.,17:00,EH CZE,HC Liberec,1:1,BK Mlada Boleslav,Tschechische Republik Extraliga
+063,27.03.,19:00,EH NOR,Frisk/Asker,7:1,Valerenga IF,Norwegen GET-Ligaen
+064,27.03.,19:00,EH SWE,Djurgardens IF,3:1,Skelleftea AIK,Schweden Elitserien
+065,27.03.,19:00,EH SWE,Frölunda HC,7:2,Malmö IF,Schweden Elitserien
+066,27.03.,19:30,EH SWE,Timra IK,4:4,IK Oskarshamn,Schweden Elitserien
+067,27.03.,19:30,CL DAM,Bayern Damen GER,5:1,Sl.Prag Damen CZE,UEFA Champions League Damen
+068,27.03.,19:30,BB CL,H.Jerusalem ISR,75:73,Canarias ESP,Champions League
+069,27.03.,20:00,BB CL,BB Bamberg GER,71:67,BC AEK Athen GRE,Champions League
+070,27.03.,20:30,BB CL,JSF Nanterre FRA,83:75,Bologna ITA,Champions League
+071,27.03.,20:45,SCO PS,FC St. Johnstone,1:0,FC St. Mirren,Schottland Premiership
+072,27.03.,21:30,CHI 1,Palestino,1:2,Audax Italiano,Chile Primera Divison
+073,27.03.,23:15,BRA CUP,Chapecoense SC,3:2,Criciuma EC SC,Brasilien Cup
+074,28.03.,00:15,COL 1,Atletico Junior,1:1,UM Santa Marta,Kolumbien Primera Liga
+075,28.03.,00:00,NHL,Philadelphia Fl.,4:4,Toronto Maple L.,USA NHL
+076,28.03.,00:15,PAR 1,Nacional Asuncion,0:1,Club Libertad,Paraguay Primera Division
+077,28.03.,00:30,NHL,Boston Bruins,6:3,New York Rangers,USA NHL
+078,28.03.,02:30,NHL,Calgary Flames,1:2,Dallas Stars,USA NHL
+079,28.03.,03:00,NHL,Colorado Avalan.,4:3,Vegas Gold.Knights,USA NHL
+080,28.03.,14:00,GRE 2,Iraklis 1908 FC,0:0,Doxa Dramas FC,Griechenland Super League 2
+081,28.03.,17:00,EH CZE,HC Olmütz,4:1,HC Pilsen,Tschechische Republik Extraliga
+082,28.03.,17:30,KHL,HK CSKA Moskau,2:1,SKA St. Petersburg,Kontinental Hockey League
+083,28.03.,18:00,CRO 1,NK Slaven Belupo,2:1,NK Rudes,Kroatien 1. HNL
+084,28.03.,18:00,EH SVK,HK SKP Poprad,1:1,HC Banska Bystrica,Slowakei Extraliga
+085,28.03.,19:00,EH SWE,HV 71,1:3,Färjestads BK,Schweden Elitserien
+086,28.03.,19:00,EH SWE,Växjö Lakers,2:2,Lulea Hockey,Schweden Elitserien
+087,28.03.,19:00,EH NOR,Stavanger Oilers,4:3,Storhamar Hockey,Norwegen GET-Ligaen
+088,28.03.,19:00,HB GER,SC DHfK Leipzig,32:27,Füchse Berlin,Deutsche Handball Bundesliga
+089,28.03.,19:00,HB GER,SC Magdeburg,24:23,Flensburg-Handew.,Deutsche Handball Bundesliga
+090,28.03.,20:00,EH SUI,EHC Biel Bienne,2:2,SC Bern,Schweiz National League A
+091,28.03.,20:00,EH SUI,HC Lausanne,4:4,EV Zug,Schweiz National League A
+092,28.03.,20:00,BB EL,Panathinaikos GRE,73:74,Real Madrid BC ESP,Euroleague
+093,28.03.,20:05,BB EL,M.Tel Aviv ISR,90:55,Gran Canaria ESP,Euroleague
+094,28.03.,20:30,FRA 3,FC Chambly,2:1,Cholet,Frankreich National
+095,28.03.,20:45,BB EL,O.Milano ITA,90:104,Fenerbahce TUR,Euroleague
+096,29.03.,00:00,COL 1,Cucuta Deportivo,2:2,Indep. Medellin,Kolumbien Primera Liga
+097,29.03.,02:00,COL 1,Los Millonarios,1:1,Indep. Santa Fe,Kolumbien Primera Liga
+098,29.03.,00:00,NHL,Buffalo Sabres,4:4,Detroit Red Wings,USA NHL
+099,29.03.,00:00,NHL,Carolina Hurric.,2:3,Washington Cap.,USA NHL
+100,29.03.,00:00,NHL,Columbus Blue J.,6:2,Montreal Canad.,USA NHL
+101,29.03.,00:30,NHL,Ottawa Senators,2:5,Florida Panthers,USA NHL
+102,29.03.,01:00,NHL,Winnipeg Jets,4:5,NY Islanders,USA NHL
+103,29.03.,02:00,NHL,Edmonton Oilers,2:2,Dallas Stars,USA NHL
+104,29.03.,03:00,NHL,Vancouver Can.,2:2,Los Angeles Kings,USA NHL
+105,29.03.,03:30,NHL,San Jose Sharks,4:5,Chicago Blackhawks,USA NHL
+106,30.03.,17:00,AUT BL,SK Rapid Wien,3:0,Admira Wacker,"Österreich Bundesliga, Qualifikationsgruppe"
+107,30.03.,17:00,AUT BL,SCR Altach,2:1,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
+108,30.03.,17:00,AUT BL,TSV Hartberg,0:2,Wacker Innsbruck,"Österreich Bundesliga, Qualifikationsgruppe"
+109,31.03.,14:30,AUT BL,SK Sturm Graz,0:1,SKN St. Pölten,Österreich Bundesliga
+110,31.03.,14:30,AUT BL,Wolfsberger AC,0:3,LASK Linz,Österreich Bundesliga
+111,31.03.,17:00,AUT BL,RB Salzburg,5:1,FK Austria Wien,Österreich Bundesliga
+112,29.03.,20:30,GER BL,TSG Hoffenheim,4:1,Bayer Leverkusen,Deutschland Bundesliga
+113,30.03.,15:30,GER BL,Bor. Dortmund,2:0,VfL Wolfsburg,Deutschland Bundesliga
+114,30.03.,15:30,GER BL,Werder Bremen,3:1,FSV Mainz 05,Deutschland Bundesliga
+115,30.03.,15:30,GER BL,SC Freiburg,1:1,FC Bayern München,Deutschland Bundesliga
+116,30.03.,15:30,GER BL,Fortuna Düsseldorf,3:1,Mönchengladbach,Deutschland Bundesliga
+117,30.03.,15:30,GER BL,1. FC Nürnberg,3:0,FC Augsburg,Deutschland Bundesliga
+118,30.03.,18:30,GER BL,RB Leipzig,5:0,Hertha BSC,Deutschland Bundesliga
+119,31.03.,15:30,GER BL,Hannover 96,0:1,FC Schalke 04,Deutschland Bundesliga
+120,31.03.,18:00,GER BL,Eintr. Frankfurt,3:0,VfB Stuttgart,Deutschland Bundesliga

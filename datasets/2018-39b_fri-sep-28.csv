@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,28.09.,18:30,GER 2,Holstein Kiel,4:2,SV Darmstadt 98,Deutschland 2. Bundesliga
+002,28.09.,18:30,GER 2,Arminia Bielefeld,1:3,1. FC Köln,Deutschland 2. Bundesliga
+003,28.09.,19:00,AUT RLO,Bruck/Leitha,0:3,ASK Ebreichsdorf,Österreich Regionalliga Ost
+004,28.09.,19:00,AUT RLO,SV Mattersburg Am.,4:0,Marchfeld Donauaue,Österreich Regionalliga Ost
+005,28.09.,19:00,AUT RLW,FC Kitzbühel,3:2,TSV St. Johann,Österreich Regionalliga West
+006,28.09.,19:00,AUT RLW,FC Kufstein,2:0,SV Grödig,Österreich Regionalliga West
+007,28.09.,19:00,AUT RLM,SC Kalsdorf,1:1,FC Gleisdorf,Österreich Regionalliga Mitte
+008,28.09.,19:00,AUT RLM,Bad Gleichenberg,5:1,WAC Amateure,Österreich Regionalliga Mitte
+009,28.09.,19:00,TUR 1,Galatasaray,1:0,Erzurumspor,Türkei Süper Lig
+010,28.09.,19:00,DEN 1,Vejle BK,1:1,Randers FC,Dänemark Superligaen
+011,28.09.,19:00,CZE 1,Viktoria Pilsen,1:0,Sparta Prag,Tschechien Gambrinus Liga
+012,28.09.,19:10,AUT 2,WSG Swarovs. Tirol,1:1,Wack. Innsbruck II,Österreich Zweite Liga
+013,28.09.,19:10,AUT 2,BW Linz,2:1,FC Liefering,Österreich Zweite Liga
+014,28.09.,19:10,AUT 2,SV Lafnitz,0:0,SK Vorwärts Steyr,Österreich Zweite Liga
+015,28.09.,19:10,AUT 2,Young Violets A.W.,0:2,SKU Amstetten,Österreich Zweite Liga
+016,28.09.,19:10,AUT 2,SV Horn,2:2,FC Juniors OÖ,Österreich Zweite Liga
+017,28.09.,19:10,AUT 2,Floridsdorfer AC,1:2,Austria Klagenfurt,Österreich Zweite Liga
+018,28.09.,19:15,EH AUT,EC Dornbirn,2:2,Fehervar,Österreich Eishockey Liga
+019,28.09.,19:15,EH AUT,Black Wings Linz,1:3,KAC Klagenfurt,Österreich Eishockey Liga
+020,28.09.,19:15,EH AUT,Vienna Capitals,2:1,EC Graz 99ers,Österreich Eishockey Liga
+021,28.09.,19:15,EH AUT,Villacher SV,2:2,HC Bozen Foxes,Österreich Eishockey Liga
+022,28.09.,19:30,AUT RLO,FC Mauerwerk,1:0,St. Pölten Amat.,Österreich Regionalliga Ost
+023,28.09.,19:30,AUT RLO,Wiener Sport-Club,1:0,Admira Amateure,Österreich Regionalliga Ost
+024,28.09.,19:30,AUT RLO,FCM Traiskirchen,2:1,SK Rapid Wien II,Österreich Regionalliga Ost
+025,28.09.,20:30,GER BL,Hertha BSC,2:0,FC Bayern München,Deutschland Bundesliga
+026,28.09.,21:00,ENG CS,Bristol City,1:1,Aston Villa,England Championship
+027,28.09.,20:45,ENG CS,Sheffield Wednes.,1:1,Leeds United,England Championship
+028,28.09.,20:45,FRA 1,AS Saint Etienne,2:0,AS Monaco,Frankreich Ligue 1
+029,28.09.,21:00,ESP 1,Rayo Vallecano,2:2,Espanyol Barcelona,Spanien Primera Division
+030,28.09.,21:30,POR 1,FC Porto,1:0,CD Tondela,Portugal Primeira Liga
+031,29.09.,13:00,GER 2,MSV Duisburg,1:3,Jahn Regensburg,Deutschland 2. Bundesliga
+032,29.09.,13:00,GER 2,FC Heidenheim,3:2,VfL Bochum,Deutschland 2. Bundesliga
+033,29.09.,13:00,GER 2,SC Paderborn,1:0,Erzgebirge Aue,Deutschland 2. Bundesliga
+034,29.09.,13:00,ESP 1,Real Sociedad,0:1,FC Valencia,Spanien Primera Division
+035,29.09.,13:30,ENG PL,West Ham United,3:1,Manchester United,England Premier League
+036,29.09.,15:00,ITA A,AS Roma,3:1,Lazio Rom,Italien Serie A
+037,29.09.,15:30,GER BL,FC Schalke 04,1:0,FSV Mainz 05,Deutschland Bundesliga
+038,29.09.,15:30,GER BL,TSG Hoffenheim,1:2,RB Leipzig,Deutschland Bundesliga
+039,29.09.,15:30,GER BL,VfB Stuttgart,2:1,Werder Bremen,Deutschland Bundesliga
+040,29.09.,15:30,GER BL,VfL Wolfsburg,2:2,Mönchengladbach,Deutschland Bundesliga
+041,29.09.,15:30,GER BL,1. FC Nürnberg,3:0,Fortuna Düsseldorf,Deutschland Bundesliga
+042,29.09.,16:00,ENG PL,FC Arsenal,2:0,FC Watford,England Premier League
+043,29.09.,16:00,ENG PL,FC Everton,3:0,FC Fulham,England Premier League
+044,29.09.,16:00,ENG PL,Huddersfield Town,0:2,Tottenham,England Premier League
+045,29.09.,16:00,ENG PL,Manchester City,2:0,Brighton & Hove,England Premier League
+046,29.09.,16:00,ENG PL,Newcastle United,0:2,Leicester City,England Premier League
+047,29.09.,16:00,ENG PL,Wolverhampton,2:0,FC Southampton,England Premier League
+048,29.09.,16:00,SCO PS,Celtic Glasgow,1:0,FC Aberdeen,Schottland Premiership
+049,29.09.,16:15,ESP 1,FC Barcelona,1:1,Athletic Bilbao,Spanien Primera Division
+050,29.09.,16:30,AUT 2,Austria Lustenau,2:3,Kapfenberger SV,Österreich Zweite Liga
+051,29.09.,17:00,AUT BL,SK Rapid Wien,0:2,SKN St. Pölten,Österreich Bundesliga
+052,29.09.,17:00,AUT BL,Admira Wacker,2:4,SCR Altach,Österreich Bundesliga
+053,29.09.,17:00,AUT BL,Wolfsberger AC,1:4,RB Salzburg,Österreich Bundesliga
+054,29.09.,17:15,FRA 1,OGC Nizza,0:3,Paris SG,Frankreich Ligue 1
+055,29.09.,18:00,ITA A,Juventus Turin,3:1,SSC Napoli,Italien Serie A
+056,29.09.,18:00,TUR 1,Besiktas Istanbul,2:0,Kayserispor,Türkei Süper Lig
+057,29.09.,18:30,GER BL,Bayer Leverkusen,2:4,Bor. Dortmund,Deutschland Bundesliga
+058,29.09.,18:30,ENG PL,FC Chelsea,1:1,FC Liverpool,England Premier League
+059,29.09.,18:30,ESP 1,SD Eibar,1:3,FC Sevilla,Spanien Primera Division
+060,29.09.,18:30,NL 1,NAC Breda,0:2,PSV Eindhoven,Niederlande Eredivisie
+061,29.09.,19:00,SUI SL,FC St. Gallen,2:1,Grasshoppers,Schweiz Axpo Super League
+062,29.09.,19:00,SUI SL,FC Thun,1:4,Young Boys Bern,Schweiz Axpo Super League
+063,29.09.,20:00,FRA 1,Olympique Lyon,1:1,FC Nantes,Frankreich Ligue 1
+064,29.09.,20:00,FRA 1,Stade de Reims,0:0,Bordeaux,Frankreich Ligue 1
+065,29.09.,20:00,FRA 1,Racing Strasbourg,3:0,Dijon Football,Frankreich Ligue 1
+066,29.09.,20:30,ITA A,Inter Mailand,2:0,Cagliari Calcio,Italien Serie A
+067,29.09.,20:45,ESP 1,Real Madrid,0:0,Atletico Madrid,Spanien Primera Division
+068,29.09.,20:45,NL 1,Fortuna Sittard,0:2,Ajax Amsterdam,Niederlande Eredivisie
+069,29.09.,22:00,POR 1,Sporting Lissabon,2:0,Maritimo Funchal,Portugal Primeira Liga
+070,30.09.,10:30,AUT 2,SC Wiener Neustadt,0:3,SV Ried,Österreich Zweite Liga
+071,30.09.,12:00,ESP 1,SD Huesca,1:1,FC Girona,Spanien Primera Division
+072,30.09.,12:30,ITA A,Bologna FC,2:1,Udinese Calcio,Italien Serie A
+073,30.09.,13:10,F1,"Hamilton, Lewis",Hamilto,"Vettel, Sebastian",Formel 1
+074,30.09.,13:30,GER 2,Hamburger SV,0:0,FC St. Pauli,Deutschland 2. Bundesliga
+075,30.09.,13:30,GER 2,SV Sandhausen,0:1,FC Magdeburg,Deutschland 2. Bundesliga
+076,30.09.,13:30,GER 2,Dynamo Dresden,0:1,Greuther Fürth,Deutschland 2. Bundesliga
+077,30.09.,14:30,AUT BL,SV Mattersburg,2:1,Wacker Innsbruck,Österreich Bundesliga
+078,30.09.,14:30,AUT BL,TSV Hartberg,0:1,FK Austria Wien,Österreich Bundesliga
+079,30.09.,15:00,ITA A,AC Fiorentina,2:0,Atalanta Bergamo,Italien Serie A
+080,30.09.,15:00,ITA A,AC Chievo Verona,0:1,FC Torino,Italien Serie A
+081,30.09.,15:30,GER BL,Eintr. Frankfurt,4:1,Hannover 96,Deutschland Bundesliga
+082,30.09.,16:00,SUI SL,FC Lugano,2:2,FC Basel,Schweiz Axpo Super League
+083,30.09.,16:00,EH AUT,EC RB Salzburg,9:0,Fehervar,Österreich Eishockey Liga
+084,30.09.,16:15,ESP 1,Villarreal CF,0:1,Real Valladolid,Spanien Primera Division
+085,30.09.,16:45,NL 1,Feyenoord,2:1,Vitesse Arnheim,Niederlande Eredivisie
+086,30.09.,17:00,AUT BL,LASK Linz,0:0,SK Sturm Graz,Österreich Bundesliga
+087,30.09.,17:00,ENG PL,Cardiff City,1:2,FC Burnley,England Premier League
+088,30.09.,17:00,FRA 1,HSC Montpellier,3:0,Olympique Nimes,Frankreich Ligue 1
+089,30.09.,17:30,EH AUT,Vienna Capitals,4:3,Villacher SV,Österreich Eishockey Liga
+090,30.09.,17:30,EH AUT,Black Wings Linz,3:1,HC Znojmo,Österreich Eishockey Liga
+091,30.09.,17:30,EH AUT,EC Dornbirn,0:3,KAC Klagenfurt,Österreich Eishockey Liga
+092,30.09.,17:30,EH AUT,Medvescak Zagreb,2:4,EC Graz 99ers,Österreich Eishockey Liga
+093,30.09.,18:00,GER BL,FC Augsburg,4:1,SC Freiburg,Deutschland Bundesliga
+094,30.09.,18:00,ITA A,FC Parma,1:0,FC Empoli,Italien Serie A
+095,30.09.,18:00,TUR 1,Caykur Rizespor,3:0,Fenerbahce,Türkei Süper Lig
+096,30.09.,18:30,ESP 1,Levante UD,2:1,CD Alaves,Spanien Primera Division
+097,30.09.,20:30,ITA A,US Sassuolo,1:4,AC Milan,Italien Serie A
+098,30.09.,20:45,ESP 1,Betis Sevilla,1:0,CD Leganes,Spanien Primera Division
+099,30.09.,21:00,FRA 1,Lille OSC,3:0,Olymp. Marseille,Frankreich Ligue 1
+100,30.09.,22:25,NFL,LA Chargers,29:27,San Francisco 49,USA NFL
+101,01.10.,18:00,CRO 1,NK Rudes,0:3,NK Istra 1961,Kroatien 1. HNL
+102,01.10.,18:00,POL 1,Jagiellonia Bial.,0:4,Slask Wroclaw,Polen Orange Ekstraklasa
+103,01.10.,18:30,RUS PL,FC Rubin Kazan,2:1,Kryliya Sovetov,Russland Premier League
+104,01.10.,19:00,GER 3,TSV 1860 München,1:1,Kickers Würzburg,Deutschland 3. Liga
+105,01.10.,19:00,TUR 1,MKE Ankaragücü,0:1,Antalyaspor,Türkei Süper Lig
+106,01.10.,19:00,TUR 1,Istanbul Basakseh.,1:1,Yeni Malatyaspor,Türkei Süper Lig
+107,01.10.,19:00,DEN 1,FC Nordsjaelland,4:1,SönderjyskE,Dänemark Superligaen
+108,01.10.,19:00,NOR 1,Tromsö IL,2:1,SK Brann,Norwegen Tippeligaen
+109,01.10.,19:00,SWE 1,Hammarby IF,3:0,IFK Göteborg,Schweden Allsvenskan
+110,01.10.,19:00,SWE 1,IF Elfsborg,0:3,BK Häcken,Schweden Allsvenskan
+111,01.10.,19:00,SWE 1,Örebro SK,4:0,Trelleborgs FF,Schweden Allsvenskan
+112,01.10.,19:00,SWE 2,IFK Värnamo,0:0,AFC Eskilstuna,Schweden Superettan
+113,01.10.,20:00,ISR 1,Maccabi Tel Aviv,0:0,Hapoel Tel Aviv,Israel Winner League
+114,01.10.,20:30,GER 2,FC Ingolstadt,1:2,FC Union Berlin,Deutschland 2. Bundesliga
+115,01.10.,20:30,ITA A,Sampdoria Genua,2:1,Spal Ferrara,Italien Serie A
+116,01.10.,20:45,FRA 2,Troyes AC,1:0,AJ Auxerre,Frankreich Ligue 2
+117,01.10.,21:00,ENG PL,AFC Bournemouth,2:1,Crystal Palace,England Premier League
+118,01.10.,21:00,ESP 1,Celta de Vigo,1:1,Getafe CF,Spanien Primera Division
+119,02.10.,17:30,ITA B,Padua Calcio,2:2,Pescara Calcio,Italien Serie B
+120,01.10.,21:15,POR 1,CD Aves,3:0,Portimonense SC,Portugal Primeira Liga

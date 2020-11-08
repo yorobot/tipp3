@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,26.02.,17:20,EH CZE,HC Olmütz,1:1,HC Karlsbad,Tschechische Republik Extraliga
+002,26.02.,17:30,EH FIN,JYP Jyväskylä,3:6,Lukko Rauma,Finnland SM-Liiga
+003,26.02.,18:00,ITA B,Benevento Calcio,2:1,Pescara Calcio,Italien Serie B
+004,26.02.,18:00,TUR CUP,Umraniyespor,3:1,Trabzonspor,Türkei Türkiye Kupasi
+005,26.02.,18:30,GRE CUP,AEK Athen,3:0,Atromitos Athen,Griechenland Cup
+006,26.02.,19:00,EH SWE,Växjö Lakers,2:0,Djurgardens IF,Schweden Elitserien
+007,26.02.,19:00,EH SWE,Lulea Hockey,0:0,Rögle BK,Schweden Elitserien
+008,26.02.,19:00,EH SWE,Timra IK,1:3,Linköpings HC,Schweden Elitserien
+009,26.02.,19:00,EH SWE,Frölunda HC,4:2,Malmö IF,Schweden Elitserien
+010,26.02.,19:00,EH SWE,HV 71,1:2,HC Örebro,Schweden Elitserien
+011,26.02.,19:00,EH SWE,Mora IK,6:1,Brynas IF,Schweden Elitserien
+012,26.02.,19:00,EH SWE,Skelleftea AIK,1:3,Färjestads BK,Schweden Elitserien
+013,26.02.,19:30,EH GER,DEG Metro Stars,3:3,Kölner Haie,Deutschland Deutsche Eishockey Liga
+014,26.02.,19:45,ISR CUP,Maccabi Tel Aviv,0:0,Bnei Sakhnin FC,Israel Cup
+015,26.02.,19:45,EH SUI,SC Bern,4:3,HC Servette Genf,Schweiz National League A
+016,26.02.,19:45,EH SUI,EHC Biel Bienne,5:1,EV Zug,Schweiz National League A
+017,26.02.,19:45,EH SUI,Fribourg Gotteron,1:3,HC Lugano,Schweiz National League A
+018,26.02.,19:45,EH SUI,Rapperswil Lakers,1:3,HC Davos,Schweiz National League A
+019,26.02.,19:45,EH SUI,HC Lausanne,1:2,HC Ambri Piotta,Schweiz National League A
+020,26.02.,19:45,EH SUI,Zürcher SC Lions,1:1,SCL Tigers Langnau,Schweiz National League A
+021,26.02.,20:45,ENG PL,Cardiff City,0:3,FC Everton,England Premier League
+022,26.02.,20:45,ENG PL,Huddersfield Town,1:0,Wolverhampton,England Premier League
+023,26.02.,20:45,ENG PL,Leicester City,2:1,Brighton & Hove,England Premier League
+024,26.02.,20:45,ENG CS,Bristol City,1:2,Birmingham City,England Championship
+025,26.02.,20:45,ENG CS,Hull City,2:1,FC Millwall,England Championship
+026,26.02.,20:45,ENG CS,Queens Park R.,1:0,Leeds United,England Championship
+027,26.02.,20:45,ENG CS,Sheffield Wednes.,2:0,FC Brentford,England Championship
+028,26.02.,20:45,ENG 1,Shrewsbury Town,2:0,Doncaster Rovers,England League One
+029,26.02.,20:45,ENG LTR,FC Bury,0:3,FC Portsmouth,England Football League Trophy
+030,26.02.,20:45,SCO CS,Dundee United,1:0,Inverness CT,Schottland Championship
+031,26.02.,20:45,SCO CS,Dunfermline,3:0,Partick Thistle,Schottland Championship
+032,26.02.,20:45,SCO CS,Greenock Morton,1:0,Queen of South,Schottland Championship
+033,26.02.,20:45,SCO CS,FC Ross County,3:2,Ayr United,Schottland Championship
+034,26.02.,21:00,ENG PL,Newcastle United,2:0,FC Burnley,England Premier League
+035,26.02.,21:00,ITA B,Ascoli FC,2:2,US Foggia,Italien Serie B
+036,26.02.,21:00,ITA B,Cosenza Calcio,1:0,Carpi FC,Italien Serie B
+037,26.02.,21:00,ITA B,FC Crotone,3:0,US Palermo,Italien Serie B
+038,26.02.,21:00,ITA B,US Lecce,2:1,Hellas Verona,Italien Serie B
+039,26.02.,21:00,ITA B,Padua Calcio,1:1,Brescia Calcio,Italien Serie B
+040,26.02.,21:00,ITA B,Salernitana Calcio,2:0,US Cremonese,Italien Serie B
+041,26.02.,21:00,ITA CUP,Lazio Rom,0:0,AC Milan,Italien Coppa Italia
+042,26.02.,21:10,FRA CUP,Paris SG,3:0,Dijon Football,Frankreich Coupe de France
+043,26.02.,21:15,POR CUP,FC Porto,3:0,Sporting Braga,Portugal Taca de Portugal
+044,27.02.,01:00,NHL,Boston Bruins,4:1,San Jose Sharks,USA NHL
+045,27.02.,01:00,NHL,NY Islanders,1:3,Calgary Flames,USA NHL
+046,27.02.,01:00,NHL,Philadelphia Fl.,5:2,Buffalo Sabres,USA NHL
+047,27.02.,01:00,NHL,Washington Cap.,7:2,Ottawa Senators,USA NHL
+048,27.02.,01:00,NHL,Carolina Hurric.,6:1,Los Angeles Kings,USA NHL
+049,27.02.,01:00,NHL,Columbus Blue J.,2:5,Pittsburgh Peng.,USA NHL
+050,27.02.,01:30,NHL,Detroit Red Wings,1:8,Montreal Canad.,USA NHL
+051,27.02.,02:00,NHL,St. Louis Blues,2:0,Nashville Pred.,USA NHL
+052,27.02.,02:00,NHL,Winnipeg Jets,2:3,Minnesota Wild,USA NHL
+053,27.02.,03:00,NHL,Arizona Coyotes,3:3,Florida Panthers,USA NHL
+054,27.02.,04:00,NHL,Vegas Gold.Knights,4:1,Dallas Stars,USA NHL
+055,27.02.,12:00,TUR CUP,Hatayspor,4:2,Galatasaray,Türkei Türkiye Kupasi
+056,27.02.,16:15,GRE CUP,Asteras Tripolis,4:1,Ergotelis FC,Griechenland Cup
+057,27.02.,17:00,INTDCYP,Nigeria Damen*,1:4,Österreich Damen,Zypern Cup (Damen)
+058,27.02.,17:00,BOS CUP,FK Sarajevo,1:0,Zrinjski Mostar,Bosnien Cup
+059,27.02.,17:30,EH FIN,KalPa Kuopio,3:4,Kookoo,Finnland SM-Liiga
+060,27.02.,17:30,EH FIN,Kärpät Oulu,3:2,HPK Hämeenlinna,Finnland SM-Liiga
+061,27.02.,17:30,EH FIN,SaiPa Lappeenr.,2:3,Ilves Tampere,Finnland SM-Liiga
+062,27.02.,17:30,EH FIN,Tappara Tampere,2:4,Vaasan Sport,Finnland SM-Liiga
+063,27.02.,17:30,EH FIN,HC TPS Turku,3:6,Pelicans Lahti,Finnland SM-Liiga
+064,27.02.,18:00,TUR CUP,Göztepe,1:0,Yeni Malatyaspor,Türkei Türkiye Kupasi
+065,27.02.,18:30,FRA CUP,Stade Rennes,2:0,US Orleans 45,Frankreich Coupe de France
+066,27.02.,18:30,GRE CUP,PAOK Thessaloniki,2:1,Panionios Athen,Griechenland Cup
+067,27.02.,18:30,EH CZE,Sparta Prag,2:3,HC Trinec,Tschechische Republik Extraliga
+068,27.02.,19:00,GER 3,VfR Aalen,4:1,Unterhaching,Deutschland 3. Liga
+069,27.02.,19:00,ITA B,SSC Venezia,2:3,Perugia Calcio,Italien Serie B
+070,27.02.,19:00,DEN CUP,Odense BK,1:1,Esbjerg FB,Dänemark Landspokalturneringen
+071,27.02.,19:00,HB CL,Flensburg-H. GER,29:29,HBC Nantes FRA,"Champions League, Herren"
+072,27.02.,19:30,GER 2,Erzgebirge Aue,0:1,1. FC Köln,Deutschland 2. Bundesliga
+073,27.02.,20:30,SUI CUP,FC Sion,2:2,FC Basel,Schweiz Cup
+074,27.02.,20:30,POL CUP,Gornik Zabrze,1:2,KS Lechia Gdansk,Polen Cup
+075,27.02.,20:30,EH ALP,HC Gröden ITA,1:5,Adler Kitzbühe AUT,Alps Hockey League
+076,27.02.,20:45,ENG PL,FC Arsenal,5:1,AFC Bournemouth,England Premier League
+077,27.02.,20:45,ENG PL,FC Southampton,2:0,FC Fulham,England Premier League
+078,27.02.,20:45,NL CUP,Feyenoord,0:3,Ajax Amsterdam,Niederlande KNVB Cup
+079,27.02.,20:45,SCO PS,FC Aberdeen,0:2,Hamilton FC,Schottland Premiership
+080,27.02.,20:45,SCO PS,Heart of Midl.,1:2,Celtic Glasgow,Schottland Premiership
+081,27.02.,20:45,SCO PS,FC Kilmarnock,abgesagt,FC Motherwell,Schottland Premiership
+082,27.02.,20:45,SCO PS,Glasgow Rangers,4:0,FC Dundee,Schottland Premiership
+083,27.02.,20:45,SCO PS,FC St. Johnstone,1:2,Hibernian FC,Schottland Premiership
+084,27.02.,21:00,ENG PL,Crystal Palace,1:3,Manchester United,England Premier League
+085,27.02.,21:00,ENG PL,FC Chelsea,2:0,Tottenham,England Premier League
+086,27.02.,21:00,ENG PL,FC Liverpool,5:0,FC Watford,England Premier League
+087,27.02.,21:00,ENG PL,Manchester City,1:0,West Ham United,England Premier League
+088,27.02.,21:00,ESP CUP,Real Madrid,0:3,FC Barcelona,Spanien Copa del Rey
+089,27.02.,21:00,ESP CUP,Real Madrid,0:4,FC Barcelona+1,Spanien Copa del Rey
+090,27.02.,21:00,ESP CUP,Real Madrid+1,1:3,FC Barcelona,Spanien Copa del Rey
+091,27.02.,21:00,ITA CUP,AC Fiorentina,3:3,Atalanta Bergamo,Italien Coppa Italia
+092,27.02.,21:00,ITA B,Spezia Calcio,3:0,AS Livorno,Italien Serie B
+093,27.02.,21:00,FRA CUP,Olympique Lyon,3:1,SM Caen,Frankreich Coupe de France
+094,27.02.,22:00,INT D,Brasilien Damen*,1:2,England Damen,"International, Damen"
+095,27.02.,23:15,COPA L,Palestino CHI,2:1,CA Talleres ARG,Copa Libertadores
+096,28.02.,01:00,INT D,USA Damen,2:2,Japan Damen,"International, Damen"
+097,28.02.,01:00,NHL,Toronto Maple L.,6:2,Edmonton Oilers,USA NHL
+098,28.02.,01:00,NHL,New Jersey Devils,1:2,Calgary Flames,USA NHL
+099,28.02.,01:30,COPA L,Atletico MG BRA,0:0,Defensor Sp. URU,Copa Libertadores
+100,28.02.,01:30,NHL,New York Rangers,3:3,Tampa Bay Lightn.,USA NHL
+101,28.02.,03:30,NHL,Colorado Avalan.,2:2,Vancouver Can.,USA NHL
+102,28.02.,04:00,NHL,Anaheim Ducks,3:4,Chicago Blackhawks,USA NHL
+103,28.02.,18:00,TUR CUP,Kasimpasa,1:2,Akhisarspor,Türkei Türkiye Kupasi
+104,28.02.,18:30,GRE CUP,Olympiakos Piräus,0:1,Lamia 1964,Griechenland Cup
+105,28.02.,18:45,BB EL,Fenerbahce TUR,84:66,Efes Istanbul TUR,Euroleague
+106,28.02.,19:00,DEN CUP,Vendsyssel FF,0:2,Bröndby IF,Dänemark Landspokalturneringen
+107,28.02.,19:00,EH SWE,Frölunda HC,4:1,HC Örebro,Schweden Elitserien
+108,28.02.,19:00,EH SWE,Djurgardens IF,1:3,Lulea Hockey,Schweden Elitserien
+109,28.02.,19:00,EH SWE,Malmö IF,4:3,HV 71,Schweden Elitserien
+110,28.02.,19:00,EH SWE,Linköpings HC,2:4,Växjö Lakers,Schweden Elitserien
+111,28.02.,19:00,EH SWE,Rögle BK,2:5,Timra IK,Schweden Elitserien
+112,28.02.,19:00,EH SWE,Brynas IF,3:3,Skelleftea AIK,Schweden Elitserien
+113,28.02.,19:00,HB GER,TSV GWD Minden,29:32,Hannover Burgd.,Deutsche Handball Bundesliga
+114,28.02.,19:00,HB GER,MT Melsungen,25:29,THW Kiel,Deutsche Handball Bundesliga
+115,28.02.,19:30,SUI CUP,FC Thun,3:2,FC Lugano,Schweiz Cup
+116,28.02.,20:15,SUI CUP,FC Zürich,2:1,SC Kriens,Schweiz Cup
+117,28.02.,20:45,NL CUP,Willem II Tilburg,1:1,AZ Alkmaar,Niederlande KNVB Cup
+118,28.02.,21:00,ESP CUP,FC Valencia,1:0,Betis Sevilla,Spanien Copa del Rey
+119,28.02.,21:00,INT FSD,Frankreich Damen,0:1,Deutschland Damen,"Internationale Freundschaftsspiele, Damen"
+120,01.03.,01:30,COPA L,Atletico Nac. COL,1:0,Club Libertad PAR,Copa Libertadores

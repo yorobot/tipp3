@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,16.04.,17:00,SER CUP,Roter Stern B.,4:1,FK Mladost Lucani,Serbien Cup
+002,16.04.,17:00,CZE 2,FC Graffin Vlasim,1:1,FC Jihlava,Tschechien 1. Division
+003,16.04.,17:00,CZE 2,1.SK Prostejov,2:1,FK Banik Sokolov,Tschechien 1. Division
+004,16.04.,17:30,EH CZE,HC Chomutov,5:7,HC Pardubice,Tschechische Republik Extraliga
+005,16.04.,17:30,EH CZE,HC Kladno,4:2,Ceske Budejovice,Tschechische Republik Extraliga
+006,16.04.,18:00,BUL CUP,Lokomotiv Plovdiv,4:0,FK Septemvri Sofia,Bulgarien Cup
+007,16.04.,18:00,HUN CUP,Fehervar FC,1:0,Debreceni VSC,Ungarn Cup
+008,16.04.,18:00,EH SVK,HC Banska Bystrica,6:2,HKM Nitra,Slowakei Extraliga
+009,16.04.,19:00,SVK CUP,FK Senica,0:0,FC Spartak Trnava,Slowakei Cup
+010,16.04.,19:00,SWE 2,Östers IF,1:1,Degerfors IF,Schweden Superettan
+011,16.04.,19:00,BB EL,ZSKA Moskau RUS,94:68,Baskonia G. ESP,Euroleague
+012,16.04.,19:15,EH AUT,KAC Klagenfurt,1:0,Vienna Capitals,Österreich Eishockey Liga
+013,16.04.,19:30,EH GER,EHC München,2:0,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+014,16.04.,19:30,EH SWE,Djurgardens IF,1:6,Färjestads BK,Schweden Elitserien
+015,16.04.,19:45,BB EL,Fenerbahce TUR,76:43,BC Zalgiris LTU,Euroleague
+016,16.04.,20:00,EH SUI,SC Bern,4:1,EV Zug,Schweiz National League A
+017,16.04.,20:45,ENG PL,Brighton & Hove,0:2,Cardiff City,England Premier League
+018,16.04.,20:45,SCO CS,Greenock Morton,2:2,Inverness CT,Schottland Championship
+019,16.04.,21:00,CL,Juventus Turin ITA,1:2,Ajax Amsterd. NED,UEFA Champions League
+020,16.04.,21:00,CL,Juventus Turin,1:3,Ajax Amsterdam+1,UEFA Champions League
+021,16.04.,21:00,CL,FC Barcelona ESP,3:0,Manchester U. ENG,UEFA Champions League
+022,16.04.,21:00,CL,FC Barcelona,3:1,Manchester Utd.+1,UEFA Champions League
+023,16.04.,23:59,PAR 1,Olimpia Asuncion,2:0,Sportivo Luqueno,Paraguay Primera Division
+024,16.04.,23:59,PAR 1,Deportivo Capiata,1:1,Club Cerro Porteno,Paraguay Primera Division
+025,16.04.,23:59,NHL,Columbus Blue J.,7:3,Tampa Bay Lightn.,USA NHL
+026,16.04.,23:59,NHL,St. Louis Blues,1:1,Winnipeg Jets,USA NHL
+027,16.04.,23:59,NHL,Vegas Gold.Knights,5:0,San Jose Sharks,USA NHL
+028,16.04.,23:59,NHL,Pittsburgh Peng.,1:3,NY Islanders,USA NHL
+029,16.04.,23:59,NBA,Portland T.,114:94,Oklahoma City Th.,USA NBA
+030,16.04.,23:59,NBA,Denver Nuggets,114:105,San Antonio Spurs,USA NBA
+031,17.04.,14:30,ITA C1C,Viterbese,1:3,SS Cavese,"Italien, Lega Pro Prima Divisione, Girone C"
+032,17.04.,16:00,CYP CUP,Enosis N.Paralimni,2:2,APOEL Nikosia,Zypern Cup
+033,17.04.,17:00,GER DA,SC Sand Damen,1:1,Bayern Damen,Deutschland Frauen Bundesliga
+034,17.04.,17:00,CZE 2,FK Fotbal Trinec,2:0,FK Varnsdorf,Tschechien 1. Division
+035,17.04.,17:00,CYP CUP,AEL Limassol,0:0,Apollon Limassol,Zypern Cup
+036,17.04.,17:00,SVK CUP,Z. Michalovce,0:2,MSK Zilina,Slowakei Cup
+037,17.04.,17:20,EH FS,Tschechien,5:4,Deutschland,"Freundschaftsspiele, Herren"
+038,17.04.,18:00,DEN 1,Aalborg BK,1:1,Vendsyssel FF,Dänemark Superligaen
+039,17.04.,18:00,CZE 2,FK Usti nad Labem,2:1,1. SC Znojmo,Tschechien 1. Division
+040,17.04.,18:00,CZE 2,Zbrojovka Brno,3:1,Pardubice,Tschechien 1. Division
+041,17.04.,18:00,BUL CUP,Botev Plovdiv,3:2,ZSKA Sofia,Bulgarien Cup
+042,17.04.,18:00,SER CUP,Partizan Belgrad,1:0,FK Radnicki Nis,Serbien Cup
+043,17.04.,18:00,HUN CUP,Honved Budapest,2:1,Soroksar SC,Ungarn Cup
+044,17.04.,18:30,KHL,Avangard Omsk,0:2,HK CSKA Moskau,Kontinental Hockey League
+045,17.04.,19:00,ITA A,Lazio Rom,2:0,Udinese Calcio,Italien Serie A
+046,17.04.,19:00,FRA 1,FC Nantes,3:2,Paris SG,Frankreich Ligue 1
+047,17.04.,19:00,EH FS,Dänemark,2:3,Schweden,"Freundschaftsspiele, Herren"
+048,17.04.,19:00,BB EL,Efes Istanbul TUR,75:68,FC Barcelona ESP,Euroleague
+049,17.04.,19:00,BB EU C,Würzburg Baske GER,89:86,O.Varese ITA,Europe Cup
+050,17.04.,20:30,BB EU C,Sassari ITA,105:75,H.Unet Holon ISR,Europe Cup
+051,17.04.,20:30,BB GER,Braunschweig,90:76,BG Göttingen,Deutschland BBL
+052,17.04.,21:00,CL,FC Porto POR,1:4,FC Liverpool ENG,UEFA Champions League
+053,17.04.,21:00,CL,FC Porto+1,2:4,FC Liverpool,UEFA Champions League
+054,17.04.,21:00,CL,Man. City ENG,4:3,Tottenham ENG,UEFA Champions League
+055,17.04.,21:00,CL,Manchester City,4:4,Tottenham+1,UEFA Champions League
+056,17.04.,21:00,CL,Manchester City,4:5,Tottenham+2,UEFA Champions League
+057,17.04.,21:00,COL 1,Deportivo Pasto,1:0,Alianza Petrolera,Kolumbien Primera Liga
+058,17.04.,21:00,BOL 1,Guabira Montero,1:2,The Strongest,Bolivien Liga Profesjonal
+059,17.04.,21:15,BB EL,Real Madrid BC ESP,75:72,Panathinaikos GRE,Euroleague
+060,17.04.,23:00,COL 1,Jaguares Cordoba,2:2,Envigado FC,Kolumbien Primera Liga
+061,18.04.,01:00,NHL,Toronto Maple L.,4:6,Boston Bruins,USA NHL
+062,18.04.,01:00,NBA,Boston Celtics,99:91,Indiana Pacers,USA NBA
+063,18.04.,02:00,COL 1,Los Millonarios,1:2,Deportes Tolima,Kolumbien Primera Liga
+064,18.04.,02:00,BOL 1,Bolivar La Paz,4:1,Blooming,Bolivien Liga Profesjonal
+065,18.04.,02:00,NHL,Dallas Stars,5:1,Nashville Pred.,USA NHL
+066,18.04.,02:15,PAR 1,Club Libertad,1:1,Guarani Asuncion,Paraguay Primera Division
+067,18.04.,02:30,BOL 1,Real Potosi,1:2,Jorge Wilstermann,Bolivien Liga Profesjonal
+068,18.04.,03:30,NBA,Houston Rockets,118:98,Utah Jazz,USA NBA
+069,18.04.,04:00,USA MLS,Vancouver W'caps,1:0,Los Angeles FC,USA Major League Soccer
+070,18.04.,04:00,NHL,Colorado Avalan.,2:2,Calgary Flames,USA NHL
+071,18.04.,11:50,AUS 1,Sydney FC,1:0,Perth Glory,Australien Hyundai A-League
+072,18.04.,12:00,DEN 1,AGF Aarhus,2:1,SönderjyskE,Dänemark Superligaen
+073,18.04.,14:00,DEN 1,AC Horsens,0:0,Vejle BK,Dänemark Superligaen
+074,18.04.,16:00,DEN 1,Esbjerg FB,1:0,Bröndby IF,Dänemark Superligaen
+075,18.04.,16:30,ITA C1A,Cuneo,1:1,Albissola 2010,"Italien Lega Pro Prima Divisione, Girone A"
+076,18.04.,17:30,FIN 1,Seinajoen JK,0:0,HJK Helsinki,Finnland Veikkausliiga
+077,18.04.,18:00,DEN 1,FC Kopenhagen,3:0,FC Midtjylland,Dänemark Superligaen
+078,18.04.,19:00,AUT RLO,SC Neusiedl,3:0,SK Rapid Wien II,Österreich Regionalliga Ost
+079,18.04.,19:00,AUT RLM,ATSV Stadl-Paura,5:1,VST Völkermarkt,Österreich Regionalliga Mitte
+080,18.04.,19:00,ITA C1A,Robur Siena,3:0,Carrarese Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+081,18.04.,19:00,BB EL,ZSKA Moskau RUS,68:78,Baskonia G. ESP,Euroleague
+082,18.04.,19:00,BB AUT,Kapfenberg Bulls,73:77,Oberwart Gunners,Österreich Basketball Superliga
+083,18.04.,19:00,BB AUT,BC Vienna,56:91,Traiskirchen,Österreich Basketball Superliga
+084,18.04.,19:00,BB AUT,Flyers Wels,81:80,Klosterneuburg,Österreich Basketball Superliga
+085,18.04.,19:00,BB GER,Alba Berlin,104:67,SC Rasta Vechta,Deutschland BBL
+086,18.04.,19:00,BB GER,Skyli. Frankfurt,86:79,BB Bamberg,Deutschland BBL
+087,18.04.,19:00,HB GER,Füchse Berlin,29:30,THW Kiel,Deutsche Handball Bundesliga
+088,18.04.,19:00,HB GER,Hannover Burgd.,28:30,Rhein-Neckar L.,Deutsche Handball Bundesliga
+089,18.04.,19:00,HB GER,Ludwigshafen,23:32,FA Göppingen,Deutsche Handball Bundesliga
+090,18.04.,19:15,EH AUT,Vienna Capitals,3:2,KAC Klagenfurt,Österreich Eishockey Liga
+091,18.04.,19:30,AUT RLW,FC Kitzbühel,2:2,USK Anif,Österreich Regionalliga West
+092,18.04.,19:30,EH GER,Adler Mannheim,1:1,EHC München,Deutschland Deutsche Eishockey Liga
+093,18.04.,19:45,BB EL,Fenerbahce TUR,80:82,BC Zalgiris LTU,Euroleague
+094,18.04.,20:00,EH SUI,EV Zug,1:3,SC Bern,Schweiz National League A
+095,18.04.,20:30,ITA C1A,Lucchese Libertas,1:2,Piacenza Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+096,18.04.,20:30,ITA C1A,SC Pisa,0:0,Pontedera,"Italien Lega Pro Prima Divisione, Girone A"
+097,18.04.,20:30,ITA C1A,AC Pistoiese,1:2,Pro Vercelli,"Italien Lega Pro Prima Divisione, Girone A"
+098,18.04.,20:30,ITA C1A,Olbia Calcio,1:2,Novara Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+099,18.04.,20:30,ITA C1A,Virtus Entella,2:1,AC Arezzo,"Italien Lega Pro Prima Divisione, Girone A"
+100,18.04.,20:30,FRA 3,Cholet,0:1,Le Mans UC 72,Frankreich National
+101,18.04.,20:30,BB GER,Crailsheim Merlins,79:82,Ratiopharm Ulm,Deutschland BBL
+102,18.04.,21:00,EL,SSC Napoli ITA,0:1,FC Arsenal ENG,UEFA Europa League
+103,18.04.,21:00,EL,SSC Napoli,0:2,FC Arsenal+1,UEFA Europa League
+104,18.04.,21:00,EL,FC Valencia ESP,2:0,Villarreal CF ESP,UEFA Europa League
+105,18.04.,21:00,EL,FC Valencia,2:1,Villarreal CF+1,UEFA Europa League
+106,18.04.,21:00,EL,E. Frankfurt GER,2:0,Benfica Lissab POR,UEFA Europa League
+107,18.04.,21:00,EL,Eintr. Frankfurt,2:1,Benfica Lissabon+1,UEFA Europa League
+108,18.04.,21:00,EL,FC Chelsea ENG,4:3,Slavia Prag CZE,UEFA Europa League
+109,18.04.,21:00,EL,FC Chelsea,4:4,SK Slavia Prag+1,UEFA Europa League
+110,19.04.,00:15,BOL 1,Royal Pari Sion,0:0,Club Destroyers,Bolivien Liga Profesjonal
+111,19.04.,02:15,BOL 1,Club Dep. Aurora,0:2,San Jose Oruro,Bolivien Liga Profesjonal
+112,19.04.,02:30,COL 1,Atletico Nacional,4:0,B. Patriotas FC,Kolumbien Primera Liga
+113,19.04.,01:00,NHL,Carolina Hurric.,2:1,Washington Cap.,USA NHL
+114,19.04.,04:00,NHL,San Jose Sharks,5:2,Vegas Gold.Knights,USA NHL
+115,20.04.,17:00,AUT BL,SCR Altach,2:2,SK Rapid Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+116,20.04.,17:00,AUT BL,SV Mattersburg,3:1,Wacker Innsbruck,"Österreich Bundesliga, Qualifikationsgruppe"
+117,20.04.,17:00,AUT BL,Admira Wacker,2:1,TSV Hartberg,"Österreich Bundesliga, Qualifikationsgruppe"
+118,21.04.,14:30,AUT BL,SK Sturm Graz,1:2,Wolfsberger AC,Österreich Bundesliga
+119,21.04.,14:30,AUT BL,SKN St. Pölten,1:1,RB Salzburg,Österreich Bundesliga
+120,21.04.,17:00,AUT BL,FK Austria Wien,2:2,LASK Linz,Österreich Bundesliga

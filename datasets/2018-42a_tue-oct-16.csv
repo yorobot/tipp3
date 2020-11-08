@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,16.10.,12:35,INT FS,Japan,4:3,Uruguay,Internationale Freundschaftsspiele
+002,16.10.,13:00,INT FS,Südkorea,2:2,Panama,Internationale Freundschaftsspiele
+003,16.10.,15:30,U19 EMQ,Ungarn U19,2:1,Österreich U19,"U19 EM, Qualifikation"
+004,16.10.,16:00,UEFA NL,Kasachstan,4:0,Andorra,UEFA Nations League
+005,16.10.,16:00,FS U20,Deutschland U20,3:2,Schweiz U20,U20 Freundschaftsspiele
+006,16.10.,17:00,INT FS,V. Arab. Emirate*,0:2,Venezuela,Internationale Freundschaftsspiele
+007,16.10.,18:00,UEFA NL,Armenien,4:0,Nordmazedonien,UEFA Nations League
+008,16.10.,18:00,EH CL,Neman Grodno BLR,2:4,Berlin Eisb. GER,Champions Hockey League
+009,16.10.,18:00,EH CL,Tappara Tamper FIN,5:1,Djurgardens IF SWE,Champions Hockey League
+010,16.10.,18:00,EH CL,JYP Jyväskylä FIN,0:1,HC Lugano SUI,Champions Hockey League
+011,16.10.,18:00,U21 EMQ,Österreich U21,3:2,Russland U21,U21 EM Qualifikation
+012,16.10.,18:15,U21 EMQ,Deutschland U21,2:0,Irland U21,U21 EM Qualifikation
+013,16.10.,18:30,U21 EMQ,Schottland U21,0:2,England U21,U21 EM Qualifikation
+014,16.10.,18:30,U21 EMQ,Niederlande U21,3:0,Ukraine U21,U21 EM Qualifikation
+015,16.10.,18:30,U21 EMQ,Ungarn U21,1:2,Türkei U21,U21 EM Qualifikation
+016,16.10.,18:30,U21 EMQ,Schweden U21,0:3,Belgien U21,U21 EM Qualifikation
+017,16.10.,18:30,EH CL,Malmö IF SWE,6:1,EHC München GER,Champions Hockey League
+018,16.10.,18:30,EH CL,Skelleftea AIK SWE,3:3,HIFK Helsinki FIN,Champions Hockey League
+019,16.10.,18:45,U21 EMQ,Island U21,2:7,Spanien U21,U21 EM Qualifikation
+020,16.10.,18:45,U21 EMQ,Frankreich U21,1:1,Slowenien U21,U21 EM Qualifikation
+021,16.10.,19:00,U21 EMQ,Wales U21,3:1,Schweiz U21,U21 EM Qualifikation
+022,16.10.,19:00,GER 3,Hallescher FC,0:1,Hansa Rostock,Deutschland 3. Liga
+023,16.10.,19:30,EH CL,Vienna Caps AUT,2:6,Zürcher Lions SUI,Champions Hockey League
+024,16.10.,19:30,EH CL,Nürnberg Ice T GER,2:5,Rouen HE FRA,Champions Hockey League
+025,16.10.,19:45,EH CL,Bozen Foxes ITA,6:4,GKS Tychy POL,Champions Hockey League
+026,16.10.,19:45,EH CL,EV Zug SUI,2:1,Kometa Brünn CZE,Champions Hockey League
+027,16.10.,20:00,INT FS,Brasilien*,1:0,Argentinien,Internationale Freundschaftsspiele
+028,16.10.,20:00,ESP CUP,Elche CF,1:4,Cordoba CF,Spanien Copa del Rey
+029,16.10.,20:00,U21 EMQ,Portugal U21,4:2,Bosnien-Herz. U21,U21 EM Qualifikation
+030,16.10.,20:30,U21 EMQ,Nordirland U21,1:0,Slowakei U21,U21 EM Qualifikation
+031,16.10.,20:45,UEFA NL,Ukraine,1:0,Tschechien,UEFA Nations League
+032,16.10.,20:45,UEFA NL,Irland,0:1,Wales,UEFA Nations League
+033,16.10.,20:45,UEFA NL,Norwegen,1:0,Bulgarien,UEFA Nations League
+034,16.10.,20:45,UEFA NL,Slowenien,1:1,Zypern,UEFA Nations League
+035,16.10.,20:45,UEFA NL,Lettland,0:3,Georgien,UEFA Nations League
+036,16.10.,20:45,UEFA NL,Gibraltar,2:1,Liechtenstein,UEFA Nations League
+037,16.10.,20:45,UEFA NL,Frankreich,2:1,Deutschland,UEFA Nations League
+038,16.10.,20:45,INT FS,Schweden,1:1,Slowakei,Internationale Freundschaftsspiele
+039,16.10.,20:45,INT FS,Dänemark,2:0,Österreich,Internationale Freundschaftsspiele
+040,16.10.,20:45,INT FS,Dänemark,2:1,Österreich+1,Internationale Freundschaftsspiele
+041,16.10.,20:45,INT FS,Belgien,1:1,Niederlande,Internationale Freundschaftsspiele
+042,17.10.,02:05,INT FS,USA,1:1,Peru,Internationale Freundschaftsspiele
+043,17.10.,02:00,INT FS,Kolumbien*,3:1,Costa Rica,Internationale Freundschaftsspiele
+044,17.10.,03:45,INT FS,Mexiko,0:1,Chile,Internationale Freundschaftsspiele
+045,17.10.,17:00,ESP CUP,CD Ebro,2:1,UE Lleida,Spanien Copa del Rey
+046,17.10.,17:00,EH CL,B. Bystrica SVK,2:2,HC Pilsen CZE,Champions Hockey League
+047,17.10.,17:30,EH FIN,Lukko Rauma,5:1,Vaasan Sport,Finnland SM-Liiga
+048,17.10.,17:30,EH FIN,HPK Hämeenlinna,3:1,KalPa Kuopio,Finnland SM-Liiga
+049,17.10.,17:30,EH FIN,Kookoo,3:3,Ilves Tampere,Finnland SM-Liiga
+050,17.10.,18:00,EH CL,Mountfield HK CZE,3:3,Kärpät Oulu FIN,Champions Hockey League
+051,17.10.,18:30,ITA C1B,AC Feralpisalo,2:0,Rimini Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+052,17.10.,18:30,ITA C1B,FC Südtirol,2:0,Triestina Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+053,17.10.,18:30,ITA C1B,Giana Erminio,1:1,Ravenna Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+054,17.10.,19:00,HB GERC,VfL Gummersbach,24:25,FA Göppingen,Deutschland DHB Pokal
+055,17.10.,19:00,HB GERC,Flensburg-Handew.,28:31,SC Magdeburg,Deutschland DHB Pokal
+056,17.10.,19:30,EH CL,EC RB Salzburg AUT,2:1,SC Bern SUI,Champions Hockey League
+057,17.10.,19:30,EH ALP,EK Zell am See AUT,3:2,Adler Kitzbühe AUT,Alps Hockey League
+058,17.10.,19:30,EH ALP,Bregenzerwald AUT,1:0,HC Milano ITA,Alps Hockey League
+059,17.10.,20:00,SLO CUP,FC Koper,0:5,Olimpija Ljubljana,Slowenien Cup
+060,17.10.,20:00,ESP CUP,CD Lugo,1:0,Alcorcon AD,Spanien Copa del Rey
+061,17.10.,20:15,ESP CUP,Union Mutilvera,1:3,CF Villanovense,Spanien Copa del Rey
+062,17.10.,20:25,VB CL,SK Aich/Dob AUT,2:3,Abiant Lycurgus,Champions League Männer
+063,17.10.,20:30,ESP CUP,UE Sant Andreu,0:0,CD Calahorra,Spanien Copa del Rey
+064,17.10.,20:30,ESP CUP,Racing Santander,1:0,UD Logrones,Spanien Copa del Rey
+065,17.10.,20:30,ITA C1A,Novara Calcio,0:1,Pro Patria,"Italien Lega Pro Prima Divisione, Girone A"
+066,17.10.,20:30,ITA C1A,SC Pisa,3:1,Pro Piacenza,"Italien Lega Pro Prima Divisione, Girone A"
+067,17.10.,20:30,ITA C1A,Robur Siena,1:1,Cuneo,"Italien Lega Pro Prima Divisione, Girone A"
+068,17.10.,20:30,ITA C1C,Potenza SC,1:1,Reggina 1914,"Italien, Lega Pro Prima Divisione, Girone C"
+069,17.10.,20:45,ESP CUP,La Hoya Lorca CF,0:3,Cultural Leonesa,Spanien Copa del Rey
+070,17.10.,20:45,ESP CUP,Melilla UD,2:0,Ontinyent CF,Spanien Copa del Rey
+071,17.10.,21:00,ESP CUP,Real Saragossa,0:1,Cadiz CF,Spanien Copa del Rey
+072,18.10.,01:30,USA MLS,DC United,1:0,FC Toronto,USA Major League Soccer
+073,18.10.,02:45,BRA CUP,Corinthians SP,1:2,Cruzeiro EC MG,Brasilien Cup
+074,18.10.,04:00,USA MLS,Vancouver W'caps,1:4,Sp. Kansas City,USA Major League Soccer
+075,18.10.,16:00,KHL,Traktor Chelyab.,4:4,HC Barys,Kontinental Hockey League
+076,18.10.,16:00,KHL,Met. Magnitogorsk,4:1,Avangard Omsk,Kontinental Hockey League
+077,18.10.,18:00,KHL,Lok. Jaroslawl,4:0,A. Vladivostok,Kontinental Hockey League
+078,18.10.,18:00,KHL,Torp. Nowgorod,4:4,Jokerit Helsinki,Kontinental Hockey League
+079,18.10.,18:00,ISR 2,H. Petach Tikva,1:1,Beitar Tel Aviv,Israel National League
+080,18.10.,18:30,ITA C1C,US Siracusa,1:2,Rende,"Italien, Lega Pro Prima Divisione, Girone C"
+081,18.10.,18:30,KHL,HC Vityaz Podolsk,3:1,Neftekhimik,Kontinental Hockey League
+082,18.10.,18:30,KHL,Slovan Bratislava,2:1,Amur Chabarowsk,Kontinental Hockey League
+083,18.10.,18:30,KHL,SKA St. Petersburg,3:2,Dynamo Moskau,Kontinental Hockey League
+084,18.10.,18:30,KHL,Spartak Moskau,2:3,HK Dinamo Riga,Kontinental Hockey League
+085,18.10.,18:30,KHL,AK Bars Kasan,3:1,Salavat Yulaev Ufa,Kontinental Hockey League
+086,18.10.,19:00,DEN 2,Hvidovre IF,2:0,HB Köge,Dänemark 1. Division
+087,18.10.,19:00,EH SWE,HC Örebro,3:6,Färjestads BK,Schweden Elitserien
+088,18.10.,19:00,EH SWE,Frölunda HC,1:5,Lulea Hockey,Schweden Elitserien
+089,18.10.,19:00,EH SWE,Skelleftea AIK,0:5,Djurgardens IF,Schweden Elitserien
+090,18.10.,19:00,EH SWE,Timra IK,3:3,Rögle BK,Schweden Elitserien
+091,18.10.,19:00,EH SWE,Växjö Lakers,0:4,HV 71,Schweden Elitserien
+092,18.10.,19:00,EH SWE,Malmö IF,3:3,Brynas IF,Schweden Elitserien
+093,18.10.,19:30,EH GER,EHC München,4:2,Schwenninger W.W.,Deutschland Deutsche Eishockey Liga
+094,18.10.,20:00,ESP CUP,R. Majadahonda,1:1,Sporting Gijon,Spanien Copa del Rey
+095,18.10.,20:00,EH ALP,SHC Fassa ITA,2:3,HC Gröden ITA,Alps Hockey League
+096,18.10.,20:00,EH ALP,Sterzing ITA,4:4,HC Asiago ITA,Alps Hockey League
+097,18.10.,20:30,ITA C1A,Pontedera,1:1,AC Gozzano,"Italien Lega Pro Prima Divisione, Girone A"
+098,18.10.,20:30,ITA C1A,Lucchese Libertas,4:0,Arzachena Costa Sm,"Italien Lega Pro Prima Divisione, Girone A"
+099,18.10.,21:00,ESP CUP,UD Almeria,3:1,CF Reus Deportiu,Spanien Copa del Rey
+100,18.10.,23:00,COL 1,Envigado FC,1:0,Deportivo Pasto,Kolumbien Primera Liga
+101,19.10.,01:00,COL 1,AD Cali,1:0,America de Cali,Kolumbien Primera Liga
+102,19.10.,03:00,COL 1,Los Millonarios,1:0,Leones FC,Kolumbien Primera Liga
+103,19.10.,03:00,COL 1,Rionegro Aguilas,1:3,Atletico Nacional,Kolumbien Primera Liga
+104,19.10.,03:00,USA MLS,Real Salt Lake,4:1,New England Rev.,USA Major League Soccer
+105,19.10.,02:20,NFL,Arizona Cardinals,10:45,Denver Broncos,USA NFL
+106,20.10.,17:00,AUT BL,RB Salzburg,1:1,Wacker Innsbruck,Österreich Bundesliga
+107,20.10.,17:00,AUT BL,LASK Linz,1:1,SCR Altach,Österreich Bundesliga
+108,20.10.,17:00,AUT BL,TSV Hartberg,3:0,SK Rapid Wien,Österreich Bundesliga
+109,21.10.,14:30,AUT BL,Admira Wacker,0:0,Wolfsberger AC,Österreich Bundesliga
+110,21.10.,14:30,AUT BL,SV Mattersburg,2:0,SKN St. Pölten,Österreich Bundesliga
+111,21.10.,17:00,AUT BL,FK Austria Wien,1:1,SK Sturm Graz,Österreich Bundesliga
+112,19.10.,20:30,GER BL,Eintr. Frankfurt,7:1,Fortuna Düsseldorf,Deutschland Bundesliga
+113,20.10.,15:30,GER BL,Bayer Leverkusen,2:2,Hannover 96,Deutschland Bundesliga
+114,20.10.,15:30,GER BL,VfB Stuttgart,0:4,Bor. Dortmund,Deutschland Bundesliga
+115,20.10.,15:30,GER BL,FC Augsburg,0:0,RB Leipzig,Deutschland Bundesliga
+116,20.10.,15:30,GER BL,VfL Wolfsburg,1:3,FC Bayern München,Deutschland Bundesliga
+117,20.10.,15:30,GER BL,1. FC Nürnberg,1:3,TSG Hoffenheim,Deutschland Bundesliga
+118,20.10.,18:30,GER BL,FC Schalke 04,0:2,Werder Bremen,Deutschland Bundesliga
+119,21.10.,15:30,GER BL,Hertha BSC,1:1,SC Freiburg,Deutschland Bundesliga
+120,21.10.,18:00,GER BL,Mönchengladbach,4:0,FSV Mainz 05,Deutschland Bundesliga

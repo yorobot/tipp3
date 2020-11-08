@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,31.12.,14:00,WAL 1,Cardiff Met Uni.,3:0,FC Barry Town,Wales Premier League
+002,31.12.,17:00,INT FS,Südkorea*,0:0,Saudi Arabien,Internationale Freundschaftsspiele
+003,31.12.,18:00,INT FS,Katar,1:2,Iran,Internationale Freundschaftsspiele
+004,31.12.,18:00,ISR 2,I. Ramat Hasharon,1:2,Beitar Tel Aviv,Israel National League
+005,31.12.,18:00,ISR 2,Hapoel Marmorek FC,0:4,Hapoel Kfar Saba,Israel National League
+006,31.12.,18:30,NHL,Washington Cap.,3:6,Nashville Pred.,USA NHL
+007,31.12.,19:00,NHL,New Jersey Devils,4:0,Vancouver Can.,USA NHL
+008,31.12.,20:00,ISR 1,Beitar Jerusalem,1:1,Hapoel Haifa,Israel Winner League
+009,01.01.,00:00,NHL,Minnesota Wild,2:3,Pittsburgh Peng.,USA NHL
+010,01.01.,00:00,NHL,Buffalo Sabres,1:3,NY Islanders,USA NHL
+011,01.01.,00:00,NHL,Carolina Hurric.,3:1,Philadelphia Fl.,USA NHL
+012,01.01.,01:00,NHL,St. Louis Blues,1:2,New York Rangers,USA NHL
+013,01.01.,01:00,NHL,Columbus Blue J.,6:3,Ottawa Senators,USA NHL
+014,01.01.,01:30,NHL,Detroit Red Wings,3:3,Florida Panthers,USA NHL
+015,01.01.,02:00,NHL,Colorado Avalan.,2:2,Los Angeles Kings,USA NHL
+016,01.01.,02:00,NHL,Anaheim Ducks,1:1,Tampa Bay Lightn.,USA NHL
+017,01.01.,02:30,NHL,Dallas Stars,2:2,Montreal Canad.,USA NHL
+018,01.01.,03:00,NHL,Calgary Flames,8:5,San Jose Sharks,USA NHL
+019,01.01.,03:00,NHL,Edmonton Oilers,3:4,Winnipeg Jets,USA NHL
+020,01.01.,09:50,AUS 1,Western Sydney,0:2,Melbourne City FC,Australien Hyundai A-League
+021,01.01.,13:30,ENG PL,FC Everton,0:1,Leicester City,England Premier League
+022,01.01.,16:00,ENG PL,FC Arsenal,4:1,FC Fulham,England Premier League
+023,01.01.,16:00,ENG CS,Nottingham Forest,4:2,Leeds United,England Championship
+024,01.01.,16:00,ENG CS,Aston Villa,2:2,Queens Park R.,England Championship
+025,01.01.,16:00,ENG CS,Blackburn Rovers,2:1,West Bromwich,England Championship
+026,01.01.,16:00,ENG CS,FC Brentford,1:1,Norwich City,England Championship
+027,01.01.,16:00,ENG CS,Derby County,1:1,FC Middlesbrough,England Championship
+028,01.01.,16:00,ENG CS,Hull City,6:0,Bolton Wanderers,England Championship
+029,01.01.,16:00,ENG CS,Ipswich Town,2:3,FC Millwall,England Championship
+030,01.01.,16:00,ENG CS,FC Reading,1:4,Swansea City,England Championship
+031,01.01.,16:00,ENG CS,Rotherham United,2:1,Preston North End,England Championship
+032,01.01.,16:00,ENG CS,Sheffield Wednes.,1:1,Birmingham City,England Championship
+033,01.01.,16:00,ENG CS,Stoke City,0:2,Bristol City,England Championship
+034,01.01.,16:00,ENG CS,Wigan Athletic,0:3,Sheffield United,England Championship
+035,01.01.,16:00,ENG 1,FC Blackpool,0:1,AFC Sunderland,England League One
+036,01.01.,16:00,ENG 1,Bradford City FC,3:0,Accrington Stanley,England League One
+037,01.01.,16:00,ENG 1,Bristol Rovers,0:0,Burton Albion,England League One
+038,01.01.,16:00,ENG 1,Charlton Athletic,2:1,FC Walsall,England League One
+039,01.01.,16:00,ENG 1,Doncaster Rovers,5:0,FC Rochdale,England League One
+040,01.01.,16:00,ENG 1,Luton Town,0:0,FC Barnsley,England League One
+041,01.01.,16:00,ENG 1,Peterborough Utd.,0:2,Scunthorpe United,England League One
+042,01.01.,16:00,ENG 1,Plymouth Argyle,3:0,Oxford United,England League One
+043,01.01.,16:00,ENG 1,FC Portsmouth,2:1,AFC Wimbledon,England League One
+044,01.01.,16:00,ENG 1,Shrewsbury Town,0:0,Fleetwood Town,England League One
+045,01.01.,16:00,ENG 1,Southend United,2:0,FC Gillingham,England League One
+046,01.01.,16:00,ENG 1,Wycombe Wanderers,0:2,Coventry City,England League One
+047,01.01.,16:00,EH AUT,EC RB Salzburg,2:2,HC Innsbruck,Österreich Eishockey Liga
+048,01.01.,17:30,EH AUT,Vienna Capitals,4:2,Fehervar,Österreich Eishockey Liga
+049,01.01.,17:30,EH AUT,Villacher SV,1:2,KAC Klagenfurt,Österreich Eishockey Liga
+050,01.01.,17:30,EH AUT,HC Znojmo,5:8,Black Wings Linz,Österreich Eishockey Liga
+051,01.01.,17:30,EH AUT,EC Dornbirn,3:2,HC Bozen Foxes,Österreich Eishockey Liga
+052,01.01.,18:30,ENG PL,Cardiff City,0:3,Tottenham,England Premier League
+053,02.01.,09:50,AUS 1,Newcastle Jets,2:2,Brisbane Roar,Australien Hyundai A-League
+054,02.01.,14:30,CYP CUP,Anorthosis,abgesagt,Enosis N.Paralimni,Zypern Cup
+055,02.01.,15:45,EH SUI,SCL Tigers Langnau,1:4,SC Bern,Schweiz National League A
+056,02.01.,15:45,EH SUI,Zürcher SC Lions,1:0,Rapperswil Lakers,Schweiz National League A
+057,02.01.,15:45,EH SUI,EV Zug,6:2,HC Ambri Piotta,Schweiz National League A
+058,02.01.,16:00,POR 2,SC Covilha,1:0,Sporting Braga B,Portugal Segunda Liga
+059,02.01.,16:00,POR 2,Vit. Guimaraes B,0:1,FC Famalicao,Portugal Segunda Liga
+060,02.01.,16:00,POR 2,GD Estoril Praia,0:1,FC Penafiel,Portugal Segunda Liga
+061,02.01.,16:00,CYP CUP,APOEL Nikosia,2:1,Doxa Katokopias,Zypern Cup
+062,02.01.,17:00,CYP CUP,Apollon Limassol,1:0,Omonia Nikosia,Zypern Cup
+063,02.01.,17:00,POR 1,CD Santa Clara,1:2,CD Tondela,Portugal Primeira Liga
+064,02.01.,17:30,EH FIN,Ilves Tampere,4:4,Vaasan Sport,Finnland SM-Liiga
+065,02.01.,17:30,EH FIN,Jukurit Mikkeli,3:4,Tappara Tampere,Finnland SM-Liiga
+066,02.01.,18:00,POR 2,FC Pacos Ferreira,1:0,FC Arouca,Portugal Segunda Liga
+067,02.01.,19:00,POR 1,Boavista FC,1:0,Vitoria Setubal,Portugal Primeira Liga
+068,02.01.,19:00,POR 1,CD Nacional,1:0,Vitoria Guimaraes,Portugal Primeira Liga
+069,02.01.,19:00,POR 1,Sporting Braga,2:0,Maritimo Funchal,Portugal Primeira Liga
+070,02.01.,19:30,EH GER,Adler Mannheim,5:1,EHC Wolfsburg,Deutschland Deutsche Eishockey Liga
+071,02.01.,19:30,EH GER,EHC München,4:1,Nürnberg Ice Tiger,Deutschland Deutsche Eishockey Liga
+072,02.01.,19:30,EH GER,Eisbären Berlin,3:3,Iserlohn Roosters,Deutschland Deutsche Eishockey Liga
+073,02.01.,19:30,EH GER,Schwenninger W.W.,0:1,DEG Metro Stars,Deutschland Deutsche Eishockey Liga
+074,02.01.,19:30,EH GER,Straubing Tigers,3:3,Krefeld Pinguine,Deutschland Deutsche Eishockey Liga
+075,02.01.,19:30,EH GER,Bremerhaven P.,5:0,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+076,02.01.,19:30,EH GER,Kölner Haie,5:2,ERC Ingolstadt,Deutschland Deutsche Eishockey Liga
+077,02.01.,19:45,EH SUI,EHC Biel Bienne,3:2,HC Lausanne,Schweiz National League A
+078,02.01.,19:45,EH SUI,HC Davos,3:4,HC Lugano,Schweiz National League A
+079,02.01.,20:45,ENG PL,AFC Bournemouth,3:3,FC Watford,England Premier League
+080,02.01.,20:45,ENG PL,FC Chelsea,0:0,FC Southampton,England Premier League
+081,02.01.,20:45,ENG PL,FC Chelsea,0:1,FC Southampton+1,England Premier League
+082,02.01.,20:45,ENG PL,Huddersfield Town,1:2,FC Burnley,England Premier League
+083,02.01.,20:45,ENG PL,West Ham United,2:2,Brighton & Hove,England Premier League
+084,02.01.,20:45,ENG PL,Wolverhampton,0:2,Crystal Palace,England Premier League
+085,02.01.,21:00,ENG PL,Newcastle United,0:2,Manchester United,England Premier League
+086,02.01.,21:15,POR 1,Rio Ave FC,1:2,Moreirense FC,Portugal Primeira Liga
+087,02.01.,21:15,POR 1,Portimonense SC,2:0,Benfica Lissabon,Portugal Primeira Liga
+088,03.01.,12:30,KHL,HC Red Star Kunlun,2:3,A. Vladivostok,Kontinental Hockey League
+089,03.01.,15:00,KHL,AK Bars Kasan,3:3,Avangard Omsk,Kontinental Hockey League
+090,03.01.,15:00,KHL,Spartak Moskau,2:3,HC Barys,Kontinental Hockey League
+091,03.01.,17:00,POR 1,GD Chaves,0:0,CD Feirense,Portugal Primeira Liga
+092,03.01.,17:30,KHL,Jokerit Helsinki,4:1,Sibir Nowosibirsk,Kontinental Hockey League
+093,03.01.,17:30,EH FIN,Lukko Rauma,2:3,JYP Jyväskylä,Finnland SM-Liiga
+094,03.01.,17:30,EH FIN,Pelicans Lahti,4:2,Jukurit Mikkeli,Finnland SM-Liiga
+095,03.01.,17:30,EH FIN,HC TPS Turku,0:4,Vaasan Sport,Finnland SM-Liiga
+096,03.01.,18:30,BB EL,Efes Istanbul TUR,92:77,Bayern München GER,Euroleague
+097,03.01.,18:30,BB AUT,Traiskirchen,65:83,Flyers Wels,Österreich Basketball Superliga
+098,03.01.,19:00,BB AUT,Klosterneuburg,65:65,Swans Gmunden,Österreich Basketball Superliga
+099,03.01.,19:00,BB AUT,UBSC Graz,abgesagt,BC Vienna,Österreich Basketball Superliga
+100,03.01.,19:00,POR 1,Sporting Lissabon,2:1,Belenenses L.,Portugal Primeira Liga
+101,03.01.,19:30,EH ALP,VEU Feldkirch AUT,4:0,Adler Kitzbühe AUT,Alps Hockey League
+102,03.01.,19:30,BB AUT,Oberwart Gunners,86:75,Vienna Timberw.,Österreich Basketball Superliga
+103,03.01.,20:00,NHL,Toronto Maple L.,3:4,Minnesota Wild,USA NHL
+104,03.01.,20:15,BB EC,Ratiopharm Ulm GER,70:63,S.Frankfurt GER,Eurocup
+105,03.01.,20:30,EH ALP,HC Asiago ITA,4:7,HC Pustertal ITA,Alps Hockey League
+106,03.01.,20:45,EH ALP,SG Cortina ITA,1:1,Ritten Sport ITA,Alps Hockey League
+107,03.01.,20:45,BB EL,O.Milano ITA,111:94,KK Buducnost V MNE,Euroleague
+108,03.01.,20:45,BB EL,Real Madrid BC ESP,91:79,M.Tel Aviv ISR,Euroleague
+109,03.01.,21:00,ENG PL,Manchester City,2:1,FC Liverpool,England Premier League
+110,03.01.,21:00,ENG PL,Manchester City,2:2,FC Liverpool+1,England Premier League
+111,03.01.,21:15,POR 1,CD Aves,0:1,FC Porto,Portugal Primeira Liga
+112,03.01.,21:30,ESP 1,Villarreal CF,2:2,Real Madrid,Spanien Primera Division
+113,03.01.,21:30,BB EL,Gran Canaria ESP,70:99,Khimki Moskau RUS,Euroleague
+114,04.01.,01:00,NHL,Boston Bruins,6:4,Calgary Flames,USA NHL
+115,04.01.,01:00,NHL,Buffalo Sabres,4:3,Florida Panthers,USA NHL
+116,04.01.,01:00,NHL,Philadelphia Fl.,3:5,Carolina Hurric.,USA NHL
+117,04.01.,01:30,NHL,NY Islanders,2:2,Chicago Blackhawks,USA NHL
+118,04.01.,01:30,NHL,Montreal Canad.,2:0,Vancouver Can.,USA NHL
+119,04.01.,02:00,NHL,St. Louis Blues,5:2,Washington Cap.,USA NHL
+120,04.01.,04:30,NHL,Los Angeles Kings,2:6,Tampa Bay Lightn.,USA NHL

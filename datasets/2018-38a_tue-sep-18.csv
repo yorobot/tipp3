@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,18.09.,16:00,KHL,Salavat Yulaev Ufa,3:1,Sibir Nowosibirsk,Kontinental Hockey League
+002,18.09.,17:30,EH FIN,HC TPS Turku,2:2,Kärpät Oulu,Finnland SM-Liiga
+003,18.09.,17:30,EH FIN,KalPa Kuopio,2:0,Lukko Rauma,Finnland SM-Liiga
+004,18.09.,17:30,EH FIN,Vaasan Sport,3:3,HIFK Helsinki,Finnland SM-Liiga
+005,18.09.,18:00,KHL,Sev. Cherepovets,0:5,SKA St. Petersburg,Kontinental Hockey League
+006,18.09.,18:00,KHL,Torp. Nowgorod,2:4,AK Bars Kasan,Kontinental Hockey League
+007,18.09.,18:00,KHL,Lok. Jaroslawl,1:2,HK Dinamo Minsk,Kontinental Hockey League
+008,18.09.,18:30,KHL,Dynamo Moskau,4:2,HC Vityaz Podolsk,Kontinental Hockey League
+009,18.09.,18:30,GER 2,Dynamo Dresden,0:1,Hamburger SV,Deutschland 2. Bundesliga
+010,18.09.,18:55,CL,Inter Mailand ITA,2:1,Tottenham ENG,UEFA Champions League
+011,18.09.,18:55,CL,FC Barcelona ESP,4:0,PSV Eindhoven NED,UEFA Champions League
+012,18.09.,19:00,AUT RLO,SK Rapid Wien II,3:0,SC Team Wr. Linien,Österreich Regionalliga Ost
+013,18.09.,19:00,NOR 2,Notodden FK,1:2,Viking FK,Norwegen Adeccoligaen
+014,18.09.,19:00,SWE 2,Landskrona Bois,0:2,Varbergs BoIS,Schweden Superettan
+015,18.09.,19:00,SWE 2,GAIS Göteborg,1:2,Halmstads BK,Schweden Superettan
+016,18.09.,20:45,ENG CS,Ipswich Town,1:1,FC Brentford,England Championship
+017,18.09.,20:45,ENG CS,Aston Villa,2:0,Rotherham United,England Championship
+018,18.09.,20:45,ENG CS,Leeds United,3:0,Preston North End,England Championship
+019,18.09.,20:45,ENG CS,Wigan Athletic,2:1,Hull City,England Championship
+020,18.09.,20:45,ENG CS,Derby County,0:0,Blackburn Rovers,England Championship
+021,18.09.,21:00,ENG CS,West Bromwich,4:2,Bristol City,England Championship
+022,18.09.,21:00,ENG CS,Stoke City,1:0,Swansea City,England Championship
+023,18.09.,21:00,CL,AS Monaco FRA,1:2,Atl. Madrid ESP,UEFA Champions League
+024,18.09.,21:00,CL,Club Brügge BEL,0:1,Bor. Dortmund GER,UEFA Champions League
+025,18.09.,21:00,CL,FC Liverpool ENG,3:2,Paris SG FRA,UEFA Champions League
+026,18.09.,21:00,CL,Roter Stern B. SRB,0:0,SSC Napoli ITA,UEFA Champions League
+027,18.09.,21:00,CL,Galatasaray TUR,3:0,Lok Moskau RUS,UEFA Champions League
+028,18.09.,21:00,CL,FC Schalke 04 GER,1:1,FC Porto POR,UEFA Champions League
+029,19.09.,02:30,BRA 2,Londrina EC PR,2:0,Figueirense FC SC,Brasilien Brasilero Serie B
+030,19.09.,00:15,BRA 2,Atletico GO,0:1,EC Juventude RS,Brasilien Brasilero Serie B
+031,19.09.,02:45,COPA L,Atl.Tucuman ARG,0:2,Gremio RS BRA,Copa Libertadores
+032,19.09.,02:45,COPA S,Ind. Santa Fe COL,0:0,Millonarios COL,Copa Sudamericana
+033,19.09.,11:30,AUS CUP,Melbourne City FC,1:2,Western Sydney,"Australien, FFA Cup"
+034,19.09.,11:30,AUS CUP,Avondale FC,2:2,Sydney FC,"Australien, FFA Cup"
+035,19.09.,11:30,KHL,A. Vladivostok,2:2,HK Dinamo Riga,Kontinental Hockey League
+036,19.09.,11:30,KHL,Amur Chabarowsk,3:2,Slovan Bratislava,Kontinental Hockey League
+037,19.09.,12:00,JPN 2,Ventforet Kofu,1:0,Omiya Ardija,Japan J.League 2
+038,19.09.,12:00,JPN 2,Kamatamare Sanuki,1:1,Montedio Yamagata,Japan J.League 2
+039,19.09.,13:30,KHL,HC Red Star Kunlun,0:3,HK CSKA Moskau,Kontinental Hockey League
+040,19.09.,17:00,SERB 1,Partizan Belgrad,1:0,FK Rad Belgrad,Serbien Meridijan Superliga
+041,19.09.,17:30,KHL,Jokerit Helsinki,5:3,Met. Magnitogorsk,Kontinental Hockey League
+042,19.09.,17:30,EH FIN,Kookoo,8:3,Tappara Tampere,Finnland SM-Liiga
+043,19.09.,17:30,EH FIN,HPK Hämeenlinna,4:2,Ässät Pori,Finnland SM-Liiga
+044,19.09.,17:30,EH FIN,SaiPa Lappeenr.,4:1,Ilves Tampere,Finnland SM-Liiga
+045,19.09.,17:30,EH FIN,JYP Jyväskylä,1:4,Jukurit Mikkeli,Finnland SM-Liiga
+046,19.09.,17:30,RUS 2,FK Tambow,3:0,FC Tom Tomsk,Russland 1. Division
+047,19.09.,18:00,RUS 2,FC Nizhny Novgorod,1:1,FK Khimki,Russland 1. Division
+048,19.09.,18:00,CYP 1,Salamis Famagusta,2:3,APOEL Nikosia,Zypern 1. Division
+049,19.09.,18:30,AUT RLW,VfB Hohenems,4:1,Pinzgau Saalfelden,Österreich Regionalliga West
+050,19.09.,18:30,KHL,HC Sochi,1:5,Avtomobilist,Kontinental Hockey League
+051,19.09.,18:30,KHL,Spartak Moskau,6:1,Traktor Chelyab.,Kontinental Hockey League
+052,19.09.,18:55,CL,Ajax Amsterd. NED,3:0,AEK Athen GRE,UEFA Champions League
+053,19.09.,18:55,CL,Shakhtar Don. UKR,2:2,Hoffenheim GER,UEFA Champions League
+054,19.09.,19:00,ITA A,Sampdoria Genua,1:1,AC Fiorentina,Italien Serie A
+055,19.09.,19:00,SWE 2,Helsingborgs IF,4:1,IK Brage,Schweden Superettan
+056,19.09.,19:30,DEN 2,HB Köge,4:0,BK Fremad Amager,Dänemark 1. Division
+057,19.09.,20:00,ISL 1,Stjarnan Gardab.,1:1,KA Akureyri,Island Urvalsdeild
+058,19.09.,20:45,IRL CUP,FC Derry City,1:3,Boh. Dublin,Irland FAI Ford Cup
+059,19.09.,20:45,ENG CS,Sheffield United,0:0,Birmingham City,England Championship
+060,19.09.,20:45,ENG CS,Nottingham Forest,2:1,Sheffield Wednes.,England Championship
+061,19.09.,20:45,ENG CS,Queens Park R.,2:0,FC Millwall,England Championship
+062,19.09.,20:45,ENG CS,FC Middlesbrough,2:0,Bolton Wanderers,England Championship
+063,19.09.,21:00,ENG CS,FC Reading,1:2,Norwich City,England Championship
+064,19.09.,21:00,CL,Benfica Lissab POR,0:2,Bayern München GER,UEFA Champions League
+065,19.09.,21:00,CL,Man. City ENG,1:2,Ol. Lyon FRA,UEFA Champions League
+066,19.09.,21:00,CL,Real Madrid ESP,3:0,AS Roma ITA,UEFA Champions League
+067,19.09.,21:00,CL,Vikt. Pilsen CZE,2:2,ZSKA Moskau RUS,UEFA Champions League
+068,19.09.,21:00,CL,YB Bern SUI,0:3,Manchester U. ENG,UEFA Champions League
+069,19.09.,21:00,CL,FC Valencia ESP,0:2,Juventus Turin ITA,UEFA Champions League
+070,19.09.,21:15,ISL 1,Fylkir Reykjavik,0:3,Breidablik,Island Urvalsdeild
+071,20.09.,00:30,COPA L,Independiente ARG,0:0,CA River Plate ARG,Copa Libertadores
+072,20.09.,00:30,COPA S,Caracas FC VEN,0:2,Atletico PR BRA,Copa Sudamericana
+073,20.09.,02:45,COPA L,Boca Juniors ARG,2:0,Cruzeiro EC MG BRA,Copa Libertadores
+074,20.09.,02:45,COPA S,AD Cali COL,1:0,LDU Quito ECU,Copa Sudamericana
+075,20.09.,04:30,USA MLS,Portland Timbers,3:2,Columbus Crew,USA Major League Soccer
+076,20.09.,05:00,USA MLS,SJ Earthquakes,3:4,Atlanta United FC,USA Major League Soccer
+077,20.09.,05:00,USA MLS,Seattle Sounders,0:1,Philadelphia Union,USA Major League Soccer
+078,20.09.,17:30,FIN 2,Haka Valkeakoski,1:2,KPV Kokkola,Finnland Ykkonen
+079,20.09.,17:30,FIN 2,JJK Jyväskylä,2:2,FC KTP,Finnland Ykkonen
+080,20.09.,18:00,SLO CUP,Olimpija Ljubljana,2:1,NK Triglav,Slowenien Cup
+081,20.09.,18:00,KHL,Lok. Jaroslawl,4:3,HC Vityaz Podolsk,Kontinental Hockey League
+082,20.09.,18:00,KHL,Sev. Cherepovets,1:4,HK Dinamo Minsk,Kontinental Hockey League
+083,20.09.,18:30,KHL,Dynamo Moskau,0:4,SKA St. Petersburg,Kontinental Hockey League
+084,20.09.,18:55,EL,Villarreal CF ESP,2:2,Gl.Rangers SCO,UEFA Europa League
+085,20.09.,18:55,EL,SK Rapid Wien AUT,2:0,Spartak Moskau RUS,UEFA Europa League
+086,20.09.,18:55,EL,SK Rapid Wien,2:1,Spartak Moskau+1,UEFA Europa League
+087,20.09.,18:55,EL,Ol. Marseille FRA,1:2,E. Frankfurt GER,UEFA Europa League
+088,20.09.,18:55,EL,Lazio Rom ITA,2:1,Apollon L. CYP,UEFA Europa League
+089,20.09.,18:55,EL,Besiktas Ist. TUR,3:1,Sarpsborg 08 NOR,UEFA Europa League
+090,20.09.,18:55,EL,KRC Genk BEL,2:0,Malmö FF SWE,UEFA Europa League
+091,20.09.,18:55,EL,FC Sevilla ESP,5:1,Stand. Lüttich BEL,UEFA Europa League
+092,20.09.,18:55,EL,Akhisarspor TUR,0:1,FC Krasnodar RUS,UEFA Europa League
+093,20.09.,18:55,EL,Stade Rennes FRA,2:1,FK Jablonec CZE,UEFA Europa League
+094,20.09.,18:55,EL,Dynamo Kiev UKR,2:2,FC Astana KAZ,UEFA Europa League
+095,20.09.,18:55,EL,PAOK Thessal. GRE,0:1,FC Chelsea ENG,UEFA Europa League
+096,20.09.,18:55,EL,Fehervar FC HUN*,0:2,BATE Borisov BLR,UEFA Europa League
+097,20.09.,19:00,EH SWE,Lulea Hockey,2:2,HC Örebro,Schweden Elitserien
+098,20.09.,19:00,EH SWE,Linköpings HC,5:1,HV 71,Schweden Elitserien
+099,20.09.,19:00,EH SWE,Mora IK,1:1,Malmö IF,Schweden Elitserien
+100,20.09.,19:00,EH SWE,Djurgardens IF,5:2,Rögle BK,Schweden Elitserien
+101,20.09.,19:00,EH SWE,Färjestads BK,1:1,Skelleftea AIK,Schweden Elitserien
+102,20.09.,19:00,EH SWE,Brynas IF,3:3,Frölunda HC,Schweden Elitserien
+103,20.09.,19:00,EH SWE,Timra IK,2:1,Växjö Lakers,Schweden Elitserien
+104,20.09.,21:00,EL,Ludog. Razgrad BUL,2:3,Leverkusen GER,UEFA Europa League
+105,20.09.,21:00,EL,AEK Larnaca CYP,0:1,FC Zürich SUI,UEFA Europa League
+106,20.09.,21:00,EL,Celtic Glasgow SCO,1:0,Rosenborg BK NOR,UEFA Europa League
+107,20.09.,21:00,EL,RB Leipzig GER,2:3,RB Salzburg AUT,UEFA Europa League
+108,20.09.,21:00,EL,RB Leipzig,2:4,RB Salzburg+1,UEFA Europa League
+109,20.09.,21:00,EL,Slavia Prag CZE,1:0,Bordeaux FRA,UEFA Europa League
+110,20.09.,21:00,EL,FC Kopenhagen DEN,1:1,Zenit St.Peter RUS,UEFA Europa League
+111,20.09.,21:00,EL,Dinamo Zagreb CRO,4:1,Fenerbahce TUR,UEFA Europa League
+112,20.09.,21:00,EL,Spartak Trnava SVK,1:0,RSC Anderlecht BEL,UEFA Europa League
+113,20.09.,21:00,EL,Sporting Liss. POR,2:0,Qarabag FK AZE,UEFA Europa League
+114,20.09.,21:00,EL,FC Arsenal ENG,4:2,Vorskla Poltaw UKR,UEFA Europa League
+115,20.09.,21:00,EL,F91 Dudelange LUX,0:1,AC Milan ITA,UEFA Europa League
+116,20.09.,21:00,EL,Olympiakos P. GRE,0:0,Betis Sevilla ESP,UEFA Europa League
+117,21.09.,00:30,COPA S,CD Cuenca ECU*,0:2,Fluminense RJ BRA,Copa Sudamericana
+118,21.09.,02:45,COPA S,EC Bahia BA BRA,2:1,Botafogo FR RJ BRA,Copa Sudamericana
+119,21.09.,02:45,COPA L,Colo Colo CHI,0:2,SE Palmeiras S BRA,Copa Libertadores
+120,21.09.,02:20,NFL,Cleveland Browns,21:17,New York Jets,USA NFL

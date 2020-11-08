@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,21.05.,12:15,EH WM,Finnland,2:4,Deutschland,Eishockey WM
+002,21.05.,12:15,EH WM,Tschechien,5:4,Schweiz,Eishockey WM
+003,21.05.,16:00,UKR 1,Desna Tschernihiw,0:1,Vorskla Poltawa,Ukraine Premier League
+004,21.05.,16:00,UKR 1,Chernom. Odessa,3:1,Karpaty Lemberg,Ukraine Premier League
+005,21.05.,16:15,EH WM,Slowakei*,1:1,Dänemark,Eishockey WM
+006,21.05.,16:15,EH WM,Norwegen*,1:4,Lettland,Eishockey WM
+007,21.05.,17:00,BUL 1,Botev Plovdiv,0:2,Ludogorets,Bulgarien Premier League
+008,21.05.,17:00,BUL 1,Levski Sofia,0:2,ZSKA Sofia,Bulgarien Premier League
+009,21.05.,17:30,ROU 1,AFC Hermannstadt,0:2,FC Botosani,Rumänien Liga 1
+010,21.05.,18:30,NL 1,FC Utrecht,3:0,Heracles Almelo,Niederlande Eredivisie
+011,21.05.,18:30,UKR 1,Arsenal Kiew,1:1,Olimpik Donetsk,Ukraine Premier League
+012,21.05.,19:00,SWE 2,GAIS Göteborg,1:1,Vasteraas SK,Schweden Superettan
+013,21.05.,19:00,SWE 2,Degerfors IF,1:2,Dalkurd FF,Schweden Superettan
+014,21.05.,19:00,BB AUT,Klosterneuburg,54:54,Kapfenberg Bulls,Österreich Basketball Superliga
+015,21.05.,19:00,BB AUT,Swans Gmunden,70:81,Oberwart Gunners,Österreich Basketball Superliga
+016,21.05.,19:00,BB GER,Ratiopharm Ulm,83:98,Alba Berlin,Deutschland BBL
+017,21.05.,19:30,ROU 2,FC Univ. Cluj,1:0,CS Sportul Snagov,"Rumänien, Liga 2"
+018,21.05.,20:00,BUL 1,Cherno More,0:0,Beroe Stara Zag.,Bulgarien Premier League
+019,21.05.,20:15,EH WM,Kanada*,3:0,USA,Eishockey WM
+020,21.05.,20:15,EH WM,Schweden*,4:7,Russland,Eishockey WM
+021,21.05.,20:30,BB GER,Bonn,87:97,Oldenburg,Deutschland BBL
+022,21.05.,20:45,FRA 1,Paris FC 98,1:1,RC Lens,Frankreich Ligue 1
+023,21.05.,20:45,NL 1,Vitesse Arnheim,3:1,FC Groningen,Niederlande Eredivisie
+024,21.05.,20:45,IRL 1,St Patrick's,1:0,FC Derry City,Irland Premier Division
+025,21.05.,21:00,ITA B,AS Cittadella,1:2,Benevento Calcio,Italien Serie B
+026,22.05.,00:15,BRA 2,Criciuma EC SC,1:0,Guarani FC SP,Brasilien Brasilero Serie B
+027,22.05.,02:30,BRA 2,RB Bragantino SP,2:0,Figueirense FC SC,Brasilien Brasilero Serie B
+028,22.05.,00:15,COPA S,Royal Pari BOL,1:0,CSD Macara ECU,Copa Sudamericana
+029,22.05.,00:15,COPA S,CA River Plate URU,0:0,Colon Santa Fe ARG,Copa Sudamericana
+030,22.05.,00:15,COPA S,CD Catolica ECU,6:0,FBC Melgar PER,Copa Sudamericana
+031,22.05.,02:00,NHL,St. Louis Blues,5:1,San Jose Sharks,USA NHL
+032,22.05.,02:30,COPA S,Rionegro Aguil COL,3:2,Independiente ARG,Copa Sudamericana
+033,22.05.,02:30,COPA S,Un.La Calera CHI,1:0,Atletico MG BRA,Copa Sudamericana
+034,22.05.,02:30,COPA S,Union Espanola CHI,0:3,Sp. Cristal PER,Copa Sudamericana
+035,22.05.,02:30,NBA,Toronto Raptors,120:102,Milwaukee Bucks,USA NBA
+036,22.05.,12:00,JPN LC,Shonan Bellmare,2:2,Hokkaido Consadole,Japan Nabisco Cup
+037,22.05.,12:00,JPN LC,V-Varen Nagasaki,3:1,Yokohama F Marinos,Japan Nabisco Cup
+038,22.05.,12:00,JPN LC,Kashiwa Reysol,1:1,Vegalta Sendai,Japan Nabisco Cup
+039,22.05.,12:00,JPN LC,Sagan Tosu,0:1,FC Tokyo,Japan Nabisco Cup
+040,22.05.,12:00,JPN LC,Vissel Kobe,1:3,Nagoya Grampus,Japan Nabisco Cup
+041,22.05.,12:00,JPN LC,Cerezo Osaka,2:0,Oita Trinita,Japan Nabisco Cup
+042,22.05.,12:00,JPN LC,Matsumoto Yamaga,0:0,Gamba Osaka,Japan Nabisco Cup
+043,22.05.,12:00,JPN LC,Jubilo Iwata,0:2,Shimizu S-Pulse,Japan Nabisco Cup
+044,22.05.,16:00,UKR 1,FC Lviv,0:0,FC Zorya Lugansk,Ukraine Premier League
+045,22.05.,16:00,UKR 1,FK Mariupol,1:1,FC Oleksandria,Ukraine Premier League
+046,22.05.,17:50,SLO 1,NK Triglav,1:4,NK Domzale,Slowenien PrvaLiga Telekom
+047,22.05.,16:55,SLO 1,ND Gorica,0:0,NK Aluminij,Slowenien PrvaLiga Telekom
+048,22.05.,16:55,SLO 1,NK Celje,0:2,NK Rudar Velenje,Slowenien PrvaLiga Telekom
+049,22.05.,16:55,SLO 1,NK Maribor,2:0,NK Krsko,Slowenien PrvaLiga Telekom
+050,22.05.,16:55,SLO 1,Olimpija Ljubljana,1:0,NS Mura,Slowenien PrvaLiga Telekom
+051,22.05.,17:00,ITA C1A,US Catanzaro,2:2,AC Feralpisalo,"Italien Lega Pro Prima Divisione, Girone A"
+052,22.05.,17:30,RUS CUP,Lok Moskau*,1:0,Ural Jekaterinburg,Russland Russian Cup
+053,22.05.,17:30,ROU 1,AFC Dunarea 2005,2:0,Concordia Chiajna,Rumänien Liga 1
+054,22.05.,17:30,FIN 2,TPV Tampere,1:0,Ekenäs IF,Finnland Ykkonen
+055,22.05.,18:00,GRE 1,OFI Kreta,3:2,AO Platanias,Griechenland Super League
+056,22.05.,18:00,CYP CUP,APOEL Nikosia,0:2,AEL Limassol,Zypern Cup
+057,22.05.,18:00,CRO CUP,NK Dinamo Zagreb*,1:3,HNK Rijeka,Kroatien Croatian Cup
+058,22.05.,18:30,NED PO,FC Den Bosch,0:1,Go Ahead Eagles,"Niederlande, Auf/Abstiegsplayoffs"
+059,22.05.,18:30,NED PO,Excel. Rotterdam,1:1,RKC Waalwijk,"Niederlande, Auf/Abstiegsplayoffs"
+060,22.05.,18:30,UKR 1,Shakhtar Donetsk,1:1,FC Dynamo Kiev,Ukraine Premier League
+061,22.05.,19:00,BB GER,BB Bamberg,89:89,SC Rasta Vechta,Deutschland BBL
+062,22.05.,19:15,CZE CUP,SK Slavia Prag*,2:0,FC Banik Ostrava,Tschechien Cup
+063,22.05.,20:00,SUI SL,Grasshoppers,0:3,FC Sion,Schweiz Axpo Super League
+064,22.05.,20:00,SUI SL,Xamax Neuchatel,1:1,FC Lugano,Schweiz Axpo Super League
+065,22.05.,20:00,SUI SL,FC Luzern,3:0,FC Zürich,Schweiz Axpo Super League
+066,22.05.,20:00,SUI SL,FC St. Gallen,4:1,Young Boys Bern,Schweiz Axpo Super League
+067,22.05.,20:00,SUI SL,FC Thun,1:2,FC Basel,Schweiz Axpo Super League
+068,22.05.,20:00,ROU 1,Dinamo Bukarest,0:0,CSMS Iasi,Rumänien Liga 1
+069,22.05.,20:30,ITA C1A,Catania Calcio,1:1,Potenza SC,"Italien Lega Pro Prima Divisione, Girone A"
+070,22.05.,20:30,ITA C1A,Viterbo Calcio,0:2,AC Arezzo,"Italien Lega Pro Prima Divisione, Girone A"
+071,22.05.,20:30,ITA C1A,SC Pisa,2:1,Carrarese Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+072,22.05.,20:30,BEL 1,KV Kortrijk,1:2,Sporting Charleroi,Belgien Jupiler Pro League
+073,22.05.,20:45,NED PO,Sparta Rotterdam,3:0,FC Oss,"Niederlande, Auf/Abstiegsplayoffs"
+074,22.05.,20:45,NED PO,De Graafschap,2:0,SC Cambuur,"Niederlande, Auf/Abstiegsplayoffs"
+075,22.05.,21:00,ITA B,Hellas Verona,0:0,Pescara Calcio,Italien Serie B
+076,22.05.,22:00,COPA S,Zulia FC VEN,2:1,Palestino CHI,Copa Sudamericana
+077,23.05.,00:15,COPA S,Sol de America PAR,0:1,Botafogo FR RJ BRA,Copa Sudamericana
+078,23.05.,00:15,COPA S,AD Cali COL,1:1,CA Penarol URU,Copa Sudamericana
+079,23.05.,00:15,BRA CUP,Sampaio Correa FC,0:1,SE Palmeiras SP,Brasilien Cup
+080,23.05.,02:00,USA MLS,NY Red Bulls,2:2,Vancouver W'caps,USA Major League Soccer
+081,23.05.,02:30,COPA S,La Equidad COL,2:0,Dep.Santani PAR,Copa Sudamericana
+082,23.05.,02:30,COPA S,Liverpool Mont URU,1:0,Caracas FC VEN,Copa Sudamericana
+083,23.05.,02:30,RECOPA,Atletico PR BRA,1:0,CA River Plate ARG,Recopa Sudamericana
+084,23.05.,02:30,BRA CUP,Sao Paulo SP,0:1,EC Bahia BA,Brasilien Cup
+085,23.05.,02:30,BRA CUP,EC Juventude RS,0:0,Gremio RS,Brasilien Cup
+086,23.05.,16:15,EH WM,Russland,4:3,USA,Eishockey WM
+087,23.05.,16:15,EH WM,Kanada,2:2,Schweiz,Eishockey WM
+088,23.05.,18:00,U20 WM,Mexiko U20*,1:2,Italien U20,U20 Weltmeisterschaft
+089,23.05.,19:00,BUL 1,Et. Veliko Tarnovo,2:0,PFC Slavia Sofia,Bulgarien Premier League
+090,23.05.,19:00,SER CUP,Roter Stern B.*,0:1,Partizan Belgrad,Serbien Cup
+091,23.05.,19:00,HB GER,MT Melsungen,28:25,Hannover Burgd.,Deutsche Handball Bundesliga
+092,23.05.,19:00,HB GER,SC DHfK Leipzig,26:25,HC Erlangen,Deutsche Handball Bundesliga
+093,23.05.,19:30,ROU 1,Gaz Metan Medias,4:0,CS Voluntari,Rumänien Liga 1
+094,23.05.,20:00,SUI 2,FC Chiasso,0:1,FC Aarau,Schweiz Challenge League
+095,23.05.,20:00,SUI 2,Rapperswil-Jona,1:4,FC Winterthur,Schweiz Challenge League
+096,23.05.,20:00,SUI 2,FC Schaffhausen,2:0,FC Wil 1900,Schweiz Challenge League
+097,23.05.,20:00,SUI 2,FC Vaduz,1:5,FC Servette Genf,Schweiz Challenge League
+098,23.05.,20:00,SUI 2,SC Kriens,0:2,FC Lausanne-Sport,Schweiz Challenge League
+099,23.05.,20:15,EH WM,Finnland,4:4,Schweden,Eishockey WM
+100,23.05.,20:15,EH WM,Tschechien,5:1,Deutschland,Eishockey WM
+101,23.05.,20:30,U20 WM,Polen U20,0:2,Kolumbien U20,U20 Weltmeisterschaft
+102,23.05.,20:30,U20 WM,Japan U20*,1:1,Ekuador U20,U20 Weltmeisterschaft
+103,23.05.,20:30,GER BL,VfB Stuttgart,2:2,FC Union Berlin,Deutschland Bundesliga
+104,23.05.,20:45,SCO PS,Dundee United,0:0,FC St. Mirren,Schottland Premiership
+105,23.05.,21:15,ISL 2,Haukar Hafnarfj.,2:4,Throttur Reykjavik,Island 2. Liga
+106,23.05.,21:15,ISL 2,Afturelding,1:3,Fjölnir,Island 2. Liga
+107,23.05.,21:15,ISL 2,UMF Njardvik,0:0,Keflavik IF,Island 2. Liga
+108,24.05.,03:45,MEX 1,UANL Tigres,1:0,Club Leon,Mexiko Primera Division
+109,24.05.,00:15,COPA S,Corinthians SP BRA,2:0,Deportivo Lara VEN,Copa Sudamericana
+110,24.05.,00:15,COPA S,Montev. Wand. URU,0:0,CA Cerro URU,Copa Sudamericana
+111,24.05.,02:30,COPA S,Argentinos Jun ARG,1:0,Dep.Tolima COL,Copa Sudamericana
+112,24.05.,02:30,COPA S,Fluminense RJ BRA,4:1,Atletico Nac. COL,Copa Sudamericana
+113,24.05.,02:30,COPA S,Indep. d.Valle ECU,5:0,Univ. Catolica CHI,Copa Sudamericana
+114,25.05.,20:00,GER CUP,RB Leipzig*,0:3,FC Bayern München,Deutschland DFB Pokal
+115,25.05.,17:00,AUT BL,SK Rapid Wien,1:2,SCR Altach,"Österreich Bundesliga, Qualifikationsgruppe"
+116,25.05.,17:00,AUT BL,TSV Hartberg,3:1,Admira Wacker,"Österreich Bundesliga, Qualifikationsgruppe"
+117,25.05.,17:00,AUT BL,Wacker Innsbruck,4:0,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
+118,26.05.,17:00,AUT BL,Wolfsberger AC,2:1,SK Sturm Graz,Österreich Bundesliga
+119,26.05.,17:00,AUT BL,RB Salzburg,7:0,SKN St. Pölten,Österreich Bundesliga
+120,26.05.,17:00,AUT BL,LASK Linz,5:2,FK Austria Wien,Österreich Bundesliga

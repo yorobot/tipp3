@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,29.01.,13:00,FS,SK Sturm Graz AUT*,1:1,AC Horsens DEN,Freundschaftsspiele International (Klub)
+002,29.01.,14:00,FS,SK Rapid Wien AUT*,2:5,Odense BK DEN,Freundschaftsspiele International (Klub)
+003,29.01.,15:00,ASICUP,Katar*,4:0,Ver. Arab. Emirate,Asien Cup
+004,29.01.,16:00,FIN CUP,HJK Helsinki,1:0,HIFK Helsinki,Finnland Cup
+005,29.01.,16:00,POR 2,SC Farense,0:0,FC Porto B,Portugal Segunda Liga
+006,29.01.,17:00,POR 2,Varzim SC,2:1,Leixoes SC,Portugal Segunda Liga
+007,29.01.,17:00,POR 2,GD Estoril Praia,2:1,Sporting Braga B,Portugal Segunda Liga
+008,29.01.,17:45,TUR CUP,Galatasaray,4:1,Boluspor,Türkei Türkiye Kupasi
+009,29.01.,17:45,HE-SL,"Hirscher, Marcel",Hirsche,"Noel, Clement","Ski Alpin, Herren Slalom"
+010,29.01.,17:45,HE-SL,Kristoffersen H.,Schwarz,"Schwarz, Marco","Ski Alpin, Herren Slalom"
+011,29.01.,17:45,HE-SL,"Pinturault, Alexis",Pintura,"Feller, Manuel","Ski Alpin, Herren Slalom"
+012,29.01.,17:45,HE-SL,"Matt, Michael",Yule D.,"Yule, Daniel","Ski Alpin, Herren Slalom"
+013,29.01.,17:45,HE-SL,"Zenhäusern, Ramon",Zenhäus,"Hirschbühl, C.","Ski Alpin, Herren Slalom"
+014,29.01.,17:45,HE-SL,"Neureuther, Felix",Neureut,"Myhrer, Andre","Ski Alpin, Herren Slalom"
+015,29.01.,17:45,HE-SL,"Ryding, Dave",Ryding,Muffat-Jeandet V.,"Ski Alpin, Herren Slalom"
+016,29.01.,17:45,HE-SL,"Digruber, Marc",Digrube,"Khoroshilov, Alex.","Ski Alpin, Herren Slalom"
+017,29.01.,17:45,HE-SL,"Mölgg, Manfred",Mölgg,"Razzoli, Giuliano","Ski Alpin, Herren Slalom"
+018,29.01.,17:45,HE-SL,Foss-Solevaag S.,Lizerou,"Lizeroux, Julien","Ski Alpin, Herren Slalom"
+019,29.01.,18:30,GER 2,VfL Bochum,2:1,MSV Duisburg,Deutschland 2. Bundesliga
+020,29.01.,19:00,FRA 2,FC Metz,3:0,AS Nancy,Frankreich Ligue 2
+021,29.01.,19:30,EH GER,Eisbären Berlin,2:6,EHC München,Deutschland Deutsche Eishockey Liga
+022,29.01.,20:00,POR 1,Portimonense SC,0:1,GD Chaves,Portugal Primeira Liga
+023,29.01.,20:00,POR 1,Benfica Lissabon,5:1,Boavista FC,Portugal Primeira Liga
+024,29.01.,20:30,GER 2,SV Darmstadt 98,2:1,FC St. Pauli,Deutschland 2. Bundesliga
+025,29.01.,20:30,GER 2,Greuther Fürth,0:1,FC Ingolstadt,Deutschland 2. Bundesliga
+026,29.01.,20:30,GER 2,FC Magdeburg,1:0,Erzgebirge Aue,Deutschland 2. Bundesliga
+027,29.01.,20:30,SCO FA,FC Stenhousemuir,1:4,FC Aberdeen,Schottland FA Cup
+028,29.01.,20:45,SCO FA,Queen of South,3:0,FC Dundee,Schottland FA Cup
+029,29.01.,20:45,ENG PL,FC Arsenal,2:1,Cardiff City,England Premier League
+030,29.01.,20:45,ENG PL,FC Fulham,4:2,Brighton & Hove,England Premier League
+031,29.01.,20:45,ENG PL,Huddersfield Town,0:1,FC Everton,England Premier League
+032,29.01.,20:45,ENG PL,Wolverhampton,3:0,West Ham United,England Premier League
+033,29.01.,20:45,ENG CS,Swansea City,3:3,Birmingham City,England Championship
+034,29.01.,20:45,ENG 1,Bristol Rovers,2:2,Peterborough Utd.,England League One
+035,29.01.,20:45,ENG 1,FC Gillingham,0:0,Accrington Stanley,England League One
+036,29.01.,20:45,ENG 1,Oxford United,2:2,FC Barnsley,England League One
+037,29.01.,20:45,ENG 1,Bradford City FC,4:3,Shrewsbury Town,England League One
+038,29.01.,20:45,ENG 1,FC Blackpool,2:2,Wycombe Wanderers,England League One
+039,29.01.,20:45,ENG 1,Luton Town,3:2,FC Portsmouth,England League One
+040,29.01.,20:45,ITA CUP,AC Milan,2:0,SSC Napoli,Italien Coppa Italia
+041,29.01.,20:45,ITA CUP,AC Milan+1,3:0,SSC Napoli,Italien Coppa Italia
+042,29.01.,20:45,BEL CUP,Saint-Gilloise,1:2,YR KV Mechelen,Belgium Beker van Belgie
+043,29.01.,21:00,ENG PL,Manchester United,2:2,FC Burnley,England Premier League
+044,29.01.,21:00,ENG PL,Newcastle United,2:1,Manchester City,England Premier League
+045,29.01.,21:00,ENG CS,Bolton Wanderers,1:1,FC Reading,England Championship
+046,29.01.,21:05,FRA LC,EA Guingamp,2:2,AS Monaco,Frankreich Coupe de la Ligue
+047,29.01.,21:30,ESP CUP,FC Valencia,3:1,Getafe CF,Spanien Copa del Rey
+048,29.01.,22:15,POR 1,Sporting Braga,1:0,CD Santa Clara,Portugal Primeira Liga
+049,30.01.,01:00,NHL,Boston Bruins,3:3,Winnipeg Jets,USA NHL
+050,30.01.,01:00,NHL,Columbus Blue J.,4:5,Buffalo Sabres,USA NHL
+051,30.01.,01:30,NHL,New York Rangers,0:1,Philadelphia Fl.,USA NHL
+052,30.01.,14:00,GRE 1,Panionios Athen,1:0,Asteras Tripolis,Griechenland Super League
+053,30.01.,14:00,FS,SCR Altach,1:1,WSG Swarovs. Tirol,Freundschaftsspiele Österreich
+054,30.01.,15:00,FS,Austria Wien AUT*,0:3,Roter Stern B. SRB,Freundschaftsspiele International (Klub)
+055,30.01.,15:00,GRE 1,Lamia 1964,2:1,Apollon Smyrnis,Griechenland Super League
+056,30.01.,16:15,GRE 1,AEK Athen,1:0,APO Levadiakos FC,Griechenland Super League
+057,30.01.,16:15,GRE 1,PAOK Thessaloniki,2:1,PAS Giannina FC,Griechenland Super League
+058,30.01.,17:00,POR 2,Benfica Lissabon B,3:1,FC Arouca,Portugal Segunda Liga
+059,30.01.,17:00,CYP CUP,AEK Larnaca,2:0,Salamis Famagusta,Zypern Cup
+060,30.01.,17:00,CRO 1,NK Slaven Belupo,1:1,HNK Rijeka,Kroatien 1. HNL
+061,30.01.,18:00,GRE 1,Panaitolikos,0:1,Panathinaikos,Griechenland Super League
+062,30.01.,18:15,ITA CUP,AC Fiorentina,7:1,AS Roma,Italien Coppa Italia
+063,30.01.,18:30,GER 2,Jahn Regensburg,2:0,SC Paderborn,Deutschland 2. Bundesliga
+064,30.01.,18:30,GRE 1,Olympiakos Piräus,4:0,AE Larissa,Griechenland Super League
+065,30.01.,18:45,FRA LC,Racing Strasbourg,3:2,Bordeaux,Frankreich Coupe de la Ligue
+066,30.01.,19:30,ESP CUP,Betis Sevilla,1:1,Espanyol Barcelona,Spanien Copa del Rey
+067,30.01.,20:00,POR 1,Vitoria Setubal,1:1,Sporting Lissabon,Portugal Primeira Liga
+068,30.01.,20:30,GER 2,Hamburger SV,2:1,SV Sandhausen,Deutschland 2. Bundesliga
+069,30.01.,20:30,GER 2,FC Heidenheim,2:2,Holstein Kiel,Deutschland 2. Bundesliga
+070,30.01.,20:30,GER 2,Dynamo Dresden,3:4,Arminia Bielefeld,Deutschland 2. Bundesliga
+071,30.01.,20:45,ENG PL,AFC Bournemouth,4:0,FC Chelsea,England Premier League
+072,30.01.,20:45,ENG PL,FC Southampton,1:1,Crystal Palace,England Premier League
+073,30.01.,20:45,ITA CUP,Atalanta Bergamo,3:0,Juventus Turin,Italien Coppa Italia
+074,30.01.,20:45,BEL CUP,KV Oostende,2:2,KAA Gent,Belgium Beker van Belgie
+075,30.01.,20:45,SCO FA,FC Cowdenbeath,1:3,Glasgow Rangers,Schottland FA Cup
+076,30.01.,20:45,SCO PS,Celtic Glasgow,2:0,FC St. Johnstone,Schottland Premiership
+077,30.01.,21:00,ENG PL,FC Liverpool,1:1,Leicester City,England Premier League
+078,30.01.,21:00,ENG PL,Tottenham,2:1,FC Watford,England Premier League
+079,30.01.,21:00,FRA 1,FC Nantes,1:1,AS Saint Etienne,Frankreich Ligue 1
+080,30.01.,21:30,ESP CUP,FC Barcelona,6:1,FC Sevilla,Spanien Copa del Rey
+081,30.01.,21:30,ESP CUP,FC Barcelona,6:2,FC Sevilla+1,Spanien Copa del Rey
+082,30.01.,22:15,POR 1,FC Porto,3:0,Belenenses L.,Portugal Primeira Liga
+083,30.01.,23:30,COL 1,Jaguares Cordoba,1:0,AD Cali,Kolumbien Primera Liga
+084,30.01.,23:30,COL 1,Indep. Santa Fe,1:2,Cucuta Deportivo,Kolumbien Primera Liga
+085,31.01.,01:00,ARG 1,CD Godoy Cruz,0:4,CA River Plate,Argentinien Primera Division
+086,31.01.,02:00,NHL,Pittsburgh Peng.,4:2,Tampa Bay Lightn.,USA NHL
+087,31.01.,02:30,NHL,Dallas Stars,1:0,Buffalo Sabres,USA NHL
+088,31.01.,13:30,KHL,Sibir Nowosibirsk,3:3,Jokerit Helsinki,Kontinental Hockey League
+089,31.01.,14:30,KHL,HC Barys,2:3,SKA St. Petersburg,Kontinental Hockey League
+090,31.01.,16:15,GRE 1,OFI Kreta,1:1,Atromitos Athen,Griechenland Super League
+091,31.01.,17:30,KHL,Dynamo Moskau,4:2,Met. Magnitogorsk,Kontinental Hockey League
+092,31.01.,17:30,KHL,HK CSKA Moskau,5:4,AK Bars Kasan,Kontinental Hockey League
+093,31.01.,17:30,KHL,HK Dinamo Minsk,2:2,A. Vladivostok,Kontinental Hockey League
+094,31.01.,18:00,GRE 1,Skoda Xanthi FC,0:1,Aris Thessaloniki,Griechenland Super League
+095,31.01.,18:00,BB EL,Khimki Moskau RUS,74:64,BC Zalgiris LTU,Euroleague
+096,31.01.,18:30,KHL,HK Dinamo Riga,1:1,Spartak Moskau,Kontinental Hockey League
+097,31.01.,18:30,KHL,Slovan Bratislava,2:2,HC Sochi,Kontinental Hockey League
+098,31.01.,19:00,EH SWE,Mora IK,2:3,HV 71,Schweden Elitserien
+099,31.01.,19:00,EH SWE,Lulea Hockey,2:3,Brynas IF,Schweden Elitserien
+100,31.01.,19:00,EH SWE,Färjestads BK,7:1,HC Örebro,Schweden Elitserien
+101,31.01.,19:00,EH SWE,Timra IK,4:5,Djurgardens IF,Schweden Elitserien
+102,31.01.,19:00,EH SWE,Rögle BK,1:1,Växjö Lakers,Schweden Elitserien
+103,31.01.,19:00,EH SWE,Linköpings HC,1:3,Skelleftea AIK,Schweden Elitserien
+104,31.01.,19:00,BB AUT,UBSC Graz,96:90,Vienna Timberw.,Österreich Basketball Superliga
+105,31.01.,19:00,BB AUT,Kapfenberg Bulls,79:66,Swans Gmunden,Österreich Basketball Superliga
+106,31.01.,19:00,BB AUT,Traiskirchen,88:87,Klosterneuburg,Österreich Basketball Superliga
+107,31.01.,19:30,BB AUT,Oberwart Gunners,75:75,BC Vienna,Österreich Basketball Superliga
+108,31.01.,19:30,EH GER,Straubing Tigers,5:0,Bremerhaven P.,Deutschland Deutsche Eishockey Liga
+109,31.01.,20:00,BB EL,Olympiakos P. GRE,55:76,FC Barcelona ESP,Euroleague
+110,31.01.,20:30,GER 2,FC Union Berlin,2:0,1. FC Köln,Deutschland 2. Bundesliga
+111,31.01.,20:30,GER 2,FC Union Berlin+1,3:0,1. FC Köln,Deutschland 2. Bundesliga
+112,31.01.,20:30,BB EL,Bayern München GER,66:66,Fenerbahce TUR,Euroleague
+113,31.01.,20:45,WAL 1,Bala Town,abgesagt,The New Saints FC,Wales Premier League
+114,31.01.,20:45,BB EL,Baskonia G. ESP,97:73,M.Tel Aviv ISR,Euroleague
+115,31.01.,21:00,ITA CUP,Inter Mailand,0:0,Lazio Rom,Italien Coppa Italia
+116,31.01.,21:30,ESP CUP,FC Girona,1:3,Real Madrid,Spanien Copa del Rey
+117,01.02.,01:00,ARG 1,CA San Martin,0:4,Boca Juniors,Argentinien Primera Division
+118,01.02.,01:00,NHL,Boston Bruins,2:2,Philadelphia Fl.,USA NHL
+119,01.02.,01:00,NHL,New Jersey Devils,3:4,New York Rangers,USA NHL
+120,01.02.,02:00,NHL,Winnipeg Jets,4:3,Columbus Blue J.,USA NHL

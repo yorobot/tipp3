@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,27.11.,18:30,EH AUT,HC Znojmo,6:4,HC Innsbruck,Österreich Eishockey Liga
+002,27.11.,18:45,EH AUT,Fehervar,3:1,EC Graz 99ers,Österreich Eishockey Liga
+003,27.11.,18:55,CL,ZSKA Moskau RUS,1:2,Vikt. Pilsen CZE,UEFA Champions League
+004,27.11.,18:55,CL,AEK Athen GRE,0:2,Ajax Amsterd. NED,UEFA Champions League
+005,27.11.,19:00,FRA LC,Olympique Nimes,1:1,AS Saint Etienne,Frankreich Coupe de la Ligue
+006,27.11.,19:15,EH AUT,KAC Klagenfurt,6:4,EC Dornbirn,Österreich Eishockey Liga
+007,27.11.,19:15,EH AUT,Vienna Capitals,5:2,HC Bozen Foxes,Österreich Eishockey Liga
+008,27.11.,19:15,EH AUT,Villacher SV,0:5,Black Wings Linz,Österreich Eishockey Liga
+009,27.11.,19:30,EH GER,ERC Ingolstadt,3:3,Iserlohn Roosters,Deutschland Deutsche Eishockey Liga
+010,27.11.,19:30,EH GER,Eisbären Berlin,4:0,Straubing Tigers,Deutschland Deutsche Eishockey Liga
+011,27.11.,19:30,EH GER,Bremerhaven P.,4:3,DEG Metro Stars,Deutschland Deutsche Eishockey Liga
+012,27.11.,19:30,EH GER,Augsburger Panth.,6:2,EHC Wolfsburg,Deutschland Deutsche Eishockey Liga
+013,27.11.,20:45,ENG CS,FC Brentford,2:3,Sheffield United,England Championship
+014,27.11.,20:45,ENG CS,Hull City,0:0,Norwich City,England Championship
+015,27.11.,20:45,ENG CS,Leeds United,1:0,FC Reading,England Championship
+016,27.11.,20:45,ENG CS,Rotherham United,2:2,Queens Park R.,England Championship
+017,27.11.,20:45,ENG CS,Preston North End,1:1,FC Middlesbrough,England Championship
+018,27.11.,20:45,ENG CS,Sheffield Wednes.,1:0,Bolton Wanderers,England Championship
+019,27.11.,20:45,ENG 1,Accrington Stanley,1:2,Wycombe Wanderers,England League One
+020,27.11.,20:45,ENG 1,Bristol Rovers,1:2,FC Gillingham,England League One
+021,27.11.,20:45,ENG 1,Burton Albion,1:2,Charlton Athletic,England League One
+022,27.11.,20:45,ENG 1,Doncaster Rovers,2:0,FC Blackpool,England League One
+023,27.11.,20:45,ENG 1,Fleetwood Town,3:0,Coventry City,England League One
+024,27.11.,20:45,ENG 1,Luton Town,4:0,Bradford City FC,England League One
+025,27.11.,20:45,ENG 1,Oxford United,4:2,FC Rochdale,England League One
+026,27.11.,20:45,ENG 1,Peterborough Utd.,1:0,AFC Wimbledon,England League One
+027,27.11.,20:45,ENG 1,FC Portsmouth,2:0,FC Walsall,England League One
+028,27.11.,20:45,ENG 1,Shrewsbury Town,2:0,Plymouth Argyle,England League One
+029,27.11.,20:45,ENG 1,Southend United,2:0,Scunthorpe United,England League One
+030,27.11.,20:45,ENG 1,AFC Sunderland,4:2,FC Barnsley,England League One
+031,27.11.,20:45,ENG LC,Leicester City,0:0,FC Southampton,England Liga Cup
+032,27.11.,21:00,CL,AS Roma ITA,0:2,Real Madrid ESP,UEFA Champions League
+033,27.11.,21:00,CL,AS Roma+1,1:2,Real Madrid,UEFA Champions League
+034,27.11.,21:00,CL,Juventus Turin ITA,1:0,FC Valencia ESP,UEFA Champions League
+035,27.11.,21:00,CL,Manchester U. ENG,1:0,YB Bern SUI,UEFA Champions League
+036,27.11.,21:00,CL,Ol. Lyon FRA,2:2,Man. City ENG,UEFA Champions League
+037,27.11.,21:00,CL,Hoffenheim GER,2:3,Shakhtar Don. UKR,UEFA Champions League
+038,27.11.,21:00,CL,Bayern München GER,5:1,Benfica Lissab POR,UEFA Champions League
+039,28.11.,17:00,KHL,AK Bars Kasan,5:1,Torp. Nowgorod,Kontinental Hockey League
+040,28.11.,17:00,KHL,Neftekhimik,3:3,Lok. Jaroslawl,Kontinental Hockey League
+041,28.11.,17:30,KHL,HC Vityaz Podolsk,0:6,SKA St. Petersburg,Kontinental Hockey League
+042,28.11.,17:30,KHL,Dynamo Moskau,3:0,Slovan Bratislava,Kontinental Hockey League
+043,28.11.,17:30,EH FIN,HPK Hämeenlinna,0:1,Lukko Rauma,Finnland SM-Liiga
+044,28.11.,17:30,EH FIN,KalPa Kuopio,1:5,JYP Jyväskylä,Finnland SM-Liiga
+045,28.11.,17:30,EH FIN,Tappara Tampere,4:2,Jukurit Mikkeli,Finnland SM-Liiga
+046,28.11.,17:30,EH FIN,HC TPS Turku,4:1,Ässät Pori,Finnland SM-Liiga
+047,28.11.,18:00,EH CZE,HC Kometa Brünn,2:3,HC Olmütz,Tschechische Republik Extraliga
+048,28.11.,18:55,CL,Lok Moskau RUS,2:0,Galatasaray TUR,UEFA Champions League
+049,28.11.,18:55,CL,Atl. Madrid ESP,2:0,AS Monaco FRA,UEFA Champions League
+050,28.11.,19:00,EH ALP,HC Jesenice SLO,4:1,EK Zell am See AUT,Alps Hockey League
+051,28.11.,19:00,EH SWE,Färjestads BK,2:1,Timra IK,Schweden Elitserien
+052,28.11.,19:00,EH SWE,Växjö Lakers,3:2,HC Örebro,Schweden Elitserien
+053,28.11.,19:00,HB CL,Flensburg-H. GER,27:25,Pick Szeged HUN,"Champions League, Herren"
+054,28.11.,19:00,HB AUT,Alpla HC Hard,28:28,Bregenz Handball,Österreich HLA
+055,28.11.,19:30,EH ALP,Adler Kitzbühe AUT,1:3,Bregenzerwald AUT,Alps Hockey League
+056,28.11.,19:30,EH GER,EHC München,2:0,Krefeld Pinguine,Deutschland Deutsche Eishockey Liga
+057,28.11.,19:30,EH GER,Schwenninger W.W.,4:0,Adler Mannheim,Deutschland Deutsche Eishockey Liga
+058,28.11.,19:30,EH GER,Kölner Haie,4:1,Nürnberg Ice Tiger,Deutschland Deutsche Eishockey Liga
+059,28.11.,19:30,KHL,HK Dinamo Riga,0:5,HK CSKA Moskau,Kontinental Hockey League
+060,28.11.,20:00,ECU 1,Delfin SC,3:0,Guayaquil City FC,Ecuador Serie A
+061,28.11.,20:30,ITA C1A,Pontedera,0:0,Novara Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+062,28.11.,20:30,ITA C1A,Pro Vercelli,1:1,Piacenza Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+063,28.11.,20:45,ENG CS,FC Millwall,0:2,Birmingham City,England Championship
+064,28.11.,20:45,ENG CS,Aston Villa,5:5,Nottingham Forest,England Championship
+065,28.11.,20:45,ENG CS,Ipswich Town,2:3,Bristol City,England Championship
+066,28.11.,20:45,ENG CS,Swansea City,1:2,West Bromwich,England Championship
+067,28.11.,20:45,ENG CS,Wigan Athletic,3:1,Blackburn Rovers,England Championship
+068,28.11.,20:45,ESP CUP,Athletic Bilbao,4:0,SD Huesca,Spanien Copa del Rey
+069,28.11.,21:00,ENG CS,Stoke City,2:1,Derby County,England Championship
+070,28.11.,21:00,CL,Paris SG FRA,2:1,FC Liverpool ENG,UEFA Champions League
+071,28.11.,21:00,CL,Paris SG,2:2,FC Liverpool+1,UEFA Champions League
+072,28.11.,21:00,CL,FC Porto POR,3:1,FC Schalke 04 GER,UEFA Champions League
+073,28.11.,21:00,CL,Tottenham ENG,1:0,Inter Mailand ITA,UEFA Champions League
+074,28.11.,21:00,CL,PSV Eindhoven NED,1:2,FC Barcelona ESP,UEFA Champions League
+075,28.11.,21:00,CL,Bor. Dortmund GER,0:0,Club Brügge BEL,UEFA Champions League
+076,28.11.,21:00,CL,SSC Napoli ITA,3:1,Roter Stern B. SRB,UEFA Champions League
+077,28.11.,22:15,ECU 1,SD Aucas,1:3,LDU Quito,Ecuador Serie A
+078,28.11.,23:50,PAR 1,Deportivo Santani,2:2,Club Cerro Porteno,Paraguay Primera Division
+079,28.11.,23:50,PAR 1,Olimpia Asuncion,4:1,Guarani Asuncion,Paraguay Primera Division
+080,29.11.,00:45,COPA S,Fluminense RJ BRA,0:2,Atletico PR BRA,Copa Sudamericana
+081,29.11.,16:50,EL,Spartak Moskau RUS,1:2,SK Rapid Wien AUT,UEFA Europa League
+082,29.11.,16:50,EL,FC Spartak Moskau,1:3,SK Rapid Wien+1,UEFA Europa League
+083,29.11.,16:50,EL,FC Astana KAZ,0:1,Dynamo Kiev UKR,UEFA Europa League
+084,29.11.,17:30,KHL,Avangard Omsk,3:0,Avtomobilist,Kontinental Hockey League
+085,29.11.,17:30,KHL,Spartak Moskau,3:0,Sev. Cherepovets,Kontinental Hockey League
+086,29.11.,17:30,EH FIN,Pelicans Lahti,1:3,Tappara Tampere,Finnland SM-Liiga
+087,29.11.,17:30,EH FIN,SaiPa Lappeenr.,2:2,Vaasan Sport,Finnland SM-Liiga
+088,29.11.,18:55,EL,RB Salzburg AUT,1:0,RB Leipzig GER,UEFA Europa League
+089,29.11.,18:55,EL,RB Salzburg,1:1,RB Leipzig+1,UEFA Europa League
+090,29.11.,18:55,EL,RB Salzburg+1,2:0,RB Leipzig,UEFA Europa League
+091,29.11.,18:55,EL,Rosenborg BK NOR,0:1,Celtic Glasgow SCO,UEFA Europa League
+092,29.11.,18:55,EL,BATE Borisov BLR,2:0,Fehervar FC HUN,UEFA Europa League
+093,29.11.,18:55,EL,FC Krasnodar RUS,2:1,Akhisarspor TUR,UEFA Europa League
+094,29.11.,18:55,EL,Qarabag FK AZE,1:6,Sporting Liss. POR,UEFA Europa League
+095,29.11.,18:55,EL,Vorskla Poltaw UKR,0:3,FC Arsenal ENG,UEFA Europa League
+096,29.11.,18:55,EL,Zenit St.Peter RUS,1:0,FC Kopenhagen DEN,UEFA Europa League
+097,29.11.,18:55,EL,Bordeaux FRA,2:0,Slavia Prag CZE,UEFA Europa League
+098,29.11.,18:55,EL,AC Milan ITA,5:2,F91 Dudelange LUX,UEFA Europa League
+099,29.11.,18:55,EL,Betis Sevilla ESP,1:0,Olympiakos P. GRE,UEFA Europa League
+100,29.11.,18:55,EL,RSC Anderlecht BEL,0:0,Spartak Trnava SVK,UEFA Europa League
+101,29.11.,18:55,EL,Fenerbahce TUR,0:0,Dinamo Zagreb CRO,UEFA Europa League
+102,29.11.,18:55,EL,FC Zürich SUI,1:2,AEK Larnaca CYP,UEFA Europa League
+103,29.11.,18:55,EL,Leverkusen GER,1:1,Ludog. Razgrad BUL,UEFA Europa League
+104,29.11.,19:00,EH SWE,Lulea Hockey,1:1,Linköpings HC,Schweden Elitserien
+105,29.11.,19:00,EH SWE,Skelleftea AIK,2:0,Mora IK,Schweden Elitserien
+106,29.11.,19:00,EH SWE,Frölunda HC,0:0,Brynas IF,Schweden Elitserien
+107,29.11.,19:00,EH SWE,Rögle BK,0:1,HV 71,Schweden Elitserien
+108,29.11.,19:15,EH AUT,Medvescak Zagreb,2:5,Black Wings Linz,Österreich Eishockey Liga
+109,29.11.,21:00,EL,Gl.Rangers SCO,0:0,Villarreal CF ESP,UEFA Europa League
+110,29.11.,21:00,EL,FK Jablonec CZE,0:1,Stade Rennes FRA,UEFA Europa League
+111,29.11.,21:00,EL,FC Chelsea ENG,4:0,PAOK Thessal. GRE,UEFA Europa League
+112,29.11.,21:00,EL,Sarpsborg 08 NOR,2:3,Besiktas Ist. TUR,UEFA Europa League
+113,29.11.,21:00,EL,Malmö FF SWE,2:2,KRC Genk BEL,UEFA Europa League
+114,29.11.,21:00,EL,Stand. Lüttich BEL,1:0,FC Sevilla ESP,UEFA Europa League
+115,29.11.,21:00,EL,E. Frankfurt GER,4:0,Ol. Marseille FRA,UEFA Europa League
+116,29.11.,21:00,EL,Apollon L. CYP,2:0,Lazio Rom ITA,UEFA Europa League
+117,30.11.,01:30,USA MLS,NY Red Bulls,1:0,Atlanta United FC,USA Major League Soccer
+118,30.11.,03:30,USA MLS,Sp. Kansas City,2:3,Portland Timbers,USA Major League Soccer
+119,30.11.,01:45,COPA S,Atl. Junior COL,1:0,Ind. Santa Fe COL,Copa Sudamericana
+120,30.11.,02:20,NFL,Dallas Cowboys,13:10,N. Orleans Saints,USA NFL

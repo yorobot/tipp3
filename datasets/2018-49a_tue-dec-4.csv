@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,04.12.,15:00,ITA CUP,Benevento Calcio,1:0,AS Cittadella,Italien Coppa Italia
+002,04.12.,18:00,ITA CUP,Bologna FC,3:0,FC Crotone,Italien Coppa Italia
+003,04.12.,18:00,EH CL,Kometa Brünn CZE,1:4,Frölunda HC SWE,Champions Hockey League
+004,04.12.,18:00,EH CL,Skelleftea AIK SWE,3:3,HC Pilsen CZE,Champions Hockey League
+005,04.12.,19:00,FRA 1,Amiens SC,0:2,AS Monaco,Frankreich Ligue 1
+006,04.12.,19:00,FRA 1,OGC Nizza,0:0,SCO Angers,Frankreich Ligue 1
+007,04.12.,19:00,ROU 1,Dinamo Bukarest,0:3,FC CFR 1907 Cluj,Rumänien Liga 1
+008,04.12.,19:30,ESP CUP,FC Valencia,1:2,CD Ebro+2,Spanien Copa del Rey
+009,04.12.,19:30,ESP CUP,Getafe CF,5:1,Cordoba CF,Spanien Copa del Rey
+010,04.12.,19:30,CRO CUP,Lok Zagreb,1:2,HNK Rijeka,Kroatien Croatian Cup
+011,04.12.,19:30,EH CL,EC RB Salzburg AUT,3:2,Kärpät Oulu FIN,Champions Hockey League
+012,04.12.,19:30,EH CL,EHC München GER,2:1,Malmö IF SWE,Champions Hockey League
+013,04.12.,19:45,EH SUI,SCL Tigers Langnau,3:0,HC Servette Genf,Schweiz National League A
+014,04.12.,20:15,ENG LTR,Exeter City,0:2,Peterborough Utd.,England Football League Trophy
+015,04.12.,20:30,ESP CUP,Rayo Vallecano,0:1,CD Leganes,Spanien Copa del Rey
+016,04.12.,20:30,POL CUP,Arka Gdynia 1929,0:2,Jagiellonia Bial.,Polen Cup
+017,04.12.,20:30,BEL 2,OH Leuven,1:2,Lommel United,Belgium Tweede Klasse
+018,04.12.,20:30,BEL CUP,KV Kortrijk,1:0,SV Zulte Waregem,Belgium Beker van Belgie
+019,04.12.,20:45,BEL CUP,KAA Gent,3:0,Beerschot Wilrijk,Belgium Beker van Belgie
+020,04.12.,20:45,ITA CUP,Sampdoria Genua,2:1,Spal Ferrara,Italien Coppa Italia
+021,04.12.,20:45,ENG PL,AFC Bournemouth,2:1,Huddersfield Town,England Premier League
+022,04.12.,20:45,ENG PL,Brighton & Hove,3:1,Crystal Palace,England Premier League
+023,04.12.,20:45,ENG PL,West Ham United,3:1,Cardiff City,England Premier League
+024,04.12.,20:45,ENG LTR,Mansfield Town,0:1,FC Bury,England Football League Trophy
+025,04.12.,20:45,ENG LTR,Cambridge United,1:1,Northampton,England Football League Trophy
+026,04.12.,20:45,ENG LTR,Accrington Stanley,2:2,Lincoln City,England Football League Trophy
+027,04.12.,20:45,ENG LTR,AFC Sunderland,2:0,Notts County,England Football League Trophy
+028,04.12.,20:45,ENG LTR,Cheltenham Town,1:1,Newport County,England Football League Trophy
+029,04.12.,21:00,ENG PL,FC Watford,1:2,Manchester City,England Premier League
+030,04.12.,21:00,FRA 1,HSC Montpellier,0:1,Lille OSC,Frankreich Ligue 1
+031,04.12.,21:00,FRA 2,AC Ajaccio,1:1,AS Nancy,Frankreich Ligue 2
+032,04.12.,21:00,FRA 2,AS Beziers,0:3,Grenoble Foot,Frankreich Ligue 2
+033,04.12.,21:00,FRA 2,Le Havre AC,2:1,LB Chateauroux,Frankreich Ligue 2
+034,04.12.,21:00,FRA 2,RC Lens,2:1,Stade Brest,Frankreich Ligue 2
+035,04.12.,21:00,FRA 2,FC Metz,2:0,Red Star FC 93,Frankreich Ligue 2
+036,04.12.,21:00,FRA 2,FC Chamois Niort,1:0,FC Valenciennes,Frankreich Ligue 2
+037,04.12.,21:00,FRA 2,Paris FC 98,3:0,Clermont Foot,Frankreich Ligue 2
+038,04.12.,21:00,FRA 2,FC Sochaux,2:0,Ajaccio GFCO,Frankreich Ligue 2
+039,04.12.,21:00,FRA 2,Troyes AC,3:2,US Orleans 45,Frankreich Ligue 2
+040,04.12.,21:30,ESP CUP,Espanyol Barcelona,1:0,Cadiz CF,Spanien Copa del Rey
+041,05.12.,11:00,JPN CUP,Vegalta Sendai,3:2,Montedio Yamagata,Japan Emperor Cup
+042,05.12.,11:00,JPN CUP,Urawa RD*,1:0,Kashima Antlers,Japan Emperor Cup
+043,05.12.,13:00,SUZ CUP,Thailand,2:2,Malaysia,AFF Suzuki Cup
+044,05.12.,15:00,ITA CUP,Novara Calcio,3:2,SC Pisa,Italien Coppa Italia
+045,05.12.,16:30,ROU 1,Gaz Metan Medias,2:2,Viitorul Constanta,Rumänien Liga 1
+046,05.12.,17:00,CRO CUP,NK Osijek,2:1,HNK Hajduk Split,Kroatien Croatian Cup
+047,05.12.,17:00,POL CUP,Nieciecza KS,1:3,KS Lechia Gdansk,Polen Cup
+048,05.12.,17:30,RUS CUP,FC Spartak Moskau,1:1,Ural Jekaterinburg,Russland Russian Cup
+049,05.12.,17:30,RUS CUP,FC Krasnodar,2:2,FC Rostov,Russland Russian Cup
+050,05.12.,17:30,RUS CUP,Lok Moskau,1:0,FC Rubin Kazan,Russland Russian Cup
+051,05.12.,18:00,ITA CUP,US Sassuolo,2:1,Catania Calcio,Italien Coppa Italia
+052,05.12.,18:00,NOR 1,Stabaek IF,1:0,Aalesunds FK,Norwegen Tippeligaen
+053,05.12.,19:00,FRA 1,Bordeaux,3:2,AS Saint Etienne,Frankreich Ligue 1
+054,05.12.,19:00,FRA 1,SM Caen,1:2,Olympique Nimes,Frankreich Ligue 1
+055,05.12.,19:00,FRA 1,Dijon Football,2:1,EA Guingamp,Frankreich Ligue 1
+056,05.12.,19:00,FRA 1,Olympique Lyon,0:2,Stade Rennes,Frankreich Ligue 1
+057,05.12.,19:00,FRA 1,FC Nantes,3:2,Olymp. Marseille,Frankreich Ligue 1
+058,05.12.,19:00,FRA 1,Stade de Reims,0:1,FC Toulouse,Frankreich Ligue 1
+059,05.12.,19:00,DEN CUP,FC Nordsjaelland,0:1,Vendsyssel FF,Dänemark Landspokalturneringen
+060,05.12.,19:00,ROU 1,Sepsi Sf.Gheorghe,4:2,FCS Bukarest,Rumänien Liga 1
+061,05.12.,19:30,ESP CUP,FC Girona,2:1,CD Alaves,Spanien Copa del Rey
+062,05.12.,19:30,ESP CUP,Atletico Madrid,4:2,UE Sant Andreu+2,Spanien Copa del Rey
+063,05.12.,19:30,CRO CUP,NK Dinamo Zagreb,1:0,NK Slaven Belupo,Kroatien Croatian Cup
+064,05.12.,20:00,ENG LTR,FC Rochdale,abgesagt,Oldham Athletic,England Football League Trophy
+065,05.12.,20:00,BEL CUP,RE Mouscron,2:2,KV Oostende,Belgium Beker van Belgie
+066,05.12.,20:30,ENG LTR,Shrewsbury Town,2:1,FC Walsall,England Football League Trophy
+067,05.12.,20:30,ESP CUP,Villarreal CF,8:0,UD Almeria,Spanien Copa del Rey
+068,05.12.,20:30,ESP CUP,FC Sevilla,1:2,CF Villanovense+2,Spanien Copa del Rey
+069,05.12.,20:30,ESP CUP,Real Sociedad,2:0,Celta de Vigo,Spanien Copa del Rey
+070,05.12.,20:30,POL CUP,Chrobry Glogow,0:3,Legia Warschau,Polen Cup
+071,05.12.,20:30,BEL CUP,YR KV Mechelen,2:0,Sporting Lokeren,Belgium Beker van Belgie
+072,05.12.,20:45,BEL CUP,Sporting Charleroi,1:3,KRC Genk,Belgium Beker van Belgie
+073,05.12.,20:45,ITA CUP,AC Chievo Verona,1:2,Cagliari Calcio,Italien Coppa Italia
+074,05.12.,20:45,ENG PL,FC Burnley,1:3,FC Liverpool,England Premier League
+075,05.12.,20:45,ENG PL,FC Fulham,1:1,Leicester City,England Premier League
+076,05.12.,20:45,ENG PL,Wolverhampton,2:1,FC Chelsea,England Premier League
+077,05.12.,20:45,ENG PL,FC Everton,1:1,Newcastle United,England Premier League
+078,05.12.,20:45,ENG LTR,Luton Town,1:1,Southend United,England Football League Trophy
+079,05.12.,20:45,SCO PS,FC Dundee,4:0,Hamilton FC,Schottland Premiership
+080,05.12.,20:45,SCO PS,Hibernian FC,2:2,FC St. Mirren,Schottland Premiership
+081,05.12.,20:45,SCO PS,FC Kilmarnock,2:0,FC Livingston,Schottland Premiership
+082,05.12.,20:45,SCO PS,FC Motherwell,1:1,Celtic Glasgow,Schottland Premiership
+083,05.12.,20:45,SCO PS,Glasgow Rangers,0:1,FC Aberdeen,Schottland Premiership
+084,05.12.,20:45,SCO PS,FC St. Johnstone,2:2,Heart of Midl.,Schottland Premiership
+085,05.12.,21:00,ENG PL,Manchester United,2:2,FC Arsenal,England Premier League
+086,05.12.,21:00,ENG PL,Tottenham,3:1,FC Southampton,England Premier League
+087,05.12.,21:00,FRA 1,Racing Strasbourg,1:1,Paris SG,Frankreich Ligue 1
+088,05.12.,21:30,ESP CUP,Real Valladolid,2:1,RCD Mallorca,Spanien Copa del Rey
+089,05.12.,21:30,ESP CUP,FC Barcelona,4:3,Cultural Leonesa+2,Spanien Copa del Rey
+090,06.12.,01:45,COPA S,Atl. Junior COL,1:1,Atletico PR BRA,Copa Sudamericana
+091,06.12.,12:00,ESP CUP,Levante UD,2:0,CD Lugo,Spanien Copa del Rey
+092,06.12.,12:15,POL CUP,Rozwoj Katowice,1:1,Gornik Zabrze,Polen Cup
+093,06.12.,13:30,SUZ CUP,Vietnam,2:1,Philippinen,AFF Suzuki Cup
+094,06.12.,14:00,BUL 1,FC Dunav 2010,1:1,PFC Slavia Sofia,Bulgarien Premier League
+095,06.12.,14:30,KHL,HC Barys,3:1,Traktor Chelyab.,Kontinental Hockey League
+096,06.12.,16:00,ROU 1,FC Botosani,1:2,CSMS Iasi,Rumänien Liga 1
+097,06.12.,16:15,ESP CUP,Real Madrid,6:3,Melilla UD+2,Spanien Copa del Rey
+098,06.12.,16:30,BUL 1,ZSKA Sofia,1:1,Ludogorets,Bulgarien Premier League
+099,06.12.,17:30,KHL,HC Vityaz Podolsk,3:1,Neftekhimik,Kontinental Hockey League
+100,06.12.,17:30,KHL,SKA St. Petersburg,5:1,AK Bars Kasan,Kontinental Hockey League
+101,06.12.,17:30,KHL,HK CSKA Moskau,3:2,Avangard Omsk,Kontinental Hockey League
+102,06.12.,17:30,KHL,HK Dinamo Minsk,3:6,Torp. Nowgorod,Kontinental Hockey League
+103,06.12.,18:00,ITA CUP,FC Genua,2:2,Virtus Entella,Italien Coppa Italia
+104,06.12.,18:30,ESP CUP,SD Eibar,2:2,Sporting Gijon,Spanien Copa del Rey
+105,06.12.,18:30,ESP CUP,SD Huesca,0:4,Athletic Bilbao,Spanien Copa del Rey
+106,06.12.,18:30,TUR CUP,Fenerbahce,1:0,Giresunspor,Türkei Türkiye Kupasi
+107,06.12.,19:00,ROU 1,Concordia Chiajna,1:3,CS Uni Craiova,Rumänien Liga 1
+108,06.12.,19:00,EH SWE,Brynas IF,2:5,Linköpings HC,Schweden Elitserien
+109,06.12.,19:00,EH SWE,Djurgardens IF,2:2,Skelleftea AIK,Schweden Elitserien
+110,06.12.,19:00,EH SWE,Färjestads BK,1:0,Lulea Hockey,Schweden Elitserien
+111,06.12.,19:00,EH SWE,Växjö Lakers,2:1,Timra IK,Schweden Elitserien
+112,06.12.,19:00,EH SWE,Malmö IF,1:1,Rögle BK,Schweden Elitserien
+113,06.12.,19:00,EH SWE,HC Örebro,7:1,Frölunda HC,Schweden Elitserien
+114,06.12.,19:00,EH SWE,HV 71,6:0,Mora IK,Schweden Elitserien
+115,06.12.,19:30,EH GER,Kölner Haie,3:1,Schwenninger W.W.,Deutschland Deutsche Eishockey Liga
+116,06.12.,20:00,NL 1,Feyenoord,4:1,VVV Venlo,Niederlande Eredivisie
+117,06.12.,20:45,ESP CUP,Betis Sevilla,4:0,Racing Santander,Spanien Copa del Rey
+118,06.12.,20:45,ITA CUP,FC Torino,2:0,FC Südtirol,Italien Coppa Italia
+119,07.12.,01:10,ARG CUP,Rosario Central*,1:1,Gimnasia La Plata,Argentinien Cup
+120,07.12.,02:20,NFL,Tennessee Titans,30:9,Jacksonv. Jaguars,USA NFL

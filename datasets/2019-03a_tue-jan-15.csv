@@ -1,0 +1,120 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,15.01.,12:20,TEN ATP,"Paire, Benoit",2:3,"Thiem, Dominic",Tennis ATP
+002,15.01.,13:30,KHL,Sibir Nowosibirsk,5:4,HC Sochi,Kontinental Hockey League
+003,15.01.,14:00,TUR CUP,Kayserispor,1:2,Akhisarspor,Türkei Türkiye Kupasi
+004,15.01.,14:30,ASICUP,Palästina,0:0,Jordanien,Asien Cup
+005,15.01.,14:30,ASICUP,Australien,3:2,Syrien,Asien Cup
+006,15.01.,14:30,KHL,HC Barys,4:5,Spartak Moskau,Kontinental Hockey League
+007,15.01.,15:00,FS,SK Rapid Wien AUT,5:0,SV Horn AUT,Freundschaftsspiele International (Klub)
+008,15.01.,15:30,HB WM,Russland,23:25,Brasilien,Handball WM Herren
+009,15.01.,16:00,FS,Kapfenberg AUT,0:4,SV Mattersburg AUT,Freundschaftsspiele International (Klub)
+010,15.01.,16:00,TUR CUP,Antalyaspor,3:3,Göztepe,Türkei Türkiye Kupasi
+011,15.01.,16:15,HB WM,Saudi Arabien,20:24,Tunesien,Handball WM Herren
+012,15.01.,17:30,EH CL,HC Pilsen CZE,1:3,Frölunda HC SWE,Champions Hockey League
+013,15.01.,17:30,KHL,Avangard Omsk,4:4,Salavat Yulaev Ufa,Kontinental Hockey League
+014,15.01.,17:30,KHL,SKA St. Petersburg,2:2,Neftekhimik,Kontinental Hockey League
+015,15.01.,17:30,KHL,HK CSKA Moskau,3:0,Met. Magnitogorsk,Kontinental Hockey League
+016,15.01.,17:30,KHL,HK Dinamo Minsk,2:2,HC Vityaz Podolsk,Kontinental Hockey League
+017,15.01.,17:50,TUR CUP,Boluspor,abgesagt,Galatasaray,Türkei Türkiye Kupasi
+018,15.01.,18:00,FS,FCM Traiskirchen,0:4,Admira Wacker AUT,Freundschaftsspiele International (Klub)
+019,15.01.,18:30,KHL,HK Dinamo Riga,1:1,Avtomobilist,Kontinental Hockey League
+020,15.01.,18:30,KHL,Slovan Bratislava,0:2,Traktor Chelyab.,Kontinental Hockey League
+021,15.01.,19:00,FRA 1,SCO Angers,1:2,Bordeaux,Frankreich Ligue 1
+022,15.01.,19:00,FRA 2,Le Havre AC,4:3,FC Valenciennes,Frankreich Ligue 2
+023,15.01.,19:00,POR CUP,CD Aves,1:2,Sporting Braga,Portugal Taca de Portugal
+024,15.01.,19:30,ESP CUP,Real Valladolid,1:1,Getafe CF,Spanien Copa del Rey
+025,15.01.,19:45,EH SUI,HC Lausanne,4:0,SCL Tigers Langnau,Schweiz National League A
+026,15.01.,20:00,EH ALP,Adler Kitzbühe AUT,4:0,VEU Feldkirch AUT,Alps Hockey League
+027,15.01.,20:30,POR CUP,Leixoes SC,1:1,FC Porto,Portugal Taca de Portugal
+028,15.01.,20:30,HB WM,Deutschland,25:25,Frankreich,Handball WM Herren
+029,15.01.,20:45,HB WM,Österreich,17:28,Dänemark,Handball WM Herren
+030,15.01.,20:45,ENG FA,Blackburn Rovers,2:2,Newcastle United,England FA Cup
+031,15.01.,20:45,ENG FA,Luton Town,0:1,Sheffield Wednes.,England FA Cup
+032,15.01.,21:00,ENG FA,Stoke City,2:3,Shrewsbury Town,England FA Cup
+033,15.01.,21:30,ESP CUP,FC Valencia,3:0,Sporting Gijon,Spanien Copa del Rey
+034,15.01.,21:45,POR CUP,Vitoria Guimaraes,0:1,Benfica Lissabon,Portugal Taca de Portugal
+035,16.01.,09:50,AUS 1,Central Coast,2:1,Melbourne City FC,Australien Hyundai A-League
+036,16.01.,14:30,ASICUP,Kirgisistan,3:1,Philippinen,Asien Cup
+037,16.01.,14:30,ASICUP,Südkorea,2:0,China,Asien Cup
+038,16.01.,14:30,ITA C1C,Viterbese,1:1,Reggina 1914,"Italien, Lega Pro Prima Divisione, Girone C"
+039,16.01.,14:30,TUR CUP,Yeni Malatyaspor,3:2,Bodrum BB,Türkei Türkiye Kupasi
+040,16.01.,15:00,FS,Austria Wien AUT,0:1,Wr. Neustadt AUT,Freundschaftsspiele International (Klub)
+041,16.01.,16:00,POR 2,Benfica Lissabon B,4:0,Academico Viseu,Portugal Segunda Liga
+042,16.01.,16:00,CYP CUP,Omonia Nikosia,1:1,Apollon Limassol,Zypern Cup
+043,16.01.,16:30,TUR CUP,Istanbul Basakseh.,1:0,Hatayspor,Türkei Türkiye Kupasi
+044,16.01.,17:00,ASICUP,Vietnam,2:0,Jemen,Asien Cup
+045,16.01.,17:00,ASICUP,Iran,0:0,Irak,Asien Cup
+046,16.01.,17:30,CYP CUP,Salamis Famagusta,1:2,AEK Larnaca,Zypern Cup
+047,16.01.,17:30,EH FIN,HC TPS Turku,3:4,Ilves Tampere,Finnland SM-Liiga
+048,16.01.,18:00,HB WM,Ungarn,30:30,Ägypten,Handball WM Herren
+049,16.01.,18:30,ITA SC,Juventus Turin*,1:0,AC Milan,Italien Supercoppa
+050,16.01.,18:30,TUR CUP,Trabzonspor,2:1,Balikesirspor,Türkei Türkiye Kupasi
+051,16.01.,18:30,ISR CUP,Bnei Yehuda,2:0,Hapoel Nof HaGalil,Israel Cup
+052,16.01.,19:00,FRA 1,AS Monaco,1:1,OGC Nizza,Frankreich Ligue 1
+053,16.01.,19:00,FRA 1,Olympique Nimes,1:0,FC Nantes,Frankreich Ligue 1
+054,16.01.,19:00,FRA 1,FC Toulouse,2:2,Olympique Lyon,Frankreich Ligue 1
+055,16.01.,19:00,FRA 1,EA Guingamp,2:1,Stade Rennes,Frankreich Ligue 1
+056,16.01.,19:15,FRA CUP,Grenoble Foot,0:0,Racing Strasbourg,Frankreich Coupe de France
+057,16.01.,19:30,ESP CUP,Atletico Madrid,3:3,FC Girona,Spanien Copa del Rey
+058,16.01.,19:45,ISR CUP,Bnei Sakhnin FC,abgesagt,Maccabi Haifa,Israel Cup
+059,16.01.,20:20,EH CL,EC RB Salzburg AUT,1:3,EHC München GER,Champions Hockey League
+060,16.01.,20:30,HB WM,Nordmazedonien,21:32,Spanien,Handball WM Herren
+061,16.01.,20:30,HB WM,Katar,22:23,Schweden,Handball WM Herren
+062,16.01.,20:30,ESP CUP,FC Sevilla,0:1,Athletic Bilbao,Spanien Copa del Rey
+063,16.01.,20:45,ENG FA,FC Southampton,2:2,Derby County,England FA Cup
+064,16.01.,21:00,FRA 1,AS Saint Etienne,2:1,Olymp. Marseille,Frankreich Ligue 1
+065,16.01.,21:30,ESP CUP,CD Leganes,1:0,Real Madrid,Spanien Copa del Rey
+066,16.01.,21:45,POR CUP,CD Feirense,0:2,Sporting Lissabon,Portugal Taca de Portugal
+067,17.01.,01:00,NHL,Ottawa Senators,5:2,Colorado Avalan.,USA NHL
+068,17.01.,01:30,NHL,Philadelphia Fl.,4:3,Boston Bruins,USA NHL
+069,17.01.,02:00,COPA MX,Cruz Azul,2:3,Club Leon,"Mexiko, Copa MX"
+070,17.01.,03:30,NHL,Calgary Flames,3:3,Buffalo Sabres,USA NHL
+071,17.01.,04:00,COPA MX,CD Leones Negros,0:2,UNAM Pumas,"Mexiko, Copa MX"
+072,17.01.,04:00,NHL,Arizona Coyotes,6:3,San Jose Sharks,USA NHL
+073,17.01.,14:30,ASICUP,Oman,3:1,Turkmenistan,Asien Cup
+074,17.01.,14:30,ASICUP,Japan,2:1,Usbekistan,Asien Cup
+075,17.01.,16:30,TUR CUP,Alanyaspor,0:0,Kasimpasa,Türkei Türkiye Kupasi
+076,17.01.,17:00,ASICUP,Saudi Arabien,0:2,Katar,Asien Cup
+077,17.01.,17:00,ASICUP,Libanon,4:1,Nordkorea,Asien Cup
+078,17.01.,17:00,KHL,Neftekhimik,1:2,HC Vityaz Podolsk,Kontinental Hockey League
+079,17.01.,17:30,KHL,Avangard Omsk,2:4,HC Sochi,Kontinental Hockey League
+080,17.01.,17:30,KHL,SKA St. Petersburg,3:1,Dynamo Moskau,Kontinental Hockey League
+081,17.01.,17:30,KHL,HK CSKA Moskau,3:0,Avtomobilist,Kontinental Hockey League
+082,17.01.,17:30,EH FIN,HIFK Helsinki,2:2,Lukko Rauma,Finnland SM-Liiga
+083,17.01.,17:30,EH FIN,HPK Hämeenlinna,2:1,SaiPa Lappeenr.,Finnland SM-Liiga
+084,17.01.,17:30,EH FIN,Ilves Tampere,1:4,Kärpät Oulu,Finnland SM-Liiga
+085,17.01.,17:30,EH FIN,Ässät Pori,2:2,Jukurit Mikkeli,Finnland SM-Liiga
+086,17.01.,17:30,HB WM,Österreich,27:32,Tunesien,Handball WM Herren
+087,17.01.,18:00,HB WM,Deutschland,31:23,Serbien,Handball WM Herren
+088,17.01.,18:00,HB WM,Nordmazedonien,22:24,Island,Handball WM Herren
+089,17.01.,18:00,BB EL,ZSKA Moskau RUS,77:70,Bayern München GER,Euroleague
+090,17.01.,18:30,TUR CUP,Umraniyespor*,1:0,Fenerbahce,Türkei Türkiye Kupasi
+091,17.01.,18:30,KHL,HK Dinamo Riga,0:2,Met. Magnitogorsk,Kontinental Hockey League
+092,17.01.,19:00,EH SWE,Linköpings HC,4:4,HC Örebro,Schweden Elitserien
+093,17.01.,19:00,EH SWE,Mora IK,4:1,Rögle BK,Schweden Elitserien
+094,17.01.,19:00,EH SWE,Skelleftea AIK,3:0,Växjö Lakers,Schweden Elitserien
+095,17.01.,19:00,EH SWE,HV 71,0:4,Lulea Hockey,Schweden Elitserien
+096,17.01.,19:00,EH SWE,Frölunda HC,0:3,Färjestads BK,Schweden Elitserien
+097,17.01.,19:00,BB AUT,UBSC Graz,67:81,Oberwart Gunners,Österreich Basketball Superliga
+098,17.01.,19:00,BB AUT,Kapfenberg Bulls,81:60,Traiskirchen,Österreich Basketball Superliga
+099,17.01.,19:00,BB AUT,BC Vienna,81:76,Vienna Timberw.,Österreich Basketball Superliga
+100,17.01.,19:00,BB AUT,Flyers Wels,83:75,Swans Gmunden,Österreich Basketball Superliga
+101,17.01.,19:30,ESP CUP,Real Sociedad,2:2,Betis Sevilla,Spanien Copa del Rey
+102,17.01.,19:30,EH GER,DEG Metro Stars,2:2,Straubing Tigers,Deutschland Deutsche Eishockey Liga
+103,17.01.,20:00,BB EL,Olympiakos P. GRE,71:57,Khimki Moskau RUS,Euroleague
+104,17.01.,20:05,BB EL,M.Tel Aviv ISR,99:83,FC Barcelona ESP,Euroleague
+105,17.01.,20:15,HB WM,Dänemark,30:26,Norwegen,Handball WM Herren
+106,17.01.,20:30,HB WM,Spanien,19:23,Kroatien,Handball WM Herren
+107,17.01.,20:30,HB WM,Schweden,33:30,Ungarn,Handball WM Herren
+108,17.01.,20:30,ESP CUP,Espanyol Barcelona,3:1,Villarreal CF,Spanien Copa del Rey
+109,17.01.,21:00,BB EL,Gran Canaria ESP,64:82,Fenerbahce TUR,Euroleague
+110,17.01.,21:30,ESP CUP,FC Barcelona,3:0,Levante UD,Spanien Copa del Rey
+111,18.01.,20:30,GER BL,TSG Hoffenheim,1:3,FC Bayern München,Deutschland Bundesliga
+112,19.01.,15:30,GER BL,Bayer Leverkusen,0:1,Mönchengladbach,Deutschland Bundesliga
+113,19.01.,15:30,GER BL,VfB Stuttgart,2:3,FSV Mainz 05,Deutschland Bundesliga
+114,19.01.,15:30,GER BL,Eintr. Frankfurt,3:1,SC Freiburg,Deutschland Bundesliga
+115,19.01.,15:30,GER BL,FC Augsburg,1:2,Fortuna Düsseldorf,Deutschland Bundesliga
+116,19.01.,15:30,GER BL,Hannover 96,0:1,Werder Bremen,Deutschland Bundesliga
+117,19.01.,18:30,GER BL,RB Leipzig,0:1,Bor. Dortmund,Deutschland Bundesliga
+118,20.01.,15:30,GER BL,1. FC Nürnberg,1:3,Hertha BSC,Deutschland Bundesliga
+119,20.01.,18:00,GER BL,FC Schalke 04,2:1,VfL Wolfsburg,Deutschland Bundesliga

@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,12.04.,18:30,GER 2,FC Union Berlin,2:2,Jahn Regensburg,Deutschland 2. Bundesliga
+002,12.04.,18:30,GER 2,Erzgebirge Aue,0:1,FC Heidenheim,Deutschland 2. Bundesliga
+003,12.04.,19:00,FRA 1,Dijon Football,0:0,Amiens SC,Frankreich Ligue 1
+004,12.04.,19:00,AUT RLO,SC Parndorf,1:1,SV Mattersburg Am.,Österreich Regionalliga Ost
+005,12.04.,19:00,AUT RLO,SK Rapid Wien II,4:1,Bruck/Leitha,Österreich Regionalliga Ost
+006,12.04.,19:00,AUT RLO,St. Pölten Amat.,0:0,SV Leobendorf,Österreich Regionalliga Ost
+007,12.04.,19:00,AUT RLM,SC Weiz,4:1,WAC Amateure,Österreich Regionalliga Mitte
+008,12.04.,19:00,AUT RLM,SC Kalsdorf,2:0,Sturm Graz Amat.,Österreich Regionalliga Mitte
+009,12.04.,19:00,AUT RLM,Union Vöcklamarkt,1:1,SV Allerheiligen,Österreich Regionalliga Mitte
+010,12.04.,19:00,AUT RLM,VST Völkermarkt,1:3,WSC Hertha Wels,Österreich Regionalliga Mitte
+011,12.04.,19:00,AUT RLM,Union Gurten,1:4,Bad Gleichenberg,Österreich Regionalliga Mitte
+012,12.04.,19:00,AUT RLM,FC Wels,0:1,ATSV Stadl-Paura,Österreich Regionalliga Mitte
+013,12.04.,19:10,AUT 2,SV Ried,3:0,Floridsdorfer AC,Österreich Zweite Liga
+014,12.04.,19:10,AUT 2,Kapfenberger SV,3:2,SV Lafnitz,Österreich Zweite Liga
+015,12.04.,19:10,AUT 2,SC Wiener Neustadt,0:0,WSG Swarovs. Tirol,Österreich Zweite Liga
+016,12.04.,19:10,AUT 2,SKU Amstetten,2:1,FC Liefering,Österreich Zweite Liga
+017,12.04.,19:10,AUT 2,Austria Klagenfurt,2:2,SV Horn,Österreich Zweite Liga
+018,12.04.,19:10,AUT 2,FC Juniors OÖ,4:0,Young Violets A.W.,Österreich Zweite Liga
+019,12.04.,19:15,EH AUT,Vienna Capitals,3:1,EC RB Salzburg,Österreich Eishockey Liga
+020,12.04.,19:30,AUT RLO,Wiener Sport-Club,4:1,FC Stadlau,Österreich Regionalliga Ost
+021,12.04.,19:30,AUT RLO,Marchfeld Donauaue,1:0,FCM Traiskirchen,Österreich Regionalliga Ost
+022,12.04.,19:30,AUT RLO,ASK Ebreichsdorf,2:1,SC Team Wr. Linien,Österreich Regionalliga Ost
+023,12.04.,19:30,AUT RLO,SV Schwechat,0:2,SC Neusiedl,Österreich Regionalliga Ost
+024,12.04.,19:30,TUR 1,Bursaspor,0:1,Trabzonspor,Türkei Süper Lig
+025,12.04.,19:30,EH GER,EHC München,1:0,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+026,12.04.,20:30,GER BL,1. FC Nürnberg,1:1,FC Schalke 04,Deutschland Bundesliga
+027,12.04.,20:30,BEL 1,Standard Lüttich,abgesagt,RSC Anderlecht,Belgien Jupiler Pro League
+028,12.04.,20:45,FRA 1,FC Nantes,2:1,Olympique Lyon,Frankreich Ligue 1
+029,12.04.,21:00,ENG PL,Leicester City,0:1,Newcastle United,England Premier League
+030,12.04.,21:30,POR 1,GD Chaves,2:2,Belenenses L.,Portugal Primeira Liga
+031,13.04.,13:00,GER 2,SV Sandhausen,3:1,Dynamo Dresden,Deutschland 2. Bundesliga
+032,13.04.,13:00,GER 2,FC Magdeburg,0:1,SV Darmstadt 98,Deutschland 2. Bundesliga
+033,13.04.,13:00,GER 2,SC Paderborn,4:0,MSV Duisburg,Deutschland 2. Bundesliga
+034,13.04.,13:00,ESP 1,Espanyol Barcelona,2:1,CD Alaves,Spanien Primera Division
+035,13.04.,13:15,SCO FA,Heart of Midl.,3:0,Inverness CT,Schottland FA Cup
+036,13.04.,13:30,ENG PL,Tottenham,4:0,Huddersfield Town,England Premier League
+037,13.04.,15:00,ITA A,Spal Ferrara,2:1,Juventus Turin,Italien Serie A
+038,13.04.,15:30,GER BL,RB Leipzig,2:0,VfL Wolfsburg,Deutschland Bundesliga
+039,13.04.,15:30,GER BL,VfB Stuttgart,0:1,Bayer Leverkusen,Deutschland Bundesliga
+040,13.04.,15:30,GER BL,Werder Bremen,2:1,SC Freiburg,Deutschland Bundesliga
+041,13.04.,15:30,GER BL,Hannover 96,0:1,Mönchengladbach,Deutschland Bundesliga
+042,13.04.,16:00,ENG PL,FC Southampton,3:1,Wolverhampton,England Premier League
+043,13.04.,16:00,ENG PL,FC Fulham,2:0,FC Everton,England Premier League
+044,13.04.,16:00,ENG PL,FC Burnley,2:0,Cardiff City,England Premier League
+045,13.04.,16:00,ENG PL,Brighton & Hove,0:5,AFC Bournemouth,England Premier League
+046,13.04.,16:15,ESP 1,SD Huesca,0:0,FC Barcelona,Spanien Primera Division
+047,13.04.,16:30,AUT 2,Austria Lustenau,2:0,BW Linz,Österreich Zweite Liga
+048,13.04.,17:00,AUT BL,SK Rapid Wien,2:1,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
+049,13.04.,17:00,AUT BL,TSV Hartberg,0:1,SCR Altach,"Österreich Bundesliga, Qualifikationsgruppe"
+050,13.04.,17:00,AUT BL,Wacker Innsbruck,1:3,Admira Wacker,"Österreich Bundesliga, Qualifikationsgruppe"
+051,13.04.,17:00,FRA 1,Olymp. Marseille,2:1,Olympique Nimes,Frankreich Ligue 1
+052,13.04.,18:00,ITA A,AS Roma,1:0,Udinese Calcio,Italien Serie A
+053,13.04.,18:00,TUR 1,Besiktas Istanbul,2:1,Istanbul Basakseh.,Türkei Süper Lig
+054,13.04.,18:30,GER BL,Bor. Dortmund,2:1,FSV Mainz 05,Deutschland Bundesliga
+055,13.04.,18:30,ENG PL,Manchester United,2:1,West Ham United,England Premier League
+056,13.04.,18:30,ENG CS,Leeds United,1:0,Sheffield Wednes.,England Championship
+057,13.04.,18:30,ESP 1,Atletico Madrid,2:0,Celta de Vigo,Spanien Primera Division
+058,13.04.,19:00,POR 1,Portimonense SC,0:3,FC Porto,Portugal Primeira Liga
+059,13.04.,19:00,SUI SL,FC Basel,0:0,Grasshoppers,Schweiz Axpo Super League
+060,13.04.,19:00,SUI SL,FC Luzern,0:1,Xamax Neuchatel,Schweiz Axpo Super League
+061,13.04.,20:00,FRA 1,SM Caen,0:1,SCO Angers,Frankreich Ligue 1
+062,13.04.,20:00,FRA 1,AS Monaco,0:0,Stade de Reims,Frankreich Ligue 1
+063,13.04.,20:00,FRA 1,Racing Strasbourg,3:3,EA Guingamp,Frankreich Ligue 1
+064,13.04.,20:30,ITA A,AC Milan,1:0,Lazio Rom,Italien Serie A
+065,13.04.,20:45,ESP 1,FC Sevilla,3:2,Betis Sevilla,Spanien Primera Division
+066,13.04.,21:30,POR 1,CD Aves,1:3,Sporting Lissabon,Portugal Primeira Liga
+067,14.04.,10:30,AUT 2,SK Vorwärts Steyr,3:4,Wack. Innsbruck II,Österreich Zweite Liga
+068,14.04.,12:00,ESP 1,Real Valladolid,2:2,Getafe CF,Spanien Primera Division
+069,14.04.,12:30,ITA A,FC Torino,1:1,Cagliari Calcio,Italien Serie A
+070,14.04.,13:30,GER BL,TSG Hoffenheim,2:0,Hertha BSC,Deutschland Bundesliga
+071,14.04.,13:30,GER 2,VfL Bochum,3:2,Greuther Fürth,Deutschland 2. Bundesliga
+072,14.04.,13:30,GER 2,FC Ingolstadt,1:1,Holstein Kiel,Deutschland 2. Bundesliga
+073,14.04.,13:30,GER 2,FC St. Pauli,1:1,Arminia Bielefeld,Deutschland 2. Bundesliga
+074,14.04.,14:00,ESP 1,Athletic Bilbao,3:2,Rayo Vallecano,Spanien Primera Division
+075,14.04.,14:00,EH AUT,Vienna Capitals,2:2,KAC Klagenfurt,Österreich Eishockey Liga
+076,14.04.,14:00,EH GER,Augsburger Panth.,2:0,EHC München,Deutschland Deutsche Eishockey Liga
+077,14.04.,14:30,AUT BL,Wolfsberger AC,1:1,FK Austria Wien,Österreich Bundesliga
+078,14.04.,14:30,AUT BL,LASK Linz,0:0,SKN St. Pölten,Österreich Bundesliga
+079,14.04.,15:00,ITA A,AC Fiorentina,0:0,Bologna FC,Italien Serie A
+080,14.04.,15:00,ITA A,Sampdoria Genua,2:0,FC Genua,Italien Serie A
+081,14.04.,15:00,ITA A,US Sassuolo,0:0,FC Parma,Italien Serie A
+082,14.04.,15:00,FRA 1,HSC Montpellier,2:1,FC Toulouse,Frankreich Ligue 1
+083,14.04.,15:00,FRA 1,Stade Rennes,0:0,OGC Nizza,Frankreich Ligue 1
+084,14.04.,15:00,SCO FA,FC Aberdeen,0:3,Celtic Glasgow,Schottland FA Cup
+085,14.04.,15:05,ENG PL,Crystal Palace,1:3,Manchester City,England Premier League
+086,14.04.,15:30,GER BL,Fortuna Düsseldorf,1:4,FC Bayern München,Deutschland Bundesliga
+087,14.04.,16:00,SUI SL,FC Lugano,1:1,FC Sion,Schweiz Axpo Super League
+088,14.04.,16:00,SUI SL,FC Thun,0:0,FC St. Gallen,Schweiz Axpo Super League
+089,14.04.,16:00,SUI SL,FC Zürich,0:1,Young Boys Bern,Schweiz Axpo Super League
+090,14.04.,16:15,ESP 1,Real Sociedad,1:1,SD Eibar,Spanien Primera Division
+091,14.04.,17:00,AUT BL,RB Salzburg,3:1,SK Sturm Graz,Österreich Bundesliga
+092,14.04.,17:00,FRA 1,AS Saint Etienne,3:0,Bordeaux,Frankreich Ligue 1
+093,14.04.,17:30,ENG PL,FC Liverpool,2:0,FC Chelsea,England Premier League
+094,14.04.,18:00,GER BL,Eintr. Frankfurt,1:3,FC Augsburg,Deutschland Bundesliga
+095,14.04.,18:00,ITA A,AC Chievo Verona,1:3,SSC Napoli,Italien Serie A
+096,14.04.,18:00,TUR 1,Fenerbahce,1:1,Galatasaray,Türkei Süper Lig
+097,14.04.,18:00,BEL 1,KRC Genk,3:1,Club Brügge,Belgien Jupiler Pro League
+098,14.04.,18:00,CZE 1,SK Slavia Prag,1:1,Sparta Prag,Tschechien Gambrinus Liga
+099,14.04.,18:30,ESP 1,FC Girona,0:1,Villarreal CF,Spanien Primera Division
+100,14.04.,20:30,ITA A,Frosinone Calcio,1:3,Inter Mailand,Italien Serie A
+101,14.04.,20:45,ESP 1,FC Valencia,3:1,Levante UD,Spanien Primera Division
+102,14.04.,21:00,FRA 1,Lille OSC,5:1,Paris SG,Frankreich Ligue 1
+103,15.04.,17:30,FIN 1,FC Honka,1:3,IFK Mariehamn,Finnland Veikkausliiga
+104,15.04.,17:30,FIN 1,HIFK Helsinki,0:1,FC Lahti,Finnland Veikkausliiga
+105,15.04.,18:00,CZE 1,FK Mlada Boleslav,1:2,FC Slovan Liberec,Tschechien Gambrinus Liga
+106,15.04.,19:00,GER 3,Kickers Würzburg,0:0,Karlsruher SC,Deutschland 3. Liga
+107,15.04.,19:00,TUR 1,Erzurum BB,2:1,Akhisarspor,Türkei Süper Lig
+108,15.04.,19:00,DEN 1,SönderjyskE,0:1,AGF Aarhus,Dänemark Superligaen
+109,15.04.,19:00,SWE 1,Helsingborgs IF,2:1,Hammarby IF,Schweden Allsvenskan
+110,15.04.,19:00,SWE 1,Djurgardens IF,2:1,IFK Göteborg,Schweden Allsvenskan
+111,15.04.,19:00,SWE 2,Örgryte Göteborg,2:0,IK Frej,Schweden Superettan
+112,15.04.,19:00,SWE 2,Trelleborgs FF,1:1,Norrby IF,Schweden Superettan
+113,15.04.,20:00,ISR 1,Maccabi Tel Aviv,0:0,Hap. Beer Sheva,Israel Winner League
+114,15.04.,20:00,ROU 1,Sepsi Sf.Gheorghe,0:1,AFC Astra Giurgiu,Rumänien Liga 1
+115,15.04.,20:30,GER 2,1. FC Köln,1:1,Hamburger SV,Deutschland 2. Bundesliga
+116,15.04.,20:30,ITA A,Atalanta Bergamo,0:0,FC Empoli,Italien Serie A
+117,15.04.,20:45,FRA 2,Paris FC 98,2:2,FC Lorient,Frankreich Ligue 2
+118,15.04.,21:00,ENG PL,FC Watford,0:1,FC Arsenal,England Premier League
+119,15.04.,21:00,ESP 1,CD Leganes,1:1,Real Madrid,Spanien Primera Division
+120,15.04.,21:00,ITA B,AS Livorno,0:1,Brescia Calcio,Italien Serie B

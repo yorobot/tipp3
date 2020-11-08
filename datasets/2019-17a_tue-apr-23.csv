@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,23.04.,17:30,FIN 1,HJK Helsinki,1:1,HIFK Helsinki,Finnland Veikkausliiga
+002,23.04.,17:30,EH FIN,HPK Hämeenlinna,3:1,Kärpät Oulu,Finnland SM-Liiga
+003,23.04.,18:00,ISR 1,Maccabi Netanya,3:2,Hapoel Hadera,Israel Winner League
+004,23.04.,18:00,CRO CUP,NK Dinamo Zagreb,2:0,NK Osijek,Kroatien Croatian Cup
+005,23.04.,18:00,POL 1,Piast Gliwice,1:0,Zaglebie Lubin,Polen Orange Ekstraklasa
+006,23.04.,18:30,NL 1,De Graafschap,1:0,FC Emmen,Niederlande Eredivisie
+007,23.04.,19:00,AUT BL,TSV Hartberg,2:4,SK Rapid Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+008,23.04.,19:00,AUT BL,TSV Hartberg+1,3:4,SK Rapid Wien,"Österreich Bundesliga, Qualifikationsgruppe"
+009,23.04.,19:10,AUT BL,Wacker Innsbruck,0:4,SCR Altach,"Österreich Bundesliga, Qualifikationsgruppe"
+010,23.04.,19:00,AUT BL,Admira Wacker,0:2,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
+011,23.04.,19:00,DEN 1,Esbjerg FB,0:0,Odense BK,Dänemark Superligaen
+012,23.04.,19:00,NOR 1,Odds BK,1:0,Viking FK,Norwegen Tippeligaen
+013,23.04.,19:00,BB EL,BC Zalgiris LTU,57:66,Fenerbahce TUR,Euroleague
+014,23.04.,19:30,ESP 1,SD Huesca,2:0,SD Eibar,Spanien Primera Division
+015,23.04.,19:30,ISR 1,Bnei Yehuda,0:2,Maccabi Tel Aviv,Israel Winner League
+016,23.04.,19:30,EH SWE,Djurgardens IF,5:1,Frölunda HC,Schweden Elitserien
+017,23.04.,19:45,NL 1,SC Heerenveen,2:2,VVV Venlo,Niederlande Eredivisie
+018,23.04.,19:45,NL 1,AZ Alkmaar,2:1,Heracles Almelo,Niederlande Eredivisie
+019,23.04.,20:00,FRA 2,AC Ajaccio,0:2,Stade Brest,Frankreich Ligue 2
+020,23.04.,20:00,FRA 2,AJ Auxerre,0:1,Le Havre AC,Frankreich Ligue 2
+021,23.04.,20:00,FRA 2,AS Beziers,1:1,Clermont Foot,Frankreich Ligue 2
+022,23.04.,20:00,FRA 2,RC Lens,0:1,FC Lorient,Frankreich Ligue 2
+023,23.04.,20:00,FRA 2,FC Metz,1:1,Grenoble Foot,Frankreich Ligue 2
+024,23.04.,20:00,FRA 2,AS Nancy,1:0,US Orleans 45,Frankreich Ligue 2
+025,23.04.,20:00,FRA 2,FC Chamois Niort,1:1,Ajaccio GFCO,Frankreich Ligue 2
+026,23.04.,20:00,FRA 2,FC Sochaux,0:0,LB Chateauroux,Frankreich Ligue 2
+027,23.04.,20:00,FRA 2,Troyes AC,2:0,Red Star FC 93,Frankreich Ligue 2
+028,23.04.,21:00,IRL 1,FC Shamrock Rovers,0:1,Boh. Dublin,Irland Premier Division
+029,23.04.,20:00,BB EL,Panathinaikos GRE,82:89,Real Madrid BC ESP,Euroleague
+030,23.04.,20:15,SUI CUP,FC Luzern,0:1,FC Thun,Schweiz Cup
+031,23.04.,20:30,ESP 1,Real Valladolid,1:0,FC Girona,Spanien Primera Division
+032,23.04.,20:30,POL 1,Cracovia Krakau,0:1,Jagiellonia Bial.,Polen Orange Ekstraklasa
+033,23.04.,20:45,GER CUP,Hamburger SV,1:3,RB Leipzig,Deutschland DFB Pokal
+034,23.04.,20:45,GER CUP,Hamburger SV+1,2:3,RB Leipzig,Deutschland DFB Pokal
+035,23.04.,20:45,ENG PL,Tottenham,1:0,Brighton & Hove,England Premier League
+036,23.04.,20:45,ENG PL,FC Watford,1:1,FC Southampton,England Premier League
+037,23.04.,20:45,ENG 1,Doncaster Rovers,1:2,Accrington Stanley,England League One
+038,23.04.,20:45,ENG 1,Luton Town,2:2,AFC Wimbledon,England League One
+039,23.04.,20:45,NL 1,Ajax Amsterdam,4:2,Vitesse Arnheim,Niederlande Eredivisie
+040,23.04.,20:45,SCO CS,Ayr United,0:1,Partick Thistle,Schottland Championship
+041,23.04.,21:30,ESP 1,CD Alaves,0:2,FC Barcelona,Spanien Primera Division
+042,24.04.,01:00,NHL,Boston Bruins,5:1,Toronto Maple L.,USA NHL
+043,24.04.,01:00,NBA,Toronto Raptors,115:96,Orlando Magic,USA NBA
+044,24.04.,02:00,NBA,Philadelphia 76ers,122:100,Brooklyn Nets,USA NBA
+045,24.04.,03:30,NBA,Denver Nuggets,108:90,San Antonio Spurs,USA NBA
+046,24.04.,04:00,NHL,San Jose Sharks,4:4,Vegas Gold.Knights,USA NHL
+047,24.04.,04:30,NBA,Portland T.,118:115,Oklahoma City Th.,USA NBA
+048,24.04.,17:30,UKR 1,FC Dynamo Kiev,0:0,Shakhtar Donetsk,Ukraine Premier League
+049,24.04.,19:30,CZE CUP,SK Slavia Prag,3:0,Sparta Prag,Tschechien Cup
+050,24.04.,18:00,POL 1,Pogon Szczecin,3:4,KS Lechia Gdansk,Polen Orange Ekstraklasa
+051,24.04.,18:00,RUS PL,FC Rostov,1:2,Lok Moskau,Russland Premier League
+052,24.04.,18:00,RUS PL,FK Achmat Grozny,1:1,FC Krasnodar,Russland Premier League
+053,24.04.,18:30,RUS PL,FC Rubin Kazan,1:1,FC Ufa,Russland Premier League
+054,24.04.,19:00,AUT BL,LASK Linz,1:2,SK Sturm Graz,Österreich Bundesliga
+055,24.04.,19:00,AUT BL,LASK Linz,1:3,SK Sturm Graz+1,Österreich Bundesliga
+056,24.04.,19:00,AUT BL,FK Austria Wien,2:2,SKN St. Pölten,Österreich Bundesliga
+057,24.04.,19:00,AUT BL,FK Austria Wien,2:3,SKN St. Pölten+1,Österreich Bundesliga
+058,24.04.,19:00,AUT BL,RB Salzburg,3:1,Wolfsberger AC,Österreich Bundesliga
+059,24.04.,19:00,AUT BL,RB Salzburg,3:2,Wolfsberger AC+1,Österreich Bundesliga
+060,24.04.,19:00,TUR CUP,Akhisarspor,1:0,Umraniyespor,Türkei Türkiye Kupasi
+061,24.04.,19:00,SWE 1,AFC Eskilstuna,0:1,Östersunds FK,Schweden Allsvenskan
+062,24.04.,19:00,SWE 1,AIK Stockholm,1:0,BK Häcken,Schweden Allsvenskan
+063,24.04.,19:00,SWE 1,IF Elfsborg,4:2,Örebro SK,Schweden Allsvenskan
+064,24.04.,19:00,SWE 1,Malmö FF,4:1,Hammarby IF,Schweden Allsvenskan
+065,24.04.,19:00,SWE 1,Falkenbergs FF,0:0,IK Sirius FK,Schweden Allsvenskan
+066,24.04.,19:00,HB CL,Flensburg-H. GER,22:28,MKB Veszprem HUN,"Champions League, Herren"
+067,24.04.,19:30,ESP 1,Atletico Madrid,3:2,FC Valencia,Spanien Primera Division
+068,24.04.,19:30,EH GER,EHC München,0:4,Adler Mannheim,Deutschland Deutsche Eishockey Liga
+069,24.04.,19:45,NL 1,FC Utrecht,2:1,Fortuna Sittard,Niederlande Eredivisie
+070,24.04.,19:45,NL 1,FC Zwolle,abgesagt,FC Groningen,Niederlande Eredivisie
+071,24.04.,20:00,RUS PL,Zenit St.Petersb.,2:0,Dinamo Moskau,Russland Premier League
+072,24.04.,20:20,EH AUT,KAC Klagenfurt,2:2,Vienna Capitals,Österreich Eishockey Liga
+073,24.04.,20:30,BB EL,Baskonia G. ESP,77:84,ZSKA Moskau RUS,Euroleague
+074,24.04.,20:30,ESP 1,Espanyol Barcelona,1:1,Celta de Vigo,Spanien Primera Division
+075,24.04.,20:30,ESP 1,CD Leganes,0:1,Athletic Bilbao,Spanien Primera Division
+076,24.04.,20:30,POL 1,Lech Posen,1:0,Legia Warschau,Polen Orange Ekstraklasa
+077,24.04.,20:45,GER CUP,Werder Bremen,2:3,FC Bayern München,Deutschland DFB Pokal
+078,24.04.,20:45,GER CUP,W. Bremen+1,3:3,FC Bayern München,Deutschland DFB Pokal
+079,24.04.,20:45,ENG PL,Wolverhampton,3:1,FC Arsenal,England Premier League
+080,24.04.,20:45,ITA CUP,AC Milan,0:1,Lazio Rom,Italien Coppa Italia
+081,24.04.,20:45,NL 1,NAC Breda,0:4,Feyenoord,Niederlande Eredivisie
+082,24.04.,20:45,HB CL,HBC Nantes FRA,25:32,FC Barcelona ESP,"Champions League, Herren"
+083,24.04.,21:00,ENG PL,Manchester United,0:2,Manchester City,England Premier League
+084,24.04.,21:00,BB EL,FC Barcelona ESP,68:102,Efes Istanbul TUR,Euroleague
+085,24.04.,21:30,ESP 1,Levante UD,4:0,Betis Sevilla,Spanien Primera Division
+086,25.04.,00:15,BRA CUP,Vasco Da Gama RJ,2:1,Santos SP,Brasilien Cup
+087,25.04.,02:30,BRA CUP,Corinthians SP,2:0,Chapecoense SC,Brasilien Cup
+088,25.04.,15:00,RUS PL,FC Yenisey,2:1,Gazovik Orenburg,Russland Premier League
+089,25.04.,15:00,GRE CUP,Asteras Tripolis,0:0,PAOK Thessaloniki,Griechenland Cup
+090,25.04.,17:00,GRE CUP,Lamia 1964,0:4,AEK Athen,Griechenland Cup
+091,25.04.,17:30,RUS PL,Kryliya Sovetov,0:1,Ural Jekaterinburg,Russland Premier League
+092,25.04.,17:30,FIN 1,KPV Kokkola,0:4,IFK Mariehamn,Finnland Veikkausliiga
+093,25.04.,17:30,FIN 1,FC Honka,3:2,FC Inter Turku,Finnland Veikkausliiga
+094,25.04.,17:30,EH FIN,Kärpät Oulu,0:3,HPK Hämeenlinna,Finnland SM-Liiga
+095,25.04.,18:00,POL 1,Wisla Plock,2:1,Korona Kielce,Polen Orange Ekstraklasa
+096,25.04.,18:00,POL 1,Arka Gdynia 1929,2:0,Miedz Legnica,Polen Orange Ekstraklasa
+097,25.04.,18:30,NL 1,ADO Den Haag,3:1,Excel. Rotterdam,Niederlande Eredivisie
+098,25.04.,18:45,ROU CUP,Viitorul Constanta,2:0,CS Uni Craiova,Rumänien Cup
+099,25.04.,18:45,SWE 1,Djurgardens IF,1:1,IFK Norrköping,Schweden Allsvenskan
+100,25.04.,19:00,EH FS,Deutschland,2:3,Österreich,"Freundschaftsspiele, Herren"
+101,25.04.,19:00,HB GER,TVB Stuttgart,33:34,Füchse Berlin,Deutsche Handball Bundesliga
+102,25.04.,19:00,TUR CUP,Yeni Malatyaspor,2:5,Galatasaray,Türkei Türkiye Kupasi
+103,25.04.,19:00,BUL 1,Botev Vratsa,1:1,Et. Veliko Tarnovo,Bulgarien Premier League
+104,25.04.,19:00,SWE 1,Helsingborgs IF,1:1,GIF Sundsvall,Schweden Allsvenskan
+105,25.04.,19:00,SWE 1,Kalmar FF,1:1,IFK Göteborg,Schweden Allsvenskan
+106,25.04.,19:00,SERB 1,Roter Stern B.,2:1,Partizan Belgrad,Serbien Meridijan Superliga
+107,25.04.,19:30,ESP 1,FC Sevilla,5:0,Rayo Vallecano,Spanien Primera Division
+108,25.04.,19:30,RUS PL,Arsenal Tula,3:0,FC Spartak Moskau,Russland Premier League
+109,25.04.,19:30,EH SWE,Frölunda HC,5:2,Djurgardens IF,Schweden Elitserien
+110,25.04.,20:00,HB CL,Vardar Skopje MKD,31:23,Pick Szeged HUN,"Champions League, Herren"
+111,25.04.,20:15,SUI CUP,FC Zürich,1:3,FC Basel,Schweiz Cup
+112,25.04.,20:30,ESP 1,Real Sociedad,0:1,Villarreal CF,Spanien Primera Division
+113,25.04.,20:30,POL 1,Slask Wroclaw,1:2,Gornik Zabrze,Polen Orange Ekstraklasa
+114,25.04.,20:30,POL 1,Zaglebie Sosnowiec,2:1,Wisla Krakau,Polen Orange Ekstraklasa
+115,25.04.,20:30,BB GER,BBC Bayreuth,80:79,Alba Berlin,Deutschland BBL
+116,25.04.,20:45,ITA CUP,Atalanta Bergamo,2:1,AC Fiorentina,Italien Coppa Italia
+117,25.04.,20:45,NL 1,Willem II Tilburg,0:3,PSV Eindhoven,Niederlande Eredivisie
+118,25.04.,21:30,ESP 1,Getafe CF,0:0,Real Madrid,Spanien Primera Division
+119,26.04.,00:15,BRA CUP,Londrina EC PR,2:1,EC Bahia BA,Brasilien Cup
+120,26.04.,02:30,BRA CUP,Santa Cruz FC PE*,2:0,Fluminense RJ,Brasilien Cup

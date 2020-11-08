@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,15.02.,14:15,HE-RTL,"Hirscher, Marcel",Kristof,Kristoffersen H.,"Ski Alpin, Herren Riesentorlauf"
+002,15.02.,14:15,HE-RTL,"Pinturault, Alexis",Pintura,"Fanara, Thomas","Ski Alpin, Herren Riesentorlauf"
+003,15.02.,14:15,HE-RTL,"Feller, Manuel",Meillar,"Meillard, Loic","Ski Alpin, Herren Riesentorlauf"
+004,15.02.,14:15,HE-RTL,"Kranjec, Zan",Kranjec,"Luitz, Stefan","Ski Alpin, Herren Riesentorlauf"
+005,15.02.,14:15,HE-RTL,"Schwarz, Marco",Schwarz,De Aliprandini L.,"Ski Alpin, Herren Riesentorlauf"
+006,15.02.,18:00,EH AUT,Fehervar,1:4,KAC Klagenfurt,Österreich Eishockey Liga
+007,15.02.,18:30,GER 2,SV Sandhausen,1:1,SV Darmstadt 98,Deutschland 2. Bundesliga
+008,15.02.,18:30,GER 2,SC Paderborn,3:2,1. FC Köln,Deutschland 2. Bundesliga
+009,15.02.,18:30,TUR 1,Yeni Malatyaspor,1:2,Besiktas Istanbul,Türkei Süper Lig
+010,15.02.,19:00,AUT CUP,Grazer AK*,2:1,FK Austria Wien,Österreich ÖFB Cup
+011,15.02.,19:00,GER 3,Unterhaching,1:2,Wehen Wiesbaden,Deutschland 3. Liga
+012,15.02.,19:00,FRA 1,Olympique Nimes,2:0,Dijon Football,Frankreich Ligue 1
+013,15.02.,19:00,DEN 1,SönderjyskE,0:2,AGF Aarhus,Dänemark Superligaen
+014,15.02.,19:00,HB AUT,Fivers Margareten,32:26,Handball Tirol,Österreich HLA
+015,15.02.,19:00,HB AUT,HSG Graz,31:26,Bregenz Handball,Österreich HLA
+016,15.02.,19:15,EH AUT,EC RB Salzburg,2:2,Vienna Capitals,Österreich Eishockey Liga
+017,15.02.,19:15,EH AUT,HC Innsbruck,3:7,HC Znojmo,Österreich Eishockey Liga
+018,15.02.,19:45,EH AUT,HC Bozen Foxes,2:4,EC Graz 99ers,Österreich Eishockey Liga
+019,15.02.,20:00,FRA 2,Le Havre AC,0:2,AS Nancy,Frankreich Ligue 2
+020,15.02.,20:00,NL 1,ADO Den Haag,1:0,FC Zwolle,Niederlande Eredivisie
+021,15.02.,20:30,GER BL,FC Augsburg,2:3,FC Bayern München,Deutschland Bundesliga
+022,15.02.,20:30,ITA A,Juventus Turin,3:0,Frosinone Calcio,Italien Serie A
+023,15.02.,20:30,BEL 1,Standard Lüttich,3:1,Sporting Lokeren,Belgien Jupiler Pro League
+024,15.02.,20:45,ENG 1,AFC Sunderland,2:2,Accrington Stanley,England League One
+025,15.02.,20:45,ENG FA,Queens Park R.,0:1,FC Watford,England FA Cup
+026,15.02.,20:45,FRA 1,Olympique Lyon,2:1,EA Guingamp,Frankreich Ligue 1
+027,15.02.,21:00,ESP 1,SD Eibar,2:2,Getafe CF,Spanien Primera Division
+028,15.02.,21:00,ESP 2,Cordoba CF,1:2,Granada CF,Spanien Segunda Division
+029,15.02.,21:00,ITA B,US Palermo,1:1,Brescia Calcio,Italien Serie B
+030,15.02.,21:30,POR 1,Rio Ave FC,1:2,CD Santa Clara,Portugal Primeira Liga
+031,16.02.,11:00,DA-SL,"Shiffrin, Mikaela",Shiffri,"Vlhova, Petra","Ski Alpin, Damen Slalom"
+032,16.02.,11:00,DA-SL,"Holdener, Wendy",Hansdot,"Hansdotter, Frida","Ski Alpin, Damen Slalom"
+033,16.02.,11:00,DA-SL,Swenn-Larsson A.,Swenn-L,"Liensberger, Kath.","Ski Alpin, Damen Slalom"
+034,16.02.,11:00,DA-SL,"Schild, Bernadette",Schild,Ackermann C.,"Ski Alpin, Damen Slalom"
+035,16.02.,11:00,DA-SL,"Truppe, Katharina",Truppe,"Costazza, Chiara","Ski Alpin, Damen Slalom"
+036,16.02.,12:00,AUT CUP,LASK Linz,6:0,SKN St. Pölten,Österreich ÖFB Cup
+037,16.02.,13:00,GER 2,MSV Duisburg,2:3,FC Union Berlin,Deutschland 2. Bundesliga
+038,16.02.,13:00,GER 2,FC Ingolstadt,2:1,VfL Bochum,Deutschland 2. Bundesliga
+039,16.02.,13:00,GER 2,FC St. Pauli,1:2,Erzgebirge Aue,Deutschland 2. Bundesliga
+040,16.02.,13:00,GER 2,FC Heidenheim,2:2,Hamburger SV,Deutschland 2. Bundesliga
+041,16.02.,13:00,ESP 1,Celta de Vigo,1:4,Levante UD,Spanien Primera Division
+042,16.02.,13:30,ENG FA,Brighton & Hove,2:1,Derby County,England FA Cup
+043,16.02.,14:00,GER 3,Karlsruher SC,0:1,FC Kaiserslautern,Deutschland 3. Liga
+044,16.02.,15:30,GER BL,FC Schalke 04,0:0,SC Freiburg,Deutschland Bundesliga
+045,16.02.,15:30,GER BL,TSG Hoffenheim,3:0,Hannover 96,Deutschland Bundesliga
+046,16.02.,15:30,GER BL,VfB Stuttgart,1:3,RB Leipzig,Deutschland Bundesliga
+047,16.02.,15:30,GER BL,VfL Wolfsburg,3:0,FSV Mainz 05,Deutschland Bundesliga
+048,16.02.,16:00,ENG CS,Aston Villa,0:2,West Bromwich,England Championship
+049,16.02.,16:00,ENG CS,Bolton Wanderers,0:4,Norwich City,England Championship
+050,16.02.,16:00,ENG CS,Ipswich Town,1:1,Stoke City,England Championship
+051,16.02.,16:00,ENG CS,Sheffield United,4:0,FC Reading,England Championship
+052,16.02.,16:00,ENG FA,AFC Wimbledon,0:1,FC Millwall,England FA Cup
+053,16.02.,16:15,ESP 1,Rayo Vallecano,0:1,Atletico Madrid,Spanien Primera Division
+054,16.02.,17:00,FRA 1,Olymp. Marseille,2:0,Amiens SC,Frankreich Ligue 1
+055,16.02.,17:00,TUR 1,Fenerbahce,1:1,Konyaspor,Türkei Süper Lig
+056,16.02.,18:00,ITA A,Cagliari Calcio,2:1,FC Parma,Italien Serie A
+057,16.02.,18:30,GER BL,Hertha BSC,1:1,Werder Bremen,Deutschland Bundesliga
+058,16.02.,18:30,ESP 1,Real Sociedad,3:0,CD Leganes,Spanien Primera Division
+059,16.02.,19:00,BB AUT,Swans Gmunden,91:86,Klosterneuburg,Österreich Basketball Superliga
+060,16.02.,19:45,NL 1,SC Heerenveen,2:2,PSV Eindhoven,Niederlande Eredivisie
+061,16.02.,20:00,FRA 1,SCO Angers,3:0,OGC Nizza,Frankreich Ligue 1
+062,16.02.,20:00,FRA 1,AS Monaco,1:0,FC Nantes,Frankreich Ligue 1
+063,16.02.,20:30,ITA A,Atalanta Bergamo,1:3,AC Milan,Italien Serie A
+064,16.02.,20:45,ESP 1,FC Barcelona,1:0,Real Valladolid,Spanien Primera Division
+065,17.02.,11:00,HE-SL,"Hirscher, Marcel",Hirsche,"Noel, Clement","Ski Alpin, Herren Slalom"
+066,17.02.,11:00,HE-SL,"Pinturault, Alexis",Pintura,Kristoffersen H.,"Ski Alpin, Herren Slalom"
+067,17.02.,11:00,HE-SL,"Zenhäusern, Ramon",Schwarz,"Schwarz, Marco","Ski Alpin, Herren Slalom"
+068,17.02.,11:00,HE-SL,"Feller, Manuel",Feller,"Myhrer, Andre","Ski Alpin, Herren Slalom"
+069,17.02.,11:00,HE-SL,"Matt, Michael",Matt M.,"Neureuther, Felix","Ski Alpin, Herren Slalom"
+070,17.02.,11:00,HE-SL,"Hirschbühl, C.",Ryding,"Ryding, Dave","Ski Alpin, Herren Slalom"
+071,17.02.,12:00,ESP 1,Real Madrid,1:2,FC Girona,Spanien Primera Division
+072,17.02.,12:30,ITA A,Spal Ferrara,1:4,AC Fiorentina,Italien Serie A
+073,17.02.,13:30,GER 2,Holstein Kiel,2:2,Greuther Fürth,Deutschland 2. Bundesliga
+074,17.02.,13:30,GER 2,Arminia Bielefeld,1:3,FC Magdeburg,Deutschland 2. Bundesliga
+075,17.02.,13:30,GER 2,Dynamo Dresden,0:0,Jahn Regensburg,Deutschland 2. Bundesliga
+076,17.02.,14:00,ENG FA,Bristol City,0:1,Wolverhampton,England FA Cup
+077,17.02.,15:00,AUT CUP,SC Wiener Neustadt,1:2,RB Salzburg,Österreich ÖFB Cup
+078,17.02.,15:00,ITA A,Udinese Calcio,1:0,AC Chievo Verona,Italien Serie A
+079,17.02.,15:00,ITA A,FC Genua,2:1,Lazio Rom,Italien Serie A
+080,17.02.,15:00,FRA 1,Bordeaux,2:1,FC Toulouse,Frankreich Ligue 1
+081,17.02.,15:00,FRA 1,Lille OSC,0:0,HSC Montpellier,Frankreich Ligue 1
+082,17.02.,15:30,GER BL,Eintr. Frankfurt,1:1,Mönchengladbach,Deutschland Bundesliga
+083,17.02.,16:00,SUI SL,FC Basel,1:0,FC Sion,Schweiz Axpo Super League
+084,17.02.,16:00,SUI SL,Young Boys Bern,2:0,FC Zürich,Schweiz Axpo Super League
+085,17.02.,16:15,ESP 1,FC Valencia,0:0,Espanyol Barcelona,Spanien Primera Division
+086,17.02.,17:00,ENG FA,Doncaster Rovers,0:2,Crystal Palace,England FA Cup
+087,17.02.,17:00,ENG FA,Swansea City,4:1,FC Brentford,England FA Cup
+088,17.02.,17:00,TUR 1,Kasimpasa,1:4,Galatasaray,Türkei Süper Lig
+089,17.02.,17:15,AUT CUP,SK Rapid Wien,5:2,TSV Hartberg,Österreich ÖFB Cup
+090,17.02.,17:30,EH AUT,Vienna Capitals,4:1,KAC Klagenfurt,Österreich Eishockey Liga
+091,17.02.,17:30,EH AUT,EC Graz 99ers,4:1,EC RB Salzburg,Österreich Eishockey Liga
+092,17.02.,17:30,EH AUT,Black Wings Linz,4:3,HC Innsbruck,Österreich Eishockey Liga
+093,17.02.,17:30,EH AUT,HC Znojmo,5:3,EC Dornbirn,Österreich Eishockey Liga
+094,17.02.,18:00,GER BL,Bayer Leverkusen,2:0,Fortuna Düsseldorf,Deutschland Bundesliga
+095,17.02.,18:00,ITA A,Inter Mailand,2:1,Sampdoria Genua,Italien Serie A
+096,17.02.,18:30,ESP 1,Villarreal CF,3:0,FC Sevilla,Spanien Primera Division
+097,17.02.,19:15,HB AUT,SG Westwien,25:29,UHK Krems,Österreich HLA
+098,17.02.,20:30,ITA A,SSC Napoli,0:0,FC Torino,Italien Serie A
+099,17.02.,20:45,ESP 1,Betis Sevilla,1:1,CD Alaves,Spanien Primera Division
+100,17.02.,21:00,FRA 1,AS Saint Etienne,0:1,Paris SG,Frankreich Ligue 1
+101,18.02.,17:00,TUR 2,Eskisehirspor,1:1,Denizlispor,Türkei TFF 1. Lig
+102,18.02.,17:30,KHL,AK Bars Kasan,5:4,Met. Magnitogorsk,Kontinental Hockey League
+103,18.02.,17:30,KHL,SKA St. Petersburg,4:0,Lok. Jaroslawl,Kontinental Hockey League
+104,18.02.,17:30,KHL,Jokerit Helsinki,5:4,Spartak Moskau,Kontinental Hockey League
+105,18.02.,18:00,TUR 1,Antalyaspor,0:1,Istanbul Basakseh.,Türkei Süper Lig
+106,18.02.,18:00,CZE 1,FK Dukla Prag,2:3,Sparta Prag,Tschechien Gambrinus Liga
+107,18.02.,18:00,POL 1,Wisla Krakau,1:0,Slask Wroclaw,Polen Orange Ekstraklasa
+108,18.02.,18:30,GRE 1,OFI Kreta,1:3,Lamia 1964,Griechenland Super League
+109,18.02.,18:30,KHL,HK Dinamo Riga,5:0,Slovan Bratislava,Kontinental Hockey League
+110,18.02.,19:00,GER 3,TSV 1860 München,2:1,VfR Aalen,Deutschland 3. Liga
+111,18.02.,19:00,DEN 1,FC Midtjylland,2:1,Aalborg BK,Dänemark Superligaen
+112,18.02.,19:00,ROU 1,Concordia Chiajna,0:0,FCS Bukarest,Rumänien Liga 1
+113,18.02.,20:00,ISR 1,Hap. Beer Sheva,3:1,Beitar Jerusalem,Israel Winner League
+114,18.02.,20:30,GER BL,1. FC Nürnberg,0:0,Bor. Dortmund,Deutschland Bundesliga
+115,18.02.,20:30,ENG FA,FC Chelsea,0:2,Manchester United,England FA Cup
+116,18.02.,20:30,ITA A,AS Roma,2:1,Bologna FC,Italien Serie A
+117,18.02.,20:45,FRA 2,FC Metz,1:0,AS Beziers,Frankreich Ligue 2
+118,18.02.,21:00,ESP 1,SD Huesca,0:1,Athletic Bilbao,Spanien Primera Division
+119,18.02.,21:00,ITA B,FC Crotone,0:2,Pescara Calcio,Italien Serie B
+120,18.02.,21:15,POR 1,CD Aves,0:3,Benfica Lissabon,Portugal Primeira Liga

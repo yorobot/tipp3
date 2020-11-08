@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,08.01.,12:30,KHL,Avtomobilist,0:6,SKA St. Petersburg,Kontinental Hockey League
+002,08.01.,12:30,KHL,Salavat Yulaev Ufa,7:4,HC Red Star Kunlun,Kontinental Hockey League
+003,08.01.,14:00,GRE CUP,PAS Giannina FC,1:1,Panionios Athen,Griechenland Cup
+004,08.01.,14:30,ASICUP,Irak*,3:2,Vietnam,Asien Cup
+005,08.01.,14:30,KHL,HC Barys,4:2,Amur Chabarowsk,Kontinental Hockey League
+006,08.01.,15:00,KHL,Lok. Jaroslawl,1:0,HK CSKA Moskau,Kontinental Hockey League
+007,08.01.,16:00,GRE CUP,Panachaiki 1891 FC,2:1,PAOK Thessaloniki,Griechenland Cup
+008,08.01.,16:15,GRE CUP,Skoda Xanthi FC,0:0,Olympiakos Piräus,Griechenland Cup
+009,08.01.,17:00,ASICUP,Saudi Arabien*,4:0,Nordkorea,Asien Cup
+010,08.01.,17:30,KHL,Jokerit Helsinki,2:3,Dynamo Moskau,Kontinental Hockey League
+011,08.01.,17:30,KHL,HK Dinamo Minsk,5:3,Slovan Bratislava,Kontinental Hockey League
+012,08.01.,18:00,EH CL,Frölunda HC SWE,6:3,HC Pilsen CZE,Champions Hockey League
+013,08.01.,18:00,BB EL,Khimki Moskau RUS,72:72,Fenerbahce TUR,Euroleague
+014,08.01.,18:00,DA-SL,"Shiffrin, Mikaela",Vlhova,"Vlhova, Petra","Ski Alpin, Damen Slalom"
+015,08.01.,18:00,DA-SL,"Holdener, Wendy",Holdene,"Hansdotter, Frida","Ski Alpin, Damen Slalom"
+016,08.01.,18:00,DA-SL,"Schild, Bernadette",Tipp X,Swenn-Larsson A.,"Ski Alpin, Damen Slalom"
+017,08.01.,18:00,DA-SL,"Liensberger, Kath.",Liensbe,"Gisin, Michelle","Ski Alpin, Damen Slalom"
+018,08.01.,18:00,DA-SL,"Truppe, Katharina",Truppe,"Costazza, Chiara","Ski Alpin, Damen Slalom"
+019,08.01.,18:00,DA-SL,"Mielzynski, Erin",abgesagt,"Curtoni, Irene","Ski Alpin, Damen Slalom"
+020,08.01.,18:30,GRE CUP,Ergotelis FC,1:1,OFI Kreta,Griechenland Cup
+021,08.01.,18:30,RSA PL,Orlando Pirates FC,4:2,Chippa United,"Südafrika, Premier League"
+022,08.01.,18:30,RSA PL,Mamelodi FC,abgesagt,Polokwane City,"Südafrika, Premier League"
+023,08.01.,19:00,FRA 1,Amiens SC,0:0,SCO Angers,Frankreich Ligue 1
+024,08.01.,19:00,FRA 1,FC Nantes,2:0,HSC Montpellier,Frankreich Ligue 1
+025,08.01.,19:30,EH CL,EHC München GER,0:0,EC RB Salzburg AUT,Champions Hockey League
+026,08.01.,19:30,EH CL,EHC München,0:1,EC RB Salzburg+1,Champions Hockey League
+027,08.01.,19:30,BB EL,BC Zalgiris LTU,58:79,Efes Istanbul TUR,Euroleague
+028,08.01.,19:45,EH SUI,HC Lausanne,5:3,HC Davos,Schweiz National League A
+029,08.01.,20:00,BB EL,Olympiakos P. GRE,80:80,Baskonia G. ESP,Euroleague
+030,08.01.,20:45,ENG LTR,Northampton,1:2,Bristol Rovers,England Football League Trophy
+031,08.01.,20:45,ENG LTR,Southend United,0:2,FC Portsmouth,England Football League Trophy
+032,08.01.,20:45,ENG LTR,Accrington Stanley,2:4,FC Bury,England Football League Trophy
+033,08.01.,20:45,ENG LTR,Port Vale FC,1:1,Shrewsbury Town,England Football League Trophy
+034,08.01.,20:45,ENG LTR,Cheltenham Town,1:1,Oxford United,England Football League Trophy
+035,08.01.,21:00,ENG LC,Tottenham,1:0,FC Chelsea,England Liga Cup
+036,08.01.,21:00,FRA LC,Olympique Lyon,1:2,Racing Strasbourg,Frankreich Coupe de la Ligue
+037,08.01.,21:30,ESP CUP,Sporting Gijon,2:1,FC Valencia,Spanien Copa del Rey
+038,08.01.,21:30,BB EL,Gran Canaria ESP,67:75,Real Madrid BC ESP,Euroleague
+039,09.01.,01:00,NHL,Boston Bruins,4:0,Minnesota Wild,USA NHL
+040,09.01.,01:00,NHL,Buffalo Sabres,5:1,New Jersey Devils,USA NHL
+041,09.01.,01:00,NHL,NY Islanders,3:4,Carolina Hurric.,USA NHL
+042,09.01.,01:00,NHL,Pittsburgh Peng.,5:1,Florida Panthers,USA NHL
+043,09.01.,01:30,NHL,Detroit Red Wings,2:3,Montreal Canad.,USA NHL
+044,09.01.,01:30,NHL,Tampa Bay Lightn.,4:0,Columbus Blue J.,USA NHL
+045,09.01.,04:00,NHL,Vegas Gold.Knights,4:2,New York Rangers,USA NHL
+046,09.01.,04:30,NHL,San Jose Sharks,7:2,Edmonton Oilers,USA NHL
+047,09.01.,09:50,AUS 1,Adelaide United FC,2:0,Melbourne Victory,Australien Hyundai A-League
+048,09.01.,12:00,AUS 1,Perth Glory,3:1,Sydney FC,Australien Hyundai A-League
+049,09.01.,12:00,ASICUP,Japan*,3:2,Turkmenistan,Asien Cup
+050,09.01.,14:00,GRE CUP,Apollon Smyrnis,0:3,Atromitos Athen,Griechenland Cup
+051,09.01.,14:30,ASICUP,Usbekistan*,2:1,Oman,Asien Cup
+052,09.01.,15:00,KHL,Traktor Chelyab.,1:0,AK Bars Kasan,Kontinental Hockey League
+053,09.01.,16:00,POR 2,FC Pacos Ferreira,1:0,Leixoes SC,Portugal Segunda Liga
+054,09.01.,16:00,POR 2,FC Penafiel,2:0,Academico Viseu,Portugal Segunda Liga
+055,09.01.,16:00,POR 2,Sporting Braga B,0:1,FC Porto B,Portugal Segunda Liga
+056,09.01.,16:15,GRE CUP,AE Larissa,3:2,Asteras Tripolis,Griechenland Cup
+057,09.01.,17:00,ASICUP,Katar*,2:0,Libanon,Asien Cup
+058,09.01.,17:30,KHL,Spartak Moskau,2:2,Neftekhimik,Kontinental Hockey League
+059,09.01.,17:30,KHL,Avangard Omsk,2:2,HC Vityaz Podolsk,Kontinental Hockey League
+060,09.01.,17:30,EH FIN,Kärpät Oulu,5:1,Kookoo,Finnland SM-Liiga
+061,09.01.,17:30,EH FIN,Tappara Tampere,4:1,HPK Hämeenlinna,Finnland SM-Liiga
+062,09.01.,17:30,EH CZE,HC Vitkovice,4:1,HC Pardubice,Tschechische Republik Extraliga
+063,09.01.,18:00,POR 2,Varzim SC,2:1,CD Cova Piedade,Portugal Segunda Liga
+064,09.01.,18:00,POR 2,Vit. Guimaraes B,2:1,Benfica Lissabon B,Portugal Segunda Liga
+065,09.01.,18:00,POR 2,GD Estoril Praia,1:1,FC Arouca,Portugal Segunda Liga
+066,09.01.,18:00,CYP 1,AEK Larnaca,0:0,Apollon Limassol,Zypern 1. Division
+067,09.01.,18:30,GRE CUP,Chania FC,1:1,AEK Athen,Griechenland Cup
+068,09.01.,18:30,RSA PL,Bidwest Wits FC,0:2,Kaizer Chiefs,"Südafrika, Premier League"
+069,09.01.,18:30,RSA PL,Maritzburg United,1:2,Free State Stars,"Südafrika, Premier League"
+070,09.01.,18:45,FRA LC,AS Monaco,1:1,Stade Rennes,Frankreich Coupe de la Ligue
+071,09.01.,19:30,ESP CUP,FC Girona,1:1,Atletico Madrid,Spanien Copa del Rey
+072,09.01.,20:00,BB EL,Panathinaikos GRE,77:67,Bayern München GER,Euroleague
+073,09.01.,20:05,BB EL,M.Tel Aviv ISR,81:76,KK Buducnost V MNE,Euroleague
+074,09.01.,20:30,ESP CUP,Getafe CF,1:0,Real Valladolid,Spanien Copa del Rey
+075,09.01.,20:30,ESP CUP,Villarreal CF,2:2,Espanyol Barcelona,Spanien Copa del Rey
+076,09.01.,20:45,ENG LC,Manchester City,9:0,Burton Albion,England Liga Cup
+077,09.01.,20:45,BB EL,O.Milano ITA,85:90,FC Barcelona ESP,Euroleague
+078,09.01.,21:05,FRA LC,Bordeaux,1:0,Le Havre AC,Frankreich Coupe de la Ligue
+079,09.01.,21:05,FRA LC,Paris SG,1:2,EA Guingamp,Frankreich Coupe de la Ligue
+080,09.01.,21:30,ESP CUP,Real Madrid,3:0,CD Leganes,Spanien Copa del Rey
+081,10.01.,02:00,NHL,Chicago Blackhawks,3:3,Nashville Pred.,USA NHL
+082,10.01.,03:30,NHL,Calgary Flames,5:3,Colorado Avalan.,USA NHL
+083,10.01.,12:00,ASICUP,Bahrain*,0:1,Thailand,Asien Cup
+084,10.01.,14:30,ASICUP,Jordanien*,2:0,Syrien,Asien Cup
+085,10.01.,14:30,KHL,HC Barys,1:3,HC Red Star Kunlun,Kontinental Hockey League
+086,10.01.,15:00,KHL,Salavat Yulaev Ufa,2:2,HK Dinamo Riga,Kontinental Hockey League
+087,10.01.,17:00,ASICUP,Indien*,0:2,Ver. Arab. Emirate,Asien Cup
+088,10.01.,17:00,KHL,Lok. Jaroslawl,0:4,SKA St. Petersburg,Kontinental Hockey League
+089,10.01.,17:30,EH FIN,Lukko Rauma,4:4,SaiPa Lappeenr.,Finnland SM-Liiga
+090,10.01.,18:00,BB EL,Efes Istanbul TUR,81:72,Khimki Moskau RUS,Euroleague
+091,10.01.,18:30,GRE CUP,Lamia 1964,1:0,Panathinaikos,Griechenland Cup
+092,10.01.,18:30,EH NOR,Storhamar Hockey,4:0,Stavanger Oilers,Norwegen GET-Ligaen
+093,10.01.,18:30,EH NOR,Valerenga IF,5:2,Lillehammer IK,Norwegen GET-Ligaen
+094,10.01.,18:45,BB EL,Fenerbahce TUR,78:61,BC Zalgiris LTU,Euroleague
+095,10.01.,19:00,EH SWE,Rögle BK,6:4,Malmö IF,Schweden Elitserien
+096,10.01.,19:00,EH SWE,Brynas IF,1:1,Frölunda HC,Schweden Elitserien
+097,10.01.,19:00,EH SWE,Skelleftea AIK,1:3,Djurgardens IF,Schweden Elitserien
+098,10.01.,19:00,EH SWE,Linköpings HC,2:4,Mora IK,Schweden Elitserien
+099,10.01.,19:00,EH SWE,Växjö Lakers,3:2,Timra IK,Schweden Elitserien
+100,10.01.,19:00,EH SWE,HV 71,3:2,Färjestads BK,Schweden Elitserien
+101,10.01.,19:00,EH SWE,Lulea Hockey,4:2,HC Örebro,Schweden Elitserien
+102,10.01.,19:30,ESP CUP,Athletic Bilbao,1:3,FC Sevilla,Spanien Copa del Rey
+103,10.01.,19:30,EH GER,Adler Mannheim,6:2,Eisbären Berlin,Deutschland Deutsche Eishockey Liga
+104,10.01.,20:30,ESP CUP,Betis Sevilla,0:0,Real Sociedad,Spanien Copa del Rey
+105,10.01.,20:30,EH ALP,SG Cortina ITA,2:3,Sterzing ITA,Alps Hockey League
+106,10.01.,20:30,EH ALP,HC Gröden ITA,1:2,HC Asiago ITA,Alps Hockey League
+107,10.01.,21:00,BB EL,Real Madrid BC ESP,94:78,Olympiakos P. GRE,Euroleague
+108,10.01.,21:15,POR 1,Portimonense SC,1:1,Sporting Braga,Portugal Primeira Liga
+109,10.01.,21:30,ESP CUP,Levante UD,2:1,FC Barcelona,Spanien Copa del Rey
+110,11.01.,01:00,FLOR C,Ajax Amsterd. NED*,2:2,CR Flamengo RJ BRA,Florida Cup
+111,11.01.,01:00,FLOR C,E. Frankfurt GER*,2:1,Sao Paulo SP BRA,Florida Cup
+112,11.01.,01:00,NHL,Boston Bruins,2:4,Washington Cap.,USA NHL
+113,11.01.,01:00,NHL,New Jersey Devils,2:4,Toronto Maple L.,USA NHL
+114,11.01.,01:00,NHL,New York Rangers,3:4,NY Islanders,USA NHL
+115,11.01.,01:00,NHL,Columbus Blue J.,3:3,Nashville Pred.,USA NHL
+116,11.01.,01:30,NHL,Tampa Bay Lightn.,3:1,Carolina Hurric.,USA NHL
+117,11.01.,02:00,NHL,St. Louis Blues,4:1,Montreal Canad.,USA NHL
+118,11.01.,02:00,NHL,Minnesota Wild,3:2,Winnipeg Jets,USA NHL
+119,11.01.,03:00,NHL,Edmonton Oilers,3:3,Florida Panthers,USA NHL
+120,11.01.,04:00,NHL,Vegas Gold.Knights,2:3,San Jose Sharks,USA NHL

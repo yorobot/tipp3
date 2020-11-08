@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,07.05.,12:00,AFC CL,Kawasaki Front JPN,2:2,SIPG Shanghai CHN,AFC Champions League
+002,07.05.,12:00,AFC CL,Ulsan Hyundai KOR,1:0,Sydney FC AUS,AFC Champions League
+003,07.05.,13:00,AFC CL,Buriram United THA,1:2,Urawa RD JPN,AFC Champions League
+004,07.05.,14:00,AFC CL,Beijing Guoan CHN,0:1,Jeonbuk Hyu. KOR,AFC Champions League
+005,07.05.,16:15,BUL 1,Botev Vratsa,0:0,PFC Slavia Sofia,Bulgarien Premier League
+006,07.05.,17:00,CZE 2,Zbrojovka Brno,2:0,FC Hradec Kralove,Tschechien 1. Division
+007,07.05.,17:30,FIN 1,Vaasa PS,1:1,HJK Helsinki,Finnland Veikkausliiga
+008,07.05.,17:30,FIN 1,FC Inter Turku,3:0,Rovaniemi PS,Finnland Veikkausliiga
+009,07.05.,17:30,FIN 1,Tampereen Ilves,1:1,FC Honka,Finnland Veikkausliiga
+010,07.05.,19:00,SWE 2,Degerfors IF,1:0,IK Brage,Schweden Superettan
+011,07.05.,19:00,BB AUT,BC Vienna,78:78,Oberwart Gunners,Österreich Basketball Superliga
+012,07.05.,19:00,BB AUT,Vienna Timberw.,81:91,Kapfenberg Bulls,Österreich Basketball Superliga
+013,07.05.,19:00,BB AUT,Traiskirchen,74:72,Swans Gmunden,Österreich Basketball Superliga
+014,07.05.,19:00,BB AUT,Flyers Wels,73:87,Klosterneuburg,Österreich Basketball Superliga
+015,07.05.,19:00,BB GER,BBC Bayreuth,84:99,Würzburg Baskets,Deutschland BBL
+016,07.05.,19:00,EH FS,Deutschland,2:5,USA,"Freundschaftsspiele, Herren"
+017,07.05.,19:15,EH FS,Österreich,5:7,Kanada,"Freundschaftsspiele, Herren"
+018,07.05.,20:00,AFC CL,AL Wahda SCC,3:1,Lok. Tashkent UZB,AFC Champions League
+019,07.05.,20:30,AFC CL,AL Zawraa SC IRQ,2:2,Zob Ahan IRI,AFC Champions League
+020,07.05.,20:30,AFC CL,AL Rayyan SC QAT,0:2,Al-Ittihad KSA,AFC Champions League
+021,07.05.,20:45,SCO PS,Ayr United,1:3,Inverness CT,Schottland Premiership
+022,07.05.,20:45,SCO CS,FC Raith Rovers,2:1,Forfar Athletic,Schottland Championship
+023,07.05.,20:45,SCO CS,FC Montrose,2:1,Queen of South,Schottland Championship
+024,07.05.,20:45,SCO 1,Annan Athletic,2:0,FC Stenhousemuir,Schottland League One
+025,07.05.,20:45,SCO 1,Edinburgh City,0:1,FC Clyde,Schottland League One
+026,07.05.,20:45,NIRL 1,FC Glenavon,2:4,Glentoran Belfast,Nordirland JJB Sports Premiership
+027,07.05.,20:45,NIRL 1,FC Cliftonville,3:3,FC Coleraine,Nordirland JJB Sports Premiership
+028,07.05.,21:00,CL,FC Liverpool ENG,4:0,FC Barcelona ESP,UEFA Champions League
+029,07.05.,21:00,CL,FC Liverpool,4:1,FC Barcelona+1,UEFA Champions League
+030,07.05.,21:00,CL,FC Liverpool+1,5:0,FC Barcelona,UEFA Champions League
+031,08.05.,00:15,COPA L,Club Nacional URU,1:1,Cerro Porteno PAR,Copa Libertadores
+032,08.05.,00:15,COPA L,Zamora FC VEN,1:2,Atletico MG BRA,Copa Libertadores
+033,08.05.,02:30,COPA L,Alianza Lima PER,1:2,Palestino CHI,Copa Libertadores
+034,08.05.,02:30,COPA L,CA River Plate ARG,2:2,Internacional BRA,Copa Libertadores
+035,08.05.,02:00,NBA,Toronto Raptors,125:89,Philadelphia 76ers,USA NBA
+036,08.05.,04:30,NBA,Denver Nuggets,124:98,Portland T.,USA NBA
+037,08.05.,12:00,AFC CL,Daegu FC KOR,4:0,Melbourne Vic. AUS,AFC Champions League
+038,08.05.,12:00,AFC CL,S. Hiroshima JPN,1:0,Guangzhou Ev. CHN,AFC Champions League
+039,08.05.,12:00,JPN LC,Hokkaido Consadole,0:4,Yokohama F Marinos,Japan Nabisco Cup
+040,08.05.,12:00,JPN LC,Shonan Bellmare,1:0,V-Varen Nagasaki,Japan Nabisco Cup
+041,08.05.,12:00,JPN LC,FC Tokyo,0:0,Vegalta Sendai,Japan Nabisco Cup
+042,08.05.,12:00,JPN LC,Oita Trinita,2:1,Vissel Kobe,Japan Nabisco Cup
+043,08.05.,12:00,JPN LC,Gamba Osaka,3:1,Shimizu S-Pulse,Japan Nabisco Cup
+044,08.05.,12:00,JPN LC,Jubilo Iwata,1:0,Matsumoto Yamaga,Japan Nabisco Cup
+045,08.05.,12:30,JPN LC,Sagan Tosu,0:0,Kashiwa Reysol,Japan Nabisco Cup
+046,08.05.,12:30,JPN LC,Nagoya Grampus,2:2,Cerezo Osaka,Japan Nabisco Cup
+047,08.05.,13:30,AFC CL,Shandong L. CHN,2:1,Gyeongnam FC KOR,AFC Champions League
+048,08.05.,14:45,AFC CL,Johor D. T. FC MAS,1:0,Kashima A. JPN,AFC Champions League
+049,08.05.,17:00,CZE 2,1. SC Znojmo,2:3,MAS Taborsko,Tschechien 1. Division
+050,08.05.,17:30,DEN 2,Naestved BK,4:1,FC Roskilde,Dänemark 1. Division
+051,08.05.,17:30,FIN 1,HIFK Helsinki,1:1,IFK Mariehamn,Finnland Veikkausliiga
+052,08.05.,18:00,NOR 2,Ham-Kam,0:0,Sogndal IL,Norwegen Adeccoligaen
+053,08.05.,18:00,BOS CUP,FK Sarajevo,3:0,NK Siroki Brijeg,Bosnien Cup
+054,08.05.,18:00,EST CUP,JK Nomme Kalju,2:2,FC Levadia Tallinn,Estland Cup
+055,08.05.,18:30,GER DA,Werder Bremen Dam.,0:1,Bayern Damen,Deutschland Frauen Bundesliga
+056,08.05.,18:30,DEN 2,HB Köge,0:0,FC Helsingor,Dänemark 1. Division
+057,08.05.,18:30,DEN 2,Silkeborg IF,5:0,Thisted FC,Dänemark 1. Division
+058,08.05.,18:30,DEN 2,Nyköbing FC,2:0,Hvidovre IF,Dänemark 1. Division
+059,08.05.,18:30,DEN 2,BK Fremad Amager,4:3,Lyngby BK,Dänemark 1. Division
+060,08.05.,18:30,MLT CUP,Hibernians FC*,2:2,Valletta FC,Malta FA Trophy
+061,08.05.,19:00,BB GER,Alba Berlin,110:98,Bonn,Deutschland BBL
+062,08.05.,20:30,BB GER,BB Bamberg,86:93,Oldenburg,Deutschland BBL
+063,08.05.,21:00,CL,Ajax Amsterd. NED,2:3,Tottenham ENG,UEFA Champions League
+064,08.05.,21:00,CL,Ajax Amsterdam,2:4,Tottenham+1,UEFA Champions League
+065,08.05.,21:00,CL,Ajax Amsterdam+1,3:3,Tottenham,UEFA Champions League
+066,09.05.,00:15,COPA L,Cruzeiro EC MG BRA,1:2,CS Emelec ECU,Copa Libertadores
+067,09.05.,00:15,COPA L,CA Huracan ARG,3:0,Deportivo Lara VEN,Copa Libertadores
+068,09.05.,00:15,COPA L,Gremio RS BRA,2:0,Univ. Catolica CHI,Copa Libertadores
+069,09.05.,00:15,COPA L,Rosario Cen. ARG,2:1,Club Libertad PAR,Copa Libertadores
+070,09.05.,01:00,USA MLS,Atlanta United FC,2:0,FC Toronto,USA Major League Soccer
+071,09.05.,01:30,USA MLS,Columbus Crew,3:1,LA Galaxy,USA Major League Soccer
+072,09.05.,02:00,USA MLS,NY Red Bulls,1:2,Montreal Impact,USA Major League Soccer
+073,09.05.,02:00,USA MLS,Chicago Fire,5:0,New England Rev.,USA Major League Soccer
+074,09.05.,02:30,COPA L,CA Penarol URU,0:0,CR Flamengo RJ BRA,Copa Libertadores
+075,09.05.,02:30,COPA L,LDU Quito ECU,4:0,San Jose Oruro BOL,Copa Libertadores
+076,09.05.,02:30,COPA L,Atl. Junior COL,0:1,FBC Melgar PER,Copa Libertadores
+077,09.05.,02:30,COPA L,SE Palmeiras S BRA,1:0,CA San Lorenzo ARG,Copa Libertadores
+078,09.05.,02:00,NBA,Milwaukee Bucks,116:91,Boston Celtics,USA NBA
+079,09.05.,04:30,NBA,Golden State W.,104:99,Houston Rockets,USA NBA
+080,09.05.,17:30,FIN 2,Turun Palloseura,2:1,TPV Tampere,Finnland Ykkonen
+081,09.05.,18:00,DEN 2,Viborg FF,2:1,FC Fredericia,Dänemark 1. Division
+082,09.05.,18:00,CRO 1,NK Inter Zapresic,0:3,NK Rudes,Kroatien 1. HNL
+083,09.05.,19:00,HB GER,HSG Wetzlar,23:27,THW Kiel,Deutsche Handball Bundesliga
+084,09.05.,19:00,HB GER,TVB Stuttgart,30:31,TSV GWD Minden,Deutsche Handball Bundesliga
+085,09.05.,19:00,HB GER,FA Göppingen,25:23,HC Erlangen,Deutsche Handball Bundesliga
+086,09.05.,19:00,HB GER,SG BBM Bietigheim,29:27,Hannover Burgd.,Deutsche Handball Bundesliga
+087,09.05.,20:45,FRA 3,Cholet,2:2,Villefranche-Beauj,Frankreich National
+088,09.05.,20:45,FRA 3,FC Chambly,1:2,Dunkerque,Frankreich National
+089,09.05.,20:45,FRA 3,FC Bourg Peronnas,2:4,Boulogne Sur Mer,Frankreich National
+090,09.05.,20:45,FRA 3,US Marignane,0:1,Le Mans UC 72,Frankreich National
+091,09.05.,20:45,FRA 3,Jeanne d' Arc,1:1,US Quevilly Rouen,Frankreich National
+092,09.05.,20:45,FRA 3,Sannois Gratien,1:4,FC Pau,Frankreich National
+093,09.05.,20:45,FRA 3,Stade Laval,1:1,Rodez Aveyron,Frankreich National
+094,09.05.,20:45,FRA 3,Lyon Duchere,2:2,FC Tours,Frankreich National
+095,09.05.,20:45,FRA 3,Avranches,0:2,Concarneau,Frankreich National
+096,09.05.,21:00,EL,FC Valencia ESP,2:4,FC Arsenal ENG,UEFA Europa League
+097,09.05.,21:00,EL,FC Valencia,2:5,FC Arsenal+1,UEFA Europa League
+098,09.05.,21:00,EL,FC Valencia+1,3:4,FC Arsenal,UEFA Europa League
+099,09.05.,21:00,EL,FC Chelsea ENG,1:1,E. Frankfurt GER,UEFA Europa League
+100,09.05.,21:00,EL,FC Chelsea,1:2,Eintr. Frankfurt+1,UEFA Europa League
+101,09.05.,21:00,EL,FC Chelsea,1:3,Eintr. Frankfurt+2,UEFA Europa League
+102,10.05.,00:15,COPA L,CD Godoy Cruz ARG,1:0,UD Concepcion CHI,Copa Libertadores
+103,10.05.,00:15,COPA L,Ol. Asuncion PAR,0:1,Sp. Cristal PER,Copa Libertadores
+104,10.05.,02:30,COPA L,J.Wilstermann BOL,0:2,Dep.Tolima COL,Copa Libertadores
+105,10.05.,02:30,COPA L,Boca Juniors ARG,2:1,Atletico PR BRA,Copa Libertadores
+106,11.05.,15:30,GER BL,TSG Hoffenheim,0:1,Werder Bremen,Deutschland Bundesliga
+107,11.05.,15:30,GER BL,Bor. Dortmund,3:2,Fortuna Düsseldorf,Deutschland Bundesliga
+108,11.05.,15:30,GER BL,Bayer Leverkusen,1:1,FC Schalke 04,Deutschland Bundesliga
+109,11.05.,15:30,GER BL,RB Leipzig,0:0,FC Bayern München,Deutschland Bundesliga
+110,11.05.,15:30,GER BL,VfB Stuttgart,3:0,VfL Wolfsburg,Deutschland Bundesliga
+111,11.05.,15:30,GER BL,FC Augsburg,3:4,Hertha BSC,Deutschland Bundesliga
+112,11.05.,15:30,GER BL,Hannover 96,3:0,SC Freiburg,Deutschland Bundesliga
+113,11.05.,15:30,GER BL,1. FC Nürnberg,0:4,Mönchengladbach,Deutschland Bundesliga
+114,12.05.,18:00,GER BL,Eintr. Frankfurt,0:2,FSV Mainz 05,Deutschland Bundesliga
+115,11.05.,17:00,AUT BL,SCR Altach,2:2,Admira Wacker,"Österreich Bundesliga, Qualifikationsgruppe"
+116,11.05.,17:00,AUT BL,TSV Hartberg,2:1,SV Mattersburg,"Österreich Bundesliga, Qualifikationsgruppe"
+117,11.05.,17:00,AUT BL,SK Rapid Wien,1:0,Wacker Innsbruck,"Österreich Bundesliga, Qualifikationsgruppe"
+118,12.05.,14:30,AUT BL,SK Sturm Graz,1:3,FK Austria Wien,Österreich Bundesliga
+119,12.05.,14:30,AUT BL,Wolfsberger AC,4:0,SKN St. Pölten,Österreich Bundesliga
+120,12.05.,17:00,AUT BL,RB Salzburg,2:1,LASK Linz,Österreich Bundesliga

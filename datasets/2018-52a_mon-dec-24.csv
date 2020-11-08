@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,24.12.,14:30,KHL,HC Barys,4:3,A. Vladivostok,Kontinental Hockey League
+002,24.12.,15:00,KHL,Salavat Yulaev Ufa,3:3,Lok. Jaroslawl,Kontinental Hockey League
+003,24.12.,15:00,KHL,HK Dinamo Minsk,3:2,AK Bars Kasan,Kontinental Hockey League
+004,24.12.,17:00,TUR 2,Altinordu,0:0,Giresunspor,Türkei TFF 1. Lig
+005,24.12.,17:30,KHL,Avangard Omsk,3:1,Sibir Nowosibirsk,Kontinental Hockey League
+006,24.12.,17:30,KHL,HC Sochi,5:2,Torp. Nowgorod,Kontinental Hockey League
+007,24.12.,17:30,KHL,HK CSKA Moskau,3:3,Neftekhimik,Kontinental Hockey League
+008,24.12.,18:00,TUR 1,Antalyaspor,0:0,Fenerbahce,Türkei Süper Lig
+009,24.12.,18:00,TUR 1,Akhisarspor,0:0,Konyaspor,Türkei Süper Lig
+010,24.12.,18:40,ISR 2,H. Petach Tikva,2:2,Hapoel Bnei Lod,Israel National League
+011,25.12.,02:15,NFL,Las Vegas Raiders,27:14,Denver Broncos,USA NFL
+012,25.12.,10:00,KHL,Amur Chabarowsk,2:1,HC Vityaz Podolsk,Kontinental Hockey League
+013,25.12.,12:30,KHL,HC Red Star Kunlun,3:5,SKA St. Petersburg,Kontinental Hockey League
+014,25.12.,18:00,NBA,New York Knicks,95:109,Milwaukee Bucks,USA NBA
+015,25.12.,18:00,ISR 2,Sectzya Nes Ziona,0:1,M. Ahi Nazareth,Israel National League
+016,25.12.,18:00,ISR 2,Hapoel Kfar Saba,1:1,Hapoel Afula FC,Israel National League
+017,25.12.,18:00,ISR 2,Hapoel Akko,5:1,Hapoel Marmorek FC,Israel National League
+018,25.12.,18:00,ISR 2,Hap. Rishon LeZion,1:1,Hapoel Ramat Gan,Israel National League
+019,25.12.,18:00,ISR 2,Hapoel Nof HaGalil,0:0,I. Ramat Hasharon,Israel National League
+020,25.12.,18:00,ISR 2,Hapoel Iksal Imad,2:0,Hapoel Ashkelon,Israel National League
+021,25.12.,18:30,ISR 1,Macc. Petach Tikva,1:1,Bnei Yehuda,Israel Winner League
+022,25.12.,18:30,ISR 1,Bnei Sakhnin FC,0:2,Maccabi Netanya,Israel Winner League
+023,25.12.,20:00,ISR 1,Maccabi Tel Aviv,3:0,Hap. Beer Sheva,Israel Winner League
+024,25.12.,21:00,NBA,Houston Rockets,113:109,Oklahoma City Th.,USA NBA
+025,25.12.,23:30,NBA,Boston Celtics,108:108,Philadelphia 76ers,USA NBA
+026,26.12.,04:30,NBA,Utah Jazz,117:96,Portland T.,USA NBA
+027,26.12.,12:30,ITA A,Frosinone Calcio,0:0,AC Milan,Italien Serie A
+028,26.12.,13:30,ENG PL,FC Fulham,1:1,Wolverhampton,England Premier League
+029,26.12.,14:00,ENG 1,FC Gillingham,2:0,FC Portsmouth,England League One
+030,26.12.,14:00,EH GER,DEG Metro Stars,3:2,Iserlohn Roosters,Deutschland Deutsche Eishockey Liga
+031,26.12.,14:30,BEL 1,KV Kortrijk,4:2,SV Zulte Waregem,Belgien Jupiler Pro League
+032,26.12.,14:30,BEL 1,KV Oostende,1:1,St. Truiden VV,Belgien Jupiler Pro League
+033,26.12.,14:30,BEL 1,Cercle Brügge KSV,0:1,AS Eupen,Belgien Jupiler Pro League
+034,26.12.,14:30,BEL 1,FC Royal Antwerpen,2:1,RE Mouscron,Belgien Jupiler Pro League
+035,26.12.,15:00,ITA A,Cagliari Calcio,1:0,FC Genua,Italien Serie A
+036,26.12.,15:00,ITA A,AC Fiorentina,0:1,FC Parma,Italien Serie A
+037,26.12.,15:00,ITA A,Bologna FC,0:2,Lazio Rom,Italien Serie A
+038,26.12.,15:00,ITA A,Atalanta Bergamo,2:2,Juventus Turin,Italien Serie A
+039,26.12.,15:00,ITA A,Sampdoria Genua,2:0,AC Chievo Verona,Italien Serie A
+040,26.12.,15:00,ITA B,Brescia Calcio,3:2,US Cremonese,Italien Serie B
+041,26.12.,15:00,ITA B,Carpi FC,1:4,AS Livorno,Italien Serie B
+042,26.12.,15:00,SCO PS,FC Aberdeen,3:4,Celtic Glasgow,Schottland Premiership
+043,26.12.,15:00,SCO PS,FC St. Mirren,0:1,FC St. Johnstone,Schottland Premiership
+044,26.12.,16:00,SCO PS,FC Dundee,0:0,FC Livingston,Schottland Premiership
+045,26.12.,16:00,SCO PS,Heart of Midl.,2:0,Hamilton FC,Schottland Premiership
+046,26.12.,16:00,SCO PS,FC Motherwell,0:1,FC Kilmarnock,Schottland Premiership
+047,26.12.,16:00,SCO PS,Glasgow Rangers,1:1,Hibernian FC,Schottland Premiership
+048,26.12.,16:00,ENG PL,FC Burnley,1:5,FC Everton,England Premier League
+049,26.12.,16:00,ENG PL,Crystal Palace,0:0,Cardiff City,England Premier League
+050,26.12.,16:00,ENG PL,Leicester City,2:1,Manchester City,England Premier League
+051,26.12.,16:00,ENG PL,FC Liverpool,4:0,Newcastle United,England Premier League
+052,26.12.,16:00,ENG PL,Manchester United,3:1,Huddersfield Town,England Premier League
+053,26.12.,16:00,ENG PL,Tottenham,5:0,AFC Bournemouth,England Premier League
+054,26.12.,16:00,ENG CS,Birmingham City,2:0,Stoke City,England Championship
+055,26.12.,16:00,ENG CS,Bolton Wanderers,2:1,Rotherham United,England Championship
+056,26.12.,16:00,ENG CS,Bristol City,1:1,FC Brentford,England Championship
+057,26.12.,16:00,ENG CS,Leeds United,3:2,Blackburn Rovers,England Championship
+058,26.12.,16:00,ENG CS,FC Middlesbrough,0:1,Sheffield Wednes.,England Championship
+059,26.12.,16:00,ENG CS,FC Millwall,1:0,FC Reading,England Championship
+060,26.12.,16:00,ENG CS,Norwich City,3:3,Nottingham Forest,England Championship
+061,26.12.,16:00,ENG CS,Preston North End,1:2,Hull City,England Championship
+062,26.12.,16:00,ENG CS,Queens Park R.,3:0,Ipswich Town,England Championship
+063,26.12.,16:00,ENG CS,Sheffield United,3:1,Derby County,England Championship
+064,26.12.,16:00,ENG CS,Swansea City,0:1,Aston Villa,England Championship
+065,26.12.,16:00,ENG CS,West Bromwich,2:0,Wigan Athletic,England Championship
+066,26.12.,16:00,ENG 1,AFC Wimbledon,2:1,Plymouth Argyle,England League One
+067,26.12.,16:00,ENG 1,Accrington Stanley,2:1,Shrewsbury Town,England League One
+068,26.12.,16:00,ENG 1,FC Barnsley,2:0,Peterborough Utd.,England League One
+069,26.12.,16:00,ENG 1,Burton Albion,3:1,Wycombe Wanderers,England League One
+070,26.12.,16:00,ENG 1,Coventry City,2:1,Charlton Athletic,England League One
+071,26.12.,16:00,ENG 1,Fleetwood Town,3:0,Doncaster Rovers,England League One
+072,26.12.,16:00,ENG 1,Oxford United,0:1,Southend United,England League One
+073,26.12.,16:00,ENG 1,FC Rochdale,2:1,FC Blackpool,England League One
+074,26.12.,16:00,ENG 1,Scunthorpe United,0:2,Luton Town,England League One
+075,26.12.,16:00,ENG 1,AFC Sunderland,1:0,Bradford City FC,England League One
+076,26.12.,16:00,ENG 1,FC Walsall,1:3,Bristol Rovers,England League One
+077,26.12.,16:30,BB AUT,Traiskirchen,78:77,Vienna Timberw.,Österreich Basketball Superliga
+078,26.12.,16:30,EH GER,Krefeld Pinguine,3:2,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+079,26.12.,16:30,EH GER,ERC Ingolstadt,2:4,EHC München,Deutschland Deutsche Eishockey Liga
+080,26.12.,17:00,EH GER,Adler Mannheim,1:2,Schwenninger W.W.,Deutschland Deutsche Eishockey Liga
+081,26.12.,17:30,EH AUT,HC Innsbruck,5:3,EC RB Salzburg,Österreich Eishockey Liga
+082,26.12.,17:30,EH AUT,Vienna Capitals,2:2,Black Wings Linz,Österreich Eishockey Liga
+083,26.12.,17:30,EH AUT,HC Znojmo,5:7,Fehervar,Österreich Eishockey Liga
+084,26.12.,18:00,EH AUT,HC Bozen Foxes,0:0,EC Dornbirn,Österreich Eishockey Liga
+085,26.12.,18:00,BB AUT,Oberwart Gunners,75:61,Klosterneuburg,Österreich Basketball Superliga
+086,26.12.,18:00,ITA A,AS Roma,3:1,US Sassuolo,Italien Serie A
+087,26.12.,18:00,ITA A,FC Torino,3:0,FC Empoli,Italien Serie A
+088,26.12.,18:00,ITA A,Spal Ferrara,0:0,Udinese Calcio,Italien Serie A
+089,26.12.,18:00,BEL 1,Sporting Charleroi,0:1,Standard Lüttich,Belgien Jupiler Pro League
+090,26.12.,18:15,ENG PL,Brighton & Hove,1:1,FC Arsenal,England Premier League
+091,26.12.,19:00,EH GER,Kölner Haie,0:3,EHC Wolfsburg,Deutschland Deutsche Eishockey Liga
+092,26.12.,19:00,EH GER,Eisbären Berlin,5:3,Bremerhaven P.,Deutschland Deutsche Eishockey Liga
+093,26.12.,19:15,EH AUT,EC Graz 99ers,5:2,KAC Klagenfurt,Österreich Eishockey Liga
+094,26.12.,20:30,ENG PL,FC Watford,1:2,FC Chelsea,England Premier League
+095,26.12.,20:30,ITA A,Inter Mailand,1:0,SSC Napoli,Italien Serie A
+096,26.12.,20:30,BEL 1,KRC Genk,3:1,KAA Gent,Belgien Jupiler Pro League
+097,27.12.,18:00,BEL 1,Sporting Lokeren,0:1,Club Brügge,Belgien Jupiler Pro League
+098,27.12.,18:00,BB EL,Khimki Moskau RUS,77:85,Baskonia G. ESP,Euroleague
+099,27.12.,19:00,ITA B,Pescara Calcio,1:0,SSC Venezia,Italien Serie B
+100,27.12.,19:30,ISR 1,Hapoel Hadera,0:3,Beitar Jerusalem,Israel Winner League
+101,27.12.,20:05,BB EL,M.Tel Aviv ISR,94:92,O.Milano ITA,Euroleague
+102,27.12.,20:30,BEL 1,RSC Anderlecht,3:0,Waasland-Beveren,Belgien Jupiler Pro League
+103,27.12.,20:45,ENG PL,FC Southampton,1:2,West Ham United,England Premier League
+104,27.12.,21:00,ITA B,Cosenza Calcio,0:0,Salernitana Calcio,Italien Serie B
+105,27.12.,21:00,ITA B,FC Crotone,0:3,Spezia Calcio,Italien Serie B
+106,27.12.,21:00,ITA B,Hellas Verona,4:0,AS Cittadella,Italien Serie B
+107,27.12.,21:00,ITA B,Padua Calcio,0:1,Benevento Calcio,Italien Serie B
+108,27.12.,21:00,ITA B,US Palermo,3:0,Ascoli FC,Italien Serie B
+109,27.12.,21:00,ITA B,Perugia Calcio,3:0,US Foggia,Italien Serie B
+110,27.12.,21:00,BB EL,FC Barcelona ESP,80:65,Efes Istanbul TUR,Euroleague
+111,28.12.,01:00,NHL,Boston Bruins,2:5,New Jersey Devils,USA NHL
+112,28.12.,01:00,NHL,New York Rangers,3:3,Columbus Blue J.,USA NHL
+113,28.12.,01:00,NHL,Pittsburgh Peng.,5:2,Detroit Red Wings,USA NHL
+114,28.12.,01:00,NHL,Washington Cap.,3:1,Carolina Hurric.,USA NHL
+115,28.12.,01:30,NHL,Tampa Bay Lightn.,5:5,Philadelphia Fl.,USA NHL
+116,28.12.,02:00,NHL,St. Louis Blues,4:1,Buffalo Sabres,USA NHL
+117,28.12.,02:00,NHL,Nashville Pred.,0:2,Dallas Stars,USA NHL
+118,28.12.,02:00,NHL,Winnipeg Jets,1:4,Calgary Flames,USA NHL
+119,28.12.,02:30,NHL,Chicago Blackhawks,5:2,Minnesota Wild,USA NHL
+120,28.12.,03:00,NHL,Edmonton Oilers,2:4,Vancouver Can.,USA NHL

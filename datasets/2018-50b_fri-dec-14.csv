@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,14.12.,16:30,EHU20WM,U20 Frankreich*,2:4,U20 Österreich,Weltmeisterschaft U20
+002,14.12.,18:00,CZE 1,FC Banik Ostrava,0:0,SK Sigma Olmütz,Tschechien Gambrinus Liga
+003,14.12.,18:00,POL 1,Wisla Plock,1:2,Wisla Krakau,Polen Orange Ekstraklasa
+004,14.12.,18:30,GER 2,Holstein Kiel,1:2,Arminia Bielefeld,Deutschland 2. Bundesliga
+005,14.12.,18:30,GER 2,MSV Duisburg,1:2,Hamburger SV,Deutschland 2. Bundesliga
+006,14.12.,18:30,TUR 1,Göztepe,0:0,Bursaspor,Türkei Süper Lig
+007,14.12.,19:00,GER 3,Großaspach,1:1,Fortuna Köln,Deutschland 3. Liga
+008,14.12.,19:00,DEN 1,Odense BK,1:2,Aalborg BK,Dänemark Superligaen
+009,14.12.,19:00,HB AUT,UHK Krems,22:29,HSG Graz,Österreich HLA
+010,14.12.,19:30,EH GER,Krefeld Pinguine,2:2,ERC Ingolstadt,Deutschland Deutsche Eishockey Liga
+011,14.12.,19:30,EH GER,Iserlohn Roosters,3:4,Straubing Tigers,Deutschland Deutsche Eishockey Liga
+012,14.12.,19:30,EH GER,Adler Mannheim,5:3,Augsburger Panth.,Deutschland Deutsche Eishockey Liga
+013,14.12.,19:30,EH GER,EHC München,5:2,Kölner Haie,Deutschland Deutsche Eishockey Liga
+014,14.12.,19:30,EH GER,Eisbären Berlin,1:3,Schwenninger W.W.,Deutschland Deutsche Eishockey Liga
+015,14.12.,19:30,EH GER,DEG Metro Stars,3:1,EHC Wolfsburg,Deutschland Deutsche Eishockey Liga
+016,14.12.,20:00,POR 1,Portimonense SC,3:1,Vitoria Setubal,Portugal Primeira Liga
+017,14.12.,20:00,NL 1,Willem II Tilburg,0:3,ADO Den Haag,Niederlande Eredivisie
+018,14.12.,20:00,NL 2,Go Ahead Eagles,0:0,FC Den Bosch,Niederlande Jupiler League
+019,14.12.,20:00,NL 2,SC Cambuur,0:1,Twente Enschede,Niederlande Jupiler League
+020,14.12.,20:00,NL 2,Roda JC Kerkrade,2:1,FC Volendam,Niederlande Jupiler League
+021,14.12.,20:00,SUI 2,FC Servette Genf,4:1,Rapperswil-Jona,Schweiz Challenge League
+022,14.12.,20:30,GER BL,1. FC Nürnberg,0:2,VfL Wolfsburg,Deutschland Bundesliga
+023,14.12.,20:30,BEL 1,Sporting Charleroi,2:0,KAA Gent,Belgien Jupiler Pro League
+024,14.12.,20:30,POL 1,Jagiellonia Bial.,0:4,Zaglebie Lubin,Polen Orange Ekstraklasa
+025,14.12.,20:45,ENG CS,Sheffield United,1:2,West Bromwich,England Championship
+026,14.12.,20:45,SCO PS,FC Livingston,5:0,Heart of Midl.,Schottland Premiership
+027,14.12.,21:00,ESP 1,Celta de Vigo,0:0,CD Leganes,Spanien Primera Division
+028,14.12.,21:00,ESP 2,Malaga CF,1:0,Cadiz CF,Spanien Segunda Division
+029,14.12.,21:00,ITA B,US Foggia,3:1,US Cremonese,Italien Serie B
+030,14.12.,22:15,POR 1,Sporting Braga,4:0,CD Feirense,Portugal Primeira Liga
+031,15.12.,13:00,GER 2,FC Union Berlin,2:0,VfL Bochum,Deutschland 2. Bundesliga
+032,15.12.,13:00,GER 2,FC St. Pauli,2:0,Greuther Fürth,Deutschland 2. Bundesliga
+033,15.12.,13:00,GER 2,SC Paderborn,3:0,Dynamo Dresden,Deutschland 2. Bundesliga
+034,15.12.,13:00,ESP 1,Getafe CF,1:0,Real Sociedad,Spanien Primera Division
+035,15.12.,13:30,ENG PL,Manchester City,3:1,FC Everton,England Premier League
+036,15.12.,14:00,KLUB WM,Kashima A. JPN,3:2,Guadalajara C. MEX,FIFA Klub WM
+037,15.12.,15:30,GER BL,TSG Hoffenheim,0:0,Mönchengladbach,Deutschland Bundesliga
+038,15.12.,15:30,GER BL,VfB Stuttgart,2:1,Hertha BSC,Deutschland Bundesliga
+039,15.12.,15:30,GER BL,FC Augsburg,1:1,FC Schalke 04,Deutschland Bundesliga
+040,15.12.,15:30,GER BL,Hannover 96,0:4,FC Bayern München,Deutschland Bundesliga
+041,15.12.,15:30,GER BL,Fortuna Düsseldorf,2:0,SC Freiburg,Deutschland Bundesliga
+042,15.12.,16:00,ENG PL,Crystal Palace,1:0,Leicester City,England Premier League
+043,15.12.,16:00,ENG PL,Huddersfield Town,0:1,Newcastle United,England Premier League
+044,15.12.,16:00,ENG PL,Tottenham,1:0,FC Burnley,England Premier League
+045,15.12.,16:00,ENG PL,FC Watford,3:2,Cardiff City,England Premier League
+046,15.12.,16:00,ENG PL,Wolverhampton,2:0,AFC Bournemouth,England Premier League
+047,15.12.,16:00,ENG CS,Aston Villa,2:2,Stoke City,England Championship
+048,15.12.,16:00,ENG CS,Blackburn Rovers,2:2,Birmingham City,England Championship
+049,15.12.,16:15,ESP 1,Real Valladolid,2:3,Atletico Madrid,Spanien Primera Division
+050,15.12.,17:00,AUT BL,SK Sturm Graz,3:0,Admira Wacker,Österreich Bundesliga
+051,15.12.,17:00,AUT BL,LASK Linz,2:1,SV Mattersburg,Österreich Bundesliga
+052,15.12.,17:00,AUT BL,Wacker Innsbruck,0:0,Wolfsberger AC,Österreich Bundesliga
+053,15.12.,17:00,FRA 1,Dijon Football,abgesagt,Paris SG,Frankreich Ligue 1
+054,15.12.,17:00,TUR 1,Istanbul Basakseh.,1:1,Galatasaray,Türkei Süper Lig
+055,15.12.,17:30,KLUB WM,Esp. Sp. Tunis TUN,0:3,Al Ain UAE,FIFA Klub WM
+056,15.12.,18:00,ITA A,Inter Mailand,1:0,Udinese Calcio,Italien Serie A
+057,15.12.,18:30,GER BL,Bor. Dortmund,2:1,Werder Bremen,Deutschland Bundesliga
+058,15.12.,18:30,ENG PL,FC Fulham,0:2,West Ham United,England Premier League
+059,15.12.,18:30,ENG CS,Bristol City,2:2,Norwich City,England Championship
+060,15.12.,18:30,ESP 1,Real Madrid,1:0,Rayo Vallecano,Spanien Primera Division
+061,15.12.,19:00,SUI SL,FC Sion,1:2,FC Basel,Schweiz Axpo Super League
+062,15.12.,19:00,HB AUT,Union Leoben,28:26,Bregenz Handball,Österreich HLA
+063,15.12.,20:05,BB AUT,Oberwart Gunners,78:65,Traiskirchen,Österreich Basketball Superliga
+064,15.12.,20:30,ITA A,FC Torino,0:1,Juventus Turin,Italien Serie A
+065,15.12.,20:45,ESP 1,SD Eibar,1:1,FC Valencia,Spanien Primera Division
+066,15.12.,21:30,POR 1,CD Santa Clara,1:2,FC Porto,Portugal Primeira Liga
+067,16.12.,12:00,ESP 1,FC Sevilla,2:0,FC Girona,Spanien Primera Division
+068,16.12.,12:30,ITA A,Spal Ferrara,0:0,AC Chievo Verona,Italien Serie A
+069,16.12.,21:00,FRA 1,Olympique Lyon,3:0,AS Monaco,Frankreich Ligue 1
+070,16.12.,13:30,GER 2,FC Ingolstadt,1:1,FC Heidenheim,Deutschland 2. Bundesliga
+071,16.12.,13:30,GER 2,SV Sandhausen,2:2,Jahn Regensburg,Deutschland 2. Bundesliga
+072,16.12.,13:30,GER 2,Erzgebirge Aue,2:2,SV Darmstadt 98,Deutschland 2. Bundesliga
+073,16.12.,13:30,SCO PS,Hibernian FC,2:0,Celtic Glasgow,Schottland Premiership
+074,16.12.,14:30,AUT BL,RB Salzburg,5:1,SKN St. Pölten,Österreich Bundesliga
+075,16.12.,14:30,AUT BL,SCR Altach,6:1,TSV Hartberg,Österreich Bundesliga
+076,16.12.,14:30,ENG PL,Brighton & Hove,1:2,FC Chelsea,England Premier League
+077,16.12.,14:30,ENG PL,FC Southampton,3:2,FC Arsenal,England Premier League
+078,16.12.,14:30,BEL 1,Cercle Brügge KSV,2:1,RSC Anderlecht,Belgien Jupiler Pro League
+079,16.12.,15:00,ITA A,AC Fiorentina,3:1,FC Empoli,Italien Serie A
+080,16.12.,15:00,ITA A,Frosinone Calcio,0:2,US Sassuolo,Italien Serie A
+081,16.12.,15:00,ITA A,Sampdoria Genua,2:0,FC Parma,Italien Serie A
+082,16.12.,15:30,GER BL,RB Leipzig,4:1,FSV Mainz 05,Deutschland Bundesliga
+083,16.12.,16:15,ESP 1,Espanyol Barcelona,1:3,Betis Sevilla,Spanien Primera Division
+084,16.12.,17:00,AUT BL,FK Austria Wien,6:1,SK Rapid Wien,Österreich Bundesliga
+085,16.12.,17:00,AUT BL,FK Austria Wien,6:2,SK Rapid Wien+1,Österreich Bundesliga
+086,16.12.,17:00,AUT BL,FK Austria Wien+1,7:1,SK Rapid Wien,Österreich Bundesliga
+087,16.12.,17:00,ENG PL,FC Liverpool,3:1,Manchester United,England Premier League
+088,16.12.,17:00,TUR 1,Besiktas Istanbul,2:2,Trabzonspor,Türkei Süper Lig
+089,16.12.,18:00,GER BL,Eintr. Frankfurt,2:1,Bayer Leverkusen,Deutschland Bundesliga
+090,16.12.,18:00,ITA A,Cagliari Calcio,0:1,SSC Napoli,Italien Serie A
+091,16.12.,18:00,GRE 1,Panathinaikos,1:0,Atromitos Athen,Griechenland Super League
+092,16.12.,18:00,EH AUT,HC Bozen Foxes,7:2,EC Graz 99ers,Österreich Eishockey Liga
+093,16.12.,18:30,ESP 1,SD Huesca,2:2,Villarreal CF,Spanien Primera Division
+094,16.12.,19:00,NFL,Indianapolis Colts,23:0,Dallas Cowboys,USA NFL
+095,16.12.,20:00,BEL 1,Standard Lüttich,4:1,SV Zulte Waregem,Belgien Jupiler Pro League
+096,16.12.,20:15,HB AUT,SG Westwien,26:28,Fivers Margareten,Österreich HLA
+097,16.12.,20:30,ITA A,AS Roma,3:2,FC Genua,Italien Serie A
+098,16.12.,20:45,ESP 1,Levante UD,0:5,FC Barcelona,Spanien Primera Division
+099,16.12.,21:00,FRA 1,Olymp. Marseille,abgesagt,Bordeaux,Frankreich Ligue 1
+100,16.12.,22:25,NFL,Pittsbgh. Steelers,17:10,N.England Patriots,USA NFL
+101,17.12.,02:20,NFL,Los Angeles Rams,23:30,Philadelph. Eagles,USA NFL
+102,17.12.,18:00,TUR 1,Fenerbahce,2:2,Erzurum BB,Türkei Süper Lig
+103,17.12.,18:00,CZE 1,FK Baumit Jablonec,0:2,SK Slavia Prag,Tschechien Gambrinus Liga
+104,17.12.,18:00,CYP 1,Apollon Limassol,3:3,AEK Larnaca,Zypern 1. Division
+105,17.12.,18:00,POL 1,Miedz Legnica,0:0,KS Lechia Gdansk,Polen Orange Ekstraklasa
+106,17.12.,18:30,GRE 1,APO Levadiakos FC,1:2,PAOK Thessaloniki,Griechenland Super League
+107,17.12.,19:00,GER 3,Wehen Wiesbaden,0:2,KFC Uerdingen 05,Deutschland 3. Liga
+108,17.12.,19:00,DEN 1,AGF Aarhus,1:0,Hobro IK,Dänemark Superligaen
+109,17.12.,19:00,ROU 1,Viitorul Constanta,0:1,FC CFR 1907 Cluj,Rumänien Liga 1
+110,17.12.,20:00,ISR 1,Maccabi Haifa,1:3,Maccabi Tel Aviv,Israel Winner League
+111,17.12.,20:30,GER 2,1. FC Köln,3:0,FC Magdeburg,Deutschland 2. Bundesliga
+112,17.12.,20:30,ITA A,Atalanta Bergamo,1:0,Lazio Rom,Italien Serie A
+113,17.12.,20:45,ENG CS,Derby County,0:0,Nottingham Forest,England Championship
+114,17.12.,20:45,ENG FA,FC Southport,0:2,Tranmere Rovers,England FA Cup
+115,17.12.,20:45,ITA C1C,Matera FC,1:1,US Catanzaro,"Italien, Lega Pro Prima Divisione, Girone C"
+116,17.12.,20:45,FRA 2,FC Valenciennes,0:2,FC Metz,Frankreich Ligue 2
+117,17.12.,21:00,ESP 1,CD Alaves,0:0,Athletic Bilbao,Spanien Primera Division
+118,17.12.,21:00,ITA B,Hellas Verona,3:1,Pescara Calcio,Italien Serie B
+119,17.12.,21:15,POR 2,Academ. Coimbra,0:1,FC Famalicao,Portugal Segunda Liga
+120,18.12.,02:15,NFL,Carolina Panthers,9:12,N. Orleans Saints,USA NFL

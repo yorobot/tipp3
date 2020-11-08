@@ -1,0 +1,120 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,05.09.,02:55,TEN ATP,"Nadal, Rafael",3:2,"Thiem, Dominic",Tennis ATP
+002,04.09.,17:00,WMQ DA,Polen Damen,0:0,Schweiz Damen,"WM Qualifikation Frauen, Europa"
+003,04.09.,17:00,WMQ DA,Norwegen Damen,2:1,Niederlande Damen,"WM Qualifikation Frauen, Europa"
+004,04.09.,17:00,WMQ DA,Ukraine Damen,2:0,Ungarn Damen,"WM Qualifikation Frauen, Europa"
+005,04.09.,17:00,WMQ DA,Dänemark Damen,0:1,Schweden Damen,"WM Qualifikation Frauen, Europa"
+006,04.09.,17:00,WMQ DA,Island Damen,1:1,Tschechien Damen,"WM Qualifikation Frauen, Europa"
+007,04.09.,17:00,WMQ DA,Belgien Damen,2:1,Italien Damen,"WM Qualifikation Frauen, Europa"
+008,04.09.,17:00,WMQ DA,Österreich Damen,4:1,Finnland Damen,"WM Qualifikation Frauen, Europa"
+009,04.09.,17:00,WMQ DA,Russland Damen,3:0,Bosnien-Hg. Damen,"WM Qualifikation Frauen, Europa"
+010,04.09.,18:00,WMQ DA,Portugal Damen,5:1,Rumänien Damen,"WM Qualifikation Frauen, Europa"
+011,04.09.,18:00,KHL,Lok. Jaroslawl,5:0,Sibir Nowosibirsk,Kontinental Hockey League
+012,04.09.,18:30,KHL,Sev. Cherepovets,4:4,Salavat Yulaev Ufa,Kontinental Hockey League
+013,04.09.,18:30,KHL,Dynamo Moskau,1:5,Avangard Omsk,Kontinental Hockey League
+014,04.09.,19:00,SWE 2,Gefle IF,0:1,Örgryte Göteborg,Schweden Superettan
+015,04.09.,20:30,WMQ DA,Nordirland Damen,0:1,Slowakei Damen,"WM Qualifikation Frauen, Europa"
+016,04.09.,20:30,ENG LTR,Forest Green,4:0,Cheltenham Town,England Football League Trophy
+017,04.09.,20:30,ENG LTR,Oldham Athletic,1:2,FC Barnsley,England Football League Trophy
+018,04.09.,20:45,ENG LTR,Carlisle United,3:2,FC Morecambe,England Football League Trophy
+019,04.09.,20:45,ENG LTR,FC Rochdale,2:1,FC Bury,England Football League Trophy
+020,04.09.,20:45,ENG LTR,Macclesfield Town,3:3,FC Blackpool,England Football League Trophy
+021,04.09.,20:45,ENG LTR,Burton Albion,1:2,FC Walsall,England Football League Trophy
+022,04.09.,20:45,ENG LTR,Grimsby Town,2:1,Notts County,England Football League Trophy
+023,04.09.,20:45,ENG LTR,Lincoln City,1:2,Mansfield Town,England Football League Trophy
+024,04.09.,20:45,ENG LTR,FC Portsmouth,4:0,FC Gillingham,England Football League Trophy
+025,04.09.,20:45,ENG LTR,Southend United,3:1,Cambridge United,England Football League Trophy
+026,04.09.,20:45,ENG LTR,Yeovil Town,0:0,Exeter City,England Football League Trophy
+027,04.09.,20:45,ENG LTR,Northampton,0:1,Wycombe Wanderers,England Football League Trophy
+028,04.09.,20:45,ENG LTR,Charlton Athletic,2:2,AFC Wimbledon,England Football League Trophy
+029,04.09.,20:45,ENG LTR,MK Dons,3:3,Peterborough Utd.,England Football League Trophy
+030,04.09.,20:45,ENG LTR,Tranmere Rovers,3:4,FC Crewe Alexandra,England Football League Trophy
+031,05.09.,00:15,BRA 2,Guarani FC SP,0:2,Goias EC GO,Brasilien Brasilero Serie B
+032,05.09.,00:15,BRA 2,Coritiba FC PR,2:1,Boa EC MG,Brasilien Brasilero Serie B
+033,05.09.,00:15,BRA 2,Avai FC SC,1:0,CR Brasil AL,Brasilien Brasilero Serie B
+034,05.09.,00:15,BRA 2,Atletico GO,2:0,AA Ponte Preta SP,Brasilien Brasilero Serie B
+035,05.09.,01:30,BRA 2,Sao Bento SP,1:0,Paysandu SC PA,Brasilien Brasilero Serie B
+036,05.09.,01:30,BRA 2,CS Alagoano AL,4:1,Londrina EC PR,Brasilien Brasilero Serie B
+037,05.09.,01:30,BRA 2,EC Juventude RS,0:1,Criciuma EC SC,Brasilien Brasilero Serie B
+038,05.09.,02:30,BRA 2,Fortaleza EC CE,2:2,Figueirense FC SC,Brasilien Brasilero Serie B
+039,05.09.,03:00,COL 1,Alianza Petrolera,3:2,Los Millonarios,Kolumbien Primera Liga
+040,05.09.,12:00,JPN LC,Ventforet Kofu,2:2,Kashiwa Reysol,Japan Nabisco Cup
+041,05.09.,12:00,JPN LC,Kashima Antlers,1:1,Kawasaki Frontale,Japan Nabisco Cup
+042,05.09.,12:00,JPN LC,Gamba Osaka,0:4,Yokohama F Marinos,Japan Nabisco Cup
+043,05.09.,12:00,JPN LC,Shonan Bellmare,3:0,Cerezo Osaka,Japan Nabisco Cup
+044,05.09.,16:30,SVK CUP,Lokomotiva Zvolen,1:1,FK Inter Bratislav,Slowakei Cup
+045,05.09.,16:45,POL 2,KS Warta Posen,2:2,Bytovia Bytow,Polen I Liga
+046,05.09.,17:00,CZE CUP,Sokol Tasovice,2:5,1. FC Slovacko,Tschechien Cup
+047,05.09.,17:00,CZE CUP,FA Povltavska,1:5,FC Slovan Liberec,Tschechien Cup
+048,05.09.,17:15,DEN CUP,BK Fremad Amager,2:5,FC Roskilde,Dänemark Landspokalturneringen
+049,05.09.,17:30,KHL,Jokerit Helsinki,3:1,Amur Chabarowsk,Kontinental Hockey League
+050,05.09.,18:00,AUT RLW,VfB Hohenems,abgesagt,Pinzgau Saalfelden,Österreich Regionalliga West
+051,05.09.,18:00,KHL,Torp. Nowgorod,3:2,HK Dinamo Minsk,Kontinental Hockey League
+052,05.09.,18:00,KHL,AK Bars Kasan,3:5,HC Vityaz Podolsk,Kontinental Hockey League
+053,05.09.,18:00,KHL,Neftekhimik,1:6,HC Barys,Kontinental Hockey League
+054,05.09.,18:30,KHL,Spartak Moskau,3:1,A. Vladivostok,Kontinental Hockey League
+055,05.09.,18:30,KHL,HC Sochi,1:1,HC Red Star Kunlun,Kontinental Hockey League
+056,05.09.,19:00,DEN CUP,FC Helsingor,1:1,Naestved BK,Dänemark Landspokalturneringen
+057,05.09.,19:00,HB AUT,SG Westwien,29:27,UHK Krems,Österreich HLA
+058,05.09.,20:45,INT FS,Slowakei,3:0,Dänemark,Internationale Freundschaftsspiele
+059,05.09.,21:00,BOL 1,Jorge Wilstermann,4:0,Real Potosi,Bolivien Liga Profesjonal
+060,05.09.,23:00,COL 1,B. Patriotas FC,1:1,Deportivo Pasto,Kolumbien Primera Liga
+061,06.09.,00:30,BRA 1,EC Bahia BA,2:0,Sport Recife PE,Brasilien Brasilero Serie A
+062,06.09.,00:30,BRA 1,Botafogo FR RJ,1:1,Cruzeiro EC MG,Brasilien Brasilero Serie A
+063,06.09.,01:00,BRA 1,Ceara SC CE,2:1,Corinthians SP,Brasilien Brasilero Serie A
+064,06.09.,01:00,USA MLS,New York City FC,0:1,New England Rev.,USA Major League Soccer
+065,06.09.,01:00,COL 1,Indep. Santa Fe,3:1,Envigado FC,Kolumbien Primera Liga
+066,06.09.,01:00,COL 1,America de Cali,2:1,Jaguares Cordoba,Kolumbien Primera Liga
+067,06.09.,02:00,BRA 1,Parana Clube PR,1:1,Chapecoense SC,Brasilien Brasilero Serie A
+068,06.09.,02:00,BRA 1,SE Palmeiras SP,2:0,Atletico PR,Brasilien Brasilero Serie A
+069,06.09.,02:45,BRA 1,Internacional RS,2:1,CR Flamengo RJ,Brasilien Brasilero Serie A
+070,06.09.,02:45,BRA 1,Atletico MG,1:0,Sao Paulo SP,Brasilien Brasilero Serie A
+071,06.09.,03:30,COL 1,Atletico Nacional,2:3,CA Bucaramanga,Kolumbien Primera Liga
+072,06.09.,16:00,UEFA NL,Kasachstan,0:2,Georgien,UEFA Nations League
+073,06.09.,16:00,KHL,Avtomobilist,2:2,Slovan Bratislava,Kontinental Hockey League
+074,06.09.,16:00,KHL,Met. Magnitogorsk,1:2,HK CSKA Moskau,Kontinental Hockey League
+075,06.09.,17:00,U21 EMQ,Moldawien U21,2:2,Weißrussland U21,U21 EM Qualifikation
+076,06.09.,17:30,FIN 2,Haka Valkeakoski,2:2,AC Oulu,Finnland Ykkonen
+077,06.09.,18:00,UEFA NL,Armenien,2:1,Liechtenstein,UEFA Nations League
+078,06.09.,18:00,EH CL,Yunost Minsk BLR,6:2,Malmö IF SWE,Champions Hockey League
+079,06.09.,18:00,EH CL,HC TPS Turku FIN,5:3,EHC München GER,Champions Hockey League
+080,06.09.,18:00,EH CL,HIFK Helsinki FIN,1:1,Bozen Foxes ITA,Champions Hockey League
+081,06.09.,18:00,EH CL,Kometa Brünn CZE,6:2,Neman Grodno BLR,Champions Hockey League
+082,06.09.,18:30,EH CL,Frölunda HC SWE,4:2,Zürcher Lions SUI,Champions Hockey League
+083,06.09.,18:30,KHL,Sev. Cherepovets,1:4,Avangard Omsk,Kontinental Hockey League
+084,06.09.,18:30,KHL,Dynamo Moskau,6:3,Sibir Nowosibirsk,Kontinental Hockey League
+085,06.09.,18:30,KHL,Lok. Jaroslawl,4:2,Salavat Yulaev Ufa,Kontinental Hockey League
+086,06.09.,20:45,INT FS,Österreich,2:0,Schweden,Internationale Freundschaftsspiele
+087,06.09.,18:45,U21 EMQ,Island U21,5:2,Estland U21,U21 EM Qualifikation
+088,06.09.,19:00,U21 EMQ,Aserbaidschan U21,1:1,Israel U21,U21 EM Qualifikation
+089,06.09.,19:30,EH CL,Aalborg Pirate DEN,1:6,Vienna Caps AUT,Champions Hockey League
+090,06.09.,19:30,EH CL,EC RB Salzburg AUT,4:2,Cardiff Devils WAL,Champions Hockey League
+091,06.09.,19:45,EH CL,SC Bern SUI,4:3,Växjö Lakers SWE,Champions Hockey League
+092,06.09.,20:45,UEFA NL,Tschechien,1:2,Ukraine,UEFA Nations League
+093,06.09.,20:45,UEFA NL,Wales,4:1,Irland,UEFA Nations League
+094,06.09.,20:45,UEFA NL,Slowenien,1:2,Bulgarien,UEFA Nations League
+095,06.09.,20:45,UEFA NL,Norwegen,2:0,Zypern,UEFA Nations League
+096,06.09.,20:45,UEFA NL,Lettland,0:0,Andorra,UEFA Nations League
+097,06.09.,20:45,UEFA NL,Gibraltar,0:2,Nordmazedonien,UEFA Nations League
+098,06.09.,20:45,UEFA NL,Deutschland,0:0,Frankreich,UEFA Nations League
+099,06.09.,20:45,INT FS,Portugal,1:1,Kroatien,Internationale Freundschaftsspiele
+100,06.09.,20:45,INT FS,Niederlande,2:1,Peru,Internationale Freundschaftsspiele
+101,06.09.,20:45,U21 EMQ,England U21,0:0,Niederlande U21,U21 EM Qualifikation
+102,07.09.,00:00,BRA 1,Fluminense RJ,0:0,EC Vitoria BA,Brasilien Brasilero Serie A
+103,07.09.,00:00,BRA 1,Santos SP,0:0,Gremio RS,Brasilien Brasilero Serie A
+104,07.09.,01:00,BRA 1,America Mineiro MG,2:1,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+105,07.09.,02:20,NFL,Philadelph. Eagles,18:12,Atlanta Falcons,USA NFL
+106,07.09.,20:45,UEFA NL,Türkei,1:2,Russland,UEFA Nations League
+107,07.09.,20:45,UEFA NL,Rumänien,0:0,Montenegro,UEFA Nations League
+108,07.09.,20:45,UEFA NL,Litauen,0:1,Serbien,UEFA Nations League
+109,07.09.,20:45,UEFA NL,Italien,1:1,Polen,UEFA Nations League
+110,07.09.,20:45,INT FS,Schottland,0:4,Belgien,Internationale Freundschaftsspiele
+111,08.09.,02:00,INT FS,USA,0:2,Brasilien,Internationale Freundschaftsspiele
+112,08.09.,04:08,INT FS,Mexiko*,1:4,Uruguay,Internationale Freundschaftsspiele
+113,08.09.,15:00,UEFA NL,Nordirland,1:2,Bosnien-Herzegow.,UEFA Nations League
+114,08.09.,18:00,UEFA NL,Finnland,1:0,Ungarn,UEFA Nations League
+115,08.09.,18:00,UEFA NL,Schweiz,6:0,Island,UEFA Nations League
+116,08.09.,20:45,UEFA NL,England,1:2,Spanien,UEFA Nations League
+117,09.09.,20:45,INT FS,Deutschland,2:1,Peru,Internationale Freundschaftsspiele
+118,09.09.,20:45,UEFA NL,Frankreich,2:1,Niederlande,UEFA Nations League
+119,11.09.,20:45,UEFA NL,Bosnien-Herzegow.,1:0,Österreich,UEFA Nations League

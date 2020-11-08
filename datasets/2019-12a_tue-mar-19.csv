@@ -1,0 +1,121 @@
+Num,Date,Time,League,Team 1,Score,Team 2,League Name
+001,19.03.,17:00,EH CZE,HC Pilsen,2:2,HC Olmütz,Tschechische Republik Extraliga
+002,19.03.,17:00,KHL,Lok. Jaroslawl,1:3,SKA St. Petersburg,Kontinental Hockey League
+003,19.03.,17:30,KHL,Dynamo Moskau,1:2,HK CSKA Moskau,Kontinental Hockey League
+004,19.03.,18:00,BB EL,Efes Istanbul TUR,78:80,ZSKA Moskau RUS,Euroleague
+005,19.03.,18:30,EH AUT,HC Znojmo,2:4,Vienna Capitals,Österreich Eishockey Liga
+006,19.03.,18:30,BB EC,Valencia Bask. ESP,69:64,BC Uniks Kazan RUS,Eurocup
+007,19.03.,19:00,AUT RLO,St. Pölten Amat.,3:3,SC Team Wr. Linien,Österreich Regionalliga Ost
+008,19.03.,19:00,EH CZE,Mountfield HK,0:5,HC Kometa Brünn,Tschechische Republik Extraliga
+009,19.03.,19:15,EH AUT,HC Bozen Foxes,4:2,KAC Klagenfurt,Österreich Eishockey Liga
+010,19.03.,19:15,EH AUT,Black Wings Linz,2:5,EC Graz 99ers,Österreich Eishockey Liga
+011,19.03.,19:15,EH AUT,EC RB Salzburg,5:4,Fehervar,Österreich Eishockey Liga
+012,19.03.,20:00,EH SUI,Rapperswil Lakers,2:4,Fribourg Gotteron,Schweiz National League A
+013,19.03.,20:00,EH SUI,HC Davos,6:1,Zürcher SC Lions,Schweiz National League A
+014,19.03.,20:00,EH SUI,HC Lausanne,1:5,SCL Tigers Langnau,Schweiz National League A
+015,19.03.,20:00,EH SUI,SC Bern,3:3,HC Servette Genf,Schweiz National League A
+016,19.03.,20:00,EH SUI,EHC Biel Bienne,2:1,HC Ambri Piotta,Schweiz National League A
+017,19.03.,20:00,BB EL,Olympiakos P. GRE,89:69,Bayern München GER,Euroleague
+018,19.03.,20:00,BB EC,Alba Berlin GER,102:97,Mor. Andorra ESP,Eurocup
+019,19.03.,20:30,ITA C1A,Pro Vercelli,0:0,Virtus Entella,"Italien Lega Pro Prima Divisione, Girone A"
+020,19.03.,20:45,SCO CS,Dundee United,1:0,FC Ross County,Schottland Championship
+021,19.03.,20:45,NIRL 1,Ballymena United,6:1,FC Institute,Nordirland JJB Sports Premiership
+022,19.03.,20:45,NIRL 1,Warrenpoint Town,1:3,Crusaders Belfast,Nordirland JJB Sports Premiership
+023,19.03.,21:00,BB EL,FC Barcelona ESP,93:64,Gran Canaria ESP,Euroleague
+024,19.03.,23:15,COPA S,Union Espanola CHI,1:1,Mushuc Runa SC ECU,Copa Sudamericana
+025,20.03.,00:00,NHL,NY Islanders,0:5,Boston Bruins,USA NHL
+026,20.03.,00:00,NHL,New York Rangers,2:3,Detroit Red Wings,USA NHL
+027,20.03.,00:00,NHL,Philadelphia Fl.,1:3,Montreal Canad.,USA NHL
+028,20.03.,00:00,NHL,Carolina Hurric.,2:2,Pittsburgh Peng.,USA NHL
+029,20.03.,00:30,NHL,New Jersey Devils,1:4,Washington Cap.,USA NHL
+030,20.03.,01:00,NHL,St. Louis Blues,7:2,Edmonton Oilers,USA NHL
+031,20.03.,01:00,NHL,Nashville Pred.,3:0,Toronto Maple L.,USA NHL
+032,20.03.,01:00,NHL,Minnesota Wild,1:3,Colorado Avalan.,USA NHL
+033,20.03.,01:30,NHL,Dallas Stars,4:2,Florida Panthers,USA NHL
+034,20.03.,02:00,NHL,Calgary Flames,4:2,Columbus Blue J.,USA NHL
+035,20.03.,11:30,U19 EMQ,Ukraine U19*,2:2,Serbien U19,"U19 EM, Qualifikation"
+036,20.03.,13:00,U19 EMQ,Norwegen U19*,0:0,Ungarn U19,"U19 EM, Qualifikation"
+037,20.03.,14:30,ITA C1C,Virtus Francavilla,0:0,Viterbese,"Italien, Lega Pro Prima Divisione, Girone C"
+038,20.03.,14:30,ITA C1C,Potenza SC,2:2,Sicula Leonzio,"Italien, Lega Pro Prima Divisione, Girone C"
+039,20.03.,15:00,KHL,Salavat Yulaev Ufa,4:2,Avtomobilist,Kontinental Hockey League
+040,20.03.,15:00,U19 EMQ,Aserbaidschan U19*,0:0,Russland U19,"U19 EM, Qualifikation"
+041,20.03.,15:00,U19 EMQ,Türkei U19*,1:3,Schottland U19,"U19 EM, Qualifikation"
+042,20.03.,15:00,U19 EMQ,England U19,4:1,Tschechien U19,"U19 EM, Qualifikation"
+043,20.03.,15:00,U19 EMQ,Frankreich U19,0:0,Polen U19,"U19 EM, Qualifikation"
+044,20.03.,15:00,U19 EMQ,Italien U19,2:2,Belgien U19,"U19 EM, Qualifikation"
+045,20.03.,15:30,U19 EMQ,Deutschland U19*,2:1,Kroatien U19,"U19 EM, Qualifikation"
+046,20.03.,16:30,U19 EMQ,Spanien U19*,1:1,Slowenien U19,"U19 EM, Qualifikation"
+047,20.03.,17:00,U19 EMQ,Schweiz U19*,0:3,Israel U19,"U19 EM, Qualifikation"
+048,20.03.,17:00,EH CZE,HC Trinec,3:2,HC Vitkovice,Tschechische Republik Extraliga
+049,20.03.,17:15,U19 EMQ,Portugal U19,3:0,Zypern U19,"U19 EM, Qualifikation"
+050,20.03.,17:30,U19 EMQ,Griechenland U19*,2:2,Dänemark U19,"U19 EM, Qualifikation"
+051,20.03.,17:30,KHL,Avangard Omsk,3:1,HC Barys,Kontinental Hockey League
+052,20.03.,18:00,EGY 1,Al Moqawloon,2:2,El Zamalek,Ägypten Premier League
+053,20.03.,18:15,BB EL,Darüssafaka TUR,91:85,Khimki Moskau RUS,Euroleague
+054,20.03.,18:30,CL DAM,Sl.Prag Damen CZE,1:1,Bayern Damen GER,UEFA Champions League Damen
+055,20.03.,19:00,CL DAM,Barcelona D ESP,3:0,Lilleström D NOR,UEFA Champions League Damen
+056,20.03.,19:00,U19 EMQ,Wales U19*,1:2,Niederlande U19,"U19 EM, Qualifikation"
+057,20.03.,19:00,GER 3,Unterhaching,0:0,Energie Cottbus,Deutschland 3. Liga
+058,20.03.,19:00,DEN 2,Lyngby BK,2:0,Silkeborg IF,Dänemark 1. Division
+059,20.03.,19:00,HB CL,Rhein-Neckar GER,34:32,HBC Nantes FRA,"Champions League, Herren"
+060,20.03.,20:00,BB EL,Panathinaikos GRE,72:70,Baskonia G. ESP,Euroleague
+061,20.03.,20:05,BB EL,M.Tel Aviv ISR,83:85,BC Zalgiris LTU,Euroleague
+062,20.03.,20:45,INT FS,Wales,1:0,Trinidad & Tobago,Internationale Freundschaftsspiele
+063,20.03.,20:45,INT FS,Deutschland,1:1,Serbien,Internationale Freundschaftsspiele
+064,20.03.,20:45,INT FS,Deutschland,1:2,Serbien+1,Internationale Freundschaftsspiele
+065,20.03.,20:45,CL DAM,Ol.Lyon D FRA,2:1,Wolfsburg Dame GER,UEFA Champions League Damen
+066,20.03.,21:00,BB EL,Real Madrid BC ESP,92:89,O.Milano ITA,Euroleague
+067,20.03.,22:15,PAR 1,Deportivo Capiata,2:1,Club Libertad,Paraguay Primera Division
+068,21.03.,00:00,NHL,Buffalo Sabres,2:4,Toronto Maple L.,USA NHL
+069,21.03.,00:30,NHL,Washington Cap.,4:4,Tampa Bay Lightn.,USA NHL
+070,21.03.,01:30,COL 1,Atletico Nacional,2:2,AD Cali,Kolumbien Primera Liga
+071,21.03.,03:00,NHL,Vancouver Can.,7:4,Ottawa Senators,USA NHL
+072,21.03.,03:00,NHL,Anaheim Ducks,0:3,Winnipeg Jets,USA NHL
+073,21.03.,13:00,INT FS,China,0:1,Thailand,Internationale Freundschaftsspiele
+074,21.03.,16:00,EM Q,Kasachstan,3:0,Schottland,Europameisterschaft Qualifikation
+075,21.03.,17:00,EH CZE,HC Trinec,3:0,HC Vitkovice,Tschechische Republik Extraliga
+076,21.03.,17:30,KHL,HK CSKA Moskau,3:2,Dynamo Moskau,Kontinental Hockey League
+077,21.03.,17:30,EH FIN,HC TPS Turku,2:3,HPK Hämeenlinna,Finnland SM-Liiga
+078,21.03.,17:30,EH FIN,Pelicans Lahti,6:0,HIFK Helsinki,Finnland SM-Liiga
+079,21.03.,18:00,BB EL,ZSKA Moskau RUS,70:68,Fenerbahce TUR,Euroleague
+080,21.03.,18:30,FS U21,Italien U21,0:0,Österreich U21,U21 Freundschaftsspiele
+081,21.03.,18:30,FS U21,Deutschland U21,2:2,Frankreich U21,U21 Freundschaftsspiele
+082,21.03.,18:45,FS U21,Spanien U21,1:0,Rumänien U21,U21 Freundschaftsspiele
+083,21.03.,19:00,INT FS,Kosovo,2:2,Dänemark,Internationale Freundschaftsspiele
+084,21.03.,20:00,EH SUI,HC Davos,1:2,Fribourg Gotteron,Schweiz National League A
+085,21.03.,20:00,EH SUI,Zürcher SC Lions,1:4,Rapperswil Lakers,Schweiz National League A
+086,21.03.,20:00,EH SUI,HC Servette Genf,2:2,SC Bern,Schweiz National League A
+087,21.03.,20:00,BB EL,KK Buducnost V MNE,84:91,Efes Istanbul TUR,Euroleague
+088,21.03.,20:00,BB EL,Bayern München GER,73:71,FC Barcelona ESP,Euroleague
+089,21.03.,20:05,CL DAM,Chelsea Damen ENG,2:0,Paris SG Damen FRA,UEFA Champions League Damen
+090,21.03.,20:45,EM Q,Nordirland,2:0,Estland,Europameisterschaft Qualifikation
+091,21.03.,20:45,EM Q,Niederlande,4:0,Weißrussland,Europameisterschaft Qualifikation
+092,21.03.,20:45,EM Q,Slowakei,2:0,Ungarn,Europameisterschaft Qualifikation
+093,21.03.,20:45,EM Q,Kroatien,2:1,Aserbaidschan,Europameisterschaft Qualifikation
+094,21.03.,20:45,EM Q,Israel,1:1,Slowenien,Europameisterschaft Qualifikation
+095,21.03.,20:45,EM Q,Nordmazedonien,3:1,Lettland,Europameisterschaft Qualifikation
+096,21.03.,20:45,EM Q,Österreich,0:1,Polen,Europameisterschaft Qualifikation
+097,21.03.,20:45,EM Q,Österreich,0:2,Polen+1,Europameisterschaft Qualifikation
+098,21.03.,20:45,EM Q,Österreich+1,1:1,Polen,Europameisterschaft Qualifikation
+099,21.03.,20:45,EM Q,Belgien,3:1,Russland,Europameisterschaft Qualifikation
+100,21.03.,20:45,EM Q,Belgien,3:2,Russland+1,Europameisterschaft Qualifikation
+101,21.03.,20:45,FS U21,England U21,1:1,Polen U21,U21 Freundschaftsspiele
+102,21.03.,21:30,BB EL,Gran Canaria ESP,90:67,Olympiakos P. GRE,Euroleague
+103,22.03.,01:00,INT FS,USA,1:0,Ekuador,Internationale Freundschaftsspiele
+104,22.03.,18:00,EM Q,Bulgarien,1:1,Montenegro,Europameisterschaft Qualifikation
+105,22.03.,20:45,EM Q,England,5:0,Tschechien,Europameisterschaft Qualifikation
+106,22.03.,20:45,EM Q,Portugal,0:0,Ukraine,Europameisterschaft Qualifikation
+107,22.03.,20:45,EM Q,Albanien,0:2,Türkei,Europameisterschaft Qualifikation
+108,23.03.,15:00,EM Q,Georgien,0:2,Schweiz,Europameisterschaft Qualifikation
+109,23.03.,18:00,EM Q,Schweden,2:1,Rumänien,Europameisterschaft Qualifikation
+110,23.03.,20:45,EM Q,Spanien,2:1,Norwegen,Europameisterschaft Qualifikation
+111,23.03.,20:45,EM Q,Italien,2:0,Finnland,Europameisterschaft Qualifikation
+112,23.03.,20:45,EM Q,Bosnien-Herzegow.,2:1,Armenien,Europameisterschaft Qualifikation
+113,24.03.,15:00,EM Q,Wales,1:0,Slowakei,Europameisterschaft Qualifikation
+114,24.03.,18:00,EM Q,Ungarn,2:1,Kroatien,Europameisterschaft Qualifikation
+115,24.03.,18:00,EM Q,Israel,4:2,Österreich,Europameisterschaft Qualifikation
+116,24.03.,20:45,EM Q,Niederlande,2:3,Deutschland,Europameisterschaft Qualifikation
+117,24.03.,20:45,EM Q,Polen,2:0,Lettland,Europameisterschaft Qualifikation
+118,25.03.,20:45,EM Q,Montenegro,1:5,England,Europameisterschaft Qualifikation
+119,25.03.,20:45,EM Q,Portugal,1:1,Serbien,Europameisterschaft Qualifikation
+120,25.03.,20:45,EM Q,Frankreich,4:0,Island,Europameisterschaft Qualifikation
