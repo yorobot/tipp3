@@ -21,8 +21,8 @@
        124 POR 1    Portugal Primeira Liga
        119 GER 3    Deutschland 3. Liga
        119 USA MLS  USA Major League Soccer
-!!!    103 CL Q     UEFA Champions League, Qualifikation
        103 FRA 2    Frankreich Ligue 2
+       103 UEFA CL Q UEFA Champions League, Qualifikation
        102 BEL 1    Belgien Jupiler Pro League
 (*)     99 INT FS   Internationale Freundschaftsspiele
         93 ITA B    Italien Serie B
@@ -67,7 +67,7 @@
 (*)     36 COPA AM  Copa America
         35 ISR 2    Israel National League
         35 SCO LC   Schottland League Cup
-!!!     34 ASICUP   Asien Cup
+(*)     34 ASICUP   Asien Cup
         34 AUT RLW  Österreich Regionalliga West
         34 BUL 1    Bulgarien Premier League
         34 SCO CS   Schottland Championship
@@ -75,7 +75,6 @@
 (*)     33 G-CUP    Gold Cup
         31 DEN CUP  Dänemark Landspokalturneringen
         31 JPN 2    Japan J.League 2
-!!!     30 HB WM    Handball WM Herren
         29 ITA CUP  Italien Coppa Italia
 (*)     28 U20 WM   U20 Weltmeisterschaft
         27 GRE CUP  Griechenland Cup
@@ -88,7 +87,7 @@
         23 COL 1    Kolumbien Primera Liga
 (*)     23 WM Q     WM Qualifikation, Asien
         22 DEN 2    Dänemark 1. Division
-!!!     21 CHN SL   China Chinese Super League
+        21 CHN SL   China Chinese Super League
         20 NL 2     Niederlande Jupiler League
         19 JPN CUP  Japan Emperor Cup
         19 UKR 1    Ukraine Premier League
@@ -105,15 +104,13 @@
         16 CYP CUP  Zypern Cup
         16 SUI 2    Schweiz Challenge League
         15 ARG 1    Argentinien Primera Division
-!!!     15 DA-SL    Ski Alpin, Damen Slalom
 (*)     15 FS U21   U21 Freundschaftsspiele
 (*)     15 INT FSD  Internationale Freundschaftsspiele, Damen
         15 ITA C1B  Italien Lega Pro Prima Divisione, Girone B
         15 SCO FA   Schottland FA Cup
         15 SWE CUP  Schweden Cup
         14 EGY 1    Ägypten Premier League
-!!!     14 FRA 3    Frankreich National
-!!!     14 HE-ABF   Ski Alpin, Herren Abfahrt
+        14 FRA 3    Frankreich National
         14 POR LC   Portugal Carlsberg Cup
         13 CYP 1    Zypern 1. Division
         13 ITA C1C  Italien, Lega Pro Prima Divisione, Girone C
@@ -133,11 +130,9 @@
         10 RUS CUP  Russland Russian Cup
          9 CZE 2    Tschechien 1. Division
          9 GRE 2    Griechenland Super League 2
-!!!      9 HE-SG    Ski Alpin, Herren Super G
          9 SUI CUP  Schweiz Cup
          9 SWE 3N   Schweden Div 1 Norra
          8 COPA MX  Mexiko, Copa MX
-!!!      8 DA-RTL   Ski Alpin, Damen Riesentorlauf
          8 NED PO   Niederlande, Auf/Abstiegsplayoffs
          8 RSA PL   Südafrika, Premier League
          8 SCO 1    Schottland League One
@@ -153,8 +148,6 @@
          6 IRL LC   Irland League Cup
          6 ROU 2    Rumänien, Liga 2
          5 CRO CUP  Kroatien Croatian Cup
-!!!      5 DA-ABF   Ski Alpin, Damen Abfahrt
-!!!      5 DA-SG    Ski Alpin, Damen Super G
 (*)      5 EMQDA    EM Qualifikation, Damen
          5 EST 1    Estland Meistriliiga
          5 FIN CUP  Finnland Cup
@@ -165,7 +158,7 @@
          5 ROU CUP  Rumänien Cup
          4 CZE CUP  Tschechien Cup
          4 ESP 2B   Spanien Segunda Division B
-!!!      4 INT D    International, Damen
+(*)      4 INT D    International, Damen
          4 NOR 3    Norwegen 2. Division, avd. 1
 (*)      4 PL ASIA  Premier League Asia Trophy
          4 SVK CUP  Slowakei Cup
@@ -181,20 +174,18 @@
          3 QAT 1    Katar, Stars League
          3 SVK 1    Slowakei Corgon Liga
          2 ARG CUP  Argentinien Cup
-!!!      2 ATL CUP  Atlantic Cup
+         2 ATL CUP  Atlantic Cup
 (*)      2 AUT DA   Österreich Damen Bundesliga
          2 BLR CUP  Weißrussland Cup
          2 CAF CL   CAF Champions League
-!!!      2 CCC CL   CONCACAF Champions League
+         2 CCC CL   CONCACAF Champions League
 (*)      2 CCC NL   CONCACAF Nations League
          2 CHI CUP  Copa Chile
-!!!      2 EH GER2  Deutschland 2. Eishockey Liga
-!!!      2 FLOR C   Florida Cup
+(*)      2 FLOR C   Florida Cup
 (*)      2 GER DA   Deutschland Frauen Bundesliga
          2 GER SC   Deutschland Supercup
 (*)      2 GOLF-C   Golf Cup in Katar
-!!!      2 HB AUTC  Handball Cup Österreich
-!!!      2 INTDCYP  Zypern Cup (Damen)
+(*)      2 INTDCYP  Zypern Cup (Damen)
          2 ITA SC   Italien Supercoppa
          2 LIT 1    Litauen A lyga
          2 MEX 1    Mexiko Primera Division
@@ -205,8 +196,7 @@
          2 USMXLC   US & Mexican Leagues Cup
          1 AFC C    AFC Cup
          1 ARG LC   Argentinien, Ligacup
-!!!      1 ARG SC   Argentinien Supercup
-!!!      1 BB EMQ   Europameisterschaft, Qualifikation
+         1 ARG SC   Argentinien Supercup
          1 BEL SC   Belgien Supercup
          1 BOS 1    Bosnien Premier Liga
          1 BUL SC   Bulgarien Supercup
@@ -216,13 +206,13 @@
 (*)      1 DA CUP   Österreich Damen Cup
 (*)      1 EMR CUP  Emirates Cup
          1 ENG COM  England Community Shield
-!!!      1 EST CUP  Estland Cup
+         1 EST CUP  Estland Cup
          1 FRA SC   Frankreich Trophée des Champions
          1 IRI 1    Iran Pro League
          1 ISR LCN  Israel, League Cup National
          1 ISR SC   Israel Supercup
          1 KOR 1    Südkorea K-League 1
-!!!      1 MLT CUP  Malta FA Trophy
+         1 MLT CUP  Malta FA Trophy
          1 NL SC    Niederlande Johan Cruijff Schaal in Amsterdam
          1 POL SC   Polen Supercup
          1 POR SC   Portugal Supercup
@@ -235,4 +225,4 @@
          1 UKR SC   Ukraine Supercup
          1 VEN CUP  Copa Venezuela
 
-(*): national team and/or women leagues - AFR CQ, AFR CUP, AUT DA, CCC NL, CL DAM, COPA AM, COPA CA, DA CUP, EM Q, EMQDA, EMR CUP, FS, FS U20, FS U21, G-CUP, GER DA, GOLF-C, INT CHC, INT FS, INT FSD, PL ASIA, U19 DAQ, U19 EM, U19 EMQ, U20 WM, U21 EM, U21 EMQ, UEFA NL, WM DAM, WM Q
+(*): national team and/or women leagues - AFR CQ, AFR CUP, ASICUP, AUT DA, CCC NL, CL DAM, COPA AM, COPA CA, DA CUP, EM Q, EMQDA, EMR CUP, FLOR C, FS, FS U20, FS U21, G-CUP, GER DA, GOLF-C, INT CHC, INT D, INT FS, INT FSD, INTDCYP, PL ASIA, U19 DAQ, U19 EM, U19 EMQ, U20 WM, U21 EM, U21 EMQ, UEFA NL, WM DAM, WM Q, WMQ DA

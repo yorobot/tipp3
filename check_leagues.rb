@@ -20,8 +20,8 @@ require_relative 'config/leagues'
 leagues = {}    ## track league usage & names
 
 
-programs = PROGRAMS_2018
-# programs = PROGRAMS_2019
+programs = PROGRAMS_2020
+# programs = PROGRAMS_2018
 programs.each do |program|
    recs = CsvHash.read( "datasets/#{program}.csv", :header_converters => :symbol )
 
@@ -58,7 +58,7 @@ programs.each do |program|
       leagues[ league_code ][0] += 1
 
       ## for debugging print match line for some codes
-      if ['CAND'].include?( league_code )
+      if ['FTSBLR1'].include?( league_code )
         pp rec
       end
    end
