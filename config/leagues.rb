@@ -158,6 +158,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'CCC NL',     # CONCACAF Nations League
   'UEFA NL',    # UEFA Nations League
   'COPA CA',    # Copa Centroamericana
+  'SUZ CUP',    # AFF Suzuki Cup
 
   ## national leagues (women)
   'INT FSD',    # Internationale Freundschaftsspiele, Damen

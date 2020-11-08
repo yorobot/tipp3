@@ -14,8 +14,8 @@ countries = SportDb::Import.catalog.countries
 ## pp clubs.match_by( name: 'Juventus Turin', country: countries['it'] )
 
 
+require_relative 'config/programs'
 
-require_relative 'programs'
 
 
 missing_clubs = {}   ## index by league code
@@ -25,34 +25,24 @@ missing_clubs = {}   ## index by league code
 EXTRA_COUNTRY_MAPPINGS = {
   'SLO' => 'SVN',    ## check if internatial vehicle plates? if yes, auto-include1!!
   'LAT' => 'LVA',
+  'IRI' => 'IRN',
 }
 
 
-league_titles = {}   ## lookup league title by league code
+league_names = {}   ## lookup league name by league code
 
-PROGRAMS_2020.each do |program|
-   recs = CsvHash.read( "datasets/#{program}.csv", :header_converters => :symbol )
-   pp recs.size
+year = 2018
+programs = Programs.year( year )  ## 2018, 2019, 2020
+programs.each do |program|
+  puts "#{program.size} rec(s) - #{program.name}:"
 
-
-   recs.each do |rec|
-     league_code  = EXTRA_LEAGUE_MAPPINGS[ rec[:liga] ] || rec[:liga]    ## check for corrections / (re)mappings first
-     league_title = rec[:liga_title]
-
-     next if HOCKEY_LEAGUES.include?( league_code ) ||     ## skip (ice) hockey leagues
-             BASKETBALL_LEAGUES.include?( league_code ) ||
-             HANDBALL_LEAGUES.include?( league_code ) ||
-             MORE_LEAGUES.include?( league_code ) ||      ## skip amercian football, etc.
-             WINTER_LEAGUES.include?( league_code )       ## skip ski alpin
-
-     ## skip national (selection) teams / matches e.g. wm, em, u21, u20, int fs, etc.
-     next if EXCLUDE_LEAGUES.include?( league_code )
-
-      ## remove leading "Fussball -" from title (before 2020 format change)
-      league_title = league_title.sub('Fussball - ','')  if league_title =~ %r{Fussball -}
+  ## note: skip (exclude) national (selection) teams / matches e.g. wm, em, u21, u20, int fs, etc.
+  program.each( exclude: EXCLUDE_LEAGUES ) do |rec|
+     league_code = rec[:league]
+     league_name = rec[:league_name]
 
 
-       league_titles[ league_code ] = league_title
+      league_names[ league_code ] = league_name
 
        team1 = rec[:team_1]
        team2 = rec[:team_2]
@@ -68,14 +58,26 @@ PROGRAMS_2020.each do |program|
        end
 
 
+       ## quick hack - for now skip
+       ambiguous_teams = [
+         'Tekstilshchik',   ## name for teams in Russia (in two cities)
+       ]
+       next if ambiguous_teams.include?( team1 ) || ambiguous_teams.include?( team2 )
+
+
        m = leagues.match( league_code )
-       if m
+       if m.size == 1
          league = m[0]
        else
-         puts "** !!ERROR!! no match for league <#{league_code}>:"
+         if m.size == 0
+          puts "** !!ERROR!! no match for league >#{league_code}<:"
+         else
+          puts "** !!ERROR!! to many matches for league >#{league_code}<:"
+         end
          pp rec
          exit 1
        end
+
 
         ## try matching clubs
         club_queries = []
@@ -100,6 +102,10 @@ PROGRAMS_2020.each do |program|
                 team = 'Al Hilal FC KSA'
               elsif team == 'CF Monterrey'
                 team = 'CF Monterrey MEX' ## used in 2019-51a_tue-dec-17 for KLUB WM
+              elsif team == 'Guabira Montero'
+                team = 'Guabira Montero BOL'
+              elsif team == 'AL Wahda SCC'  ## check why SCC ?? (country or part of name)
+                team = 'AL Wahda SCC UAE'   ## United Arab Emirates
               else
                 team
               end
@@ -130,7 +136,7 @@ PROGRAMS_2020.each do |program|
 
           m = clubs.match_by( name: name, country: country )
 
-          if m.nil? && league.national?
+          if m.empty? && league.national?
             ## (re)try with second country - quick hacks for known leagues
             m = clubs.match_by( name: name, country: countries['wal'])  if country.key == 'eng'
             m = clubs.match_by( name: name, country: countries['nir'])  if country.key == 'ie'
@@ -139,7 +145,7 @@ PROGRAMS_2020.each do |program|
             m = clubs.match_by( name: name, country: countries['ca'])   if country.key == 'us'
           end
 
-          if m.nil?
+          if m.empty?
              puts "** !!WARN!! no match for club <#{name}>:"
              pp rec
 
@@ -170,13 +176,14 @@ PROGRAMS_2020.each do |program|
 end
 
 
+
 puts "missing (unmatched) clubs:"
 pp missing_clubs
 
 puts "pretty print:"
 buf = String.new
 missing_clubs.each do |league, names|
-  buf << "League #{league} (#{names.size}) - >#{league_titles[league]}<:\n"
+  buf << "League #{league} (#{names.size}) - >#{league_names[league]}<:\n"
   names.each do |name|
     buf << "  #{name}\n"
   end
@@ -185,6 +192,9 @@ end
 puts buf
 
 ## save to missing_clubs.txt
-File.open( 'missing_clubs_2020.txt', 'w:utf-8' ) do |f|
-  f.write buf
+File.open( "missing_clubs_#{year}.txt", 'w:utf-8' ) do |f|
+  f.write( buf )
 end
+
+
+puts "bye"

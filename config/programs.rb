@@ -3,6 +3,9 @@ require 'csvreader'
 
 
 
+require_relative 'leagues'
+
+
 
 def date_to_progname( date )
   buf = String.new('')
@@ -90,3 +93,81 @@ PROGRAMS =  PROGRAMS_2020 + PROGRAMS_2019 + PROGRAMS_2018
 pp PROGRAMS_2020
 pp PROGRAMS_2019
 pp PROGRAMS_2018
+
+
+
+
+
+#################
+# helpers
+
+class Programs
+  def self.all
+    new( PROGRAMS )    ## assume all programs for now - why? why not?
+  end
+
+  def self.year( year )
+    case year
+    when 2020
+       new( PROGRAMS_2020 )
+    when 2019
+       new( PROGRAMS_2019 )
+    when 2018
+       new( PROGRAMS_2018 )
+    else
+      raise ArgumentError, "unsupported year >#{year}<"
+    end
+  end
+
+  attr_reader :names
+  def initialize( names )
+    @names = names
+  end
+
+  def size() @names.size; end
+
+  def each
+    @names.each do |name|
+      yield Program.new( name )
+    end
+  end
+
+
+  ## nested Program class (note: no plural s)
+  class Program
+    attr_reader :name
+    def initialize( name )
+      @name = name
+      @recs = CsvHash.read( "datasets/#{name}.csv", :header_converters => :symbol )
+    end
+
+    def size() @recs.size; end
+
+    def each( exclude: nil )
+      @recs.each do |rec|
+        league_code = rec[:league]
+        league_name = rec[:league_name]
+
+        next if HOCKEY_LEAGUES.include?( league_code ) ||     ## skip (ice) hockey leagues
+                BASKETBALL_LEAGUES.include?( league_code ) ||
+                HANDBALL_LEAGUES.include?( league_code ) ||
+                MORE_LEAGUES.include?( league_code ) ||      ## skip amercian football, etc.
+                WINTER_LEAGUES.include?( league_code )       ## skip ski alpin
+
+        next if exclude && exclude.include?( league_code )
+
+
+        ## note: check for corrections / (re)mappings - last in pipeline / processing
+        ##         always use original / real codes - why? why not?
+        league_code_fix = EXTRA_LEAGUE_MAPPINGS[ league_code ]
+        if league_code_fix
+          puts "  (auto-)patching league code >#{league_code}< to >#{league_code_fix}<"
+          rec[:league] = league_code_fix
+        end
+
+        yield( rec )
+       end
+    end
+  end  # (nested) class Programs
+end # class Programs
+

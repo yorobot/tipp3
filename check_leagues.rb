@@ -1,7 +1,5 @@
 ## check leagues
 
-require 'csvreader'
-
 
 require 'sportdb/config'
 
@@ -14,48 +12,21 @@ LEAGUES = SportDb::Import.catalog.leagues
 
 
 require_relative 'config/programs'
-require_relative 'config/leagues'
 
 
 leagues = {}    ## track league usage & names
 
 
-programs = PROGRAMS_2020
-# programs = PROGRAMS_2018
+programs = Programs.year( 2020 )   ## 2018, 2019, 2020
 programs.each do |program|
-   recs = CsvHash.read( "datasets/#{program}.csv", :header_converters => :symbol )
+   puts "#{program.size} rec(s) - #{program.name}:"
 
-   puts "#{recs.size} rec(s) - #{program}:"
-
-   recs.each do |rec|
+   program.each do |rec|
      league_code = rec[:league]
      league_name = rec[:league_name]
 
-     next if HOCKEY_LEAGUES.include?( league_code ) ||     ## skip (ice) hockey leagues
-             BASKETBALL_LEAGUES.include?( league_code ) ||
-             HANDBALL_LEAGUES.include?( league_code ) ||
-             MORE_LEAGUES.include?( league_code ) ||      ## skip amercian football, etc.
-             WINTER_LEAGUES.include?( league_code )       ## skip ski alpin
-
-      print_line = false
-
-      line = String.new('')
-      line << "  #{league_code} "
-      ## check for corrections / (re)mappings
-      if EXTRA_LEAGUE_MAPPINGS[ league_code ]
-        league_code = EXTRA_LEAGUE_MAPPINGS[ league_code ]
-        line << "=> #{league_code} "
-        print_line = true
-      end
-
-      line << "| #{league_name}"
-      line << "\n"
-
-      ## note: for now now only print if corrections
-      puts line    if print_line
-
-      leagues[ league_code ] ||= [0, league_name]
-      leagues[ league_code ][0] += 1
+     leagues[ league_code ] ||= [0, league_name]
+     leagues[ league_code ][0] += 1
 
       ## for debugging print match line for some codes
       if ['FTSBLR1'].include?( league_code )
@@ -63,6 +34,7 @@ programs.each do |program|
       end
    end
 end
+
 
 sorted_leagues = leagues.to_a.sort do |l,r|
   ## sort by 1) counter 2) league a-z code
@@ -73,11 +45,9 @@ end
 
 
 
-
-
-
 ## mark unknown season
-puts "sorted (#{sorted_leagues.size}) - #{programs.join(' ')}:"
+puts
+puts "sorted - #{sorted_leagues.size} league(s) in #{programs.size} program(s):"
 sorted_leagues.each do |l|
   m = LEAGUES.match( l[0] )
   if m.size > 0
