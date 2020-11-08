@@ -21,6 +21,7 @@ HOCKEY_LEAGUES = [
   'EH SWE',  # Schweden Elitserien
   'EH ALP',  # Alps Hockey League
   'EH SUI',  # Schweiz National League A
+  'EHSUIC',  # Schweiz, Cup
   'EH FIN',  # Finnland SM-Liiga
   'EH ENG',  # England, Elite League
   'EH CZE',  # Tschechische Republik Extraliga
@@ -31,6 +32,7 @@ HOCKEY_LEAGUES = [
   'EH FS',   # Freundschaftsspiele, Herren
   'EH NOR',  # Norwegen GET-Ligaen
   'EH SVK',  # Slowakei Extraliga
+  'EHU20WM', # Weltmeisterschaft U20
 ]
 
 HANDBALL_LEAGUES = [
@@ -39,11 +41,14 @@ HANDBALL_LEAGUES = [
   'HB FS',   # Freundschaftsspiele, Herren
   'HB AUT',  # Österreich HLA
   'HB GER',  # Deutsche Handball Bundesliga
-  'HBAUTSC', # Handball Supercup Österreich
+  'HB GERC', # Deutschland DHB Pokal
   'HBGERSC', # Deutschland Supercup
+  'HBAUTSC', # Handball Supercup Österreich
   'EHF EUC', # EHF EURO Cup
   'HB CL',   # Champions League, Herren
+  'HB EHF',  # EHF Cup, Herren
   'HBWMQD',  # Weltmeisterschaft, Qualifikation, Damen
+  'HB EMDA', # Europameisterschaft Frauen
 ]
 
 BASKETBALL_LEAGUES = [
@@ -56,6 +61,7 @@ BASKETBALL_LEAGUES = [
   'BB FRA',  # Frankreich Pro A
   'BB POR',  # Portugal, LPB
   'BB WM',   # FIBA Weltmeisterschaft
+  'BB EMQ',  # Europameisterschaft, Qualifikation
   'BB EL',   # Euroleague
   'BB BEL',  # Belgien Scooore League
   'BB CL',   # Basketball Champions League
@@ -70,6 +76,8 @@ BASKETBALL_LEAGUES = [
 WINTER_LEAGUES = [
   'HE-SL',   # Ski Alpin, Herren Slalom
   'HE-RTL',  # Ski Alpin, Herren Riesentorlauf
+  'DA-RTL',  # Ski Alpin, Damen Riesentorlauf
+  'DA-SL',   # Ski Alpin, Damen Slalom
 ]
 
 MORE_LEAGUES = [
@@ -77,6 +85,7 @@ MORE_LEAGUES = [
   'AFB AFL',  # Austrian Football League
   'RUG WM',   # Rugby Union WM
   'VB EM H',  # Volleyball Europameisterschaft Herren
+  'VB CL',    # Champions League Männer
   'TEN ATP',  # Tennis ATP
   'TEN WTA',  # Tennis WTA
   'TEN AUT',  # Austrian Pro, Einzel, Herren
@@ -84,6 +93,7 @@ MORE_LEAGUES = [
   'DA INT',   # Darts, International
   'DART HO',  # Darts, PDC Home Tour (best of 9 Legs)
   'DART CZ',  # Czech Darts Premier League
+  'DART WM',  # Darts PDC Weltmeisterschaft
   'CAND',     # Candidates 2020      -- World Chess
 ]
 
@@ -114,6 +124,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'EMQDA',      # EM Qualifikation, Damen
   'U19 DAQ',    # U19 EM Frauen, Qualifikation
   'WM DAM',     # Damen WM 2019 in Frankreich
+  'WMQ DA',     # WM Qualifikation Frauen, Europa
 
   ## todo/fix: move to clubs leagues (women) - why? why not?
   'CL DAM',     # UEFA Champions League Damen

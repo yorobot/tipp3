@@ -13,13 +13,14 @@ LEAGUES = SportDb::Import.catalog.leagues
 
 
 
-require_relative 'programs'
-require_relative 'config'
+require_relative 'config/programs'
+require_relative 'config/leagues'
 
 
 leagues = {}    ## track league usage & names
 
-programs = PROGRAMS_2020
+
+programs = PROGRAMS_2018
 # programs = PROGRAMS_2019
 programs.each do |program|
    recs = CsvHash.read( "datasets/#{program}.csv", :header_converters => :symbol )
