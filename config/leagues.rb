@@ -13,6 +13,9 @@ EXTRA_LEAGUE_MAPPINGS = {
   'TUR 2KI'  => 'TUR 3 KI',
   'TUR PO'   => 'TUR 3 PLAYOFFS',
 
+  'ROU 2A'   => 'ROU 3 A',    # double check names for level 1, level 2, level 3 -
+                              # note: there's NO seria 1/2/3/4 split in liga 2 only in liga 3
+
   ## 'FA TRO' => 'ENG FA TRO',  ## England FA Trophy
 }
 

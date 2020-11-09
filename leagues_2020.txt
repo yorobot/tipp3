@@ -1,3 +1,4 @@
+sorted - 223 league(s) in 87 program(s):
        393 GER BL   Deutschland Bundesliga
        349 UEFA EL  UEFA Europa League
        299 ENG PL   England Premier League
@@ -138,7 +139,7 @@
          6 BEL 2    Belgium Tweede Klasse
          6 ISR LCP  Israel, League Cup Premier
          6 ROU CUP  Rumänien Cup
-!!!      5 ANG 1    Angola Girabola
+         5 ANG 1    Angola Girabola
          5 BEL CUP  Belgium Beker van Belgie
          5 BUL CUP  Bulgarien Cup
          5 COL 1    Kolumbien Primera Liga
@@ -147,24 +148,24 @@
          5 ITA C1C  Italien, Lega Pro Prima Divisione, Girone C
          5 PAR 1    Paraguay Primera Division
          5 SUI CUP  Schweiz Cup
-!!!      5 TZA PL   Tansania Premier League
+         5 TZA PL   Tansania Premier League
          5 VIE CUP  Vietnam Cup
          4 CCC CL   CONCACAF Champions League
          4 COL COP  Copa Colombia
          4 FA TRO   England FA Trophy
 (*)      4 HKG RES  Hongkong, Reserve Division
-!!!      4 KOR CUP  Südkorea FA Cup
-!!!      4 MMR 1    Myanmar National League
+         4 KOR CUP  Südkorea FA Cup
+         4 MMR 1    Myanmar National League
          4 RL VBG   Eliteliga Vorarlberg
-!!!      4 ROU 2A   Rumänien Liga 2, Seria 1
+         4 ROU 3 A  Rumänien Liga 2, Seria 1
          4 SCO 1    Schottland League One
          4 SVK CUP  Slowakei Cup
-!!!      3 CHI 2    Chile, Primera B
+         3 CHI 2    Chile, Primera B
          3 COPA MX  Mexiko, Copa MX
          3 CRO CUP  Kroatien Croatian Cup
          3 ENG COM  England Community Shield
          3 GRE 2    Griechenland Super League 2
-!!!      3 MAR 1    Marokko, 1. Liga
+         3 MAR 1    Marokko, 1. Liga
          3 NIRL 1   Nordirland JJB Sports Premiership
          3 POR LC   Portugal Carlsberg Cup
          3 ROU 2    Rumänien, Liga 2
@@ -176,36 +177,36 @@
          2 BOS CUP  Bosnien Cup
 (*)      2 EMQDA    EM Qualifikation, Damen
 (*)      2 FLOR C   Florida Cup
-!!!      2 GAZ C    Palästina, Gaza-Streifen Cup
+         2 GAZ C    Palästina, Gaza-Streifen Cup
          2 GER SC   Deutschland Supercup
 (*)      2 INT D    International, Damen
 (*)      2 INT FSD  Internationale Freundschaftsspiele, Damen
          2 ISR SC   Israel Supercup
-!!!      2 NED CoT  Eredivisie Comeback Tournament
+         2 NED CoT  Eredivisie Comeback Tournament
          2 NIRLCUP  Nordirland JJB Sports Irish Cup
          2 NOR 3    Norwegen 2. Division, avd. 2
-!!!      2 OMA SC   Oman, Sultan Cup
-!!!      2 PLE 1    Palästina, West Bank League
-!!!      2 POL 3    Polen, II Liga
+         2 OMA SC   Oman, Sultan Cup
+         2 PLE 1    Palästina, West Bank League
+         2 POL 3    Polen, II Liga
          2 POL SC   Polen Supercup
          2 QAT 1    Katar, Stars League
          2 RECOPA   Recopa Sudamericana
          2 SLO CUP  Slowenien Cup
-!!!      2 TAJ SC   Tadschikistan Super Cup
+         2 TAJ SC   Tadschikistan Super Cup
          2 TUR 3 KI Türkei, 2.Lig, Kirmizi Gruppe
          2 UEFA SC  UEFA Super Cup
 (*)      2 UEFA YL  UEFA Youth League
          2 URU 1    Uruguay Primera Division
-!!!      1 ARG BNA  Argentinien Primera Nacional B
+         1 ARG BNA  Argentinien Primera Nacional B
          1 ARM 1    Armenien Premier League
-!!!      1 AUSQPR   Australien, Queensland Premier
-!!!      1 BAH      Bahrain Premier League
+         1 AUSQPR   Australien, Queensland Premier
+         1 BAH      Bahrain Premier League
          1 BRA 2    Brasilien Brasilero Serie B
          1 BRA CUP  Brasilien Cup
          1 BUL SC   Bulgarien Supercup
 (*)      1 CFS DA   Klub-Freundschaftsspiele, Damen
 (*)      1 COPA CA  Copa Centroamericana
-!!!      1 EG SC    Ägypten, Supercup
+         1 EG SC    Ägypten, Supercup
 (*)      1 GER DA   Deutschland Frauen Bundesliga
          1 IND SL   Indian Super League
          1 IRL LC   Irland League Cup
@@ -222,4 +223,4 @@
          1 UZB 1    Usbekistan PFL
          1 VIE 1    Vietnam V-League
 
-(*): national team and/or women leagues - AFR CQ, AFR CUP, ALGARVE, ASICUP, AUT DA, CCC NL, CFS DA, CL DAM, COPA AM, COPA CA, DA CUP, EM Q, EMQDA, EMR CUP, FLOR C, FS, FS U20, FS U21, G-CUP, GER DA, GOLF-C, HKG RES, INT CHC, INT D, INT FS, INT FSD, INTDCYP, NIC U20, PL ASIA, U19 DAQ, U19 EM, U19 EMQ, U20 WM, U21 EM, U21 EMQ, UEFA NL, UEFA YL, WM DAM, WM Q, WMQ DA
+(*): national team and/or women leagues - AFR CQ, AFR CUP, ALGARVE, ASICUP, AUT DA, CCC NL, CFS DA, CL DAM, COPA AM, COPA CA, DA CUP, EM Q, EMQDA, EMR CUP, FLOR C, FS, FS U20, FS U21, G-CUP, GER DA, GOLF-C, HKG RES, INT CHC, INT D, INT FS, INT FSD, INTDCYP, NIC U20, PL ASIA, SUZ CUP, U19 DAQ, U19 EM, U19 EMQ, U20 WM, U21 EM, U21 EMQ, UEFA NL, UEFA YL, WM DAM, WM Q, WMQ DA

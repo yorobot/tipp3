@@ -31,7 +31,7 @@ EXTRA_COUNTRY_MAPPINGS = {
 
 league_names = {}   ## lookup league name by league code
 
-year = 2018
+year = 2020
 programs = Programs.year( year )  ## 2018, 2019, 2020
 programs.each do |program|
   puts "#{program.size} rec(s) - #{program.name}:"
@@ -51,8 +51,9 @@ programs.each do |program|
        team2 = team2.gsub( '*', '' )
 
        ## skip matches with  possible +1/+2/+3/+4/+5/-1/-2/-3/.. handicap
-       if team1 =~ /[+-][12345]/ ||
-          team2 =~ /[+-][12345]/
+       ##  e.g.   1. FC Düren+6
+       if team1 =~ /[+-][123456]/ ||
+          team2 =~ /[+-][123456]/
           puts "skip match with handicap"   # note: int'l matches with handicap miss three-letter country code
           next
        end
@@ -100,16 +101,27 @@ programs.each do |program|
            teams = teams.map do |team|
               if team == 'Al Hilal FC'   ## used in 2019-51a_tue-dec-17 for KLUB WM
                 team = 'Al Hilal FC KSA'
+              elsif team == 'AL Wahda SCC'  ## check why SCC (=> sport cultural club)- (country or part of name)
+                team = 'Al Wahda SCC UAE'   ## United Arab Emirates
               elsif team == 'CF Monterrey'
                 team = 'CF Monterrey MEX' ## used in 2019-51a_tue-dec-17 for KLUB WM
               elsif team == 'Guabira Montero'
                 team = 'Guabira Montero BOL'
-              elsif team == 'AL Wahda SCC'  ## check why SCC ?? (country or part of name)
-                team = 'AL Wahda SCC UAE'   ## United Arab Emirates
+              elsif team == 'Kolos Kovalivka'
+                team = 'Kolos Kovalivka UKR'
+              elsif team == 'FC Bayern München'
+                team = 'FC Bayern München GER'
+              elsif team == 'Bayer Leverkusen'
+                team = 'Bayer Leverkusen GER'
+              elsif team == 'Wolverhampton'
+                team = 'Wolverhampton ENG'
+              elsif team == 'FC Basel'
+                team = 'FC Basel SUI'
               else
                 team
               end
            end
+
 
            teams.each do |team|
              if team =~ /^(.+)[ ]+([A-Z]{3})$/

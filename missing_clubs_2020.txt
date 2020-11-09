@@ -1,78 +1,310 @@
-League TURK 1 (8) - >Turkmenistan 1. Liga<:
-  Nebitci Balkanabat
-  Ahal FC
-  Merw Mary
-  Altyn Asyr FC
+League NOR 2 (3) - >Norwegen Adeccoligaen<:
+  Stjordals-Blink
+  Grorud IL
+  Oeygarden FK
+League FRA 3 (8) - >Frankreich National<:
+  Boulogne Sur Mer
+  FC Sete 34
+  FC Bastia Borgo
+  Avranches
+  Cholet
+  Lyon Duchere
+  Concarneau
+  Red Star FC 93
+League CZE CUP (1) - >Tschechien Cup<:
+  SK Lisen
+League SWE 3S (1) - >Schweden Div 1 Södra<:
+  IFK Värnamo
+League ITA C1A (3) - >Italien Lega Pro Prima Divisione, Girone A<:
+  Alessandria Calcio
+  Pergolettese 1932
+  U23 Juventus
+League ISL 2 (7) - >Island 2. Liga<:
+  Vikingur Olafsvik
+  Throttur Reykjavik
+  Magni
+  Afturelding
+  Leiknir Reykjavik
+  IF Vestri
+  L. Faskrudsfjördur
+League PER 1 (3) - >Peru Primera Division<:
+  FC Carlos Stein
+  Club Cienciano
+  Dep. Binacional
+League ITA CUP (1) - >Italien Coppa Italia<:
+  AC Monopoli
+League BEL 2 (2) - >Belgium Tweede Klasse<:
+  MSK Deinze
+  KFC Oosterzonen
+League UEFA EL (45) - >UEFA Europa League<:
+  Ararat-Arm., Armenia (am)
+  B.Podgorica, Montenegro (me)
+  FC Lokomotivi, Georgia (ge)
+  Shk.Tetovo, North Macedonia (mk)
+  FC Sheriff T., Moldova (md)
+  Dinamo Tiflis, Georgia (ge)
+  Desna Tscherni, Ukraine (ua)
+  Dunajska Str., Slovakia (sk)
+  Anorthosis F., Cyprus (cy)
+  K.Kovalivka, Ukraine (ua)
+  FC Qaisar Qys, Kazakhstan (kz)
+  Lok. Plovdiv, Bulgaria (bg)
+  Zalg. Vilnius, Lithuania (lt)
+  Ol. Ljubljana, Slovenia (si)
+  FC Sfintul Gh, Moldova (md)
+  Inter Club DE, Andorra (ad)
+  FK Sileks Kra, North Macedonia (mk)
+  Borac Banja L., Bosnia and Herzegovina (ba)
+  KS Kukesi, Albania (al)
+  FK Topola, Serbia (rs)
+  FC Derry City, Ireland (ie)
+  Ordabassy Sch., Kazakhstan (kz)
+  FC Noah, Armenia (am)
+  Sutj. Niksic, Montenegro (me)
+  Shkupi Skopje, North Macedonia (mk)
+  Sab.Tiflis, Georgia (ge)
+  Zalg. Kaunas, Lithuania (lt)
+  Sumgayit FK, Azerbaijan (az)
+  SC Gjilani, Kosovo (xk)
+  Vikingur Reykj, Iceland (is)
+  Paide Linnam., Estonia (ee)
+  FK Keshla, Azerbaijan (az)
+  Cracovia Krak., Poland (pl)
+  Hafnarfjördur, Iceland (is)
+  Sh. Soligorsk, Belarus (by)
+  FC Sfintul Ghe, Moldova (md)
+  FC Petrocub, Moldova (md)
+  PFC Slavia Sof, Bulgaria (bg)
+  Levadia Tall., Estonia (ee)
+  FK Iskra Danil, Montenegro (me)
+  Tampereen Ilve, Finland (fi)
+  Rigas Fb.Sk, Latvia (lv)
+  FC Pristina, Kosovo (xk)
+  FK Zeta Golubo, Montenegro (me)
+  FC Santa Colom, Andorra (ad)
+League ROU 2 (2) - >Rumänien, Liga 2<:
+  FC Unirea 2004 Slo
+  Farul Constanta
+League BLR 1 (5) - >Weißrussland Premier League<:
+  FC Smolevichi
+  FC Slutsk
+  Energet. BGU Minsk
+  FC Rukh Brest
+  E.BGU Minsk
+League RUS CUP (5) - >Russland Russian Cup<:
+  Leningradets
+  Mashuk Pyatigorsk
+  FC Volga Ulyanovsk
+  Rodina Moskau
+  Chernomorets N.
+League COPA L (1) - >Copa Libertadores<:
+  Defensa y Jus., Argentina (ar)
+League UKR 1 (1) - >Ukraine Premier League<:
+  Desna Tschernihiw
+League SERB 1 (10) - >Serbien Meridijan Superliga<:
+  Cukaricki Belgrad
+  FK Javor Ivanjica
+  FK Rad Belgrad
+  FK Novi Pazar
+  FK Indija
+  FK Metalac GM
+  FK Zlatibor
+  FK Backa Palanka
+  FK Radnik Surdulic
+  FK Backa Topola
+League RUS 2 (3) - >Russland 1. Division<:
+  Akron Tolyatti
+  FC Irtysh Omsk
+  FC Dynamo Bryansk
+League ISR 2 (2) - >Israel National League<:
+  Hap.Kfar Shalem
+  Hapoel Iksal Imad
+League POL 2 (9) - >Polen I Liga<:
+  KS Widzew Lodz
+  Radomiak Radom
+  Nieciecza KS
+  Olimpia Grudziadz
+  GKS Jastrzebie Z.
+  Sandecja
+  Pusz. Niepolomice
+  Chojnicz. Chojnice
+  Wigry Suwalki
+League FIN 2 (6) - >Finnland Ykkonen<:
+  IF Gnistan
+  SJK Akatemia
+  Musa Pori
+  Mypa Myllykoski
+  Mikkelin Pall.
+  AC Kajaani
+League NOR 3 (3) - >Norwegen 2. Division, avd. 2<:
+  FK Arendal
+  Odd Grenland 2
+  Rosenborg BK 2
+League UEFA CL Q (4) - >UEFA Champions League, Qualifikation<:
+  FC Sheriff T., Moldova (md)
+  FK Sileks Krat, North Macedonia (mk)
+  Dinamo Tiflis, Georgia (ge)
+  B.Podgorica, Montenegro (me)
+League AUS 1 (1) - >Australien Hyundai A-League<:
+  Wellington Ph.
+League SWE CUP (10) - >Schweden Cup<:
+  Assyriska IF I Nor
+  Oskarshamns AIK
+  Enskede IK
+  Taby FK
+  Karlbergs BK
+  Stenungsunds IF
+  Kristianstad FC
+  Torns IF
+  FC Rosengaard
+  Sandvikens IF
+League IRL 2 (3) - >Irland First Division<:
+  FC Bray Wanderers
+  Shamrock Rovers II
+  FC Drogheda United
+League JPN 2 (13) - >Japan J.League 2<:
+  JEF Utd Ichihara
+  Kyoto Sanga FC
+  Mito Hollyhock
+  Niigata Albirex
+  Renofa Yamaguchi
+  Giravanz Kitakyush
+  Zweigen Kanazawa
+  Ehime FC
+  Thespakusatsu
+  Machida Zelvia
+  FC Ryukyu
+  Tochigi SC
+  Fagiano Okayama
+League POL CUP (3) - >Polen Cup<:
+  Stal Stalowa Wola
+  KS Sleza Wroclaw
+  Wigry Suwalki
+League LIT 1 (2) - >Litauen A lyga<:
+  FK Panevezys
+  FK Banga Gargzdai
+League IRI 1 (6) - >Iran Pro League<:
+  Foolad Khuzestan
+  Tractor Sazi
+  Esteghlal Tehran
+  Foolad Mobarakeh S
+  Shahr Khodro FC
+  Nassaji Mazandaran
+League LAT 1 (1) - >Lettland LMT Virsliga<:
+  FK Tukums 2000
+League QAT 1 (3) - >Katar, Stars League<:
+  AL Sailiya SC
+  AL Arabi Doha SC
+  AL Wakrah
+League HUN 2 (12) - >Ungarn NB II<:
+  FC Dorogi
+  Soroksar SC
+  Budaörsi SC
+  Aqvital FC Csákvár
+  Szeged-Csanad Gros
+  Nyiregyhaza FC
+  Kazincbarcikai SC
+  FC Ajka
+  Haladas Szombat.
+  Szolnoki Mav FC
+  Gyirmot SE
+  SC Vasas Budapest
+League SUI CUP (2) - >Schweiz Cup<:
+  FC Bavois
+  Rapperswil-Jona
+League CRO 1 (1) - >Kroatien 1. HNL<:
+  HNK Orijent 1919
+League POL 3 (3) - >Polen, II Liga<:
+  Bytovia Bytow
+  Resovia Rzeszow
+  ZKS Stal Rzeszow
+League FRO 1 (1) - >Färöer Inseln Premier League<:
+  TB Tvoeroyri
+League TUR 3 PLAYOFFS (1) - >Türkei 2. Liga Play Offs<:
+  Manisa BB
+League MAR 1 (6) - >Marokko, 1. Liga<:
+  Wydad Casablanca
+  Mouloudia Oujd
+  Difaa Hassani J.
+  RSB Berkane
+  Raja Casablanca At
+  Khemis Zemamra
+League VIE 1 (2) - >Vietnam V-League<:
+  The Cong
+  Sai Gon FC
+League ISL CUP (1) - >Island Cup<:
+  Afturelding
+League SWE 3N (1) - >Schweden Div 1 Norra<:
+  Karlstad BK
+League CZE 2 (9) - >Tschechien 1. Division<:
+  FK Fotbal Trinec
+  Pardubice
+  AFK Chrudim
+  FC Graffin Vlasim
+  1.SK Prostejov
+  FK Varnsdorf
+  FK Slavoj Vysehrad
+  FK Banik Sokolov
+  SK Lisen
+League ARM 1 (1) - >Armenien Premier League<:
+  FC Pyunik Yerevan
+League ISR CUP (1) - >Israel Cup<:
+  M. Petach Tikva
+League SER CUP (3) - >Serbien Cup<:
+  Cukaricki Belgrad
+  FK Indija
+  FK Radnik Surdulic
+League TURK 1 (14) - >Turkmenistan 1. Liga<:
   FC Asgabat
-  Shagadam Turkmen.
+  Merw Mary
   FC Energetik Mary
+  Nebitci Balkanabat
   Kopetdag Asgabat
-League BLR RES (16) - >Weißrussland Reserve Liga<:
-  FC Minsk Reserve
+  Altyn Asyr FC
+  Shagadam Turkmen.
+  Ahal FC
+  Altyn Asyr FK
+  Ahal FK
+  Sagadam FK
+  FK Balkan Nebitci
+  Energetik FK Mary
+  Merw FK
+League BLR RES (18) - >Weißrussland Reserve Liga<:
+  FC Isloch Reserve
+  Energetik Minsk Re
+  FC Slutsk Reserve
+  Rukh Brest Reserve
+  FC Vitebsk Reserve
+  Din Minsk Reserve
   Neman Grodno Res.
   Torpedo Zhodino Re
-  Gorodeya Reserve
-  Bate Borisov Reser
-  FC Slutsk Reserve
-  Energetik Minsk Re
-  Dinamo Brest Reser
   Sh. Soligorsk Rese
-  Sl. Mozyr Reserve
-  Din Minsk Reserve
-  FC Isloch Reserve
-  Rukh Brest Reserve
-  FC Smolevichi Res
   Belshina B. Res.
-  FC Vitebsk Reserve
-League KOR 1 (4) - >Südkorea K-League 1<:
-  Sangju Sangmu Pho.
-  Pohang Steelers FC
-  Jeonbuk Hyundai
-  Gwangju FC
-League KOR 2 (7) - >Südkorea, K-League 2<:
-  Ansan Greeners
-  Suwon FC
-  Jeonnam Dragons
-  FC Bucheon
-  FC Anyang
-  Seoul E-Land FC
-  Chungnam Asan FC
-League BLR 1 (4) - >Weißrussland Premier League<:
-  Energet. BGU Minsk
-  FC Slutsk
-  FC Rukh Brest
-  FC Smolevichi
-League BLR 2 (10) - >Weißrussland Pervaya Liga<:
-  FC Orsha
+  Dinamo Brest Reser
+  Bate Borisov Reser
+  Sl. Mozyr Reserve
+  Gorodeya Reserve
+  FC Smolevichi Res
+  FC Minsk Reserve
+  Energetik Minsk R
+  RES Vitebsk
+League EST 1 (2) - >Estland Meistriliiga<:
+  Paide Linnameesk.
+  Tallinna JK Legion
+League BLR 2 (13) - >Weißrussland Pervaya Liga<:
   FC Granit Mikashev
   FC Lida
+  FK Volna Pinsk
+  FC Orsha
   FC Oshmyany
   FC NFK Minsk
   Naftan Novopolotsk
   FC Slonim
   FK Smorgon
   Sputnik Rechica
-  FK Volna Pinsk
-League FRO 1 (2) - >Färöer Inseln Premier League<:
-  TB Tvoeroyri
-  Vikingur Gota
-League TWN 1 (8) - >Taiwan Football Premier League<:
-  Taichung Futuro FC
-  FC Taicheng Lions
-  National Taiwan Un
-  Taiwan Power Co.
-  Tainan City FC
-  Hang Yuen
-  Ming Chuan Univ.
-  Tatung FC
-League EST 1 (2) - >Estland Meistriliiga<:
-  Tallinna JK Legion
-  Paide Linnameesk.
-League CRC 1 (1) - >Costa Rica Primera División<:
-  Uni. de Costa Rica
-League BUR 1 (2) - >Burundi 1.Liga<:
-  Musongati FC
-  Athletico Olympic
+  FC Khimik Svetlogo
+  Arsenal Dzerzhinsk
+  Lokomotiv Gomel
 League VIE CUP (10) - >Vietnam Cup<:
   FC Dong Thap
   Hai Phong FC
@@ -84,52 +316,260 @@ League VIE CUP (10) - >Vietnam Cup<:
   Dak Lak FC
   Hong Linh Ha Tinh
   XM Fico TAY Ninh
-League CZE 2 (9) - >Tschechien 1. Division<:
-  FK Varnsdorf
-  FK Banik Sokolov
-  FK Slavoj Vysehrad
-  FK Fotbal Trinec
-  AFK Chrudim
-  SK Lisen
-  FC Graffin Vlasim
-  Pardubice
-  1.SK Prostejov
+League BUR 1 (16) - >Burundi 1.Liga<:
+  Musongati FC
+  Athletico Olympic
+  LLB Academic
+  Bujumbura City
+  Le Messager Ngozi
+  Sport Dynamic
+  Rukinzo FC
+  AS Inter Star
+  Ngozi City
+  Vitalo FC
+  Kayanza United
+  Flambeau du Centre
+  Les Lierres
+  Bumamuru FC
+  Aigle Noir CS
+  Olympic Star
+League KOR 2 (7) - >Südkorea, K-League 2<:
+  Ansan Greeners
+  Suwon FC
+  Jeonnam Dragons
+  FC Bucheon
+  FC Anyang
+  Seoul E-Land FC
+  Chungnam Asan FC
+League TWN 1 (9) - >Taiwan Football Premier League<:
+  Taichung Futuro FC
+  FC Taicheng Lions
+  National Taiwan Un
+  Taiwan Power Co.
+  Tainan City FC
+  Hang Yuen
+  Ming Chuan Univ.
+  Tatung FC
+  National Taiwan
+League NIC 1 (9) - >Nicaragua Primera Division<:
+  Managua FC
+  Municipal Jalapa
+  CD Walter Ferretti
+  Diriangen FC
+  Real Madriz
+  Las Sabanas CF
+  Juventus Managua
+  Chinandega FC
+  CD Ocotal
+League BLR 3 (19) - >Weißrussland Vtoraya Liga<:
+  FK Bumprom
+  FC Zhlobin
+  Smiavtotrans
+  Vik.Maryina Gorka
+  Energetik Bgatu
+  FK Kronon Stolbtsy
+  Melio. Zhitkovichi
+  FC Ostrovets
+  FK Polock 2019
+  Dnepr Rohachev
+  FC Gorki
+  Shakhtar2 Petrikov
+  FK Baranovichi
+  Ivatsevichi
+  Pers.R.Kaverdyaki
+  FC Osipovichi
+  Dinamo Brest 1960
+  Stenles Pinsk
+  Chaika Zelva
+League TAJ 1 (11) - >Tadschikistan 1. Liga<:
+  FK Istiklol
+  FC Kuktosh
+  FC Khujand
+  Regar-TadAZ
+  Faizkand
+  Istaravshan
+  Lokomotiv-Pamir
+  FC Khatlon
+  Dushanbe 83
+  CSKA Pamir Dushanb
+  FC Khudzhand
+League TAJ SC (2) - >Tadschikistan Super Cup<:
+  FK Istiklol
+  FC Khujand
+League MMR 1 (8) - >Myanmar National League<:
+  Shan United FC
+  Southern Myanmar
+  FC Magwe
+  Yangon United
+  Yadanarbon
+  Ispe FC
+  Ayeyawady United
+  Rakhine United
+League GAZ C (4) - >Palästina, Gaza-Streifen Cup<:
+  Gaza El Riyadi
+  Hilal Gaza
+  Shabab Khanyounis
+  Namaa
+League SIN 1 (4) - >Singapur S.League<:
+  Tanjong Pagar Utd
+  Tampines Rovers FC
+  Lion City Sailors
+  Houang United FC
+League TUR 3 KI (3) - >Türkei, 2.Lig, Kirmizi Gruppe<:
+  Utas Usakspor A.S
+  Belediye Vanspor
+  Ergene Velimese
+League ANG 1 (10) - >Angola Girabola<:
+  Bravos do Maquis
+  At. Pet. Luanda
+  Sagrada Esperanca
+  CD Huila
+  GD Interclube
+  CRD Libolo
+  CR Caala
+  Sporting Cabinda
+  Ferrovia do Huambo
+  PA Sambizanga
+League TUR 3 B (10) - >Turkei, 2.Lig, Beyaz Gruppe<:
+  Zonguldakspor
+  Konya Sekerspor
+  Kirklarelispor
+  Bugsasspor
+  Inegölspor
+  Pendikspor
+  Manisa BB
+  Afjet Afyonspor
+  Hekimoglu Trabzon
+  Gümüshane Dogansp.
+League PLE 1 (4) - >Palästina, West Bank League<:
+  Ahli Al-Khalil
+  Thaqafi Tulkarem
+  Hilal Al-Quds Club
+  Markez Balata
+League OMA SC (4) - >Oman, Sultan Cup<:
+  Al-Orouba SC
+  Ibri
+  Dhofar Club
+  AL Nahda
+League BAH (2) - >Bahrain Premier League<:
+  Al-Muharraq SC
+  Al-Rifaa
+League ARG BNA (2) - >Argentinien Primera Nacional B<:
+  GyE Mendoza
+  CA Sarmiento
+League CHI 2 (6) - >Chile, Primera B<:
+  San Luis d.Quilota
+  CD Copiapo
+  Deportes Puerto Mo
+  Santiago Morning
+  Union San Felipe
+  CD Santa Cruz
+League ARG CUP (3) - >Argentinien Cup<:
+  Villa Mitre B.B.
+  Def.Belgrano
+  Almirante Brown
+League AUSQPR (2) - >Australien, Queensland Premier<:
+  Brisbane City FC
+  Peninsula Power FC
+League TZA PL (10) - >Tansania Premier League<:
+  Mbeya City FC
+  Alliance FC
+  Ndanda FC
+  Biashara Utd Mara
+  Coastal Union FC
+  Mtibwa Sugar FC
+  Namungo FC
+  Kagera Sugar
+  Polisi Tanzania FC
+  Lipuli FC
+League RSA 2 (2) - >Südafrica, National First Division<:
+  Richards Bay FC
+  TS Sporting FC
+League CRC ASC (16) - >Costa Rica, Liga de Ascenso<:
+  Puntarenas FC
+  CD Barrio Mexico
+  Aserri FC
+  Municipal Liberia
+  AD Carmelita
+  AD Guanacasteca
+  D.Cart. Guanacaste
+  Santa Rosa FC
+  Municipal Garabito
+  Mun.Turrialba
+  Curridabat FC
+  Mun.Santa Ana
+  Sporting San Jose
+  Juv. Escazucena
+  Fb Cons. Moravia
+  Uruguay Coronado
+League NGA 1 (20) - >Nigeria Premier League<:
+  Sunshine Stars
+  Katsina United
+  Lobi Stars
+  FC Ifeanyi Ubah
+  MFM FC
+  Abia Warriors
+  Wikki Tourists FC
+  Kano Pillars FC
+  Nasarawa United
+  Akwa United FC
+  Dakkada Inter
+  Enugu Rangers
+  Adamawa United
+  Enyimba
+  Jigawa GS
+  Heartland Owerri
+  Rivers United FC
+  Warri Wolves FC
+  Plateau United
+  Kwara United
+League COL COP (7) - >Copa Colombia<:
+  Leones FC
+  UM Santa Marta
+  Real Cartagena FC
+  Tigres FC
+  FC Fortaleza
+  Deportes Quindio
+  Real San Andres
+League UZB 1 (2) - >Usbekistan PFL<:
+  Qizilqum Zarafshon
+  FK Agmk
+League GRE 2 (2) - >Griechenland Super League 2<:
+  Karaiskakis
+  APO Levadiakos FC
+League IRL LC (1) - >Irland League Cup<:
+  Cockhill Celtic
+League CCC CL (1) - >CONCACAF Champions League<:
+  Montreal Impac, United States (us)
 League HUN CUP (2) - >Ungarn Cup<:
-  Mezokovesd Zsory S
-  MTK Budapest FC
-League SERB 1 (6) - >Serbien Meridijan Superliga<:
-  FK Indija
-  Cukaricki Belgrad
-  FK Rad Belgrad
-  FK Radnik Surdulic
-  FK Backa Topola
-  FK Javor Ivanjica
-League HUN 1 (2) - >Ungarn NB I<:
-  Diosgyör VTK
-  Mezokovesd Zsory S
-League ISR 2 (2) - >Israel National League<:
-  Katamon Jerusalem
-  Umm al-Fahm
-League POL 2 (8) - >Polen I Liga<:
-  Pusz. Niepolomice
-  Chojnicz. Chojnice
-  Sandecja
-  Nieciecza KS
-  Wigry Suwalki
-  GKS Jastrzebie Z.
-  Olimpia Grudziadz
-  Radomiak Radom
-League SER CUP (3) - >Serbien Cup<:
-  FK Indija
-  Cukaricki Belgrad
-  FK Radnik Surdulic
-League UKR 1 (1) - >Ukraine Premier League<:
-  Desna Tschernihiw
-League GRE 1 (1) - >Griechenland Super League<:
-  OFI Kreta
-League ARM 1 (1) - >Armenien Premier League<:
-  FC Pyunik Yerevan
-League ISR CUP (1) - >Israel Cup<:
-  M. Petach Tikva
-League BUL 1 (1) - >Bulgarien Premier League<:
-  FK Arda Kurdzhali
+  FC Dorogi
+  Haladas Szombat.
+League ROU CUP (1) - >Rumänien Cup<:
+  FC Academica Clin
+League BOS CUP (1) - >Bosnien Cup<:
+  FK Tuzla City
+League CYP CUP (2) - >Zypern Cup<:
+  Doxa Katokopias
+  Digenis Akritas Mo
+League ITA C1B (3) - >Italien Lega Pro Prima Divisione, Girone B<:
+  Arz. Valchiampo
+  Imolese Calcio
+  V.Vecomp Verona
+League FRA CUP (4) - >Frankreich Coupe de France<:
+  ASM Belfortaine
+  Limonest FC
+  US Granville
+  St Pryve Hilaire
+League TUR CUP (1) - >Türkei Türkiye Kupasi<:
+  Kirklarelispor
+League ITA C1C (4) - >Italien, Lega Pro Prima Divisione, Girone C<:
+  Teramo Calcio
+  AC Monopoli
+  Virtus Francavilla
+  US Casertana 1908
+League ESP CUP (1) - >Spanien Copa del Rey<:
+  CD Ebro
+League POR CUP (1) - >Portugal Taca de Portugal<:
+  Canelas 2010
+League CYP 1 (1) - >Zypern 1. Division<:
+  Doxa Katokopias
