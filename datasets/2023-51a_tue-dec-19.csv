@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+19.12. 18:30,GER BL,SV Werder Bremen,1:1,RB Leipzig,Deutschland Bundesliga
+19.12. 18:30,GER BL,SV Werder Bremen+1,2:1,RB Leipzig,Deutschland Bundesliga
+19.12. 19:00,GER 3,Rot-Weiss Essen,3:2,Hallescher FC,Deutschland 3. Liga
+19.12. 19:00,GER 3,FC Ingolstadt,1:1,Erzgebirge Aue,Deutschland 3. Liga
+19.12. 19:00,GER 3,FC Saarbrücken,2:1,SSV Ulm 1846,Deutschland 3. Liga
+19.12. 19:00,GER 3,Unterhaching,1:2,Jahn Regensburg,Deutschland 3. Liga
+19.12. 19:00,GER 3,SV Sandhausen,1:2,VfB Lübeck,Deutschland 3. Liga
+19.12. 19:00,KLUB WM,Urawa RD JPN*,0:3,Man. City ENG,FIFA Klub WM
+19.12. 19:00,ESP 1,Rayo Vallecano,0:1,FC Valencia,Spanien La Liga
+19.12. 19:00,ESP 2,Racing Santander,2:0,Andorra FC,Spanien Segunda Division
+19.12. 19:00,ESP 2,Albacete Balompie,1:1,CD Eldense,Spanien Segunda Division
+19.12. 20:00,NL CUP,FC Dordrecht,0:3,SC Cambuur,Niederlande KNVB Cup
+19.12. 20:00,NL CUP,FC Eindhoven,0:2,Fortuna Sittard,Niederlande KNVB Cup
+19.12. 20:30,GER BL,TSG Hoffenheim,3:3,SV Darmstadt 98,Deutschland Bundesliga
+19.12. 20:30,GER BL,TSG Hoffenheim,3:4,SV Darmstadt 98+1,Deutschland Bundesliga
+19.12. 20:30,GER BL,Borussia Dortmund,1:1,FSV Mainz 05,Deutschland Bundesliga
+19.12. 20:30,GER BL,Borussia Dortmund,1:2,FSV Mainz 05+1,Deutschland Bundesliga
+19.12. 20:45,FRA 2,Concarneau,0:3,Grenoble Foot,Frankreich Ligue 2
+19.12. 20:45,FRA 2,Dunkerque,0:2,Bordeaux,Frankreich Ligue 2
+19.12. 20:45,FRA 2,Paris FC 98,2:2,US Quevilly Rouen,Frankreich Ligue 2
+19.12. 20:45,FRA 2,Stade Laval,1:3,AJ Auxerre,Frankreich Ligue 2
+19.12. 20:45,FRA 2,AS Saint Etienne,3:2,SC Bastia,Frankreich Ligue 2
+19.12. 20:45,FRA 2,SCO Angers,1:0,EA Guingamp,Frankreich Ligue 2
+19.12. 20:45,FRA 2,FC Pau,1:1,Troyes AC,Frankreich Ligue 2
+19.12. 20:45,FRA 2,AC Ajaccio,2:1,FC Valenciennes,Frankreich Ligue 2
+19.12. 20:45,FRA 2,Amiens SC,0:0,SM Caen,Frankreich Ligue 2
+19.12. 20:45,ENG LC,FC Everton,1:1,FC Fulham,England - EFL Cup
+19.12. 20:45,ENG LTR,FC Portsmouth,2:5,AFC Wimbledon,England Football League Trophy
+19.12. 20:45,ENG FA,FC Blackpool,3:0,Forest Green,England - FA Cup
+19.12. 20:45,ENG LC,Port Vale FC,0:3,Middlesbrough,England - EFL Cup
+19.12. 21:00,ENG LC,FC Chelsea,1:1,Newcastle United,England - EFL Cup
+19.12. 21:00,ITA CUP,SSC Napoli,0:4,Frosinone Calcio,Coppa Italia
+19.12. 21:00,NL CUP,Willem II Tilburg,1:3,FC Groningen,Niederlande KNVB Cup
+19.12. 21:30,ESP 1,Granada CF,0:3,FC Sevilla,Spanien La Liga
+19.12. 21:30,ESP 1,Atletico Madrid,3:3,Getafe CF,Spanien La Liga
+19.12. 21:30,ESP 2,Espanyol Barcelona,3:3,Burgos CF,Spanien Segunda Division
+19.12. 21:30,ESP 2,Elche CF,0:0,CD Mirandes,Spanien Segunda Division
+20.12. 18:00,TUR 1,Galatasaray,1:0,Karagümrük,Türkei Süper Lig
+20.12. 18:00,GRE 1,Volos NFC,0:3,Panathinaikos,Griechenland Super League
+20.12. 18:00,SERB 1,Partizan Belgrad,2:1,Roter Stern B.,Serbien Meridijan Superliga
+20.12. 18:30,GER BL,Union Berlin,2:0,1. FC Köln,Deutschland Bundesliga
+20.12. 18:30,GER BL,Union Berlin,2:1,1. FC Köln+1,Deutschland Bundesliga
+20.12. 19:00,GER 3,SC Verl,1:1,FC Viktoria Köln,Deutschland 3. Liga
+20.12. 19:00,GER 3,Bor. Dortmund II,abgesagt,Preussen Münster,Deutschland 3. Liga
+20.12. 19:00,GER 3,MSV Duisburg,4:2,SC Freiburg II,Deutschland 3. Liga
+20.12. 19:00,GER 3,W. Mannheim,1:0,TSV 1860 München,Deutschland 3. Liga
+20.12. 19:00,GER 3,Arminia Bielefeld,0:1,Dynamo Dresden,Deutschland 3. Liga
+20.12. 19:00,ESP 1,FC Barcelona,3:2,UD Almeria,Spanien La Liga
+20.12. 19:00,ESP 1,FC Barcelona,3:4,UD Almeria+2,Spanien La Liga
+20.12. 19:00,ESP 2,Real Saragossa,2:2,Levante UD,Spanien Segunda Division
+20.12. 19:15,EH AUT,EC KAC,1:1,EC RB Salzburg,win2day ICE Hockey League
+20.12. 19:15,EH AUT,Vienna Capitals,2:4,HC Bozen Foxes,win2day ICE Hockey League
+20.12. 19:45,EH AUT,HC Pustertal,4:6,HC Innsbruck,win2day ICE Hockey League
+20.12. 19:45,EH AUT,HC Asiago,0:4,EC Graz 99ers,win2day ICE Hockey League
+20.12. 20:30,GER BL,VfB Stuttgart,3:0,FC Augsburg,Deutschland Bundesliga
+20.12. 20:30,GER BL,VfB Stuttgart,3:1,FC Augsburg+1,Deutschland Bundesliga
+20.12. 20:30,GER BL,VfL Wolfsburg,1:2,Bayern München,Deutschland Bundesliga
+20.12. 20:30,GER BL,VfL Wolfsburg+1,2:2,Bayern München,Deutschland Bundesliga
+20.12. 20:30,GER BL,Eintr. Frankfurt,2:1,Mönchengladbach,Deutschland Bundesliga
+20.12. 20:30,GER BL,Eintr. Frankfurt,2:2,Mönchengladbach+1,Deutschland Bundesliga
+20.12. 20:30,GER BL,Bayer Leverkusen,4:0,VfL Bochum,Deutschland Bundesliga
+20.12. 20:30,GER BL,Bayer Leverkusen,4:1,VfL Bochum+1,Deutschland Bundesliga
+20.12. 20:30,GER BL,Bayer Leverkusen,4:2,VfL Bochum+2,Deutschland Bundesliga
+20.12. 20:30,GER BL,FC Heidenheim,3:2,SC Freiburg,Deutschland Bundesliga
+20.12. 20:45,BEL 1,YR KV Mechelen,3:0,Standard Lüttich,Belgien Jupiler Pro League
+20.12. 20:45,SCO PS,FC Aberdeen,2:1,FC Livingston,Schottland Premiership
+20.12. 20:45,SCO PS,Glasgow Rangers,2:0,FC St. Johnstone,Schottland Premiership
+20.12. 21:00,FRA 1,Stade Brest,4:0,FC Lorient,Frankreich Ligue 1
+20.12. 21:00,FRA 1,HSC Montpellier,1:1,Olymp. Marseille,Frankreich Ligue 1
+20.12. 21:00,FRA 1,Stade de Reims,1:0,Le Havre AC,Frankreich Ligue 1
+20.12. 21:00,FRA 1,Clermont Foot,1:3,Stade Rennes,Frankreich Ligue 1
+20.12. 21:00,FRA 1,OGC Nizza,2:0,RC Lens,Frankreich Ligue 1
+20.12. 21:00,FRA 1,Olympique Lyon,1:0,FC Nantes,Frankreich Ligue 1
+20.12. 21:00,FRA 1,FC Toulouse,1:2,AS Monaco,Frankreich Ligue 1
+20.12. 21:00,FRA 1,Racing Strasbourg,2:1,Lille OSC,Frankreich Ligue 1
+20.12. 21:00,FRA 1,Paris SG,3:1,FC Metz,Frankreich Ligue 1
+20.12. 21:00,ENG LC,FC Liverpool,5:1,West Ham United,England - EFL Cup
+20.12. 21:00,ENG LC,FC Liverpool,5:2,West Ham+1,England - EFL Cup
+20.12. 21:00,ITA CUP,Inter Mailand,0:0,Bologna FC,Coppa Italia
+20.12. 21:00,NL CUP,Feyenoord,2:1,FC Utrecht,Niederlande KNVB Cup
+20.12. 21:30,ESP 1,Villarreal CF,3:2,Celta de Vigo,Spanien La Liga
+20.12. 21:30,ESP 1,Athletic Bilbao,1:0,UD Las Palmas,Spanien La Liga
+20.12. 21:30,ESP 2,CD Leganes,1:1,Teneriffa CD,Spanien Segunda Division
+20.12. 21:30,ESP 2,SD Eibar,1:1,Sporting Gijon,Spanien Segunda Division
+21.12. 17:45,DA-SL,"Shiffrin, Mikaela",Vlhova,"Vlhova, Petra","Ski Alpin, Damen Slalom"
+21.12. 17:45,DA-SL,"Dürr, Lena",abgesagt,"Holdener, Wendy","Ski Alpin, Damen Slalom"
+21.12. 17:45,DA-SL,Liensberger K.,Liensbe,"Ljutic, Zrinka","Ski Alpin, Damen Slalom"
+21.12. 17:45,DA-SL,St-Germain L.,abgesagt,"Truppe, Katharina","Ski Alpin, Damen Slalom"
+21.12. 17:45,DA-SL,"Popovic, Leona",Popovic,"Hector, Sara","Ski Alpin, Damen Slalom"
+21.12. 18:00,TUR 1,Besiktas Istanbul,1:3,Alanyaspor,Türkei Süper Lig
+21.12. 18:45,ROU 1,CFR 1907 Cluj,4:0,Universitatea Cluj,Rumänien Liga 1
+21.12. 19:00,ESP 1,Cadiz CF,0:0,Real Sociedad,Spanien La Liga
+21.12. 19:00,ESP 1,Betis Sevilla,1:1,FC Girona,Spanien La Liga
+21.12. 19:00,ESP 2,CF Villarreal B,1:1,Real Oviedo,Spanien Segunda Division
+21.12. 19:00,ESP 2,SD Huesca,3:0,FC Cartagena,Spanien Segunda Division
+21.12. 19:00,POR 2,SCU Torreense,3:1,FC Vilaverdense,Portugal Segunda Liga
+21.12. 19:00,GRE 1,AE Kifisia FC,0:6,PAOK Thessaloniki,Griechenland Super League
+21.12. 19:00,SERB 1,FK Vozdovac,3:2,FK Vojvodina,Serbien Meridijan Superliga
+21.12. 19:30,GRE 1,Atromitos Athen,0:0,Olympiakos Piräus,Griechenland Super League
+21.12. 19:30,EH AUT,Pion. Vorarlberg,2:2,Fehervar AV19,win2day ICE Hockey League
+21.12. 19:30,EH GER,Straubing Tigers,6:3,Schwenninger W.W.,Deutschland Eishockey Liga
+21.12. 19:30,EH GER,Bremerhaven P.,1:1,EHC München,Deutschland Eishockey Liga
+21.12. 19:30,EH GER,Adler Mannheim,2:2,Löwen Frankfurt,Deutschland Eishockey Liga
+21.12. 19:30,EH GER,Düsseldorfer EG,0:2,ERC Ingolstadt,Deutschland Eishockey Liga
+21.12. 19:30,EH GER,Nürnberg Ice Tiger,3:0,Iserlohn Roosters,Deutschland Eishockey Liga
+21.12. 19:30,EH GER,Kölner Haie,2:3,EHC Wolfsburg,Deutschland Eishockey Liga
+21.12. 19:30,EH GER,Eisbären Berlin,6:5,Augsburger Panth.,Deutschland Eishockey Liga
+21.12. 20:00,NL CUP,Vitesse Arnheim,1:0,SC Heerenveen,Niederlande KNVB Cup
+21.12. 20:45,BEL 1,KAA Gent,4:0,OH Leuven,Belgien Jupiler Pro League
+21.12. 20:45,ENG 1,Derby County,3:1,Lincoln City,England League One
+21.12. 21:00,ENG PL,Crystal Palace,1:1,Brighton & Hove,England Premier League
+21.12. 21:00,ENG PL,Crystal Palace+1,2:1,Brighton & Hove,England Premier League
+21.12. 21:00,NL CUP,PSV Eindhoven,abgesagt,Twente Enschede,Niederlande KNVB Cup
+21.12. 21:00,CL FR,Sl. Prag Fr CZE,abgesagt,St. Pölten (F) AUT,UEFA Champions League Frauen
+21.12. 21:30,ESP 1,CD Alaves,0:1,Real Madrid,Spanien La Liga
+21.12. 21:30,ESP 1,CD Alaves+1,1:1,Real Madrid,Spanien La Liga
+21.12. 21:30,ESP 1,RCD Mallorca,3:2,CA Osasuna,Spanien La Liga
+21.12. 21:30,ESP 2,Real Valladolid,0:1,Racing de Ferrol,Spanien Segunda Division
+21.12. 21:30,ESP 2,SD Amorebieta,1:2,Alcorcon AD,Spanien Segunda Division
+22.12. 02:15,NFL,Los Angeles Rams,30:22,N. Orleans Saints,USA NFL

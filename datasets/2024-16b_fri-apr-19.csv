@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+19.04. 18:10,AUT 2,SV Horn,0:2,SV Ried,Österreich Zweite Liga
+19.04. 18:10,AUT 2,First Vienna FC,2:0,SV Lafnitz,Österreich Zweite Liga
+19.04. 18:10,AUT 2,SKU Amstetten,1:4,SK Sturm Graz II,Österreich Zweite Liga
+19.04. 18:10,AUT 2,Admira Wacker,1:0,Kapfenberger SV,Österreich Zweite Liga
+19.04. 18:10,AUT 2,DSV Leoben,1:2,FC Liefering,Österreich Zweite Liga
+19.04. 18:30,ITA A,FC Genua,0:1,Lazio Rom,Italien Serie A
+19.04. 18:30,GER 2,SV Elversberg,1:1,FC Schalke 04,Deutschland 2. Bundesliga
+19.04. 18:30,GER 2,1. FC Nürnberg,0:2,SC Paderborn,Deutschland 2. Bundesliga
+19.04. 19:00,GER 3,SV Sandhausen,1:2,Arminia Bielefeld,Deutschland 3. Liga
+19.04. 19:00,TUR 1,Besiktas Istanbul,2:0,MKE Ankaragücü,Türkei Süper Lig
+19.04. 19:00,DEN 1,Randers FC,2:2,Odense BK,Dänemark Superligaen
+19.04. 19:30,AUT BL,SK Sturm Graz,1:0,SK Rapid Wien,Österreich Bundesliga
+19.04. 19:30,AUT BL,SK Sturm Graz,1:1,SK Rapid Wien+1,Österreich Bundesliga
+19.04. 19:30,AUT RLO,SV Oberwart,3:0,Young Violets A.W.,Österreich Regionalliga Ost
+19.04. 19:30,AUT RLO,Wiener Sport-Club,1:1,FC Marchfeld,Österreich Regionalliga Ost
+19.04. 19:30,AUT RLO,SK Rapid Wien II,0:1,SV Leobendorf,Österreich Regionalliga Ost
+19.04. 19:30,EH AUT,EC KAC,2:6,EC RB Salzburg,win2day ICE Hockey League
+19.04. 19:30,EH GER,Eisbären Berlin,5:3,Bremerhaven P.,Deutschland Eishockey Liga
+19.04. 20:30,GER BL,Eintr. Frankfurt,3:1,FC Augsburg,Deutschland Bundesliga
+19.04. 20:30,GER BL,Eintr. Frankfurt,3:2,FC Augsburg+1,Deutschland Bundesliga
+19.04. 20:30,AUT 2,SW Bregenz,0:2,Floridsdorfer AC,Österreich Zweite Liga
+19.04. 20:30,ESP 2,Teneriffa CD,0:0,CD Leganes,Spanien Segunda Division
+19.04. 20:30,POL 1,Rakow Czestochowa,0:1,Gornik Zabrze,Polen Orange Ekstraklasa
+19.04. 20:30,ITA B,AC Reggiana,0:4,Cosenza Calcio,Italien Serie B
+19.04. 20:30,ITA B,Palermo FC,0:0,FC Parma,Italien Serie B
+19.04. 20:45,ITA A,Cagliari Calcio,2:2,Juventus Turin,Italien Serie A
+19.04. 21:00,ESP 1,Athletic Bilbao,1:1,Granada CF,Spanien La Liga
+19.04. 21:00,FRA 1,OGC Nizza,3:0,FC Lorient,Frankreich Ligue 1
+19.04. 21:00,ENG 1,Oxford United,1:1,FC Stevenage,England League One
+19.04. 21:15,POR 1,Rio Ave FC,1:1,FC Arouca,Portugal Primeira Liga
+20.04. 13:00,GER 2,VfL Osnabrück,0:3,E. Braunschweig,Deutschland 2. Bundesliga
+20.04. 13:00,GER 2,FC Kaiserslautern,1:1,Wehen Wiesbaden,Deutschland 2. Bundesliga
+20.04. 13:00,GER 2,Fortuna Düsseldorf,1:0,Greuther Fürth,Deutschland 2. Bundesliga
+20.04. 13:30,ENG CS,Leicester City,2:1,West Bromwich,England Championship
+20.04. 13:30,SCO FA,FC Aberdeen,2:2,Celtic Glasgow,Schottland FA Cup
+20.04. 13:30,CL FR,Barcelona Frau ESP,0:1,Chelsea Frauen ENG,UEFA Champions League Frauen
+20.04. 14:00,ESP 1,Celta de Vigo,4:1,UD Las Palmas,Spanien La Liga
+20.04. 14:30,AUT 2,SV Stripfing,2:2,FC Dornbirn,Österreich Zweite Liga
+20.04. 15:30,GER BL,FC Heidenheim,1:2,RB Leipzig,Deutschland Bundesliga
+20.04. 15:30,GER BL,TSG Hoffenheim,4:3,Mönchengladbach,Deutschland Bundesliga
+20.04. 15:30,GER BL,1. FC Köln,0:2,SV Darmstadt 98,Deutschland Bundesliga
+20.04. 15:30,GER BL,VfL Wolfsburg,1:0,VfL Bochum,Deutschland Bundesliga
+20.04. 16:00,ENG PL,Sheffield United,1:4,FC Burnley,England Premier League
+20.04. 16:00,ENG PL,Luton Town,1:5,FC Brentford,England Premier League
+20.04. 16:15,ESP 1,Rayo Vallecano,2:1,CA Osasuna,Spanien La Liga
+20.04. 17:00,AUT BL,FK Austria Wien,3:0,WSG Tirol,Österreich Bundesliga
+20.04. 17:00,AUT BL,FK Austria Wien,3:1,WSG Tirol+1,Österreich Bundesliga
+20.04. 17:00,AUT BL,SCR Altach,2:2,BW Linz,Österreich Bundesliga
+20.04. 17:00,AUT BL,Wolfsberger AC,1:1,Austria Lustenau,Österreich Bundesliga
+20.04. 17:00,FRA 1,FC Nantes,0:3,Stade Rennes,Frankreich Ligue 1
+20.04. 17:30,BB AUT,Klosterneuburg,86:82,Kapfenberg Bulls,Basketball Superliga
+20.04. 17:30,BB AUT,Flyers Wels,81:82,UBSC Graz,Basketball Superliga
+20.04. 18:00,ITA A,FC Empoli,1:0,SSC Napoli,Italien Serie A
+20.04. 18:00,EH FS,Österreich,2:3,Tschechien,Freundschaftsspiele Männer
+20.04. 18:15,ENG FA,Manchester City,1:0,FC Chelsea,England - FA Cup
+20.04. 18:15,ENG FA,Manchester City,1:1,FC Chelsea+1,England - FA Cup
+20.04. 18:30,GER BL,Union Berlin,1:5,Bayern München,Deutschland Bundesliga
+20.04. 18:30,ESP 1,FC Valencia,1:2,Betis Sevilla,Spanien La Liga
+20.04. 19:00,CL FR,Lyon Frauen FRA,3:2,Paris SG Fr FRA,UEFA Champions League Frauen
+20.04. 20:30,GER 2,Hamburger SV,0:1,Holstein Kiel,Deutschland 2. Bundesliga
+20.04. 20:30,ENG PL,Wolverhampton,0:2,FC Arsenal,England Premier League
+20.04. 20:45,ITA A,Hellas Verona,1:0,Udinese Calcio,Italien Serie A
+20.04. 21:00,ESP 1,FC Girona,4:1,Cadiz CF,Spanien La Liga
+20.04. 21:00,FRA 1,RC Lens,1:0,Clermont Foot,Frankreich Ligue 1
+20.04. 21:00,BRA 1,Fluminense RJ,2:1,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+20.04. 23:30,BRA 1,RB Bragantino,1:0,Corinthians SP,Brasilien Brasilero Serie A
+20.04. 23:30,BRA 1,Gremio RS,1:0,Cuiaba MT,Brasilien Brasilero Serie A
+21.04. 10:30,AUT 2,Grazer AK,3:1,SKN St. Pölten,Österreich Zweite Liga
+21.04. 13:30,GER 2,Hansa Rostock,0:2,FC Magdeburg,Deutschland 2. Bundesliga
+21.04. 13:30,GER 2,Hannover 96,1:2,FC St. Pauli,Deutschland 2. Bundesliga
+21.04. 13:30,GER 2,Karlsruher SC,3:2,Hertha BSC,Deutschland 2. Bundesliga
+21.04. 14:00,ESP 1,Getafe CF,1:1,Real Sociedad,Spanien La Liga
+21.04. 14:30,AUT BL,LASK,1:3,TSV Hartberg,Österreich Bundesliga
+21.04. 14:30,ENG PL,FC Everton,2:0,Nottingham Forest,England Premier League
+21.04. 15:00,ITA A,FC Torino,0:0,Frosinone Calcio,Italien Serie A
+21.04. 15:00,FRA 1,Lille OSC,1:0,Racing Strasbourg,Frankreich Ligue 1
+21.04. 15:30,GER BL,SV Werder Bremen,2:1,VfB Stuttgart,Deutschland Bundesliga
+21.04. 16:00,ENG PL,Crystal Palace,5:2,West Ham United,England Premier League
+21.04. 16:00,ENG PL,Aston Villa,3:1,AFC Bournemouth,England Premier League
+21.04. 16:00,SCO FA,Glasgow Rangers,2:0,Heart of Midl.,Schottland FA Cup
+21.04. 16:15,ESP 1,UD Almeria,1:2,Villarreal CF,Spanien La Liga
+21.04. 16:30,ENG FA,Coventry City,3:3,Manchester United,England - FA Cup
+21.04. 17:00,AUT BL,RB Salzburg,4:2,Austria Klagenfurt,Österreich Bundesliga
+21.04. 17:00,AUT BL,RB Salzburg,4:3,Aust. Klagenfurt+1,Österreich Bundesliga
+21.04. 17:05,FRA 1,Stade Brest,0:2,AS Monaco,Frankreich Ligue 1
+21.04. 17:30,GER BL,Borussia Dortmund,1:1,Bayer Leverkusen,Deutschland Bundesliga
+21.04. 17:30,ENG PL,FC Fulham,1:3,FC Liverpool,England Premier League
+21.04. 18:00,ITA A,Salernitana Calcio,0:2,AC Fiorentina,Italien Serie A
+21.04. 18:00,NL CUP,Feyenoord,1:0,NEC Nijmegen,Niederlande KNVB Cup
+21.04. 18:00,TUR 1,Galatasaray,4:1,Pendikspor,Türkei Süper Lig
+21.04. 18:30,ESP 1,CD Alaves,2:0,Atletico Madrid,Spanien La Liga
+21.04. 19:15,FRA 1,FC Toulouse,2:2,Olymp. Marseille,Frankreich Ligue 1
+21.04. 19:30,GER BL,SC Freiburg,1:1,FSV Mainz 05,Deutschland Bundesliga
+21.04. 19:30,GRE 1,Olympiakos Piräus,2:1,PAOK Thessaloniki,Griechenland Super League
+21.04. 20:45,ITA A,AC Monza,1:2,Atalanta Bergamo,Italien Serie A
+21.04. 21:00,ESP 1,Real Madrid,3:2,FC Barcelona,Spanien La Liga
+21.04. 21:00,FRA 1,Paris SG,4:1,Olympique Lyon,Frankreich Ligue 1
+22.04. 17:00,CRO 1,NK Rudes,0:2,NK Varazdin SN,Kroatien 1. HNL
+22.04. 18:00,ROU 1,Petrolul Ploiesti,1:1,UTA Arad,Rumänien Liga 1
+22.04. 18:30,ITA A,AS Roma,1:3,Bologna FC,Italien Serie A
+22.04. 18:30,ITA A,AS Roma,1:4,Bologna FC+1,Italien Serie A
+22.04. 19:00,TUR 1,Sivasspor,2:2,Fenerbahce,Türkei Süper Lig
+22.04. 19:00,TUR 2,Ümraniyespor,1:0,Kocaelispor,Türkei TFF 1. Lig
+22.04. 19:00,DEN 1,FC Nordsjaelland,7:2,AGF Aarhus,Dänemark Superligaen
+22.04. 19:00,POL 1,KS Warta Posen,5:2,FKS Stal Mielec,Polen Orange Ekstraklasa
+22.04. 19:00,SWE 1,IF Elfsborg,1:2,Kalmar FF,Schweden Allsvenskan
+22.04. 19:00,SWE 2,Örebro SK,3:1,Varbergs BoIS,Schweden Superettan
+22.04. 19:30,EH WMF,Österreich Frauen,6:0,Südkorea Frauen,Weltmeisterschaft Frauen
+22.04. 20:30,ESP 2,FC Cartagena,2:0,Real Oviedo,Spanien Segunda Division
+22.04. 20:45,ITA A,AC Milan,1:2,Inter Mailand,Italien Serie A
+22.04. 20:45,ITA A,AC Milan,1:3,Inter Mailand+1,Italien Serie A
+22.04. 20:45,ITA A,AC Milan+1,2:2,Inter Mailand,Italien Serie A
+22.04. 20:45,IRL 1,Shelbourne Dublin,0:0,FC Shamrock Rovers,Irland Premier Division
+22.04. 20:45,IRL 1,FC Derry City,3:1,St Patrick's,Irland Premier Division
+22.04. 20:45,IRL 1,FC Sligo Rovers,0:0,FC Galway United,Irland Premier Division
+22.04. 21:00,ESP 1,FC Sevilla,2:1,RCD Mallorca,Spanien La Liga
+22.04. 21:00,ESP 1,FC Sevilla,2:2,RCD Mallorca+1,Spanien La Liga
+22.04. 21:00,ENG CS,Middlesbrough,3:4,Leeds United,England Championship
+22.04. 21:15,POR 1,SC Farense,1:3,Benfica Lissabon,Portugal Primeira Liga
+23.04. 22:00,PER 1,Comerciantes Uni,0:0,Alianza Atletico,Peru Primera Division

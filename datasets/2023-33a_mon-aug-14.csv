@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+14.08. 17:45,ITA CUP,US Cremonese,1:1,FC Crotone,Coppa Italia
+14.08. 18:00,ITA CUP,Sampdoria Genua,1:1,FC Südtirol,Coppa Italia
+14.08. 18:00,GER CUP,VfB Lübeck,1:4,TSG Hoffenheim,Deutschland DFB Pokal
+14.08. 18:00,GER CUP,FC Homburg,3:0,SV Darmstadt 98,Deutschland DFB Pokal
+14.08. 18:00,GER CUP,Jahn Regensburg,1:2,FC Magdeburg,Deutschland DFB Pokal
+14.08. 18:00,SERB 1,FK Novi Pazar,3:4,FK Novi Beograd,Serbien Meridijan Superliga
+14.08. 19:00,DEN 1,Viborg FF,0:0,Hvidovre IF,Dänemark Superligaen
+14.08. 19:00,POL 1,KS Warta Posen,2:2,Ruch Chorzow,Polen Orange Ekstraklasa
+14.08. 19:00,SWE 1,IFK Värnamo,0:1,Degerfors IF,Schweden Allsvenskan
+14.08. 19:00,SWE 1,Mjällby AIF,1:0,Malmö FF,Schweden Allsvenskan
+14.08. 19:00,SWE 2,Örgryte Göteborg,1:2,Skövde AIK,Schweden Superettan
+14.08. 19:00,ESP 2,CD Mirandes,4:0,Alcorcon AD,Spanien Segunda Division
+14.08. 19:30,ESP 1,Cadiz CF,1:0,CD Alaves,Spanien La Liga
+14.08. 19:30,ROU 1,Dinamo Bukarest,1:0,FC Botosani,Rumänien Liga 1
+14.08. 19:45,POR 1,Moreirense FC,1:2,FC Porto,Portugal Primeira Liga
+14.08. 20:00,TUR 1,Karagümrük,0:1,Besiktas Istanbul,Türkei Süper Lig
+14.08. 20:00,TUR 1,Alanyaspor,2:0,Basaksehir,Türkei Süper Lig
+14.08. 20:15,SLO 1,FC Koper,1:3,NS Mura,Slowenien PrvaLiga Telekom
+14.08. 20:45,FRA 2,Bordeaux,1:0,Concarneau,Frankreich Ligue 2
+14.08. 20:45,GER CUP,VfL Osnabrück,1:1,1. FC Köln,Deutschland DFB Pokal
+14.08. 20:45,GER CUP,VfL Osnabrück+1,2:1,1. FC Köln,Deutschland DFB Pokal
+14.08. 21:00,ENG PL,Manchester United,1:0,Wolverhampton,England Premier League
+14.08. 21:00,ENG PL,Manchester United,1:1,Wolverhampton+1,England Premier League
+14.08. 21:00,ITA CUP,Spezia Calcio*,2:2,Venezia FC,Coppa Italia
+14.08. 21:15,ITA CUP,FC Torino,2:1,Feralpisalò,Coppa Italia
+14.08. 21:15,ISL 1,Fylkir Reykjavik,0:4,Stjarnan Gardab.,Island Bestadeild
+14.08. 21:30,ESP 1,Atletico Madrid,3:1,Granada CF,Spanien La Liga
+14.08. 21:30,ESP 1,Atletico Madrid,3:2,Granada CF+1,Spanien La Liga
+14.08. 21:30,ESP 2,Teneriffa CD,1:0,Real Oviedo,Spanien Segunda Division
+14.08. 21:45,POR 1,Boavista FC,3:2,Benfica Lissabon,Portugal Primeira Liga
+15.08. 10:00,WM FR,Spanien Frauen,2:1,Schweden Frauen,"FIFA Weltmeisterschaft, Frauen"
+15.08. 10:00,WM FR,Spanien Frauen,2:2,Schweden Frauen+1,"FIFA Weltmeisterschaft, Frauen"
+15.08. 19:00,CL,Sparta Prag CZE,1:1,FC Kopenhagen DEN,UEFA Champions League
+15.08. 19:00,CL,Aris Limassol CYP,0:1,Rakow Czestoch POL,UEFA Champions League
+15.08. 19:00,CL,Maccabi Haifa ISR,3:1,Slov. Bratisl. SVK,UEFA Champions League
+15.08. 19:00,CL,Molde FK NOR,1:0,KI Klaksvik FRO,UEFA Champions League
+15.08. 20:00,CL,TSC Backa Topo SRB,1:4,Sporting Braga POR,UEFA Champions League
+15.08. 20:00,CL,Dinamo Zagreb CRO,1:2,AEK Athen GRE,UEFA Champions League
+15.08. 20:00,CL,Galatasaray TUR,1:0,Ol. Ljubljana SLO,UEFA Champions League
+15.08. 20:30,CL,Servette Genf SUI,1:1,Gl.Rangers SCO,UEFA Champions League
+15.08. 20:30,CL,SK Sturm Graz AUT,1:3,PSV Eindhoven NED,UEFA Champions League
+15.08. 20:30,CL,SK Sturm Graz+1,2:3,PSV Eindhoven,UEFA Champions League
+15.08. 20:45,ENG 1,Derby County,1:2,Oxford United,England League One
+15.08. 20:45,ENG 1,Bolton Wanderers,3:1,Fleetwood Town,England League One
+15.08. 20:45,ENG 1,Cambridge United,1:2,FC Stevenage,England League One
+15.08. 20:45,ENG 1,Carlisle United,1:1,Wigan Athletic,England League One
+15.08. 20:45,ENG 1,Charlton Athletic,1:2,Bristol Rovers,England League One
+15.08. 20:45,ENG 1,Northampton,2:2,Lincoln City,England League One
+15.08. 20:45,ENG 1,Shrewsbury Town,2:1,Burton Albion,England League One
+15.08. 20:45,ENG 1,Wycombe Wanderers,3:2,Leyton Orient,England League One
+15.08. 20:45,ENG 1,FC Barnsley,1:3,Peterborough Utd.,England League One
+15.08. 20:45,ENG 1,FC Blackpool,0:0,Port Vale FC,England League One
+15.08. 21:00,ENG 1,FC Portsmouth,1:0,Exeter City,England League One
+15.08. 21:00,ENG 1,FC Reading,1:0,Cheltenham Town,England League One
+15.08. 21:00,CL,Ol. Marseille FRA,2:1,Panathinaikos GRE,UEFA Champions League
+15.08. 21:00,CL,Olymp. Marseille,2:2,Panathinaikos+1,UEFA Champions League
+16.08. 12:00,WM FR,Australien Frauen,1:3,England Frauen,"FIFA Weltmeisterschaft, Frauen"
+16.08. 12:00,WM FR,Australien F+1,2:3,England Frauen,"FIFA Weltmeisterschaft, Frauen"
+16.08. 17:30,HUN 2,Haladas Szombat.,1:1,Nyiregyhaza FC,Ungarn NB II
+16.08. 17:30,HUN 2,Mosonmagyarovari T,0:2,FC Ajka,Ungarn NB II
+16.08. 17:30,HUN 2,Budafoki MTE,2:0,BVSC-Zuglo,Ungarn NB II
+16.08. 17:30,HUN 2,Soroksar SC,2:0,Aqvital FC Csákvár,Ungarn NB II
+16.08. 18:00,CON LG,Flora Tallinn EST,0:2,FC Farul Const ROU,UEFA Europa Conference League
+16.08. 18:30,SWE CUP,Dalkurd FF,0:3,AIK Stockholm,Schweden Cup
+16.08. 18:30,HUN 2,Pecsi MFC,0:0,SC Vasas Budapest,Ungarn NB II
+16.08. 19:00,HUN 2,Honved Budapest,2:1,Tiszakecskei LC,Ungarn NB II
+16.08. 19:00,HUN 2,Győri ETO FC,2:1,Kozarmisleny SE,Ungarn NB II
+16.08. 19:00,HUN 2,Szeged-Csanad Gros,1:1,Gyirmot SE,Ungarn NB II
+16.08. 19:00,HUN 2,Kazincbarcikai SC,1:1,BFC Siofok,Ungarn NB II
+16.08. 19:00,POR 2,CD Santa Clara,2:0,SCU Torreense,Portugal Segunda Liga
+16.08. 20:00,ISL 2,IF Vestri,2:2,Afturelding,Island 2. Liga
+16.08. 20:00,ISL 2,UMF Grindavik,1:0,Leiknir Reykjavik,Island 2. Liga
+16.08. 20:00,ISL 2,UMF Selfoss,2:3,UMF Njardvik,Island 2. Liga
+16.08. 20:00,ISL 2,Thor Akureyri,2:1,Throttur Reykjavik,Island 2. Liga
+16.08. 20:00,ISL 2,IA Akranes,4:0,KF Aegir,Island 2. Liga
+16.08. 20:45,ENG LC,Queens Park R.,0:1,Norwich City,England - EFL Cup
+16.08. 21:00,UEFA SC,Man. City ENG*,1:1,FC Sevilla ESP,UEFA Super Cup
+16.08. 21:00,UEFA SC,Manchester City,1:2,FC Sevilla+1,UEFA Super Cup
+16.08. 21:00,UEFA SC,Manchester City,1:3,FC Sevilla+2,UEFA Super Cup
+16.08. 21:15,ISL 2,Grotta,3:3,Fjölnir,Island 2. Liga
+16.08. 21:30,ISL CUP,Vikingur Reykjavik,4:1,KR Reykjavik,Island Cup
+16.08. 23:30,ECU 1,Mushuc Runa SC,3:0,Guayaquil City FC,Ecuador Serie A
+17.08. 00:30,BRA CUP,Sao Paulo SP,2:0,Corinthians SP,Brasilien Cup
+17.08. 02:30,BRA CUP,Flamengo RJ,1:0,Gremio RS,Brasilien Cup
+17.08. 03:30,PER 1,Alianza Lima,1:0,Sport Huancayo,Peru Primera Division
+17.08. 18:00,CON LG,Pogon Szczecin POL,2:1,KAA Gent BEL,UEFA Europa Conference League
+17.08. 18:00,CON LG,Pyunik Yerevan ARM,0:3,Bodö Glimt NOR,UEFA Europa Conference League
+17.08. 18:00,EL,HJK Helsinki FIN,1:2,Qarabag FK AZE,UEFA Europa League
+17.08. 19:00,EL,BK Häcken SWE,5:0,Zalg. Vilnius LTU,UEFA Europa League
+17.08. 19:00,CON LG,Brann Bergen NOR,3:1,FC Arouca POR,UEFA Europa Conference League
+17.08. 19:00,CON LG,Austria Wien AUT,3:5,Legia Warschau POL,UEFA Europa Conference League
+17.08. 19:00,CON LG,FK Austria Wien,3:6,Legia Warschau+1,UEFA Europa Conference League
+17.08. 19:00,CON LG,FK Austria Wien+1,4:5,Legia Warschau,UEFA Europa Conference League
+17.08. 19:00,CON LG,Macc. Tel Aviv ISR,1:0,AEK Larnaca CYP,UEFA Europa Conference League
+17.08. 19:00,CON LG,Dynamo Kiew UKR*,2:1,Aris Saloniki GRE,UEFA Europa Conference League
+17.08. 19:00,CON LG,Levski Sofia BUL,2:1,H. Beer Sheva ISR,UEFA Europa Conference League
+17.08. 19:00,CON LG,Gzira United MLT,0:2,Vikt. Pilsen CZE,UEFA Europa Conference League
+17.08. 19:00,CON LG,APOEL Nikosia CYP,1:0,FC Dila Gori GEO,UEFA Europa Conference League
+17.08. 19:00,CON LG,Nordsjaelland DEN,2:0,FCS Bukarest ROU,UEFA Europa Conference League
+17.08. 19:00,CON LG,FC Riga LAT,0:3,Twente Ensch. NED,UEFA Europa Conference League
+17.08. 19:00,CON LG,Ferencvaros HUN,2:1,Hamrun Spartan MLT,UEFA Europa Conference League
+17.08. 19:30,EL,Breidablik ISL,1:0,Zrinjs. Mostar BIH,UEFA Europa League
+17.08. 19:30,CON LG,PAOK Thessal. GRE,3:0,Hajduk Split CRO,UEFA Europa Conference League
+17.08. 19:45,CON LG,FC Midtjylland DEN,5:1,Omonia Nikosia CYP,UEFA Europa Conference League
+17.08. 20:00,CON LG,Besiktas Ist. TUR,2:1,Neftchi Baku AZE,UEFA Europa Conference League
+17.08. 20:00,EL,SC Dnipro UKR*,1:1,Slavia Prag CZE,UEFA Europa League
+17.08. 20:00,EL,KRC Genk BEL,1:1,Olympiakos P. GRE,UEFA Europa League
+17.08. 20:00,EL,Ludogorets BUL,5:1,FC Astana KAZ,UEFA Europa League
+17.08. 20:00,CON LG,Partiz.Tirana ALB,1:0,Valmiera FK LAT,UEFA Europa Conference League
+17.08. 20:00,CON LG,NK Osijek CRO,3:2,Adana Demirsp. TUR,UEFA Europa Conference League
+17.08. 20:00,CON LG,KA Akureyri ISL,1:5,Club Brügge BEL,UEFA Europa Conference League
+17.08. 20:00,CON LG,Spartak Trnava SVK,3:1,Lech Posen POL,UEFA Europa Conference League
+17.08. 20:15,CON LG,NK Maribor SLO,0:3,Fenerbahce TUR,UEFA Europa Conference League
+17.08. 20:15,CON LG,HNK Rijeka CRO,2:0,B36 Torshavn FRO,UEFA Europa Conference League
+17.08. 20:45,CON LG,FC Luzern SUI,2:2,Hibernian FC SCO,UEFA Europa Conference League
+17.08. 20:45,CON LG,Heart of Midl. SCO,3:1,Rosenborg BK NOR,UEFA Europa Conference League
+17.08. 21:00,CON LG,FK Partizan SRB,2:0,Sabah FK AZE,UEFA Europa Conference League
+17.08. 21:00,CON LG,Debreceni VSC HUN,0:5,SK Rapid Wien AUT,UEFA Europa Conference League
+17.08. 21:00,CON LG,Debreceni VSC,0:6,SK Rapid Wien+1,UEFA Europa Conference League
+17.08. 21:00,CON LG,Debreceni VSC+1,1:5,SK Rapid Wien,UEFA Europa Conference League

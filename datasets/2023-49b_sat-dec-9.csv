@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+09.12. 13:00,GER 2,Greuther Fürth,1:1,FC Magdeburg,Deutschland 2. Bundesliga
+09.12. 13:00,GER 2,FC Kaiserslautern,1:2,Hertha BSC,Deutschland 2. Bundesliga
+09.12. 13:00,GER 2,Hamburger SV,1:2,SC Paderborn,Deutschland 2. Bundesliga
+09.12. 13:30,ENG PL,Crystal Palace,1:2,FC Liverpool,England Premier League
+09.12. 13:30,ENG CS,AFC Sunderland,2:1,West Bromwich,England Championship
+09.12. 13:30,ENG CS,Blackburn Rovers,0:2,Leeds United,England Championship
+09.12. 14:00,ESP 1,CD Alaves,0:1,UD Las Palmas,Spanien La Liga
+09.12. 14:30,AUT BL,SK Rapid Wien,0:1,RB Salzburg,Österreich Bundesliga
+09.12. 14:30,AUT BL,SK Rapid Wien+1,1:1,RB Salzburg,Österreich Bundesliga
+09.12. 15:00,ITA A,Hellas Verona,1:1,Lazio Rom,Italien Serie A
+09.12. 15:30,GER BL,FC Heidenheim,3:2,SV Darmstadt 98,Deutschland Bundesliga
+09.12. 15:30,GER BL,SV Werder Bremen,2:0,FC Augsburg,Deutschland Bundesliga
+09.12. 15:30,GER BL,VfL Wolfsburg,0:1,SC Freiburg,Deutschland Bundesliga
+09.12. 15:30,GER BL,Eintr. Frankfurt,5:1,Bayern München,Deutschland Bundesliga
+09.12. 15:30,GER BL,Eintr. Frankfurt+1,6:1,Bayern München,Deutschland Bundesliga
+09.12. 15:30,GER BL,Union Berlin,3:1,Mönchengladbach,Deutschland Bundesliga
+09.12. 16:00,ENG PL,Wolverhampton,1:1,Nottingham Forest,England Premier League
+09.12. 16:00,ENG PL,Sheffield United,1:0,FC Brentford,England Premier League
+09.12. 16:00,ENG PL,Manchester United,0:3,AFC Bournemouth,England Premier League
+09.12. 16:00,ENG PL,Brighton & Hove,1:1,FC Burnley,England Premier League
+09.12. 16:00,ENG CS,FC Watford,1:1,FC Southampton,England Championship
+09.12. 16:00,ENG CS,Stoke City,0:1,Sheffield Wednes.,England Championship
+09.12. 16:00,ENG CS,Rotherham United,1:2,Swansea City,England Championship
+09.12. 16:00,ENG CS,Queens Park R.,2:0,Hull City,England Championship
+09.12. 16:00,ENG CS,Norwich City,0:0,Preston North End,England Championship
+09.12. 16:00,ENG CS,Middlesbrough,0:2,Ipswich Town,England Championship
+09.12. 16:00,ENG CS,Leicester City,4:0,Plymouth Argyle,England Championship
+09.12. 16:00,ENG CS,Huddersfield Town,1:1,Bristol City,England Championship
+09.12. 16:00,ENG CS,Cardiff City,1:0,FC Millwall,England Championship
+09.12. 16:00,BEL 1,Cercle Brügge,1:3,Royal Antwerpen,Belgien Jupiler Pro League
+09.12. 16:00,SCO PS,Glasgow Rangers,3:1,FC Dundee,Schottland Premiership
+09.12. 16:00,NOR CUP,Bodö Glimt*,0:1,Molde FK,Norwegen Cup
+09.12. 16:15,ESP 1,Betis Sevilla,1:1,Real Madrid,Spanien La Liga
+09.12. 17:00,AUT BL,Austria Lustenau,1:3,LASK,Österreich Bundesliga
+09.12. 17:00,AUT BL,Austria Lustenau+1,2:3,LASK,Österreich Bundesliga
+09.12. 17:00,AUT BL,Austria Klagenfurt,2:2,FK Austria Wien,Österreich Bundesliga
+09.12. 17:00,FRA 1,Stade Rennes,1:2,AS Monaco,Frankreich Ligue 1
+09.12. 17:00,TUR 1,Besiktas Istanbul,1:3,Fenerbahce,Türkei Süper Lig
+09.12. 18:00,ITA A,Atalanta Bergamo,3:2,AC Milan,Italien Serie A
+09.12. 18:00,SUI SL,Young Boys Bern,3:0,FC St. Gallen,Schweiz Super League
+09.12. 18:00,SUI SL,FC Basel,0:1,Grasshoppers,Schweiz Super League
+09.12. 18:30,GER BL,Borussia Dortmund,2:3,RB Leipzig,Deutschland Bundesliga
+09.12. 18:30,GER BL,Borussia Dortmund,2:4,RB Leipzig+1,Deutschland Bundesliga
+09.12. 18:30,ENG PL,Aston Villa,1:0,FC Arsenal,England Premier League
+09.12. 18:30,ESP 1,Villarreal CF,0:3,Real Sociedad,Spanien La Liga
+09.12. 18:45,NL 1,Ajax Amsterdam,2:1,Sparta Rotterdam,Niederlande Eredivisie
+09.12. 19:00,POR 1,Vitoria Guimaraes,3:2,Sporting Lissabon,Portugal Primeira Liga
+09.12. 19:00,DEN CUP,Silkeborg IF,1:2,FC Kopenhagen,Dänemark Landspokalturneringen
+09.12. 19:15,EH AUT,Vienna Capitals,3:3,HC Asiago,win2day ICE Hockey League
+09.12. 19:30,EH AUT,Pion. Vorarlberg,5:2,HK Olimpija,win2day ICE Hockey League
+09.12. 20:30,GER 2,VfL Osnabrück,1:1,FC St. Pauli,Deutschland 2. Bundesliga
+09.12. 20:30,SUI SL,Lausanne-Sport,1:1,Servette Genf,Schweiz Super League
+09.12. 20:45,ITA A,Inter Mailand,4:0,Udinese Calcio,Italien Serie A
+09.12. 21:00,ESP 1,RCD Mallorca,1:0,FC Sevilla,Spanien La Liga
+09.12. 21:00,FRA 1,Paris SG,2:1,FC Nantes,Frankreich Ligue 1
+09.12. 21:30,POR 1,FC Porto,3:1,Casa Pia AC,Portugal Primeira Liga
+10.12. 12:30,ITA A,Frosinone Calcio,0:0,FC Torino,Italien Serie A
+10.12. 13:00,FRA 1,OGC Nizza,2:1,Stade de Reims,Frankreich Ligue 1
+10.12. 13:00,SCO PS,FC Kilmarnock,2:1,Celtic Glasgow,Schottland Premiership
+10.12. 13:30,GER 2,SV Elversberg,0:1,1. FC Nürnberg,Deutschland 2. Bundesliga
+10.12. 13:30,GER 2,Hansa Rostock,0:2,FC Schalke 04,Deutschland 2. Bundesliga
+10.12. 13:30,GER 2,Fortuna Düsseldorf,0:1,Holstein Kiel,Deutschland 2. Bundesliga
+10.12. 14:00,ESP 1,Atletico Madrid,2:1,UD Almeria,Spanien La Liga
+10.12. 14:15,SUI SL,FC Lugano,2:1,FC Winterthur,Schweiz Super League
+10.12. 14:30,AUT BL,TSV Hartberg,2:0,Wolfsberger AC,Österreich Bundesliga
+10.12. 14:30,AUT BL,BW Linz,1:2,WSG Tirol,Österreich Bundesliga
+10.12. 15:00,EH AUT,EC RB Salzburg,2:3,HC Innsbruck,win2day ICE Hockey League
+10.12. 15:00,ENG PL,Luton Town,1:2,Manchester City,England Premier League
+10.12. 15:00,ENG PL,FC Fulham,5:0,West Ham United,England Premier League
+10.12. 15:00,ENG PL,FC Everton,2:0,FC Chelsea,England Premier League
+10.12. 15:00,ITA A,AC Monza,1:0,FC Genua,Italien Serie A
+10.12. 15:00,FRA 1,FC Metz,0:1,Stade Brest,Frankreich Ligue 1
+10.12. 15:00,FRA 1,Clermont Foot,0:0,Lille OSC,Frankreich Ligue 1
+10.12. 15:00,FRA 1,Racing Strasbourg,2:1,Le Havre AC,Frankreich Ligue 1
+10.12. 15:30,GER BL,VfB Stuttgart,1:1,Bayer Leverkusen,Deutschland Bundesliga
+10.12. 15:30,GER BL,VfB Stuttgart+1,2:1,Bayer Leverkusen,Deutschland Bundesliga
+10.12. 15:30,DEN CUP,Bröndby IF,2:1,AGF Aarhus,Dänemark Landspokalturneringen
+10.12. 16:00,BEL 1,AS Eupen,1:3,KRC Genk,Belgien Jupiler Pro League
+10.12. 16:00,EH AUT,HC Pustertal,2:3,Fehervar AV19,win2day ICE Hockey League
+10.12. 16:15,ESP 1,Granada CF,1:1,Athletic Bilbao,Spanien La Liga
+10.12. 16:30,SUI SL,Yverdon-Sport,2:1,Lausanne-Ouchy,Schweiz Super League
+10.12. 16:30,SUI SL,FC Zürich,1:1,FC Luzern,Schweiz Super League
+10.12. 17:00,AUT BL,SK Sturm Graz,1:0,SCR Altach,Österreich Bundesliga
+10.12. 17:00,AUT BL,SK Sturm Graz,1:1,SCR Altach+1,Österreich Bundesliga
+10.12. 17:05,FRA 1,Olympique Lyon,3:0,FC Toulouse,Frankreich Ligue 1
+10.12. 17:30,GER BL,1. FC Köln,0:0,FSV Mainz 05,Deutschland Bundesliga
+10.12. 17:30,ENG PL,Tottenham,4:1,Newcastle United,England Premier League
+10.12. 17:30,EH AUT,EC VSV,2:4,EC KAC,win2day ICE Hockey League
+10.12. 18:00,EH AUT,HC Bozen Foxes,4:2,Black Wings Linz,win2day ICE Hockey League
+10.12. 18:00,ITA A,Salernitana Calcio,1:2,Bologna FC,Italien Serie A
+10.12. 18:30,ESP 1,Cadiz CF,1:1,CA Osasuna,Spanien La Liga
+10.12. 18:30,BEL 1,RSC Anderlecht,2:2,Standard Lüttich,Belgien Jupiler Pro League
+10.12. 19:15,BEL 1,Sporting Charleroi,1:3,Saint Gilloise,Belgien Jupiler Pro League
+10.12. 20:45,ITA A,AS Roma,1:1,AC Fiorentina,Italien Serie A
+10.12. 20:45,FRA 1,FC Lorient,2:4,Olymp. Marseille,Frankreich Ligue 1
+10.12. 21:00,ESP 1,FC Barcelona,2:4,FC Girona,Spanien La Liga
+10.12. 22:25,NFL,Kansas City Chiefs,17:20,Buffalo Bills,USA NFL
+11.12. 02:20,NFL,Dallas Cowboys,33:13,Philadelph. Eagles,USA NFL
+11.12. 14:00,BUL 1,Lokomotiv Plovdiv,3:0,Pirin Blagoevgrad,Bulgarien Premier League
+11.12. 16:00,ROU 1,Uni Craiova 1948,2:0,FC Botosani,Rumänien Liga 1
+11.12. 16:00,SERB 1,FK Radnicki Nis,2:1,Partizan Belgrad,Serbien Meridijan Superliga
+11.12. 16:30,BUL 1,Beroe Stara Zagora,0:0,Et. Veliko Tarnovo,Bulgarien Premier League
+11.12. 17:30,SLO 1,NK Radomlje,2:2,NK Maribor,Slowenien PrvaLiga Telekom
+11.12. 18:00,TUR 1,Konyaspor,0:1,Sivasspor,Türkei Süper Lig
+11.12. 18:00,TUR 1,MKE Ankaragücü,1:1,Caykur Rizespor,Türkei Süper Lig
+11.12. 18:00,TUR 2,Altay Izmir,0:1,Boluspor,Türkei TFF 1. Lig
+11.12. 18:30,ITA A,FC Empoli,1:1,US Lecce,Italien Serie A
+11.12. 18:30,SERB 1,FK Vojvodina,2:0,Napredak Krusevac,Serbien Meridijan Superliga
+11.12. 19:00,POL 1,Pusz. Niepolomice,1:0,Widzew Lodz,Polen Orange Ekstraklasa
+11.12. 19:45,ROU 1,Dinamo Bukarest,0:1,Universitatea Cluj,Rumänien Liga 1
+11.12. 20:00,NL 2,Jong AZ Alkmaar,0:0,FC Den Bosch,Niederlande Jupiler League
+11.12. 20:00,NL 2,Jong Ajax Amst.,2:1,Jong FC Utrecht,Niederlande Jupiler League
+11.12. 20:30,ITA C1C,Taranto Sport,1:0,AC Monopoli,"Italien, Lega Pro Prima Divisione, Girone C"
+11.12. 20:45,ITA C1C,Virtus Francavilla,3:3,Audace Cerignola,"Italien, Lega Pro Prima Divisione, Girone C"
+11.12. 20:45,ITA A,Cagliari Calcio,2:1,US Sassuolo,Italien Serie A
+11.12. 21:00,ESP 1,Rayo Vallecano,0:0,Celta de Vigo,Spanien La Liga
+11.12. 21:00,ESP 1,Rayo Vallecano,0:1,Celta de Vigo+1,Spanien La Liga
+11.12. 21:00,ESP 2,Teneriffa CD,1:0,Alcorcon AD,Spanien Segunda Division
+11.12. 21:00,ENG 1,FC Portsmouth,2:0,Bolton Wanderers,England League One
+11.12. 21:15,POR 1,Gil Vicente,1:1,Moreirense FC,Portugal Primeira Liga

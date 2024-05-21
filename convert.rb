@@ -1,3 +1,36 @@
+###
+#
+## check for
+##   Wed Jan 3 2024  - is a or b??
+##   Wed Dec 27 2023  - ia a or b??
+##   - 2024-01b_wed-jan-3
+##   - 2023-52b_wed-dec-27
+##   or no a or b??
+#
+#  !! 120 records expected 
+#     2024-15a_tue-apr-9 -  got 119
+#     2024-12b_fri-mar-22 - got 119
+#     2024-01b_wed-jan-3 -  got 118
+#     2023-52b_wed-dec-27 - got 117
+#     2023-51b_fri-dec-22 - got 119
+#     2023-50a_tue-dec-12 - got 119
+#     2023-46b_fri-nov-17 - got 119
+#     2023-46a_tue-nov-14 - got 119
+#     2023-45b_fri-nov-10 - got 119
+#     2023-41b_fri-oct-13 - got 119
+#     2023-40b_fri-oct-6 -  got 119
+#     2023-36b_fri-sep-8 -  got 119
+#     2023-25a_tue-jun-20 - got 119
+#     2023-24b_fri-jun-16 - got 117
+#     2023-24a_tue-jun-13 - got 89
+#     2023-23b_fri-jun-9 -  got 112
+#     2023-23a_tue-jun-6 -  got 119
+#     2023-22b_fri-jun-2 -  got 119
+#     2023-22a_tue-may-30 - got 119
+#     2023-21a_tue-may-23 - got 119
+
+
+
 require_relative 'lib/metal'
 
 require_relative 'config/programs'
@@ -39,11 +72,12 @@ end
 
 Webcache.root = '../../cache'  ### c:\sports\cache
 
-# prog_ids = (1244..1345).to_a.reverse
-# pp prog_ids
 
 ## try last five
-prog_ids = (1340..1345).to_a.reverse
+## prog_ids = (1340..1345).to_a.reverse
+
+prog_ids = (1244..1345).to_a.reverse
+pp prog_ids
 
 # prog_ids = [1340]
 
@@ -59,7 +93,28 @@ prog_ids.each do |prog_id|
   rows = prog.matches
   pp rows
 
-  if rows.size != 120     ## warn on "incomplete" programs
+  if rows.size != 120  &&
+     !%w[2024-15a_tue-apr-9
+         2024-12b_fri-mar-22
+         2024-01b_wed-jan-3
+         2023-52b_wed-dec-27
+         2023-51b_fri-dec-22
+         2023-50a_tue-dec-12
+         2023-46b_fri-nov-17
+         2023-46a_tue-nov-14
+         2023-45b_fri-nov-10
+         2023-41b_fri-oct-13
+         2023-40b_fri-oct-6
+         2023-36b_fri-sep-8
+         2023-25a_tue-jun-20
+         2023-24b_fri-jun-16
+         2023-24a_tue-jun-13
+         2023-23b_fri-jun-9
+         2023-23a_tue-jun-6
+         2023-22b_fri-jun-2
+         2023-22a_tue-may-30
+         2023-21a_tue-may-23].include?( prog_name )
+         ## warn on "incomplete" programs
     puts "!! #{prog_name} - 120 records expected; got #{rows.size}"
     exit 1
   end

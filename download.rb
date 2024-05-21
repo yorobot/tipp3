@@ -127,11 +127,11 @@ require_relative 'lib/metal'
 
 Webcache.root = '../../cache'  ### c:\sports\cache
 
-# prog_ids = (1244..1345).to_a.reverse
-# pp prog_ids
+prog_ids = (1244..1345).to_a.reverse
+pp prog_ids
 
 ## try last five
-prog_ids = (1340..1345).to_a.reverse
+# prog_ids = (1340..1345).to_a.reverse
 
 prog_ids.each do |prog_id|
   Tipp3::Metal.program( prog_id )
