@@ -13,9 +13,15 @@ DIV_TOOLTIP_RE = %r{<div [ ]+
                    </div>
                 }mx
 
+A_LINK_RE =  %r{<a [ ]+
+                  id="link
+                  .+?
+                  </a>
+               }mx
 
 def self.clean_html( html )
   html = html.gsub( DIV_TOOLTIP_RE, '' )
+  html = html.gsub( A_LINK_RE, '' )
 
   html = html.gsub( /\n[ ]*\n/, "\n" )   ## remove empty lines
 
@@ -40,20 +46,19 @@ def matches
 
   table = doc.css( 'div.t3-list__entries' ).first    ## get table
   trs = table.css( 'div.t3-list-entry' )
-  puts " #{trs.size} table row(s) via div.t3-list-entry"  
+  puts trs.size
 
 
   trs.each_with_index do |tr,i|
-    print " #{i+1} "
 
     tds = tr.css( 'td' )
 
 # <div class="t3-list-entry__betId">120</div>
 
-# el  = tr.css( 'div.t3-list-entry__betId' )[0]    ## first
-# assert( el, "no betId found" )
+el  = tr.css( 'div.t3-list-entry__betId' )[0]    ## first
+assert( el, "no betId found" )
 
-# nr = el.text.strip
+nr = el.text.strip
 
 # <div class="t3-list-entry__datetime">
 #  <div class="t3-list-entry__date">02.01.</div>
@@ -63,13 +68,12 @@ def matches
 el  = tr.css( 'div.t3-list-entry__datetime' )[0]    ## first
 assert( el, "no datetime found" )
 el1 = el.css( 'div.t3-list-entry__date' )[0]
-# el2 = el.css( 'div.t3-list-entry__time' )[0]
+el2 = el.css( 'div.t3-list-entry__time' )[0]
 assert( el1, "no date found" )
-# assert( el2, "no time found" )
+assert( el2, "no time found" )
 
 date = el1.text.strip
-# time = el2.text.strip
-
+time = el2.text.strip
 
 # <div class="t3-list-entry__league">
 #  <div class="t3-list-entry__league-name--short">
@@ -91,14 +95,16 @@ date = el1.text.strip
     liga_title = el2.text.strip
     liga_title = liga_title.gsub( /[ ]+/, ' ' ).strip
 
-                      
+# <div class="t3-list-entry__players">
+#   <div class="t3-list-entry__player has-divider">Färjestads BK</div>
+#   <div class="t3-list-entry__player">Linköpings HC</div>
+# </div>
+
     el = tr.css( 'div.t3-list-entry__players' )[0]
     assert( el, "no players found" )
 
-
-    ## note: change div to span
     players = []
-    els = el.css( 'span.t3-list-entry__player' )
+    els = el.css( 'div.t3-list-entry__player' )
     assert( els && els.size==2, "no players found or players.size != 2" )
 
     els.each do |el|
@@ -114,9 +120,11 @@ date = el1.text.strip
     score = el.text.strip
 
 
-    puts "#{i+1} | >#{date}<  >#{liga}< >#{liga_title}< >#{players[0]}< >#{players[1]}< >#{score}<"
+    puts "#{i+1} | >#{nr}< >#{date}< >#{time}< >#{liga}< >#{liga_title}< >#{players[0]}< >#{players[1]}< >#{score}<"
 
-    rows << { date:        date,
+    rows << { num:         nr,
+              date:        date,
+              time:        time,
               league:      liga,
               team1:       players[0],
               score:       score,

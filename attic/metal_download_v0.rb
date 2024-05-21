@@ -3,16 +3,17 @@ module Tipp3
 class Metal
   BASE_URL = 'https://www.tipp3.at'
 
-  ###
-  # download programs
-  #   https://www.tipp3.at/sportwetten/sportwetten-classic-ergebnisse?oddsetProgramID=1345
-
   def self.program_url( id )
-    "#{BASE_URL}/sportwetten/sportwetten-classic-ergebnisse?oddsetProgramID=#{id}"
+    "#{BASE_URL}/sportwetten/classicresults.jsp?oddsetProgramID=#{id}"
   end
 
+  ###
+  # download programs
+  #   https://www.tipp3.at/sportwetten/classicresults.jsp?oddsetProgramID=982
+
   def self.download_program( id )
-    get( program_url( id ) )
+    url = program_url( id )
+    get( url )
   end
 
   ### add some convenience aliases - keep - why? why not?

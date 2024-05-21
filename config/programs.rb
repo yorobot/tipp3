@@ -1,5 +1,5 @@
 
-require 'csvreader'
+require 'cocos'
 
 
 
@@ -7,54 +7,67 @@ require_relative 'leagues'
 
 
 
+## check for
+##   Wed Jan 3 2024  - is a or b??
+##   Wed Dec 27 2023  - ia a or b??
+##   - 2024-01b_wed-jan-3
+##   - 2023-52b_wed-dec-27
+##   or no a or b??
+
 def date_to_progname( date )
   buf = String.new('')
   buf << '%04d-' % date.cwyear  ## note: use calendar year (e.g. 2019/12/30 => 2020/W01!)
   buf << '%02d'  % date.cweek
   ### add a or b depending on weekday
   ##  d.cwdayReturn the day of calendar week of date d (1-7, Monday is 1)
-  if  date.monday? || date.tuesday?     ## mon, tue
+  if  date.monday? || 
+      date.tuesday?     ## mon, tue
     buf << 'a_'
-  elsif date.thursday? || date.friday? || date.saturday? ## thu, fri, sat
+  elsif date.wednesday? || 
+        date.thursday? || 
+        date.friday? || 
+        date.saturday? ## wed??, thu, fri, sat
     buf << 'b_'
   else
     puts "!! ERROR: unknown program start weekday"
     pp date
     puts date
+    puts date.strftime( '%a %b %-d' )
     exit 1
   end
 
   buf << date.strftime( '%a-%b-%-d' ).downcase
+  puts "  #{date.strftime( '%a %b %-d' )}  => #{buf}"
   buf
 end
 
 
 
 
-recs = CsvHash.read( './config/programs.csv', :header_converters => :symbol )
+recs = read_csv( './config/programs.csv' )
 
 last_num = nil
 
 PROGRAMS_BY_ID = {}
 recs.each do |rec|
-  puts "#{rec[:id]} => >#{rec[:date]}<"
+  puts "#{rec['id']} => >#{rec['date']}<"
 
-  if rec[:date] =~ /([0-9]{2})\.
+  if rec['date'] =~ /([0-9]{2})\.
                     ([0-9]{2})\.
                     ([0-9]{4})-
                     /x
     date = Date.strptime( "#{$3}/#{$2}/#{$1}", '%Y/%m/%d' )
-    num  = rec[:id].to_i
+    num  = rec['id'].to_i
     PROGRAMS_BY_ID[ num ] =
     {
       start_date: date,
       name:       date_to_progname( date )  ## for convenience add calculated (file)name
     }
 
-    if last_num && ((num+1) != last_num)   ## assert check steps must always be -1
-      puts "!! ERROR: progid step NOT +1"
-      exit 1
-    end
+    # if last_num && ((num+1) != last_num)   ## assert check steps must always be -1
+    #  puts "!! ERROR: progid step NOT +1"
+    #  exit 1
+    # end
     last_num = num
   else
     puts "!! ERROR - unknown date format in program id; sorry"
@@ -69,6 +82,8 @@ end
 PROGRAMS_2018 = []
 PROGRAMS_2019 = []
 PROGRAMS_2020 = []
+PROGRAMS_2023 = []
+PROGRAMS_2024 = []
 
 PROGRAMS_BY_ID.each do |num,prog|
   date = prog[:start_date]
@@ -81,6 +96,10 @@ PROGRAMS_BY_ID.each do |num,prog|
     PROGRAMS_2019 << name
   when 2020
     PROGRAMS_2020 << name
+  when 2023
+    PROGRAMS_2023 << name
+  when 2024
+    PROGRAMS_2024 << name
   else
     puts "!! ERROR - unexpected year #{date.cwyear}; add to programs config"
     exit 1
@@ -88,11 +107,18 @@ PROGRAMS_BY_ID.each do |num,prog|
 end
 
 
-PROGRAMS =  PROGRAMS_2020 + PROGRAMS_2019 + PROGRAMS_2018
+PROGRAMS =  PROGRAMS_2024 +
+            PROGRAMS_2023 +
+            PROGRAMS_2020 + 
+            PROGRAMS_2019 + 
+            PROGRAMS_2018
 
+pp PROGRAMS_2024
+pp PROGRAMS_2023
 pp PROGRAMS_2020
 pp PROGRAMS_2019
 pp PROGRAMS_2018
+
 
 
 
@@ -108,12 +134,11 @@ class Programs
 
   def self.year( year )
     case year
-    when 2020
-       new( PROGRAMS_2020 )
-    when 2019
-       new( PROGRAMS_2019 )
-    when 2018
-       new( PROGRAMS_2018 )
+    when 2024 then new( PROGRAMS_2024 )
+    when 2023 then new( PROGRAMS_2023 )
+    when 2020 then new( PROGRAMS_2020 )
+    when 2019 then new( PROGRAMS_2019 )
+    when 2018 then new( PROGRAMS_2018 )
     else
       raise ArgumentError, "unsupported year >#{year}<"
     end
@@ -138,15 +163,15 @@ class Programs
     attr_reader :name
     def initialize( name )
       @name = name
-      @recs = CsvHash.read( "datasets/#{name}.csv", :header_converters => :symbol )
+      @recs = read_csv( "datasets/#{name}.csv" )
     end
 
     def size() @recs.size; end
 
     def each( exclude: nil )
       @recs.each do |rec|
-        league_code = rec[:league]
-        league_name = rec[:league_name]
+        league_code = rec['league']
+        league_name = rec['league_name']
 
         next if HOCKEY_LEAGUES.include?( league_code ) ||     ## skip (ice) hockey leagues
                 BASKETBALL_LEAGUES.include?( league_code ) ||
@@ -162,7 +187,7 @@ class Programs
         league_code_fix = EXTRA_LEAGUE_MAPPINGS[ league_code ]
         if league_code_fix
           puts "  (auto-)patching league code >#{league_code}< to >#{league_code_fix}<"
-          rec[:league] = league_code_fix
+          rec['league'] = league_code_fix
         end
 
         yield( rec )
