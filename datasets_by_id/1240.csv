@@ -1,0 +1,120 @@
+Date,League,Team 1,Score,Team 2,League Name
+09.05. 17:00,FIN 1,AC Oulu,0:2,Kuopio PS,Finnland Veikkausliiga
+09.05. 17:00,FIN 1,FC Honka,0:2,Haka Valkeakoski,Finnland Veikkausliiga
+09.05. 17:00,FIN 1,FC Honka,0:3,Haka Valkeakoski+1,Finnland Veikkausliiga
+09.05. 17:00,FIN 1,FC KTP,3:3,HJK Helsinki,Finnland Veikkausliiga
+09.05. 18:00,CYP 1,Akritas Chlorakas,1:0,AEL Limassol,Zypern 1. Division
+09.05. 18:00,CHI 2,Dep. Puerto Montt,1:0,Santiago Morning,"Chile, Primera B"
+09.05. 18:00,EGY 1,Pyramids FC,3:1,Ismaily SC,Ägypten Premier League
+09.05. 18:15,SERB 1,FK Mladost Lucani,2:0,Radnik Surdulica,Serbien Meridijan Superliga
+09.05. 18:15,SERB 1,Napredak Krusevac,1:2,FK Radnicki Nis,Serbien Meridijan Superliga
+09.05. 19:00,SWE 1,IFK Värnamo,3:1,Varbergs BoIS,Schweden Allsvenskan
+09.05. 19:00,SWE 1,Hammarby IF,0:0,Mjällby AIF,Schweden Allsvenskan
+09.05. 19:00,SWE 1,Hammarby IF,0:1,Mjällby AIF+1,Schweden Allsvenskan
+09.05. 19:00,SWE 2,Landskrona BoIS,2:1,Helsingborgs IF,Schweden Superettan
+09.05. 19:30,EH FS,Deutschland,3:6,USA,Freundschaftsspiele Männer
+09.05. 20:30,BB EL,Olympiakos P. GRE,84:72,Fenerbahce TUR,Euroleague
+09.05. 20:45,SCO PS,Partick Thistle,4:3,FC Queens Park,Schottland Premiership
+09.05. 20:45,SCO CS,FC Alloa Athletic,1:0,Hamilton FC,Schottland Championship
+09.05. 20:45,SCO CS,Airdrie Utd.,6:2,FC Falkirk,Schottland Championship
+09.05. 20:45,SCO 1,Annan Athletic,6:0,FC Dumbarton,Schottland League One
+09.05. 21:00,SCO 1,FC East Fife,0:1,FC Clyde,Schottland League One
+09.05. 21:00,CL,Real Madrid ESP,1:1,Man. City ENG,UEFA Champions League
+09.05. 21:00,CL,Real Madrid,1:2,Manch. City+1,UEFA Champions League
+09.05. 21:00,CL,Real Madrid+1,2:1,Manchester City,UEFA Champions League
+09.05. 21:30,CHI 1,CD Magallanes,1:2,Curico Unido,Chile Primera Divison
+10.05. 00:00,CHI 1,Union Espanola,3:2,Union La Calera,Chile Primera Divison
+10.05. 00:00,CHI 1,Nublense,1:0,CD Copiapo,Chile Primera Divison
+10.05. 01:00,USOPCUP,Inter Miami CF,1:0,Charleston Battery,USA US Open Cup
+10.05. 01:00,USOPCUP,Charlotte FC,1:0,Orlando City SC,USA US Open Cup
+10.05. 01:00,NHL,New Jersey Devils,1:6,Carolina Hurric.,USA NHL
+10.05. 01:05,ARG CUP,Union de Santa Fe*,1:1,Club Almagro,Argentinien Cup
+10.05. 01:30,USOPCUP,NY Red Bulls,1:0,DC United,USA US Open Cup
+10.05. 01:30,USOPCUP,New England Rev.,0:1,Pittsburgh Riverho,USA US Open Cup
+10.05. 01:30,NBA,Boston Celtics,103:115,Philadelphia 76ers,USA NBA
+10.05. 02:00,USOPCUP,Chicago Fire,2:1,Saint Louis City,USA US Open Cup
+10.05. 02:30,CHI 1,Colo Colo,2:1,Audax Italiano,Chile Primera Divison
+10.05. 02:30,USOPCUP,FC Minnesota Utd.,2:2,Philadelphia Union,USA US Open Cup
+10.05. 03:30,NHL,Seattle Kraken,3:6,Dallas Stars,USA NHL
+10.05. 04:00,NBA,Denver Nuggets,118:102,Phoenix Suns,USA NBA
+10.05. 04:30,USOPCUP,Sacramento Rep.,2:4,Colorado Rapids,USA US Open Cup
+10.05. 04:30,USOPCUP,Monterey Bay FC,1:1,Los Angeles FC,USA US Open Cup
+10.05. 18:00,ROU 2,CSM Poli. Iasi,5:1,Steaua Bukarest,"Rumänien, Liga 2"
+10.05. 18:00,BUL CUP,CSKA 1948 Sofia,1:2,Lokomotive Sofia,Bulgarien Cup
+10.05. 18:45,HB CL,Wisla Plock POL,22:22,SC Magdeburg GER,Champions League
+10.05. 19:00,HB AUT,HSG Graz,23:30,Handball Tirol,Österreich HLA
+10.05. 19:30,FRA 3,US Orleans 45,0:1,Le Mans FC,Frankreich National
+10.05. 20:00,BB EL,AS Monaco FRA,97:86,M.Tel Aviv ISR,Euroleague
+10.05. 20:45,HB CL,THW Kiel GER,27:31,Paris Handball FRA,Champions League
+10.05. 21:00,CL,AC Milan ITA,0:2,Inter Mailand ITA,UEFA Champions League
+10.05. 21:00,CL,AC Milan,0:3,Inter Mailand+1,UEFA Champions League
+10.05. 21:00,CL,AC Milan+1,1:2,Inter Mailand,UEFA Champions League
+10.05. 21:00,BB EL,Real Madrid BC ESP,98:94,Partizan Belgr SRB,Euroleague
+11.05. 00:00,BRA 1,Internacional RS,0:2,CA Paranaense,Brasilien Brasilero Serie A
+11.05. 00:00,BRA 1,RB Bragantino,2:2,America Mineiro MG,Brasilien Brasilero Serie A
+11.05. 00:00,BRA 1,Santos SP,3:0,EC Bahia BA,Brasilien Brasilero Serie A
+11.05. 00:00,BRA 2,Ceara SC CE,0:2,EC Vitoria BA,Brasilien Brasilero Serie B
+11.05. 00:00,CHI 1,Cobresal,1:0,O'Higgins,Chile Primera Divison
+11.05. 00:00,CHI 1,Coquimbo Unido,2:1,Univers. de Chile,Chile Primera Divison
+11.05. 01:00,BRA 1,Cuiaba MT,0:4,Atletico MG,Brasilien Brasilero Serie A
+11.05. 01:00,BRA 1,Flamengo RJ,2:0,Goias EC GO,Brasilien Brasilero Serie A
+11.05. 01:00,COL 1,UM Santa Marta,0:0,Boyaca Chico FC,Kolumbien Primera Liga
+11.05. 01:00,USOPCUP,Loudoun United FC,1:5,Columbus Crew,USA US Open Cup
+11.05. 01:00,USOPCUP,FC Cincinnati,1:0,New York City FC,USA US Open Cup
+11.05. 01:00,NHL,Florida Panthers,1:2,Toronto Maple L.,USA NHL
+11.05. 01:30,NBA,New York Knicks,112:103,Miami Heat,USA NBA
+11.05. 02:00,USOPCUP,Birmingham Legion,3:0,Memphis 901 FC,USA US Open Cup
+11.05. 02:10,ARG CUP,Barracas Central*,1:0,Estudiantes BA,Argentinien Cup
+11.05. 02:30,BRA 1,Cruzeiro EC MG,0:2,Fluminense RJ,Brasilien Brasilero Serie A
+11.05. 02:30,BRA 1,SE Palmeiras SP,4:1,Gremio RS,Brasilien Brasilero Serie A
+11.05. 02:30,BRA 2,Sport Recife PE,3:2,Tombense FC MG,Brasilien Brasilero Serie B
+11.05. 02:30,CHI 1,Univ. Catolica,1:2,Huachipato,Chile Primera Divison
+11.05. 02:30,USOPCUP,Nashville SC,2:0,FC Dallas,USA US Open Cup
+11.05. 02:30,USOPCUP,Houston Dynamo,1:0,Sp. Kansas City,USA US Open Cup
+11.05. 03:00,USOPCUP,Austin FC,2:0,New Mexico United,USA US Open Cup
+11.05. 04:00,NHL,Edmonton Oilers,4:1,Vegas Gold.Knights,USA NHL
+11.05. 04:00,NBA,Golden State W.,121:106,LA Lakers,USA NBA
+11.05. 04:30,USOPCUP,Portland Timbers,3:4,Real Salt Lake,USA US Open Cup
+11.05. 16:30,ROU 2,FC Unirea Dej,1:0,FC Gloria Buzau,"Rumänien, Liga 2"
+11.05. 18:00,ITA C1B,US Ancona 1905,1:1,Lucchese Libertas,"Italien Lega Pro Prima Divisione, Girone B"
+11.05. 18:00,DEN 2,SönderjyskE,1:1,Vejle BK,Dänemark 1. Division
+11.05. 18:00,BUL CUP,Ludogorets,1:2,Cherno More,Bulgarien Cup
+11.05. 18:45,HB CL,Veszprem HC HUN,29:29,Targi Kielce POL,Champions League
+11.05. 19:00,DEN 2,Hobro IK,1:2,Fremad Amager,Dänemark 1. Division
+11.05. 19:00,BB AUT,Swans Gmunden,81:71,Flyers Wels,Basketball Superliga
+11.05. 19:30,ROU 2,ASC Otelul Galati,0:2,Dinamo Bukarest,"Rumänien, Liga 2"
+11.05. 20:00,ITA C1A,AC Renate,0:0,Arzignano Valchia.,"Italien Lega Pro Prima Divisione, Girone A"
+11.05. 20:15,BB AUT,BC Vienna,83:83,Klosterneuburg,Basketball Superliga
+11.05. 20:30,ITA C1A,Padua Calcio,1:0,Pergolettese 1932,"Italien Lega Pro Prima Divisione, Girone A"
+11.05. 20:30,ITA C1A,Virtus Verona,3:0,Novara Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+11.05. 20:30,ITA C1B,AS Gubbio,abgesagt,Rimini Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+11.05. 20:30,ITA C1C,Audace Cerignola,3:0,Juve Stabia,"Italien, Lega Pro Prima Divisione, Girone C"
+11.05. 20:30,ITA C1C,AZ Picerno,0:1,Potenza SC,"Italien, Lega Pro Prima Divisione, Girone C"
+11.05. 20:30,ITA C1C,AC Monopoli,1:0,Latina Calcio,"Italien, Lega Pro Prima Divisione, Girone C"
+11.05. 20:45,ITA C1B,Pontedera,abgesagt,AC Siena,"Italien Lega Pro Prima Divisione, Girone B"
+11.05. 20:45,HB CL,GOG DEN,30:37,FC Barcelona ESP,Champions League
+11.05. 21:00,EL,Juventus Turin ITA,1:1,FC Sevilla ESP,UEFA Europa League
+11.05. 21:00,EL,Juventus Turin,1:2,FC Sevilla+1,UEFA Europa League
+11.05. 21:00,EL,AS Roma ITA,1:0,Leverkusen GER,UEFA Europa League
+11.05. 21:00,EL,AS Roma,1:1,Bay. Leverkusen+1,UEFA Europa League
+11.05. 21:00,EL,AS Roma+1,2:0,Bayer Leverkusen,UEFA Europa League
+11.05. 21:00,CON LG,West Ham ENG,2:1,AZ Alkmaar NED,UEFA Europa Conference League
+11.05. 21:00,CON LG,West Ham United,2:2,AZ Alkmaar+1,UEFA Europa Conference League
+11.05. 21:00,CON LG,West Ham United,2:3,AZ Alkmaar+2,UEFA Europa Conference League
+11.05. 21:00,CON LG,AC Fiorentina ITA,1:2,FC Basel SUI,UEFA Europa Conference League
+11.05. 21:00,CON LG,AC Fiorentina,1:3,FC Basel+1,UEFA Europa Conference League
+11.05. 21:00,CON LG,AC Fiorentina,1:4,FC Basel+2,UEFA Europa Conference League
+11.05. 21:15,ISL 2,Fjölnir,3:3,Throttur Reykjavik,Island 2. Liga
+11.05. 21:15,ISL 2,UMF Njardvik,2:2,KF Aegir,Island 2. Liga
+12.05. 00:00,BRA 1,Coritiba FC PR,1:1,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+12.05. 00:30,BRA 1,Botafogo FR RJ,3:0,Corinthians SP,Brasilien Brasilero Serie A
+12.05. 01:00,BRA 1,Fortaleza EC CE,0:0,Sao Paulo SP,Brasilien Brasilero Serie A
+12.05. 01:00,COL 1,Indep. Medellin,2:2,CD Once Caldas,Kolumbien Primera Liga
+12.05. 02:30,CHI 1,Everton Vina d.Mar,2:2,Palestino,Chile Primera Divison
+12.05. 03:30,NHL,Dallas Stars,5:2,Seattle Kraken,USA NHL
+12.05. 19:30,AUT BL,WSG Tirol,1:1,SV Ried,Österreich Bundesliga
+13.05. 17:00,AUT BL,SCR Altach,0:1,TSV Hartberg,Österreich Bundesliga
+13.05. 17:00,AUT BL,Wolfsberger AC,2:2,Austria Lustenau,Österreich Bundesliga
+14.05. 14:30,AUT BL,SK Sturm Graz,4:1,Austria Klagenfurt,Österreich Bundesliga
+14.05. 14:30,AUT BL,LASK,0:1,RB Salzburg,Österreich Bundesliga
+14.05. 17:00,AUT BL,FK Austria Wien,3:1,SK Rapid Wien,Österreich Bundesliga

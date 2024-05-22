@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+05.08. 18:10,AUT 2,First Vienna FC,1:1,SKN St. Pölten,Österreich Zweite Liga
+05.08. 18:10,AUT 2,SV Horn,2:1,BW Linz,Österreich Zweite Liga
+05.08. 18:10,AUT 2,SKU Amstetten,1:1,Admira Wacker,Österreich Zweite Liga
+05.08. 18:10,AUT 2,Young Violets A.W.,2:2,Kapfenberger SV,Österreich Zweite Liga
+05.08. 18:30,GER 2,Greuther Fürth,1:1,Karlsruher SC,Deutschland 2. Bundesliga
+05.08. 18:30,GER 2,SV Sandhausen,1:0,Fortuna Düsseldorf,Deutschland 2. Bundesliga
+05.08. 19:00,GER 3,MSV Duisburg,2:2,Rot-Weiss Essen,Deutschland 3. Liga
+05.08. 19:00,AUT RLM,DSV Leoben,0:0,SPG Hertha Wels,Österreich Regionalliga Mitte
+05.08. 19:00,AUT RLM,SC Kalsdorf,2:4,Bad Gleichenberg,Österreich Regionalliga Mitte
+05.08. 19:00,AUT RLO,FC Marchfeld,1:1,TWL Elektra,Österreich Regionalliga Ost
+05.08. 19:00,AUT RLO,ASV Draßburg,0:1,ASV Siegendorf,Österreich Regionalliga Ost
+05.08. 19:30,AUT RLO,SC Wiener Neustadt,2:3,SV Stripfing,Österreich Regionalliga Ost
+05.08. 19:30,AUT RLO,Wiener Sport-Club,2:1,FCM Traiskirchen,Österreich Regionalliga Ost
+05.08. 20:00,AUT RLO,Kremser SC,4:6,SR Donaufeld,Österreich Regionalliga Ost
+05.08. 20:00,AUT RLO,SC Neusiedl,3:3,Scheiblingkirchen,Österreich Regionalliga Ost
+05.08. 20:00,NL 1,SC Heerenveen,0:0,Sparta Rotterdam,Niederlande Eredivisie
+05.08. 20:00,TUR 1,Istanbulspor AS,0:2,Trabzonspor,Türkei Süper Lig
+05.08. 20:00,DEN 1,Lyngby BK,3:3,FC Midtjylland,Dänemark Superligaen
+05.08. 20:00,CRO 1,NK Varazdin SN,1:1,NK Dinamo Zagreb,Kroatien 1. HNL
+05.08. 20:30,AUT 2,SV Lafnitz,0:4,Floridsdorfer AC,Österreich Zweite Liga
+05.08. 20:30,GER BL,Eintr. Frankfurt,1:6,Bayern München,Deutschland Bundesliga
+05.08. 20:30,GER BL,Eintr. Frankfurt+1,2:6,Bayern München,Deutschland Bundesliga
+05.08. 20:30,POL 1,Legia Warschau,2:0,Piast Gliwice,Polen Orange Ekstraklasa
+05.08. 20:45,BEL 1,Club Brügge,1:1,SV Zulte Waregem,Belgien Jupiler Pro League
+05.08. 20:45,ENG CS,Birmingham City,2:1,Huddersfield Town,England Championship
+05.08. 21:00,ENG PL,Crystal Palace,0:2,FC Arsenal,England Premier League
+05.08. 21:00,FRA 1,Olympique Lyon,2:1,AC Ajaccio,Frankreich Ligue 1
+05.08. 21:00,ITA CUP,US Lecce,1:1,AS Cittadella,Coppa Italia
+05.08. 21:15,ITA CUP,Sampdoria Genua,1:0,Reggina 1914,Coppa Italia
+05.08. 21:15,POR 1,Benfica Lissabon,4:0,FC Arouca,Portugal Primeira Liga
+06.08. 13:00,GER 2,SC Paderborn,4:2,Hannover 96,Deutschland 2. Bundesliga
+06.08. 13:00,GER 2,Jahn Regensburg,0:0,1. FC Nürnberg,Deutschland 2. Bundesliga
+06.08. 13:00,GER 2,Hamburger SV,1:0,FC Heidenheim,Deutschland 2. Bundesliga
+06.08. 13:30,ENG PL,FC Fulham,2:2,FC Liverpool,England Premier League
+06.08. 13:30,ENG CS,Norwich City,1:1,Wigan Athletic,England Championship
+06.08. 14:30,AUT 2,Grazer AK,1:0,FC Liefering,Österreich Zweite Liga
+06.08. 14:30,AUT 2,SK Vorwärts Steyr,2:1,FC Dornbirn,Österreich Zweite Liga
+06.08. 15:30,GER BL,Mönchengladbach,3:1,TSG Hoffenheim,Deutschland Bundesliga
+06.08. 15:30,GER BL,VfL Wolfsburg,2:2,SV Werder Bremen,Deutschland Bundesliga
+06.08. 15:30,GER BL,FC Augsburg,0:4,SC Freiburg,Deutschland Bundesliga
+06.08. 15:30,GER BL,VfL Bochum,1:2,FSV Mainz 05,Deutschland Bundesliga
+06.08. 15:30,GER BL,Union Berlin,3:1,Hertha BSC,Deutschland Bundesliga
+06.08. 16:00,ENG PL,Tottenham,4:1,FC Southampton,England Premier League
+06.08. 16:00,ENG PL,Newcastle United,2:0,Nottingham Forest,England Premier League
+06.08. 16:00,ENG PL,AFC Bournemouth,2:0,Aston Villa,England Premier League
+06.08. 16:00,ENG PL,Leeds United,2:1,Wolverhampton,England Premier League
+06.08. 16:00,ENG CS,FC Reading,2:1,Cardiff City,England Championship
+06.08. 16:00,ENG CS,Queens Park R.,3:2,Middlesbrough,England Championship
+06.08. 16:00,ENG CS,Swansea City,0:3,Blackburn Rovers,England Championship
+06.08. 16:00,ENG CS,Stoke City,2:0,FC Blackpool,England Championship
+06.08. 16:00,ENG CS,Sheffield United,2:0,FC Millwall,England Championship
+06.08. 16:00,ENG CS,Preston North End,0:0,Hull City,England Championship
+06.08. 16:00,ENG CS,FC Burnley,1:1,Luton Town,England Championship
+06.08. 16:00,ENG CS,Bristol City,2:3,AFC Sunderland,England Championship
+06.08. 17:00,AUT BL,Wolfsberger AC,1:5,LASK,Österreich Bundesliga
+06.08. 17:00,AUT BL,SV Ried,1:1,SK Sturm Graz,Österreich Bundesliga
+06.08. 17:00,FRA 1,Racing Strasbourg,1:2,AS Monaco,Frankreich Ligue 1
+06.08. 18:00,SUI SL,Servette Genf,1:0,FC Winterthur,Schweiz Super League
+06.08. 18:30,GER BL,Borussia Dortmund,1:0,Bayer Leverkusen,Deutschland Bundesliga
+06.08. 18:30,GER BL,Borussia Dortmund,1:1,Bay. Leverkusen+1,Deutschland Bundesliga
+06.08. 18:30,ENG PL,FC Everton,0:1,FC Chelsea,England Premier League
+06.08. 19:30,AUT BL,TSV Hartberg,0:2,RB Salzburg,Österreich Bundesliga
+06.08. 19:30,AUT BL,TSV Hartberg+1,1:2,RB Salzburg,Österreich Bundesliga
+06.08. 20:30,GER 2,Hansa Rostock,2:1,Arminia Bielefeld,Deutschland 2. Bundesliga
+06.08. 20:30,SUI SL,Grasshoppers,3:2,FC St. Gallen,Schweiz Super League
+06.08. 20:45,TUR 1,Besiktas Istanbul,1:0,Kayserispor,Türkei Süper Lig
+06.08. 21:00,FRA 1,Clermont Foot,0:5,Paris SG,Frankreich Ligue 1
+06.08. 21:15,ITA CUP,FC Torino,3:0,Palermo FC,Coppa Italia
+07.08. 10:30,AUT 2,SK Sturm Graz II,1:1,SK Rapid Wien II,Österreich Zweite Liga
+07.08. 13:00,FRA 1,FC Toulouse,1:1,OGC Nizza,Frankreich Ligue 1
+07.08. 13:30,GER 2,E. Braunschweig,0:1,SV Darmstadt 98,Deutschland 2. Bundesliga
+07.08. 13:30,GER 2,FC Kaiserslautern,2:1,FC St. Pauli,Deutschland 2. Bundesliga
+07.08. 13:30,GER 2,FC Magdeburg,1:2,Holstein Kiel,Deutschland 2. Bundesliga
+07.08. 13:30,BEL 1,Standard Lüttich,2:0,Cercle Brügge,Belgien Jupiler Pro League
+07.08. 14:15,SUI SL,FC Zürich,0:3,FC Sion,Schweiz Super League
+07.08. 14:30,NL 1,Vitesse Arnheim,2:5,Feyenoord,Niederlande Eredivisie
+07.08. 15:00,ENG PL,Leicester City,2:2,FC Brentford,England Premier League
+07.08. 15:00,ENG PL,Manchester United,1:2,Brighton & Hove,England Premier League
+07.08. 15:00,FRA 1,HSC Montpellier,3:2,Troyes AC,Frankreich Ligue 1
+07.08. 15:00,FRA 1,SCO Angers,0:0,FC Nantes,Frankreich Ligue 1
+07.08. 15:00,FRA 1,Lille OSC,4:1,AJ Auxerre,Frankreich Ligue 1
+07.08. 15:00,FRA 1,RC Lens,3:2,Stade Brest,Frankreich Ligue 1
+07.08. 15:30,GER BL,VfB Stuttgart,1:1,RB Leipzig,Deutschland Bundesliga
+07.08. 16:30,SUI SL,FC Basel,0:0,Young Boys Bern,Schweiz Super League
+07.08. 17:00,AUT BL,SK Rapid Wien,1:1,Austria Lustenau,Österreich Bundesliga
+07.08. 17:00,AUT BL,SK Rapid Wien,1:2,Austria Lustenau+1,Österreich Bundesliga
+07.08. 17:00,AUT BL,SCR Altach,3:2,FK Austria Wien,Österreich Bundesliga
+07.08. 17:00,AUT BL,WSG Tirol,2:2,Austria Klagenfurt,Österreich Bundesliga
+07.08. 17:05,FRA 1,Stade Rennes,0:1,FC Lorient,Frankreich Ligue 1
+07.08. 17:30,GER BL,1. FC Köln,3:1,FC Schalke 04,Deutschland Bundesliga
+07.08. 17:30,ENG PL,West Ham United,0:2,Manchester City,England Premier League
+07.08. 19:00,POR 1,Sporting Braga,3:3,Sporting Lissabon,Portugal Primeira Liga
+07.08. 20:45,FRA 1,Olymp. Marseille,4:1,Stade de Reims,Frankreich Ligue 1
+07.08. 20:45,TUR 1,Antalyaspor,0:1,Galatasaray,Türkei Süper Lig
+08.08. 17:00,FIN 1,FC Lahti,0:0,HIFK Helsinki,Finnland Veikkausliiga
+08.08. 17:45,ITA CUP,FC Genua,3:2,Benevento Calcio,Coppa Italia
+08.08. 18:00,ITA CUP,FC Modena,3:2,US Sassuolo,Coppa Italia
+08.08. 18:00,NOR 2,Aasane Fotball,4:3,Fredrikstad FK,Norwegen Adeccoligaen
+08.08. 18:00,NOR 2,IK Start,6:0,Bryne FK,Norwegen Adeccoligaen
+08.08. 18:00,NOR 2,Sandnes Ulf,0:0,Skeid Fotball,Norwegen Adeccoligaen
+08.08. 18:00,NOR 2,Ranheim IL,2:1,Mjöndalen,Norwegen Adeccoligaen
+08.08. 18:00,NOR 2,Grorud IL,1:2,Kongsvinger IL,Norwegen Adeccoligaen
+08.08. 18:15,TUR 1,Basaksehir,4:0,Kasimpasa,Türkei Süper Lig
+08.08. 19:00,POR 2,FC Penafiel,0:0,Leixoes SC,Portugal Segunda Liga
+08.08. 19:00,POL 1,Wisla Plock,4:1,Miedz Legnica,Polen Orange Ekstraklasa
+08.08. 19:00,DEN 1,Silkeborg IF,3:1,Aalborg BK,Dänemark Superligaen
+08.08. 19:00,SWE 1,Varbergs BoIS,0:4,IFK Göteborg,Schweden Allsvenskan
+08.08. 19:00,SWE 1,BK Häcken,5:0,Helsingborgs IF,Schweden Allsvenskan
+08.08. 19:00,SWE 2,AFC Eskilstuna,0:2,Jonkopings Södra,Schweden Superettan
+08.08. 19:00,SWE 2,Örebro SK,0:1,Örgryte Göteborg,Schweden Superettan
+08.08. 19:00,SWE 2,Västeras SK,0:1,IF Brommapojkarna,Schweden Superettan
+08.08. 20:45,FRA 2,SM Caen,1:0,FC Metz,Frankreich Ligue 2
+08.08. 20:45,TUR 1,MKE Ankaragücü,0:0,Konyaspor,Türkei Süper Lig
+08.08. 20:45,TUR 1,Fenerbahce,3:3,Ümraniyespor,Türkei Süper Lig
+08.08. 21:00,ENG CS,West Bromwich,1:1,FC Watford,England Championship
+08.08. 21:00,ITA CUP,US Cremonese*,3:2,Ternana Calcio,Coppa Italia
+08.08. 21:15,ITA CUP,Bologna FC,1:0,Cosenza Calcio,Coppa Italia
+08.08. 21:15,POR 1,Gil Vicente,1:0,FC Pacos Ferreira,Portugal Primeira Liga
+09.08. 01:00,ARG 1,CA Tigre,3:1,CA Rosario Central,Argentinien Primera Division
+09.08. 01:00,BRA 1,Coritiba FC PR,1:2,Santos SP,Brasilien Brasilero Serie A

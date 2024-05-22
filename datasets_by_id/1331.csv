@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+29.03. 14:00,ENG CS,FC Millwall,1:1,West Bromwich,England Championship
+29.03. 16:00,ENG CS,Queens Park R.,2:1,Birmingham City,England Championship
+29.03. 16:00,ENG CS,Cardiff City,0:2,AFC Sunderland,England Championship
+29.03. 18:10,AUT 2,SKN St. Pölten,3:1,SKU Amstetten,Österreich Zweite Liga
+29.03. 18:10,AUT 2,DSV Leoben,0:0,Kapfenberger SV,Österreich Zweite Liga
+29.03. 18:30,ENG CS,Blackburn Rovers,0:1,Ipswich Town,England Championship
+29.03. 19:00,BB AUT,Klosterneuburg,68:66,Flyers Wels,Basketball Superliga
+29.03. 19:00,HB AUT,HSG Graz,26:24,Vöslauer HC,Österreich HLA
+29.03. 19:00,AUT RLM,SPG Hertha Wels,1:1,Deutschlandsberg,Österreich Regionalliga Mitte
+29.03. 19:00,AUT RLM,SV Wallern,2:1,ASK Klagenfurt,Österreich Regionalliga Mitte
+29.03. 19:00,AUT RLM,SC Weiz,2:0,SV Allerheiligen,Österreich Regionalliga Mitte
+29.03. 19:30,AUT RLO,FCM Traiskirchen,0:2,SK Rapid Wien II,Österreich Regionalliga Ost
+29.03. 19:30,AUT RLO,SCU Ardagger,0:2,Wiener Sport-Club,Österreich Regionalliga Ost
+29.03. 19:30,AUT RLO,Kremser SC,1:3,SV Oberwart,Österreich Regionalliga Ost
+29.03. 19:30,AUT BL,FK Austria Wien,0:0,BW Linz,Österreich Bundesliga
+29.03. 19:30,AUT BL,FK Austria Wien,0:1,BW Linz+1,Österreich Bundesliga
+29.03. 19:30,ROU 1,Sepsi Sf.Gheorghe,1:1,CFR 1907 Cluj,Rumänien Liga 1
+29.03. 19:30,SUI 2,Xamax Neuchatel,2:1,FC Schaffhausen,Schweiz Challenge League
+29.03. 19:30,SUI 2,FC Stade Nyonnais,0:4,FC Sion,Schweiz Challenge League
+29.03. 20:00,NL 2,NAC Breda,1:2,MVV Maastricht,Niederlande Jupiler League
+29.03. 20:00,NL 2,VVV Venlo,2:0,FC Oss,Niederlande Jupiler League
+29.03. 20:00,NL 2,FC Eindhoven,0:3,SC Cambuur,Niederlande Jupiler League
+29.03. 20:00,NL 2,Helmond Sport,0:2,Willem II Tilburg,Niederlande Jupiler League
+29.03. 20:00,NL 2,FC Den Bosch,0:3,FC Dordrecht,Niederlande Jupiler League
+29.03. 20:00,NL 2,ADO Den Haag,0:2,FC Groningen,Niederlande Jupiler League
+29.03. 20:00,HUN 1,Puskas Akademia FC,0:0,Fehervar FC,Ungarn NB I
+29.03. 20:15,SUI 2,AC Bellinzona,5:2,FC Aarau,Schweiz Challenge League
+29.03. 20:30,AUT 2,SV Ried,0:1,Grazer AK,Österreich Zweite Liga
+29.03. 20:30,ESP 2,Burgos CF,0:0,Espanyol Barcelona,Spanien Segunda Division
+29.03. 20:45,BEL 1,KAA Gent,5:1,Standard Lüttich,Belgien Jupiler Pro League
+29.03. 21:00,FRA 1,Lille OSC,2:1,RC Lens,Frankreich Ligue 1
+29.03. 21:00,ESP 1,Cadiz CF,1:0,Granada CF,Spanien La Liga
+29.03. 21:00,ENG CS,FC Watford,2:2,Leeds United,England Championship
+30.03. 12:30,ITA A,SSC Napoli,0:3,Atalanta Bergamo,Italien Serie A
+30.03. 13:00,GER 2,FC Kaiserslautern,1:3,Fortuna Düsseldorf,Deutschland 2. Bundesliga
+30.03. 13:00,GER 2,E. Braunschweig,5:0,SV Elversberg,Deutschland 2. Bundesliga
+30.03. 13:00,GER 2,Holstein Kiel,2:0,Hansa Rostock,Deutschland 2. Bundesliga
+30.03. 13:30,ENG PL,Newcastle United,4:3,West Ham United,England Premier League
+30.03. 14:00,ESP 1,Getafe CF,0:1,FC Sevilla,Spanien La Liga
+30.03. 14:30,AUT 2,SV Lafnitz,3:0,SW Bregenz,Österreich Zweite Liga
+30.03. 14:30,AUT 2,FC Dornbirn,4:0,SV Horn,Österreich Zweite Liga
+30.03. 15:00,ITA A,FC Torino,1:0,AC Monza,Italien Serie A
+30.03. 15:00,ITA A,FC Genua,1:1,Frosinone Calcio,Italien Serie A
+30.03. 15:30,GER BL,Bayer Leverkusen,2:1,TSG Hoffenheim,Deutschland Bundesliga
+30.03. 15:30,GER BL,RB Leipzig,0:0,FSV Mainz 05,Deutschland Bundesliga
+30.03. 15:30,GER BL,SV Werder Bremen,0:2,VfL Wolfsburg,Deutschland Bundesliga
+30.03. 15:30,GER BL,Mönchengladbach,0:3,SC Freiburg,Deutschland Bundesliga
+30.03. 15:30,GER BL,Eintr. Frankfurt,0:0,Union Berlin,Deutschland Bundesliga
+30.03. 16:00,ENG PL,FC Chelsea,2:2,FC Burnley,England Premier League
+30.03. 16:00,ENG PL,Tottenham,2:1,Luton Town,England Premier League
+30.03. 16:00,ENG PL,Sheffield United,3:3,FC Fulham,England Premier League
+30.03. 16:00,ENG PL,Nottingham Forest,1:1,Crystal Palace,England Premier League
+30.03. 16:00,ENG PL,AFC Bournemouth,2:1,FC Everton,England Premier League
+30.03. 16:15,ESP 1,UD Almeria,0:3,CA Osasuna,Spanien La Liga
+30.03. 16:30,NL 1,NEC Nijmegen,3:1,PSV Eindhoven,Niederlande Eredivisie
+30.03. 17:00,AUT BL,Austria Lustenau,1:2,WSG Tirol,Österreich Bundesliga
+30.03. 17:00,AUT BL,Wolfsberger AC,0:0,SCR Altach,Österreich Bundesliga
+30.03. 17:00,FRA 1,FC Metz,2:5,AS Monaco,Frankreich Ligue 1
+30.03. 18:00,ITA A,Lazio Rom,1:0,Juventus Turin,Italien Serie A
+30.03. 18:00,EH AUT,HC Bozen Foxes,1:4,EC RB Salzburg,win2day ICE Hockey League
+30.03. 18:30,GER BL,Bayern München,0:2,Borussia Dortmund,Deutschland Bundesliga
+30.03. 18:30,GER BL,Bayern München,0:3,Bor. Dortmund+1,Deutschland Bundesliga
+30.03. 18:30,ENG PL,Aston Villa,2:0,Wolverhampton,England Premier League
+30.03. 18:30,ESP 1,FC Valencia,0:0,RCD Mallorca,Spanien La Liga
+30.03. 20:20,HB AUT,UHK Krems,36:33,Handball Tirol,Österreich HLA
+30.03. 20:30,GER 2,Hertha BSC,3:3,1. FC Nürnberg,Deutschland 2. Bundesliga
+30.03. 20:30,SUI SL,FC Basel,2:2,FC Zürich,Schweiz Super League
+30.03. 20:45,ITA A,AC Fiorentina,1:2,AC Milan,Italien Serie A
+30.03. 20:45,BEL 1,RSC Anderlecht,1:0,Royal Antwerpen,Belgien Jupiler Pro League
+30.03. 21:00,ENG PL,FC Brentford,1:1,Manchester United,England Premier League
+30.03. 21:00,ESP 1,FC Barcelona,1:0,UD Las Palmas,Spanien La Liga
+30.03. 21:00,FRA 1,Olympique Lyon,1:1,Stade de Reims,Frankreich Ligue 1
+30.03. 21:00,NL 1,AZ Alkmaar,2:0,Vitesse Arnheim,Niederlande Eredivisie
+30.03. 21:30,POR 1,Estoril Praia,1:0,FC Porto,Portugal Primeira Liga
+31.03. 10:30,AUT 2,SV Stripfing,3:2,First Vienna FC,Österreich Zweite Liga
+31.03. 10:30,AUT 2,SK Sturm Graz II,1:3,Admira Wacker,Österreich Zweite Liga
+31.03. 12:15,NL 1,FC Zwolle,1:3,Ajax Amsterdam,Niederlande Eredivisie
+31.03. 12:30,AUT 2,FC Liefering,4:1,Floridsdorfer AC,Österreich Zweite Liga
+31.03. 13:30,GER 2,FC St. Pauli,2:1,SC Paderborn,Deutschland 2. Bundesliga
+31.03. 13:30,GER 2,Greuther Fürth,1:1,Hamburger SV,Deutschland 2. Bundesliga
+31.03. 13:30,GER 2,FC Schalke 04,0:0,Karlsruher SC,Deutschland 2. Bundesliga
+31.03. 13:30,GER 2,FC Magdeburg,0:3,Hannover 96,Deutschland 2. Bundesliga
+31.03. 13:30,GER 2,Wehen Wiesbaden,0:1,VfL Osnabrück,Deutschland 2. Bundesliga
+31.03. 14:00,ESP 1,Celta de Vigo,0:0,Rayo Vallecano,Spanien La Liga
+31.03. 14:30,AUT BL,TSV Hartberg,0:3,SK Rapid Wien,Österreich Bundesliga
+31.03. 14:30,AUT BL,LASK,1:0,Austria Klagenfurt,Österreich Bundesliga
+31.03. 15:00,ENG PL,FC Liverpool,2:1,Brighton & Hove,England Premier League
+31.03. 15:00,FRA 1,OGC Nizza,1:2,FC Nantes,Frankreich Ligue 1
+31.03. 15:30,GER BL,FC Augsburg,1:1,1. FC Köln,Deutschland Bundesliga
+31.03. 16:15,ESP 1,FC Girona,3:2,Betis Sevilla,Spanien La Liga
+31.03. 17:00,AUT BL,SK Sturm Graz,0:1,RB Salzburg,Österreich Bundesliga
+31.03. 17:00,AUT BL,SK Sturm Graz+1,1:1,RB Salzburg,Österreich Bundesliga
+31.03. 17:00,GRE 1,Panathinaikos,2:3,PAOK Thessaloniki,Griechenland Super League
+31.03. 17:30,GER BL,VfB Stuttgart,3:3,FC Heidenheim,Deutschland Bundesliga
+31.03. 17:30,ENG PL,Manchester City,0:0,FC Arsenal,England Premier League
+31.03. 18:00,NOR 1,Odds BK,1:2,FK Haugesund,Norwegen Tippeligaen
+31.03. 18:30,ESP 1,CD Alaves,0:1,Real Sociedad,Spanien La Liga
+31.03. 19:30,GER BL,VfL Bochum,2:2,SV Darmstadt 98,Deutschland Bundesliga
+31.03. 19:30,GRE 1,AEK Athen,1:0,Olympiakos Piräus,Griechenland Super League
+31.03. 20:45,FRA 1,Olymp. Marseille,0:2,Paris SG,Frankreich Ligue 1
+31.03. 21:00,ESP 1,Real Madrid,2:0,Athletic Bilbao,Spanien La Liga
+01.04. 12:30,ITA A,Bologna FC,3:0,Salernitana Calcio,Italien Serie A
+01.04. 14:00,SWE 1,IK Sirius FK,3:0,Halmstads BK,Schweden Allsvenskan
+01.04. 14:00,SWE 1,IFK Göteborg,1:4,Djurgardens IF,Schweden Allsvenskan
+01.04. 14:15,SUI SL,Yverdon-Sport,0:0,Young Boys Bern,Schweiz Super League
+01.04. 15:00,ITA A,US Sassuolo,1:1,Udinese Calcio,Italien Serie A
+01.04. 15:00,ITA A,Cagliari Calcio,1:1,Hellas Verona,Italien Serie A
+01.04. 16:30,SUI SL,Grasshoppers,0:1,Lausanne-Sport,Schweiz Super League
+01.04. 16:30,SUI SL,FC St. Gallen,1:1,FC Luzern,Schweiz Super League
+01.04. 16:30,SWE 1,IF Elfsborg,2:2,IFK Värnamo,Schweden Allsvenskan
+01.04. 16:30,SWE 1,AIK Stockholm,1:0,Västeras SK,Schweden Allsvenskan
+01.04. 17:00,NOR 1,Molde FK,4:0,Strömsgodset,Norwegen Tippeligaen
+01.04. 17:00,NOR 1,Tromsö IL,2:4,Brann Bergen,Norwegen Tippeligaen
+01.04. 17:00,NOR 1,Rosenborg BK,2:0,Sandefjord Fotball,Norwegen Tippeligaen
+01.04. 18:00,ITA A,US Lecce,0:0,AS Roma,Italien Serie A
+01.04. 18:30,BEL 1,KRC Genk,1:0,Saint Gilloise,Belgien Jupiler Pro League
+01.04. 19:15,NOR 1,Viking FK,1:0,Sarpsborg 08,Norwegen Tippeligaen
+01.04. 20:00,POL 1,Gornik Zabrze,1:3,Legia Warschau,Polen Orange Ekstraklasa
+01.04. 20:45,ITA A,Inter Mailand,2:0,FC Empoli,Italien Serie A
+01.04. 21:00,ESP 1,Villarreal CF,1:2,Atletico Madrid,Spanien La Liga

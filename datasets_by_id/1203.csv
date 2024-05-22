@@ -1,0 +1,118 @@
+Date,League,Team 1,Score,Team 2,League Name
+23.12. 18:00,TUR 1,Ümraniyespor,1:3,Basaksehir,Türkei Süper Lig
+23.12. 18:00,TUR 1,Antalyaspor,0:2,MKE Ankaragücü,Türkei Süper Lig
+23.12. 18:30,BEL 1,RFC Seraing,0:1,AS Eupen,Belgien Jupiler Pro League
+23.12. 19:15,EH AUT,Vienna Capitals,3:3,Fehervar AV19,win2day ICE Hockey League
+23.12. 19:15,EH AUT,EC KAC,1:0,EC Graz 99ers,win2day ICE Hockey League
+23.12. 19:45,EH AUT,HC Asiago,3:1,HC Innsbruck,win2day ICE Hockey League
+23.12. 20:30,BEL 1,YR KV Mechelen,1:1,Cercle Brügge,Belgien Jupiler Pro League
+23.12. 20:30,BEL 1,KAA Gent,0:0,Standard Lüttich,Belgien Jupiler Pro League
+23.12. 20:30,SCO PS,FC Ross County,0:1,Glasgow Rangers,Schottland Premiership
+23.12. 20:45,SCO PS,FC Motherwell,2:2,FC Kilmarnock,Schottland Premiership
+23.12. 20:45,SCO CS,FC Raith Rovers,2:2,Greenock Morton,Schottland Championship
+23.12. 20:45,SCO CS,Partick Thistle,5:1,Inverness CT,Schottland Championship
+23.12. 20:45,SCO CS,Cove Rangers,2:0,Hamilton FC,Schottland Championship
+23.12. 20:45,SCO CS,Ayr United,0:2,FC Dundee,Schottland Championship
+23.12. 20:45,SCO CS,FC Arbroath,1:4,FC Queens Park,Schottland Championship
+23.12. 21:15,POR 1,Rio Ave FC,1:1,Maritimo Funchal,Portugal Primeira Liga
+24.12. 11:30,TUR 1,Hatayspor,1:1,Giresunspor,Türkei Süper Lig
+24.12. 13:30,SCO PS,FC St. Mirren,3:1,FC Aberdeen,Schottland Premiership
+24.12. 13:30,SCO PS,Celtic Glasgow,4:1,FC St. Johnstone,Schottland Premiership
+24.12. 14:00,TUR 1,Kasimpasa,1:2,Sivasspor,Türkei Süper Lig
+24.12. 14:00,ISR 1,Maccabi Tel Aviv,5:0,Hapoel Hadera,Israel Superliga
+24.12. 15:00,SCO PS,Hibernian FC,4:0,FC Livingston,Schottland Premiership
+24.12. 15:00,SCO PS,Dundee United,2:2,Heart of Midl.,Schottland Premiership
+24.12. 15:00,SCO 1,Edinburgh City,4:0,Peterhead FC,Schottland League One
+24.12. 16:30,ISR 1,Hapoel Jerusalem,1:1,Ironi K. Shmona,Israel Superliga
+24.12. 17:00,ISR 1,Sectzya Nes Ziona,2:0,Ashdod SC,Israel Superliga
+24.12. 17:00,ISR 1,Hapoel Haifa,0:0,Maccabi Bnei Reine,Israel Superliga
+24.12. 17:00,TUR 1,Trabzonspor,2:0,Fenerbahce,Türkei Süper Lig
+24.12. 18:30,ISR 1,Hap. Beer Sheva,3:2,Beitar Jerusalem,Israel Superliga
+24.12. 19:00,NFL,N.England Patriots,18:22,Cincinnati Bengals,USA NFL
+24.12. 19:00,NFL,Kansas City Chiefs,24:10,Seattle Seahawks,USA NFL
+24.12. 22:25,NFL,Dallas Cowboys,40:34,Philadelph. Eagles,USA NFL
+25.12. 11:30,TUR 1,Adana Demirspor,2:1,Karagümrük,Türkei Süper Lig
+25.12. 11:30,TUR 2,Keciöerengücü,2:1,Eyupspor,Türkei TFF 1. Lig
+25.12. 11:30,TUR 2,Boluspor,3:1,Erzurumspor FK,Türkei TFF 1. Lig
+25.12. 14:00,TUR 1,Konyaspor,2:2,Alanyaspor,Türkei Süper Lig
+25.12. 14:00,TUR 1,Gaziantep FK,1:1,Besiktas Istanbul,Türkei Süper Lig
+25.12. 14:00,TUR 2,Genclerbirligi,2:5,Bandirmaspor,Türkei TFF 1. Lig
+25.12. 17:00,TUR 1,Galatasaray,2:1,Istanbulspor AS,Türkei Süper Lig
+25.12. 17:00,TUR 2,Samsunspor,2:1,Adanaspor,Türkei TFF 1. Lig
+25.12. 19:15,ISR 1,Bnei Sakhnin FC,1:1,Hapoel Tel Aviv,Israel Superliga
+25.12. 22:30,NFL,Los Angeles Rams,51:14,Denver Broncos,USA NFL
+26.12. 13:00,ENG CS,FC Watford,0:2,FC Millwall,England Championship
+26.12. 13:30,ENG CS,AFC Sunderland,2:1,Blackburn Rovers,England Championship
+26.12. 13:30,ENG PL,FC Brentford,2:2,Tottenham,England Premier League
+26.12. 16:00,ENG PL,FC Southampton,1:3,Brighton & Hove,England Premier League
+26.12. 16:00,ENG PL,Leicester City,0:3,Newcastle United,England Premier League
+26.12. 16:00,ENG PL,FC Everton,1:2,Wolverhampton,England Premier League
+26.12. 16:00,ENG PL,Crystal Palace,0:3,FC Fulham,England Premier League
+26.12. 16:00,ENG CS,Sheffield United,3:1,Coventry City,England Championship
+26.12. 16:00,ENG CS,Rotherham United,2:2,Stoke City,England Championship
+26.12. 16:00,ENG CS,Middlesbrough,4:1,Wigan Athletic,England Championship
+26.12. 16:00,ENG CS,Hull City,1:1,FC Blackpool,England Championship
+26.12. 16:00,ENG CS,Bristol City,0:2,West Bromwich,England Championship
+26.12. 16:30,EH AUT,EC VSV,1:5,HC Innsbruck,win2day ICE Hockey League
+26.12. 17:30,EH AUT,Black Wings Linz,1:1,EC RB Salzburg,win2day ICE Hockey League
+26.12. 17:30,EH AUT,Fehervar AV19,3:0,EC Graz 99ers,win2day ICE Hockey League
+26.12. 18:00,EH AUT,HC Bozen Foxes,1:1,EC KAC,win2day ICE Hockey League
+26.12. 18:15,ENG CS,Cardiff City,0:0,Queens Park R.,England Championship
+26.12. 18:30,ENG PL,Aston Villa,1:3,FC Liverpool,England Premier League
+26.12. 19:30,ISR 1,Maccabi Netanya,0:2,Maccabi Haifa,Israel Superliga
+26.12. 20:45,ENG CS,Luton Town,2:1,Norwich City,England Championship
+26.12. 21:00,ENG PL,FC Arsenal,3:1,West Ham United,England Premier League
+27.12. 15:00,TUR 1,Basaksehir,2:0,Antalyaspor,Türkei Süper Lig
+27.12. 15:00,TUR 1,MKE Ankaragücü,1:2,Ümraniyespor,Türkei Süper Lig
+27.12. 16:00,ENG 1,Bolton Wanderers,0:0,Derby County,England League One
+27.12. 18:00,TUR 1,Fenerbahce,4:0,Hatayspor,Türkei Süper Lig
+27.12. 18:15,ENG CS,FC Reading,2:1,Swansea City,England Championship
+27.12. 18:30,ENG PL,FC Chelsea,2:0,AFC Bournemouth,England Premier League
+27.12. 20:00,BEL 1,KVC Westerlo,3:3,Royal Antwerpen,Belgien Jupiler Pro League
+27.12. 20:00,BEL 1,St. Truiden VV,2:0,SV Zulte Waregem,Belgien Jupiler Pro League
+27.12. 21:00,ENG PL,Manchester United,3:0,Nottingham Forest,England Premier League
+27.12. 21:00,ENG CS,FC Burnley,3:0,Birmingham City,England Championship
+28.12. 15:00,TUR 1,Istanbulspor AS,2:1,Kasimpasa,Türkei Süper Lig
+28.12. 15:00,TUR 1,Alanyaspor,3:1,Kayserispor,Türkei Süper Lig
+28.12. 15:00,FRA 1,Troyes AC,0:0,FC Nantes,Frankreich Ligue 1
+28.12. 17:00,FRA 1,AJ Auxerre,2:3,AS Monaco,Frankreich Ligue 1
+28.12. 17:00,GRE 1,Olympiakos Piräus,5:0,Asteras Tripolis,Griechenland Super League
+28.12. 18:00,TUR 1,Karagümrük,4:1,Trabzonspor,Türkei Süper Lig
+28.12. 18:30,GRE 1,Volos NFC,0:4,AEK Athen,Griechenland Super League
+28.12. 19:00,GRE 1,Atromitos Athen,1:1,PAOK Thessaloniki,Griechenland Super League
+28.12. 19:00,FRA 1,Clermont Foot,0:2,Lille OSC,Frankreich Ligue 1
+28.12. 19:15,EH AUT,HK Olimpija,1:6,EC KAC,win2day ICE Hockey League
+28.12. 19:15,EH AUT,HC Innsbruck,4:1,HC Pustertal,win2day ICE Hockey League
+28.12. 19:15,EH AUT,Vienna Capitals,1:1,Black Wings Linz,win2day ICE Hockey League
+28.12. 19:15,EH AUT,EC Graz 99ers,1:8,EC VSV,win2day ICE Hockey League
+28.12. 20:30,GRE 1,Panathinaikos,1:1,OFI Kreta,Griechenland Super League
+28.12. 20:45,SCO PS,FC St. Johnstone,2:3,Heart of Midl.,Schottland Premiership
+28.12. 20:45,SCO PS,Glasgow Rangers,3:0,FC Motherwell,Schottland Premiership
+28.12. 20:45,SCO PS,FC Livingston,1:1,FC St. Mirren,Schottland Premiership
+28.12. 20:45,SCO PS,FC Kilmarnock,2:1,FC Aberdeen,Schottland Premiership
+28.12. 20:45,SCO PS,Dundee United,3:0,FC Ross County,Schottland Premiership
+28.12. 21:00,SCO PS,Hibernian FC,0:4,Celtic Glasgow,Schottland Premiership
+28.12. 21:00,ENG PL,Leeds United,1:3,Manchester City,England Premier League
+28.12. 21:00,FRA 1,Stade Brest,2:4,Olympique Lyon,Frankreich Ligue 1
+28.12. 21:00,FRA 1,Paris SG,2:1,Racing Strasbourg,Frankreich Ligue 1
+29.12. 15:00,TUR 1,Sivasspor,1:2,Galatasaray,Türkei Süper Lig
+29.12. 17:00,ESP 1,FC Girona,2:2,Rayo Vallecano,Spanien La Liga
+29.12. 17:00,FRA 1,FC Lorient,0:2,HSC Montpellier,Frankreich Ligue 1
+29.12. 17:00,GRE 1,Aris Thessaloniki,1:0,Panaitolikos,Griechenland Super League
+29.12. 18:00,POR 1,Gil Vicente,1:0,CD Santa Clara,Portugal Primeira Liga
+29.12. 18:00,TUR 1,Besiktas Istanbul,1:0,Adana Demirspor,Türkei Süper Lig
+29.12. 19:00,ENG CS,Queens Park R.,0:3,Luton Town,England Championship
+29.12. 19:00,FRA 1,Stade de Reims,3:1,Stade Rennes,Frankreich Ligue 1
+29.12. 19:15,ESP 1,Betis Sevilla,0:0,Athletic Bilbao,Spanien La Liga
+29.12. 20:00,POR 1,Estoril Praia,abgesagt,Boavista FC,Portugal Primeira Liga
+29.12. 20:45,ENG CS,Wigan Athletic,1:4,AFC Sunderland,England Championship
+29.12. 20:45,ENG CS,FC Millwall,0:0,Bristol City,England Championship
+29.12. 20:45,ENG CS,Huddersfield Town,2:0,Rotherham United,England Championship
+29.12. 20:45,ENG CS,Coventry City,0:0,Cardiff City,England Championship
+29.12. 20:45,ENG CS,Blackburn Rovers,1:2,Middlesbrough,England Championship
+29.12. 21:00,FRA 1,Olymp. Marseille,6:1,FC Toulouse,Frankreich Ligue 1
+29.12. 21:00,FRA 1,OGC Nizza,0:0,RC Lens,Frankreich Ligue 1
+29.12. 21:00,ENG CS,West Bromwich,2:0,Preston North End,England Championship
+29.12. 21:15,ENG CS,FC Blackpool,1:2,Sheffield United,England Championship
+29.12. 21:30,ESP 1,Atletico Madrid,2:0,Elche CF,Spanien La Liga
+30.12. 02:15,NFL,Tennessee Titans,13:27,Dallas Cowboys,USA NFL

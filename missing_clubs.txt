@@ -1,0 +1,98 @@
+League AUT RLO (2) - >Österreich Regionalliga Ost<:
+  Favoritner AC
+  TWL Elektra
+League ROU 1 (2) - >Rumänien Liga 1<:
+  Uni Craiova 1948
+  FC Farul Constanta
+League TUR 1 (1) - >Türkei Süper Lig<:
+  Pendikspor
+League POL 1 (2) - >Polen Orange Ekstraklasa<:
+  Pusz. Niepolomice
+  RKS Radomiak
+League BUL 1 (3) - >Bulgarien Premier League<:
+  CSKA 1948 Sofia
+  Lokomotive Sofia
+  FK Hebar Pazardzhi
+League ISR 1 (3) - >Israel Superliga<:
+  Ashdod SC
+  Mac. Petach Tikva
+  Maccabi Bnei Reine
+League POR 2 (1) - >Portugal Segunda Liga<:
+  AVS Futebol SAD
+League ISR 2 (3) - >Israel National League<:
+  El Fahem
+  Maccabi Herzliya
+  Ironi Tiberias
+League CYP 1 (3) - >Zypern 1. Division<:
+  Othellos Athienou
+  Doxa Katokopias
+  Karmiotissa
+League EGY 1 (1) - >Ägypten Premier League<:
+  Al Ahly Kairo
+League SERB 1 (3) - >Serbien Meridijan Superliga<:
+  Zel. Pancevo
+  FK Radnicki 1923
+  Cukaricki Belgrad
+League RSA PL (3) - >Südafrika, Premier League<:
+  Moroka Swallows FC
+  Royal AM FC
+  Cape Town Spurs FC
+League COPA L (3) - >Copa Libertadores<:
+  Rosario Cen., Argentina (ar)
+  Dep. Tachira, Venezuela (ve)
+  Liverpool Mont, Uruguay (uy)
+League COPA S (10) - >Copa Sudamericana<:
+  Nacional Asunc, Paraguay (py)
+  Arg. Juniors, Argentina (ar)
+  Sp. Ameliano, Paraguay (py)
+  Alianza Valled, Colombia (co)
+  Defensa y Jus., Argentina (ar)
+  Rayo Zuliano, Venezuela (ve)
+  Sp. Luqueno, Paraguay (py)
+  Coquimbo Un., Chile (cl)
+  Fortaleza EC C, Brazil (br)
+  Sportivo Trini, Paraguay (py)
+League CZE 2 (1) - >Tschechien 2. Liga<:
+  AFK Chrudim
+League NOR CUP (1) - >Norwegen Cup<:
+  Levanger FK
+League AUT RLM (1) - >Österreich Regionalliga Mitte<:
+  SPG Hertha Wels
+League TUR CUP (1) - >Türkei Türkiye Kupasi<:
+  Karagümrük
+League SAUD 1 (6) - >Saudi Professional League<:
+  Al Fayha FC
+  Al Fateh SC
+  Al Riyadh
+  Al Taawoun FC
+  Al Akhdood
+  Al Nasr Riad
+League SUI 2 (2) - >Schweiz Challenge League<:
+  FC Baden
+  FC Stade Nyonnais
+League ESP 2 (1) - >Spanien Segunda Division<:
+  CD Eldense
+League ITA B (1) - >Italien Serie B<:
+  Palermo FC
+League HUN 2 (2) - >Ungarn NB II<:
+  SC Vasas Budapest
+  Haladas Szombat.
+League SWE 3N (1) - >Schweden Div 1 Norra<:
+  Vasalunds IF
+League SUI SL (2) - >Schweiz Super League<:
+  Yverdon-Sport
+  Lausanne-Ouchy
+League JPN 1 (1) - >Japan J-League 1<:
+  Kyoto Sanga FC
+League SWE 1 (1) - >Schweden Allsvenskan<:
+  IFK Värnamo
+League ROU CUP (1) - >Rumänien Cup<:
+  Corv. Hunedoara
+League ISL CUP (1) - >Island Cup<:
+  IF Vestri
+League CZE 1 (1) - >1. Tschechische Liga<:
+  Pardubice
+League NOR 1 (1) - >Norwegen Tippeligaen<:
+  Brann Bergen
+League SWE 2 (1) - >Schweden Superettan<:
+  Utsiktens BK

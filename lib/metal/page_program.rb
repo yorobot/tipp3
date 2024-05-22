@@ -39,6 +39,8 @@ def matches
   rows = []
 
   table = doc.css( 'div.t3-list__entries' ).first    ## get table
+  assert( table, "no list entries container found" )
+
   trs = table.css( 'div.t3-list-entry' )
   puts " #{trs.size} table row(s) via div.t3-list-entry"  
 

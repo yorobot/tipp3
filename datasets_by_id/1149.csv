@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+14.06. 13:00,INT FS,Südkorea,4:1,Ägypten,Internationale Freundschaftsspiele
+14.06. 17:00,FIN CUP,HJS Akatemia,0:1,Haka Valkeakoski,Finnland Cup
+14.06. 17:00,AFR CQ,Kirgisistan,0:0,Tadschikistan,"Africa Cup, Qualifikation"
+14.06. 17:00,AFR CQ,Indien,4:0,Hong Kong,"Africa Cup, Qualifikation"
+14.06. 17:30,FIN CUP,Järvenpään PS,2:1,AC Oulu,Finnland Cup
+14.06. 17:30,AFR CQ,Usbekistan,2:0,Thailand,"Africa Cup, Qualifikation"
+14.06. 17:30,U21 EMQ,Italien U21,4:1,Irland U21,U21 EM Qualifikation
+14.06. 17:30,U21 EMQ,Italien U21,4:2,Irland U21+1,U21 EM Qualifikation
+14.06. 18:00,U21 EMQ,Dänemark U21,3:2,Türkei U21,U21 EM Qualifikation
+14.06. 18:00,U21 EMQ,Dänemark U21,3:3,Türkei U21+1,U21 EM Qualifikation
+14.06. 18:00,U21 EMQ,Norwegen U21,2:1,Aserbaidschan U21,U21 EM Qualifikation
+14.06. 18:00,U21 EMQ,Wales U21,2:5,Gibraltar U21+5,U21 EM Qualifikation
+14.06. 18:00,UEFA NL,Armenien,1:4,Schottland,UEFA Nations League
+14.06. 18:00,UEFA NL,Armenien+1,2:4,Schottland,UEFA Nations League
+14.06. 18:00,UEFA NL,Moldawien,2:1,Andorra,UEFA Nations League
+14.06. 18:00,UEFA NL,Moldawien,2:2,Andorra+1,UEFA Nations League
+14.06. 18:15,AFR CQ,Jordanien*,3:0,Kuwait,"Africa Cup, Qualifikation"
+14.06. 19:00,NOR CUP,Eidsvold TF,3:2,Kongsvinger IL,Norwegen Cup
+14.06. 19:00,SWE 3N,Taby FK,0:2,Örebro Syrianska,Schweden Div 1 Norra
+14.06. 19:00,BB GER,Bayern München,58:71,Alba Berlin,Deutschland BBL
+14.06. 20:00,WM Q PO,Costa Rica*,1:0,Neuseeland,WM Qualifikation Interkontinental-Playoffs
+14.06. 20:00,WM Q PO,Costa Rica,1:1,Neuseeland+1,WM Qualifikation Interkontinental-Playoffs
+14.06. 20:00,ARG 1,CA San Lorenzo,3:3,Arsenal de Sarandi,Argentinien Primera Division
+14.06. 20:00,BB GRE,BC Panathinaikos,72:78,Olympiakos Piräus,Griechenland A1
+14.06. 20:30,BB ITA,Olimpia Milano,77:62,Bologna,Italien A1
+14.06. 20:45,UEFA NL,Deutschland,5:2,Italien,UEFA Nations League
+14.06. 20:45,UEFA NL,Deutschland,5:3,Italien+1,UEFA Nations League
+14.06. 20:45,UEFA NL,England,0:4,Ungarn,UEFA Nations League
+14.06. 20:45,UEFA NL,England,0:5,Ungarn+1,UEFA Nations League
+14.06. 20:45,UEFA NL,England,0:6,Ungarn+2,UEFA Nations League
+14.06. 20:45,UEFA NL,Polen,0:1,Belgien,UEFA Nations League
+14.06. 20:45,UEFA NL,Polen+1,1:1,Belgien,UEFA Nations League
+14.06. 20:45,UEFA NL,Niederlande,3:2,Wales,UEFA Nations League
+14.06. 20:45,UEFA NL,Niederlande,3:3,Wales+1,UEFA Nations League
+14.06. 20:45,UEFA NL,Ukraine*,1:1,Irland,UEFA Nations League
+14.06. 20:45,UEFA NL,Ukraine,1:2,Irland+1,UEFA Nations League
+14.06. 20:45,UEFA NL,Türkei,2:0,Litauen,UEFA Nations League
+14.06. 20:45,UEFA NL,Türkei,2:2,Litauen+2,UEFA Nations League
+14.06. 20:45,UEFA NL,Türkei,2:3,Litauen+3,UEFA Nations League
+14.06. 20:45,UEFA NL,Rumänien,0:3,Montenegro,UEFA Nations League
+14.06. 20:45,UEFA NL,Rumänien,0:4,Montenegro+1,UEFA Nations League
+14.06. 20:45,UEFA NL,Bosnien-Herzegowi.,3:2,Finnland,UEFA Nations League
+14.06. 20:45,UEFA NL,Bosnien-Herzegowi.,3:3,Finnland+1,UEFA Nations League
+14.06. 20:45,UEFA NL,Luxemburg,2:2,Färöer Inseln,UEFA Nations League
+14.06. 20:45,UEFA NL,Liechtenstein,0:2,Lettland,UEFA Nations League
+14.06. 22:00,CCC NL,Bonaire,2:0,US Virgin Islands,CONCACAF Nations League
+14.06. 23:00,PAR 1,Sportivo Ameliano,1:4,Olimpia Asuncion,Paraguay Primera Division
+15.06. 00:00,CCC NL,Franz.-Guayana,1:0,Belize,CONCACAF Nations League
+15.06. 00:00,ARG 1,CA Talleres,0:1,Newell's Old B.,Argentinien Primera Division
+15.06. 00:00,ARG 1,Patronato Parana,1:0,CA Aldosivi,Argentinien Primera Division
+15.06. 00:00,BRA 2,EC Bahia BA,0:1,Chapecoense SC,Brasilien Brasilero Serie B
+15.06. 00:00,CCC NL,Haiti,6:0,Guyana,CONCACAF Nations League
+15.06. 01:15,PAR 1,Club Cerro Porteno,1:0,Resistencia FC,Paraguay Primera Division
+15.06. 02:00,CCC NL,Jamaika,1:1,Mexiko,CONCACAF Nations League
+15.06. 02:00,CCC NL,Jamaika+1,2:1,Mexiko,CONCACAF Nations League
+15.06. 02:30,ARG 1,Estudiantes LP,2:1,CA Sarmiento,Argentinien Primera Division
+15.06. 02:30,ARG 1,Defensa y Justicia,1:1,CA Huracan,Argentinien Primera Division
+15.06. 02:30,BRA 1,EC Juventude RS,1:2,Santos SP,Brasilien Brasilero Serie A
+15.06. 04:00,CCC NL,El Salvador,1:1,USA,CONCACAF Nations League
+15.06. 04:00,CCC NL,El Salvador+1,2:1,USA,CONCACAF Nations League
+15.06. 04:30,USA MLS,Seattle Sounders,4:0,Vancouver W'caps,USA Major League Soccer
+15.06. 11:00,JPN 2,Iwate Grulla Morio,3:3,Montedio Yamagata,Japan J-League 2
+15.06. 17:00,CZE 3,1. FC Slovacko B,2:5,FC Hlucin,Tschechien 3. Liga MSFL
+15.06. 17:30,CZE 3,FC Slovan Rosice,2:1,CSK Uhersky Brod,Tschechien 3. Liga MSFL
+15.06. 17:30,CZE 3,SFK Vrchovina,2:1,SK Unicov,Tschechien 3. Liga MSFL
+15.06. 17:30,FIN 2,FC KTP,4:0,IF Gnistan,Finnland Ykkosliiga
+15.06. 17:30,FIN 3,Lahden Reipas,1:3,PK Keski-Uusimaa,Finnland Ykkonen
+15.06. 18:00,FIN CUP,PK-35 Helsinki,1:0,Salpa,Finnland Cup
+15.06. 19:00,NOR CUP,Frigg Oslo FK,0:1,Skeid Fotball,Norwegen Cup
+15.06. 19:00,ARG 1,Barracas Central,1:2,Union de Santa Fe,Argentinien Primera Division
+15.06. 20:00,ISL 1,IBV Vestmannaeyjar,0:3,Vikingur Reykjavik,Island Bestadeild
+15.06. 20:00,ISL 1,IBV Vestmann.+1,1:3,Vikingur Reykjavik,Island Bestadeild
+15.06. 21:00,BB ESP,Barcelona Basket,71:69,Real Madrid BC,Spanien Spagnola ACB
+15.06. 21:15,ISL 1,KR Reykjavik,3:3,IA Akranes,Island Bestadeild
+15.06. 21:15,ISL 1,KR Reykjavik,3:4,IA Akranes+1,Island Bestadeild
+15.06. 21:30,ARG 1,CA Banfield,2:1,CA Central Cordoba,Argentinien Primera Division
+15.06. 21:30,ARG 1,Atletico Tucuman,2:1,Atletico Lanus,Argentinien Primera Division
+16.06. 00:00,BRA 1,RB Bragantino,4:2,Coritiba FC PR,Brasilien Brasilero Serie A
+16.06. 00:00,BRA 1,RB Bragantino,4:3,Coritiba FC+1,Brasilien Brasilero Serie A
+16.06. 00:00,BRA 1,Ceara SC CE,0:0,Atletico MG,Brasilien Brasilero Serie A
+16.06. 00:00,ARG 1,Colon Santa Fe,1:0,CA River Plate,Argentinien Primera Division
+16.06. 01:30,BRA 1,Goias EC GO,1:2,Internacional RS,Brasilien Brasilero Serie A
+16.06. 01:30,BRA 1,Flamengo RJ,2:0,Cuiaba MT,Brasilien Brasilero Serie A
+16.06. 01:30,USA MLS,New England Rev.,1:1,Orlando City SC,USA Major League Soccer
+16.06. 02:00,NHL,Colorado Avalan.,3:3,Tampa Bay Lightn.,USA NHL
+16.06. 02:30,BRA 1,CA Paranaense,1:1,Corinthians SP,Brasilien Brasilero Serie A
+16.06. 02:30,BRA 1,America Mineiro MG,0:0,Fluminense RJ,Brasilien Brasilero Serie A
+16.06. 02:30,ARG 1,Boca Juniors,5:3,CA Tigre,Argentinien Primera Division
+16.06. 03:15,COL 1,Atletico Nacional,2:1,Atletico Junior,Kolumbien Primera Liga
+16.06. 09:30,CHN SL,Hebei FC,1:3,Shenhua Shanghai,China Chinese Super League
+16.06. 13:30,CHN SL,Shandong Taishan,4:0,Changchun Yatai,China Chinese Super League
+16.06. 19:00,SWE 3N,IF Sylvia,3:1,Motala AIF FK,Schweden Div 1 Norra
+16.06. 20:00,ISL 1,KA Akureyri,2:2,Fram Reykjavik,Island Bestadeild
+16.06. 20:00,ISL 1,KA Akureyri,2:3,Fram Reykjavik+1,Island Bestadeild
+16.06. 20:00,ISL 2,Thor Akureyri,0:1,Grotta,Island 2. Liga
+16.06. 21:00,INT FSF,England Frauen,3:0,Belgien Frauen,"Freundschaftsspiele, Frauen"
+16.06. 21:00,INT FSF,England Frauen,3:1,Belgien Frauen+1,"Freundschaftsspiele, Frauen"
+16.06. 21:00,BRA 1,Botafogo FR RJ,1:0,Sao Paulo SP,Brasilien Brasilero Serie A
+16.06. 21:00,BRA 1,Botafogo FR RJ+1,2:0,Sao Paulo SP,Brasilien Brasilero Serie A
+16.06. 21:00,BRA 2,Cruzeiro EC MG,2:0,AA Ponte Preta SP,Brasilien Brasilero Serie B
+16.06. 21:15,ISL 2,UMF Grindavik,2:1,KV Vesturbaer,Island 2. Liga
+16.06. 21:15,ISL 2,Throttur Vogum,0:1,Afturelding,Island 2. Liga
+16.06. 21:15,ISL 2,Kordrengir,4:3,UMF Selfoss,Island 2. Liga
+16.06. 21:15,ISL 2,Fylkir Reykjavik,0:1,HK Kopavogs,Island 2. Liga
+16.06. 21:15,ISL 1,FH Hafnarfjördur,2:2,Leiknir Reykjavik,Island Bestadeild
+16.06. 21:15,ISL 1,FH Hafnarfjördur,2:3,Leiknir Reykjavi+1,Island Bestadeild
+16.06. 21:15,ISL 1,Keflavik IF,2:2,Stjarnan Gardab.,Island Bestadeild
+16.06. 22:15,ISL 1,Valur Reykjavik,3:2,Breidablik,Island Bestadeild
+16.06. 22:15,ISL 1,Valur Reykjavik+1,4:2,Breidablik,Island Bestadeild
+16.06. 23:00,BRA 1,SE Palmeiras SP,4:2,Atl. Goianense GO,Brasilien Brasilero Serie A
+16.06. 23:00,BRA 1,SE Palmeiras SP,4:3,AC Goianiense GO+1,Brasilien Brasilero Serie A
+17.06. 00:00,BRA 1,Avai FC SC,3:2,Fortaleza EC CE,Brasilien Brasilero Serie A
+17.06. 00:00,ARG 1,CA Rosario Central,1:0,CD Godoy Cruz,Argentinien Primera Division
+17.06. 00:00,ARG 1,Argentinos Juniors,2:1,CA Independiente,Argentinien Primera Division
+17.06. 01:00,BRA 2,Vila Nova GO,0:0,Operario Ferroviar,Brasilien Brasilero Serie B
+17.06. 02:30,COL 1,Deportes Tolima,1:0,Envigado FC,Kolumbien Primera Liga
+17.06. 02:30,COL 1,Dep. La Equidad,1:5,Indep. Medellin,Kolumbien Primera Liga
+17.06. 02:30,ARG 1,CA Platense,1:1,Gimnasia La Plata,Argentinien Primera Division
+17.06. 02:30,ARG 1,Racing Club,2:0,Velez Sarsfield,Argentinien Primera Division
+17.06. 03:00,NBA,Boston Celtics,90:103,Golden State W.,USA NBA

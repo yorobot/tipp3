@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+04.11. 18:00,TUR 1,Kasimpasa,1:1,MKE Ankaragücü,Türkei Süper Lig
+04.11. 18:00,TUR 1,Ümraniyespor,3:1,Alanyaspor,Türkei Süper Lig
+04.11. 18:10,AUT 2,First Vienna FC,2:2,SK Rapid Wien II,Österreich Zweite Liga
+04.11. 18:10,AUT 2,SKN St. Pölten,2:1,SV Lafnitz,Österreich Zweite Liga
+04.11. 18:10,AUT 2,Young Violets A.W.,0:0,Floridsdorfer AC,Österreich Zweite Liga
+04.11. 18:30,GER 2,Hansa Rostock,0:1,SV Sandhausen,Deutschland 2. Bundesliga
+04.11. 18:30,GER 2,SV Darmstadt 98,1:0,Hannover 96,Deutschland 2. Bundesliga
+04.11. 19:00,GER 3,SV Meppen,0:3,Wehen Wiesbaden,Deutschland 3. Liga
+04.11. 19:00,DEN 1,AC Horsens,5:1,Randers FC,Dänemark Superligaen
+04.11. 19:00,AUT RLO,FC Marchfeld,0:1,SR Donaufeld,Österreich Regionalliga Ost
+04.11. 19:15,EH AUT,Black Wings Linz,2:5,EC RB Salzburg,win2day ICE Hockey League
+04.11. 19:15,EH AUT,Vienna Capitals,3:4,HC Innsbruck,win2day ICE Hockey League
+04.11. 19:30,AUT RLO,Wiener Sport-Club,1:1,Scheiblingkirchen,Österreich Regionalliga Ost
+04.11. 20:00,AUT RLO,Kremser SC,0:3,SV Stripfing,Österreich Regionalliga Ost
+04.11. 20:00,NL 1,SC Cambuur,0:1,NEC Nijmegen,Niederlande Eredivisie
+04.11. 20:30,AUT 2,Admira Wacker,0:4,BW Linz,Österreich Zweite Liga
+04.11. 20:30,GER BL,Mönchengladbach,3:1,VfB Stuttgart,Deutschland Bundesliga
+04.11. 20:30,GER BL,Mönchengladbach,3:2,VfB Stuttgart+1,Deutschland Bundesliga
+04.11. 20:30,POL 1,Legia Warschau,2:1,KS Lechia Gdansk,Polen Orange Ekstraklasa
+04.11. 20:30,SCO PS,FC Aberdeen,4:1,Hibernian FC,Schottland Premiership
+04.11. 20:45,SCO PS,FC Kilmarnock,2:3,FC Livingston,Schottland Premiership
+04.11. 20:45,ITA A,Udinese Calcio,1:1,US Lecce,Italien Serie A
+04.11. 20:45,BEL 1,KRC Genk,4:1,Sporting Charleroi,Belgien Jupiler Pro League
+04.11. 20:45,ENG FA,Sheffield Wednes.,2:0,FC Morecambe,England - FA Cup
+04.11. 20:55,ENG FA,Hereford United,1:3,FC Portsmouth,England - FA Cup
+04.11. 21:00,ENG CS,FC Reading,1:2,Preston North End,England Championship
+04.11. 21:00,ESP 1,FC Girona,2:1,Athletic Bilbao,Spanien La Liga
+04.11. 21:00,ESP 2,CD Alaves,1:0,Real Saragossa,Spanien Segunda Division
+04.11. 21:00,FRA 1,Troyes AC,1:1,AJ Auxerre,Frankreich Ligue 1
+04.11. 21:15,POR 1,Gil Vicente,1:2,Portimonense SC,Portugal Primeira Liga
+05.11. 13:00,GER 2,Karlsruher SC,1:4,Holstein Kiel,Deutschland 2. Bundesliga
+05.11. 13:00,GER 2,Fortuna Düsseldorf,1:0,FC St. Pauli,Deutschland 2. Bundesliga
+05.11. 13:00,GER 2,FC Heidenheim,3:0,SC Paderborn,Deutschland 2. Bundesliga
+05.11. 14:00,ESP 1,Getafe CF,0:0,Cadiz CF,Spanien La Liga
+05.11. 14:30,AUT 2,Kapfenberger SV,3:2,FC Liefering,Österreich Zweite Liga
+05.11. 14:30,AUT 2,Grazer AK,2:0,FC Dornbirn,Österreich Zweite Liga
+05.11. 14:30,AUT 2,SK Vorwärts Steyr,1:3,SK Sturm Graz II,Österreich Zweite Liga
+05.11. 15:00,ITA A,Salernitana Calcio,2:2,US Cremonese,Italien Serie A
+05.11. 15:00,ITA A,FC Empoli,1:0,US Sassuolo,Italien Serie A
+05.11. 15:30,GER BL,TSG Hoffenheim,1:3,RB Leipzig,Deutschland Bundesliga
+05.11. 15:30,GER BL,Hertha BSC,2:3,Bayern München,Deutschland Bundesliga
+05.11. 15:30,GER BL,Borussia Dortmund,3:0,VfL Bochum,Deutschland Bundesliga
+05.11. 15:30,GER BL,FC Augsburg,1:2,Eintr. Frankfurt,Deutschland Bundesliga
+05.11. 15:30,GER BL,FSV Mainz 05,0:3,VfL Wolfsburg,Deutschland Bundesliga
+05.11. 16:00,ENG PL,Wolverhampton,2:3,Brighton & Hove,England Premier League
+05.11. 16:00,ENG PL,Nottingham Forest,2:2,FC Brentford,England Premier League
+05.11. 16:00,ENG PL,Manchester City,2:1,FC Fulham,England Premier League
+05.11. 16:00,ENG PL,Leeds United,4:3,AFC Bournemouth,England Premier League
+05.11. 16:15,ESP 1,Real Valladolid,2:1,Elche CF,Spanien La Liga
+05.11. 17:00,AUT BL,Wolfsberger AC,1:2,RB Salzburg,Österreich Bundesliga
+05.11. 17:00,AUT BL,SV Ried,2:2,Austria Klagenfurt,Österreich Bundesliga
+05.11. 17:00,AUT BL,TSV Hartberg,1:1,Austria Lustenau,Österreich Bundesliga
+05.11. 17:00,FRA 1,AC Ajaccio,4:2,Racing Strasbourg,Frankreich Ligue 1
+05.11. 18:00,ITA A,Atalanta Bergamo,1:2,SSC Napoli,Italien Serie A
+05.11. 18:00,TUR 1,Galatasaray,2:1,Besiktas Istanbul,Türkei Süper Lig
+05.11. 18:00,CZE 1,Viktoria Pilsen,0:1,Sparta Prag,1. Tschechische Liga
+05.11. 18:30,ENG PL,FC Everton,0:2,Leicester City,England Premier League
+05.11. 18:30,ESP 1,Celta de Vigo,1:2,CA Osasuna,Spanien La Liga
+05.11. 18:30,GER BL,SV Werder Bremen,2:1,FC Schalke 04,Deutschland Bundesliga
+05.11. 20:30,GER 2,Arminia Bielefeld,2:3,FC Kaiserslautern,Deutschland 2. Bundesliga
+05.11. 20:45,ITA A,AC Milan,2:1,Spezia Calcio,Italien Serie A
+05.11. 21:00,ESP 1,FC Barcelona,2:0,UD Almeria,Spanien La Liga
+05.11. 21:00,FRA 1,SCO Angers,1:2,RC Lens,Frankreich Ligue 1
+06.11. 10:30,AUT 2,SV Horn,2:1,SKU Amstetten,Österreich Zweite Liga
+06.11. 12:30,ITA A,Bologna FC,2:1,FC Torino,Italien Serie A
+06.11. 13:00,ENG PL,FC Chelsea,0:1,FC Arsenal,England Premier League
+06.11. 13:00,FRA 1,FC Lorient,1:2,Paris SG,Frankreich Ligue 1
+06.11. 13:30,GER 2,E. Braunschweig,0:1,Greuther Fürth,Deutschland 2. Bundesliga
+06.11. 13:30,GER 2,1. FC Nürnberg,1:2,FC Magdeburg,Deutschland 2. Bundesliga
+06.11. 13:30,GER 2,Hamburger SV,3:1,Jahn Regensburg,Deutschland 2. Bundesliga
+06.11. 14:00,ESP 1,Atletico Madrid,1:1,Espanyol Barcelona,Spanien La Liga
+06.11. 14:30,AUT BL,WSG Tirol,0:0,FK Austria Wien,Österreich Bundesliga
+06.11. 14:30,AUT BL,SCR Altach,1:1,SK Sturm Graz,Österreich Bundesliga
+06.11. 15:00,ENG PL,West Ham United,1:2,Crystal Palace,England Premier League
+06.11. 15:00,ENG PL,FC Southampton,1:4,Newcastle United,England Premier League
+06.11. 15:00,ENG PL,Aston Villa,3:1,Manchester United,England Premier League
+06.11. 15:00,ITA A,Sampdoria Genua,0:2,AC Fiorentina,Italien Serie A
+06.11. 15:00,ITA A,AC Monza,2:0,Hellas Verona,Italien Serie A
+06.11. 15:00,FRA 1,FC Toulouse,0:2,AS Monaco,Frankreich Ligue 1
+06.11. 15:00,FRA 1,Stade de Reims,1:0,FC Nantes,Frankreich Ligue 1
+06.11. 15:00,FRA 1,OGC Nizza,1:0,Stade Brest,Frankreich Ligue 1
+06.11. 15:00,FRA 1,Clermont Foot,1:1,HSC Montpellier,Frankreich Ligue 1
+06.11. 15:30,GER BL,Bayer Leverkusen,5:0,Union Berlin,Deutschland Bundesliga
+06.11. 16:00,EH AUT,HC Bozen Foxes,1:0,EC RB Salzburg,win2day ICE Hockey League
+06.11. 16:15,ESP 1,Real Sociedad,1:1,FC Valencia,Spanien La Liga
+06.11. 16:30,EH AUT,EC Graz 99ers,2:4,Black Wings Linz,win2day ICE Hockey League
+06.11. 16:45,NL 1,Ajax Amsterdam,1:2,PSV Eindhoven,Niederlande Eredivisie
+06.11. 17:00,AUT BL,SK Rapid Wien,1:0,LASK,Österreich Bundesliga
+06.11. 17:05,FRA 1,Lille OSC,1:1,Stade Rennes,Frankreich Ligue 1
+06.11. 17:30,GER BL,SC Freiburg,2:0,1. FC Köln,Deutschland Bundesliga
+06.11. 17:30,ENG PL,Tottenham,1:2,FC Liverpool,England Premier League
+06.11. 17:30,EH AUT,EC KAC,5:2,Vienna Capitals,win2day ICE Hockey League
+06.11. 18:00,ITA A,AS Roma,0:1,Lazio Rom,Italien Serie A
+06.11. 18:30,ESP 1,Villarreal CF,0:2,RCD Mallorca,Spanien La Liga
+06.11. 18:30,GRE 1,Panathinaikos,1:1,Olympiakos Piräus,Griechenland Super League
+06.11. 20:45,ITA A,Juventus Turin,2:0,Inter Mailand,Italien Serie A
+06.11. 20:45,FRA 1,Olymp. Marseille,1:0,Olympique Lyon,Frankreich Ligue 1
+06.11. 21:00,ESP 1,Betis Sevilla,1:1,FC Sevilla,Spanien La Liga
+06.11. 22:25,NFL,Tampa Bay Buccan.,16:13,Los Angeles Rams,USA NFL
+07.11. 17:00,ROU 2,Steaua Bukarest,2:0,FC Unirea Dej,"Rumänien, Liga 2"
+07.11. 18:00,TUR 1,Hatayspor,3:3,Basaksehir,Türkei Süper Lig
+07.11. 18:00,TUR 1,Fenerbahce,1:0,Sivasspor,Türkei Süper Lig
+07.11. 18:00,CYP 1,Akritas Chlorakas,1:2,AEK Larnaca,Zypern 1. Division
+07.11. 19:00,CYP 1,Karmiotissa,1:1,Apollon Limassol,Zypern 1. Division
+07.11. 19:00,FRA 3,Paris 13 Atletico,0:0,US Orleans 45,Frankreich National
+07.11. 19:00,POR 2,CD Trofense,1:2,Benfica Lissabon B,Portugal Segunda Liga
+07.11. 19:00,DEN 1,FC Midtjylland,0:0,FC Nordsjaelland,Dänemark Superligaen
+07.11. 20:00,NL 2,Jong FC Utrecht,0:1,FC Eindhoven,Niederlande Jupiler League
+07.11. 20:00,NL 2,Jong PSV Eindh.,0:1,Almere City FC,Niederlande Jupiler League
+07.11. 20:00,NL 2,Jong AZ Alkmaar,2:0,Roda JC Kerkrade,Niederlande Jupiler League
+07.11. 20:00,ROU 1,CFR 1907 Cluj,3:1,Uni Craiova 1948,Rumänien Liga 1
+07.11. 20:30,ITA B,Reggina 1914,2:1,FC Genua,Italien Serie B
+07.11. 20:45,ENG FA,Bracknell Town,0:3,Ipswich Town,England - FA Cup
+07.11. 20:45,FRA 2,FC Metz,3:2,AS Saint Etienne,Frankreich Ligue 2
+07.11. 21:00,FRA 3,Red Star FC,4:2,Dunkerque,Frankreich National
+07.11. 21:00,ESP 1,Rayo Vallecano,3:2,Real Madrid,Spanien La Liga
+07.11. 21:00,ESP 1,Rayo Vallecano+1,4:2,Real Madrid,Spanien La Liga
+07.11. 21:00,ESP 2,CD Lugo,1:1,FC Cartagena,Spanien Segunda Division
+07.11. 21:15,POR 1,GD Chaves,0:0,CD Santa Clara,Portugal Primeira Liga
+08.11. 00:00,BRA 1,Atletico MG,0:2,Botafogo FR RJ,Brasilien Brasilero Serie A

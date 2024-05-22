@@ -1,0 +1,120 @@
+Date,League,Team 1,Score,Team 2,League Name
+15.11. 14:00,ATP FIN,"Nadal, Rafael",0:2,"Auger-Aliassime, F","ATP Tour Finals, Einzel"
+15.11. 18:00,INT FSF,Österreich Frauen,3:0,Slowakei Frauen,"Freundschaftsspiele, Frauen"
+15.11. 18:00,INT FSF,Österreich Frauen,3:2,Slowakei Frauen+2,"Freundschaftsspiele, Frauen"
+15.11. 18:00,EH CL,EHC Wolfsburg GER,2:3,Lulea Hockey SWE,Champions Hockey League
+15.11. 18:05,EH CL,Färjestads BK SWE,4:3,Mountfield HK CZE,Champions Hockey League
+15.11. 18:05,EH CL,Frölunda HC SWE,4:0,Straub. Tigers GER,Champions Hockey League
+15.11. 19:15,EH AUT,EC VSV,6:3,HC Bozen Foxes,win2day ICE Hockey League
+15.11. 19:15,EH AUT,EC KAC,3:1,EC Graz 99ers,win2day ICE Hockey League
+15.11. 19:15,EH AUT,Vienna Capitals,1:2,Fehervar AV19,win2day ICE Hockey League
+15.11. 19:15,EH AUT,HC Innsbruck,5:2,Pion. Vorarlberg,win2day ICE Hockey League
+15.11. 19:15,EH AUT,HK Olimpija,1:2,HC Asiago,win2day ICE Hockey League
+15.11. 19:15,INT FSF,Brasilien Frauen,2:1,Kanada Frauen,"Freundschaftsspiele, Frauen"
+15.11. 19:30,ROU 2,ASC Otelul Galati,1:0,FCM Baia Mare,"Rumänien, Liga 2"
+15.11. 19:30,EH CL,EHC München GER,1:5,EV Zug SUI,Champions Hockey League
+15.11. 19:45,EH CL,HC Davos SUI,0:1,Tappara Tamper FIN,Champions Hockey League
+15.11. 20:00,INT FSF,England Frauen*,1:1,Norwegen Frauen,"Freundschaftsspiele, Frauen"
+15.11. 20:00,INT FSF,Spanien Frauen,1:0,Japan Frauen,"Freundschaftsspiele, Frauen"
+15.11. 20:00,INT FSF,Niederlande Frauen,2:0,Dänemark Frauen,"Freundschaftsspiele, Frauen"
+15.11. 20:20,EH CL,EC Salzburg AUT,3:1,Rögle BK SWE,Champions Hockey League
+15.11. 20:45,ENG FA,Hartlepool United,1:1,FC Solihull Moors,England - FA Cup
+15.11. 20:45,ENG FA,FC Gillingham,1:0,AFC Fylde,England - FA Cup
+15.11. 20:45,ENG FA,AFC Wimbledon,3:1,FC Weymouth,England - FA Cup
+15.11. 20:45,ENG FA,Derby County,5:0,Torquay United,England - FA Cup
+15.11. 20:45,ENG FA,Cambridge United,0:0,Curzon Ashton FC,England - FA Cup
+15.11. 21:00,ATP FIN,"Ruud, Casper",2:1,"Fritz, Taylor","ATP Tour Finals, Einzel"
+16.11. 13:00,INT FS,Saudi Arabien,0:1,Kroatien,Internationale Freundschaftsspiele
+16.11. 14:00,INT FS,Usbekistan,2:0,Kasachstan,Internationale Freundschaftsspiele
+16.11. 16:30,INT FS,Ver. Arab. Emirate,0:5,Argentinien,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Kosovo,2:2,Armenien,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Polen,1:0,Chile,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Polen,1:1,Chile+1,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Tschechien,5:0,Färöer Inseln,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Tschechien,5:2,Färöer Inseln+2,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Oman,0:1,Deutschland,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Oman+2,2:1,Deutschland,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Oman+3,3:1,Deutschland,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Andorra*,0:1,Österreich,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Andorra+1,1:1,Österreich,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Andorra+2,2:1,Österreich,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Andorra+3,3:1,Österreich,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Türkei,2:1,Schottland,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Türkei,2:2,Schottland+1,Internationale Freundschaftsspiele
+16.11. 18:00,INT FS,Moldawien,1:2,Aserbaidschan,Internationale Freundschaftsspiele
+16.11. 18:00,BALTIC,Litauen,0:0,Island,Baltic League
+16.11. 19:00,INT FS,Zypern,0:2,Bulgarien,Internationale Freundschaftsspiele
+16.11. 19:00,INT FS,Gibraltar,2:0,Liechtenstein,Internationale Freundschaftsspiele
+16.11. 20:00,NL 2,ADO Den Haag,0:1,Roda JC Kerkrade,Niederlande Jupiler League
+16.11. 20:30,INT FS,Mexiko*,1:2,Schweden,Internationale Freundschaftsspiele
+16.11. 20:45,INT FS,Albanien,1:3,Italien,Internationale Freundschaftsspiele
+16.11. 20:45,INT FS,Albanien+1,2:3,Italien,Internationale Freundschaftsspiele
+16.11. 20:45,ENG FA,Salford City,0:3,Peterborough Utd.,England - FA Cup
+16.11. 20:45,ENG FA,FC Woking,1:2,Oxford United,England - FA Cup
+16.11. 21:15,POR 2,SC Farense,3:1,CD Trofense,Portugal Segunda Liga
+17.11. 02:00,INT FS,Peru,1:0,Paraguay,Internationale Freundschaftsspiele
+17.11. 11:00,INT FS,Ghana*,2:0,Schweiz,Internationale Freundschaftsspiele
+17.11. 14:40,INT FS,Japan*,1:2,Kanada,Internationale Freundschaftsspiele
+17.11. 14:45,FS U21,Österreich U21*,1:1,Türkei U21,U21 Freundschaftsspiele
+17.11. 16:00,CZE CUP,FC Fastav Zlin,0:1,MFK Vyskov,Tschechien Cup
+17.11. 17:00,CZE CUP,FK Teplice,2:2,FC Zbrojovka Brno,Tschechien Cup
+17.11. 17:00,INT FS,Jordanien,1:3,Spanien,Internationale Freundschaftsspiele
+17.11. 17:00,INT FS,Jordanien+2,3:3,Spanien,Internationale Freundschaftsspiele
+17.11. 17:00,INT FS,Marokko,3:0,Georgien,Internationale Freundschaftsspiele
+17.11. 17:30,INT FS,Rumänien,1:2,Slowenien,Internationale Freundschaftsspiele
+17.11. 18:00,INT FS,Montenegro,2:2,Slowakei,Internationale Freundschaftsspiele
+17.11. 18:00,INT FS,Nordmazedonien,1:1,Finnland,Internationale Freundschaftsspiele
+17.11. 18:00,INT FS,Malta,2:2,Griechenland,Internationale Freundschaftsspiele
+17.11. 18:45,NL 2,Jong PSV Eindh.,2:1,Jong FC Utrecht,Niederlande Jupiler League
+17.11. 19:30,EH GER,Bremerhaven P.,1:2,EHC München,Deutschland Eishockey Liga
+17.11. 19:30,INT FS,Israel,4:2,Sambia,Internationale Freundschaftsspiele
+17.11. 19:45,INT FS,Portugal,4:0,Nigeria,Internationale Freundschaftsspiele
+17.11. 20:00,INT FS,Luxemburg,2:2,Ungarn,Internationale Freundschaftsspiele
+17.11. 20:00,INT FS,Luxemburg+1,3:2,Ungarn,Internationale Freundschaftsspiele
+17.11. 20:45,INT FS,Irland,1:2,Norwegen,Internationale Freundschaftsspiele
+17.11. 20:45,INT FS,Irland,1:3,Norwegen+1,Internationale Freundschaftsspiele
+17.11. 21:00,NL 2,Jong AZ Alkmaar,1:1,Jong Ajax Amst.,Niederlande Jupiler League
+17.11. 21:30,POR LC,FC Penafiel,1:2,Moreirense FC,Portugal Liga Cup
+20.11. 17:00,WM,Katar,0:2,Ecuador,Weltmeisterschaft 2022
+20.11. 20:45,INT FS,Österreich,2:0,Italien,Internationale Freundschaftsspiele
+21.11. 14:00,WM,England,6:2,Iran,Weltmeisterschaft 2022
+21.11. 17:00,WM,Senegal,0:2,Niederlande,Weltmeisterschaft 2022
+21.11. 20:00,WM,USA,1:1,Wales,Weltmeisterschaft 2022
+22.11. 11:00,WM,Argentinien,1:2,Saudi Arabien,Weltmeisterschaft 2022
+22.11. 14:00,WM,Dänemark,0:0,Tunesien,Weltmeisterschaft 2022
+22.11. 17:00,WM,Mexiko,0:0,Polen,Weltmeisterschaft 2022
+22.11. 20:00,WM,Frankreich,4:1,Australien,Weltmeisterschaft 2022
+23.11. 11:00,WM,Marokko,0:0,Kroatien,Weltmeisterschaft 2022
+23.11. 14:00,WM,Deutschland,1:2,Japan,Weltmeisterschaft 2022
+23.11. 17:00,WM,Spanien,7:0,Costa Rica,Weltmeisterschaft 2022
+23.11. 20:00,WM,Belgien,1:0,Kanada,Weltmeisterschaft 2022
+24.11. 11:00,WM,Schweiz,1:0,Kamerun,Weltmeisterschaft 2022
+24.11. 14:00,WM,Uruguay,0:0,Südkorea,Weltmeisterschaft 2022
+24.11. 17:00,WM,Portugal,3:2,Ghana,Weltmeisterschaft 2022
+24.11. 20:00,WM,Brasilien,2:0,Serbien,Weltmeisterschaft 2022
+25.11. 11:00,WM,Wales,0:2,Iran,Weltmeisterschaft 2022
+25.11. 14:00,WM,Katar,1:3,Senegal,Weltmeisterschaft 2022
+25.11. 17:00,WM,Niederlande,1:1,Ecuador,Weltmeisterschaft 2022
+25.11. 20:00,WM,England,0:0,USA,Weltmeisterschaft 2022
+26.11. 11:00,WM,Tunesien,0:1,Australien,Weltmeisterschaft 2022
+26.11. 14:00,WM,Polen,2:0,Saudi Arabien,Weltmeisterschaft 2022
+26.11. 17:00,WM,Frankreich,2:1,Dänemark,Weltmeisterschaft 2022
+26.11. 20:00,WM,Argentinien,2:0,Mexiko,Weltmeisterschaft 2022
+27.11. 11:00,WM,Japan,0:1,Costa Rica,Weltmeisterschaft 2022
+27.11. 14:00,WM,Belgien,0:2,Marokko,Weltmeisterschaft 2022
+27.11. 17:00,WM,Kroatien,4:1,Kanada,Weltmeisterschaft 2022
+27.11. 20:00,WM,Spanien,1:1,Deutschland,Weltmeisterschaft 2022
+28.11. 11:00,WM,Kamerun,3:3,Serbien,Weltmeisterschaft 2022
+28.11. 17:00,WM,Brasilien,1:0,Schweiz,Weltmeisterschaft 2022
+28.11. 20:00,WM,Portugal,2:0,Uruguay,Weltmeisterschaft 2022
+29.11. 16:00,WM,Niederlande,2:0,Katar,Weltmeisterschaft 2022
+29.11. 20:00,WM,Wales,0:3,England,Weltmeisterschaft 2022
+30.11. 16:00,WM,Australien,1:0,Dänemark,Weltmeisterschaft 2022
+30.11. 16:00,WM,Tunesien,1:0,Frankreich,Weltmeisterschaft 2022
+30.11. 20:00,WM,Polen,0:2,Argentinien,Weltmeisterschaft 2022
+01.12. 16:00,WM,Kroatien,0:0,Belgien,Weltmeisterschaft 2022
+01.12. 20:00,WM,Costa Rica,2:4,Deutschland,Weltmeisterschaft 2022
+01.12. 20:00,WM,Japan,2:1,Spanien,Weltmeisterschaft 2022
+02.12. 16:00,WM,Südkorea,2:1,Portugal,Weltmeisterschaft 2022
+02.12. 20:00,WM,Serbien,2:3,Schweiz,Weltmeisterschaft 2022
+02.12. 20:00,WM,Kamerun,1:0,Brasilien,Weltmeisterschaft 2022

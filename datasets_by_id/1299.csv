@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+01.12. 18:10,AUT 2,Kapfenberger SV,2:4,SV Lafnitz,Österreich Zweite Liga
+01.12. 18:10,AUT 2,SKN St. Pölten,3:1,SK Sturm Graz II,Österreich Zweite Liga
+01.12. 18:10,AUT 2,SKU Amstetten,abgesagt,Grazer AK,Österreich Zweite Liga
+01.12. 18:10,AUT 2,SV Stripfing,0:4,Admira Wacker,Österreich Zweite Liga
+01.12. 18:10,AUT 2,SV Horn,abgesagt,DSV Leoben,Österreich Zweite Liga
+01.12. 18:30,HB AUT,Handball Tirol,34:29,Fivers Margareten,Österreich HLA
+01.12. 18:30,GER 2,FC St. Pauli,2:2,Hamburger SV,Deutschland 2. Bundesliga
+01.12. 18:30,GER 2,FC Schalke 04,4:0,VfL Osnabrück,Deutschland 2. Bundesliga
+01.12. 19:00,GER 3,Unterhaching,abgesagt,Hallescher FC,Deutschland 3. Liga
+01.12. 19:00,DEN 1,Randers FC,0:0,Vejle BK,Dänemark Superligaen
+01.12. 19:00,HB AUT,Alpla HC Hard,39:21,HC BT-Füchse,Österreich HLA
+01.12. 19:15,EH AUT,HK Olimpija,3:6,EC Graz 99ers,win2day ICE Hockey League
+01.12. 19:15,EH AUT,Fehervar AV19,3:2,EC VSV,win2day ICE Hockey League
+01.12. 19:15,EH AUT,Vienna Capitals,1:4,HC Innsbruck,win2day ICE Hockey League
+01.12. 19:30,EH AUT,Pion. Vorarlberg,3:6,EC RB Salzburg,win2day ICE Hockey League
+01.12. 19:45,EH AUT,HC Pustertal,2:2,HC Bozen Foxes,win2day ICE Hockey League
+01.12. 19:45,EH AUT,HC Asiago,7:7,Black Wings Linz,win2day ICE Hockey League
+01.12. 20:00,NL 1,SC Heerenveen,3:0,Almere City FC,Niederlande Eredivisie
+01.12. 20:30,GER BL,SV Darmstadt 98,0:1,1. FC Köln,Deutschland Bundesliga
+01.12. 20:30,ESP 2,Real Oviedo,2:0,Espanyol Barcelona,Spanien Segunda Division
+01.12. 20:30,POL 1,Gornik Zabrze,1:0,Pogon Szczecin,Polen Orange Ekstraklasa
+01.12. 20:30,ITA B,Palermo FC,1:2,US Catanzaro,Italien Serie B
+01.12. 20:30,UEFANLF,Deutschland Frauen,3:0,Dänemark Frauen,"UEFA Nations League, Frauen"
+01.12. 20:45,UEFANLF,England Frauen,3:2,Niederlande Frauen,"UEFA Nations League, Frauen"
+01.12. 20:45,ITA A,AC Monza,1:2,Juventus Turin,Italien Serie A
+01.12. 20:45,BEL 1,KVC Westerlo,1:3,RSC Anderlecht,Belgien Jupiler Pro League
+01.12. 20:45,ENG FA,Notts County,2:3,Shrewsbury Town,England - FA Cup
+01.12. 20:45,ENG FA,York City,0:1,Wigan Athletic,England - FA Cup
+01.12. 21:00,ENG CS,Preston North End,0:2,Queens Park R.,England Championship
+01.12. 21:00,ESP 1,UD Las Palmas,2:0,Getafe CF,Spanien La Liga
+01.12. 21:00,FRA 1,Stade de Reims,2:1,Racing Strasbourg,Frankreich Ligue 1
+01.12. 21:10,UEFANLF,Frankreich Frauen,3:0,Österreich Frauen,"UEFA Nations League, Frauen"
+01.12. 21:10,UEFANLF,Frankreich Frauen,3:1,Österreich F+1,"UEFA Nations League, Frauen"
+01.12. 21:30,POR 1,GD Chaves,2:1,FC Vizela,Portugal Primeira Liga
+02.12. 13:00,GER 2,E. Braunschweig,0:1,Greuther Fürth,Deutschland 2. Bundesliga
+02.12. 13:00,GER 2,1. FC Nürnberg,0:5,Fortuna Düsseldorf,Deutschland 2. Bundesliga
+02.12. 13:00,GER 2,Holstein Kiel,3:2,Wehen Wiesbaden,Deutschland 2. Bundesliga
+02.12. 14:00,ESP 1,FC Girona,2:1,FC Valencia,Spanien La Liga
+02.12. 14:30,AUT 2,First Vienna FC,abgesagt,SW Bregenz,Österreich Zweite Liga
+02.12. 15:00,ITA A,FC Genua,1:1,FC Empoli,Italien Serie A
+02.12. 15:30,GER BL,VfL Bochum,3:1,VfL Wolfsburg,Deutschland Bundesliga
+02.12. 15:30,GER BL,Mönchengladbach,2:1,TSG Hoffenheim,Deutschland Bundesliga
+02.12. 15:30,GER BL,RB Leipzig,2:1,FC Heidenheim,Deutschland Bundesliga
+02.12. 15:30,GER BL,Bayern München,abgesagt,Union Berlin,Deutschland Bundesliga
+02.12. 15:30,GER BL,Bayern München,abgesagt,Union Berlin+2,Deutschland Bundesliga
+02.12. 16:00,ENG PL,FC Burnley,5:0,Sheffield United,England Premier League
+02.12. 16:00,ENG PL,FC Brentford,3:1,Luton Town,England Premier League
+02.12. 16:00,ENG PL,FC Arsenal,2:1,Wolverhampton,England Premier League
+02.12. 16:15,ESP 1,Athletic Bilbao,4:0,Rayo Vallecano,Spanien La Liga
+02.12. 17:00,AUT BL,WSG Tirol,abgesagt,SK Rapid Wien,Österreich Bundesliga
+02.12. 17:00,AUT BL,WSG Tirol+1,abgesagt,SK Rapid Wien,Österreich Bundesliga
+02.12. 17:00,AUT BL,Austria Klagenfurt,abgesagt,TSV Hartberg,Österreich Bundesliga
+02.12. 17:00,FRA 1,RC Lens,3:2,Olympique Lyon,Frankreich Ligue 1
+02.12. 17:00,TUR 1,Pendikspor,0:2,Galatasaray,Türkei Süper Lig
+02.12. 18:00,ITA A,Lazio Rom,1:0,Cagliari Calcio,Italien Serie A
+02.12. 18:30,GER BL,VfB Stuttgart,2:0,SV Werder Bremen,Deutschland Bundesliga
+02.12. 18:30,GER BL,VfB Stuttgart,2:1,SV Werder Bremen+1,Deutschland Bundesliga
+02.12. 18:30,ENG PL,Nottingham Forest,0:1,FC Everton,England Premier League
+02.12. 18:30,ESP 1,Real Madrid,2:0,Granada CF,Spanien La Liga
+02.12. 19:00,POR 1,FC Famalicao,0:3,FC Porto,Portugal Primeira Liga
+02.12. 20:00,NL 1,Fortuna Sittard,3:1,Vitesse Arnheim,Niederlande Eredivisie
+02.12. 20:30,GER 2,FC Magdeburg,4:1,FC Kaiserslautern,Deutschland 2. Bundesliga
+02.12. 20:45,ITA A,AC Milan,3:1,Frosinone Calcio,Italien Serie A
+02.12. 21:00,ENG PL,Newcastle United,1:0,Manchester United,England Premier League
+02.12. 21:00,ESP 1,CA Osasuna,1:1,Real Sociedad,Spanien La Liga
+02.12. 21:00,FRA 1,FC Nantes,1:0,OGC Nizza,Frankreich Ligue 1
+03.12. 10:30,AUT 2,SV Ried,abgesagt,Floridsdorfer AC,Österreich Zweite Liga
+03.12. 12:15,NL 1,Feyenoord,1:2,PSV Eindhoven,Niederlande Eredivisie
+03.12. 12:30,AUT 2,FC Dornbirn,abgesagt,FC Liefering,Österreich Zweite Liga
+03.12. 13:00,FRA 1,Le Havre AC,0:2,Paris SG,Frankreich Ligue 1
+03.12. 13:30,GER 2,Karlsruher SC,2:2,Hansa Rostock,Deutschland 2. Bundesliga
+03.12. 13:30,GER 2,SC Paderborn,1:0,Hannover 96,Deutschland 2. Bundesliga
+03.12. 13:30,GER 2,Hertha BSC,5:1,SV Elversberg,Deutschland 2. Bundesliga
+03.12. 14:00,ESP 1,RCD Mallorca,0:0,CD Alaves,Spanien La Liga
+03.12. 14:00,TUR 1,Trabzonspor,0:1,Kayserispor,Türkei Süper Lig
+03.12. 14:30,AUT BL,RB Salzburg,1:0,Wolfsberger AC,Österreich Bundesliga
+03.12. 14:30,AUT BL,RB Salzburg,1:1,Wolfsberger AC+1,Österreich Bundesliga
+03.12. 14:30,AUT BL,SCR Altach,abgesagt,Austria Lustenau,Österreich Bundesliga
+03.12. 14:30,AUT BL,BW Linz,1:1,SK Sturm Graz,Österreich Bundesliga
+03.12. 15:00,ENG PL,West Ham United,1:1,Crystal Palace,England Premier League
+03.12. 15:00,ENG PL,FC Liverpool,4:3,FC Fulham,England Premier League
+03.12. 15:00,ENG PL,FC Chelsea,3:2,Brighton & Hove,England Premier League
+03.12. 15:00,ENG PL,AFC Bournemouth,2:2,Aston Villa,England Premier League
+03.12. 15:00,ITA A,Udinese Calcio,3:3,Hellas Verona,Italien Serie A
+03.12. 15:00,ITA A,AC Fiorentina,3:0,Salernitana Calcio,Italien Serie A
+03.12. 15:30,GER BL,FSV Mainz 05,0:1,SC Freiburg,Deutschland Bundesliga
+03.12. 16:15,ESP 1,UD Almeria,0:0,Betis Sevilla,Spanien La Liga
+03.12. 16:45,NL 1,FC Utrecht,1:1,AZ Alkmaar,Niederlande Eredivisie
+03.12. 17:00,AUT BL,FK Austria Wien,0:0,LASK,Österreich Bundesliga
+03.12. 17:00,TUR 1,MKE Ankaragücü,1:1,Besiktas Istanbul,Türkei Süper Lig
+03.12. 17:30,GER BL,Bayer Leverkusen,1:1,Borussia Dortmund,Deutschland Bundesliga
+03.12. 17:30,GER BL,Bayer Leverkusen,1:2,Bor. Dortmund+1,Deutschland Bundesliga
+03.12. 17:30,ENG PL,Manchester City,3:3,Tottenham,England Premier League
+03.12. 17:30,EH AUT,EC VSV,4:3,EC RB Salzburg,win2day ICE Hockey League
+03.12. 18:00,ITA A,US Sassuolo,1:2,AS Roma,Italien Serie A
+03.12. 18:30,ESP 1,FC Sevilla,1:1,Villarreal CF,Spanien La Liga
+03.12. 19:30,GER BL,FC Augsburg,2:1,Eintr. Frankfurt,Deutschland Bundesliga
+03.12. 20:45,ITA A,SSC Napoli,0:3,Inter Mailand,Italien Serie A
+03.12. 20:45,FRA 1,Olymp. Marseille,2:0,Stade Rennes,Frankreich Ligue 1
+03.12. 21:00,ESP 1,FC Barcelona,1:0,Atletico Madrid,Spanien La Liga
+04.12. 17:00,GRE 1,PAOK Thessaloniki,3:0,Lamia 1964,Griechenland Super League
+04.12. 17:00,CRO 1,NK Slaven Belupo,0:2,NK Dinamo Zagreb,Kroatien 1. HNL
+04.12. 18:00,TUR 1,Fenerbahce,4:1,Sivasspor,Türkei Süper Lig
+04.12. 18:00,CYP 1,AEL Limassol,0:4,Aris Limassol,Zypern 1. Division
+04.12. 19:00,POR 2,CD Feirense,3:2,CD Mafra,Portugal Segunda Liga
+04.12. 19:00,DEN 1,FC Midtjylland,5:1,Viborg FF,Dänemark Superligaen
+04.12. 19:00,ROU 1,Sepsi Sf.Gheorghe,2:1,Dinamo Bukarest,Rumänien Liga 1
+04.12. 20:00,GRE 1,AEK Athen,1:0,Aris Thessaloniki,Griechenland Super League
+04.12. 20:30,ESP 2,CF Villarreal B,1:0,SD Eibar,Spanien Segunda Division
+04.12. 20:45,ITA A,FC Torino,3:0,Atalanta Bergamo,Italien Serie A
+04.12. 20:45,ITA A,FC Torino+1,4:0,Atalanta Bergamo,Italien Serie A
+04.12. 20:45,ITA C1C,FC Casertana,2:1,US Foggia,"Italien, Lega Pro Prima Divisione, Girone C"
+04.12. 20:45,ITA C1C,Potenza SC,1:2,Taranto Sport,"Italien, Lega Pro Prima Divisione, Girone C"
+04.12. 20:45,ITA C1C,AC Monopoli,1:3,FC Giugliano 1928,"Italien, Lega Pro Prima Divisione, Girone C"
+04.12. 20:45,ITA C1C,Latina Calcio,0:2,Sorrento Calcio,"Italien, Lega Pro Prima Divisione, Girone C"
+04.12. 20:45,ENG FA,AFC Wimbledon,5:0,FC Ramsgate,England - FA Cup
+04.12. 21:00,ESP 1,Celta de Vigo,1:1,Cadiz CF,Spanien La Liga
+04.12. 21:00,FRA 3,FC Martigues,1:0,FC Chamois Niort,Frankreich National
+04.12. 21:15,POR 1,Sporting Lissabon,3:1,Gil Vicente,Portugal Primeira Liga
+05.12. 02:15,NFL,Jacksonv. Jaguars,31:31,Cincinnati Bengals,USA NFL

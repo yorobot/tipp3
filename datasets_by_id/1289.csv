@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+27.10. 14:00,TEN ATP,"Medvedev, Daniil",2:1,"Khachanov, Karen",Tennis ATP
+27.10. 16:35,TEN ATP,"Tsitsipas, Stefan.",2:0,"Gojo, Borna",Tennis ATP
+27.10. 18:00,UEFANLF,Österreich Frauen,2:1,Portugal Frauen,"UEFA Nations League, Frauen"
+27.10. 18:10,AUT 2,SV Lafnitz,5:2,SK Sturm Graz II,Österreich Zweite Liga
+27.10. 18:10,AUT 2,SKU Amstetten,1:1,Kapfenberger SV,Österreich Zweite Liga
+27.10. 18:10,AUT 2,SV Horn,1:2,Grazer AK,Österreich Zweite Liga
+27.10. 18:10,AUT 2,DSV Leoben,3:2,Admira Wacker,Österreich Zweite Liga
+27.10. 18:10,AUT 2,FC Dornbirn,1:2,Floridsdorfer AC,Österreich Zweite Liga
+27.10. 18:30,GER 2,E. Braunschweig,1:4,Fortuna Düsseldorf,Deutschland 2. Bundesliga
+27.10. 18:30,GER 2,Greuther Fürth,4:0,VfL Osnabrück,Deutschland 2. Bundesliga
+27.10. 18:45,TEN ATP,"Zverev, Alexander",1:2,"Rublev, Andrey",Tennis ATP
+27.10. 19:00,GER 3,Unterhaching,3:0,W. Mannheim,Deutschland 3. Liga
+27.10. 19:00,TUR 1,Kasimpasa,3:1,Istanbulspor AS,Türkei Süper Lig
+27.10. 19:00,TUR 1,Hatayspor,1:2,Kayserispor,Türkei Süper Lig
+27.10. 19:00,DEN 1,FC Midtjylland,2:1,Lyngby BK,Dänemark Superligaen
+27.10. 19:00,AUT RLO,SC Neusiedl,0:6,Wiener Sport-Club,Österreich Regionalliga Ost
+27.10. 19:00,AUT RLM,SK Vorwärts Steyr,1:0,SPG Hertha Wels,Österreich Regionalliga Mitte
+27.10. 19:15,EH AUT,HC Innsbruck,4:3,Pion. Vorarlberg,win2day ICE Hockey League
+27.10. 19:15,EH AUT,EC VSV,3:2,Black Wings Linz,win2day ICE Hockey League
+27.10. 19:15,EH AUT,EC RB Salzburg,1:1,Vienna Capitals,win2day ICE Hockey League
+27.10. 19:15,EH AUT,EC KAC,4:1,EC Graz 99ers,win2day ICE Hockey League
+27.10. 19:30,AUT RLO,Kremser SC,4:0,FC Marchfeld,Österreich Regionalliga Ost
+27.10. 19:30,AUT RLO,Favoritner AC,0:0,SK Rapid Wien II,Österreich Regionalliga Ost
+27.10. 20:00,AUT RLO,Young Violets A.W.,3:0,SCU Ardagger,Österreich Regionalliga Ost
+27.10. 20:00,NL 1,Vitesse Arnheim,1:1,FC Zwolle,Niederlande Eredivisie
+27.10. 20:30,GER BL,VfL Bochum,2:2,FSV Mainz 05,Deutschland Bundesliga
+27.10. 20:30,POL 1,LKS Lodz,0:5,Gornik Zabrze,Polen Orange Ekstraklasa
+27.10. 20:45,ITA A,FC Genua,1:0,Salernitana Calcio,Italien Serie A
+27.10. 20:45,BEL 1,St. Truiden VV,2:1,RWD Molenbeek,Belgien Jupiler Pro League
+27.10. 21:00,ENG PL,Crystal Palace,1:2,Tottenham,England Premier League
+27.10. 21:00,ESP 1,FC Girona,1:0,Celta de Vigo,Spanien La Liga
+27.10. 21:00,ESP 2,SD Eibar,5:1,Real Valladolid,Spanien Segunda Division
+27.10. 21:00,FRA 1,Clermont Foot,0:1,OGC Nizza,Frankreich Ligue 1
+27.10. 21:15,POR 1,FC Arouca,0:1,Moreirense FC,Portugal Primeira Liga
+27.10. 21:40,TEN ATP,"Tiafoe, Frances",0:2,"Sinner, Jannik",Tennis ATP
+28.10. 13:00,GER 2,FC St. Pauli,2:1,Karlsruher SC,Deutschland 2. Bundesliga
+28.10. 13:00,GER 2,Hertha BSC,3:1,SC Paderborn,Deutschland 2. Bundesliga
+28.10. 13:00,GER 2,FC Schalke 04,3:2,Hannover 96,Deutschland 2. Bundesliga
+28.10. 13:30,ENG PL,FC Chelsea,0:2,FC Brentford,England Premier League
+28.10. 13:30,ENG CS,FC Southampton,3:1,Birmingham City,England Championship
+28.10. 13:30,ENG CS,Leeds United,4:1,Huddersfield Town,England Championship
+28.10. 14:00,ESP 1,UD Almeria,1:2,UD Las Palmas,Spanien La Liga
+28.10. 14:30,AUT 2,SV Stripfing,1:1,SW Bregenz,Österreich Zweite Liga
+28.10. 14:30,AUT 2,First Vienna FC,2:0,FC Liefering,Österreich Zweite Liga
+28.10. 15:00,ITA A,US Sassuolo,1:1,Bologna FC,Italien Serie A
+28.10. 15:00,AMFB EM,Österreich,28:0,Finnland,American Football EM
+28.10. 15:30,GER BL,VfB Stuttgart,2:3,TSG Hoffenheim,Deutschland Bundesliga
+28.10. 15:30,GER BL,FC Augsburg,3:2,VfL Wolfsburg,Deutschland Bundesliga
+28.10. 15:30,GER BL,SV Werder Bremen,2:0,Union Berlin,Deutschland Bundesliga
+28.10. 15:30,GER BL,Mönchengladbach,2:1,FC Heidenheim,Deutschland Bundesliga
+28.10. 15:30,GER BL,Bayern München,8:0,SV Darmstadt 98,Deutschland Bundesliga
+28.10. 16:00,ENG PL,FC Arsenal,5:0,Sheffield United,England Premier League
+28.10. 16:00,ENG PL,AFC Bournemouth,2:1,FC Burnley,England Premier League
+28.10. 16:00,ENG CS,Queens Park R.,1:2,Leicester City,England Championship
+28.10. 16:00,ENG CS,Middlesbrough,0:2,Stoke City,England Championship
+28.10. 16:00,ENG CS,Blackburn Rovers,0:1,Swansea City,England Championship
+28.10. 16:15,ESP 1,FC Barcelona,1:2,Real Madrid,Spanien La Liga
+28.10. 17:00,AUT BL,BW Linz,2:0,Wolfsberger AC,Österreich Bundesliga
+28.10. 17:00,AUT BL,Austria Klagenfurt,1:0,WSG Tirol,Österreich Bundesliga
+28.10. 17:00,AUT BL,RB Salzburg,3:0,SCR Altach,Österreich Bundesliga
+28.10. 17:00,FRA 1,Stade de Reims,1:0,FC Lorient,Frankreich Ligue 1
+28.10. 18:00,ITA A,US Lecce,0:1,FC Torino,Italien Serie A
+28.10. 18:00,TUR 1,Caykur Rizespor,0:1,Galatasaray,Türkei Süper Lig
+28.10. 18:30,ENG PL,Wolverhampton,2:2,Newcastle United,England Premier League
+28.10. 18:30,ESP 1,RCD Mallorca,0:0,Getafe CF,Spanien La Liga
+28.10. 18:30,GER BL,RB Leipzig,6:0,1. FC Köln,Deutschland Bundesliga
+28.10. 20:30,GER 2,FC Kaiserslautern,3:3,Hamburger SV,Deutschland 2. Bundesliga
+28.10. 20:45,ITA A,Juventus Turin,1:0,Hellas Verona,Italien Serie A
+28.10. 21:00,ESP 1,Cadiz CF,2:2,FC Sevilla,Spanien La Liga
+28.10. 21:00,FRA 1,RC Lens,4:0,FC Nantes,Frankreich Ligue 1
+28.10. 21:00,RUG WM,Neuseeland*,11:12,Südafrika,Rugby League WM
+29.10. 10:30,AUT 2,SV Ried,1:1,SKN St. Pölten,Österreich Zweite Liga
+29.10. 13:00,FRA 1,Stade Brest,2:3,Paris SG,Frankreich Ligue 1
+29.10. 13:30,GER 2,Wehen Wiesbaden,1:0,Hansa Rostock,Deutschland 2. Bundesliga
+29.10. 13:30,GER 2,FC Magdeburg,1:2,SV Elversberg,Deutschland 2. Bundesliga
+29.10. 13:30,GER 2,Holstein Kiel,0:2,1. FC Nürnberg,Deutschland 2. Bundesliga
+29.10. 14:00,ENG PL,West Ham United,0:1,FC Everton,England Premier League
+29.10. 14:00,ESP 1,Betis Sevilla,2:1,CA Osasuna,Spanien La Liga
+29.10. 14:30,AUT BL,Austria Lustenau,0:4,TSV Hartberg,Österreich Bundesliga
+29.10. 14:30,AUT BL,SK Sturm Graz,0:1,FK Austria Wien,Österreich Bundesliga
+29.10. 14:30,NL 1,PSV Eindhoven,5:2,Ajax Amsterdam,Niederlande Eredivisie
+29.10. 15:00,ENG PL,FC Liverpool,3:0,Nottingham Forest,England Premier League
+29.10. 15:00,ENG PL,Brighton & Hove,1:1,FC Fulham,England Premier League
+29.10. 15:00,ENG PL,Aston Villa,3:1,Luton Town,England Premier League
+29.10. 15:00,FRA 1,Lille OSC,2:0,AS Monaco,Frankreich Ligue 1
+29.10. 15:30,GER BL,Eintr. Frankfurt,3:3,Borussia Dortmund,Deutschland Bundesliga
+29.10. 16:15,ESP 1,Rayo Vallecano,2:2,Real Sociedad,Spanien La Liga
+29.10. 16:30,ENG PL,Manchester United,0:3,Manchester City,England Premier League
+29.10. 17:00,AUT BL,SK Rapid Wien,3:3,LASK,Österreich Bundesliga
+29.10. 17:00,TUR 1,Pendikspor,0:5,Fenerbahce,Türkei Süper Lig
+29.10. 17:30,GER BL,Bayer Leverkusen,2:1,SC Freiburg,Deutschland Bundesliga
+29.10. 18:00,ITA A,Inter Mailand,1:0,AS Roma,Italien Serie A
+29.10. 18:30,ESP 1,Athletic Bilbao,2:2,FC Valencia,Spanien La Liga
+29.10. 20:45,ITA A,SSC Napoli,2:2,AC Milan,Italien Serie A
+29.10. 20:45,FRA 1,Olymp. Marseille,abgesagt,Olympique Lyon,Frankreich Ligue 1
+29.10. 21:00,ESP 1,Atletico Madrid,2:1,CD Alaves,Spanien La Liga
+29.10. 21:25,NFL,Denver Broncos,24:9,Kansas City Chiefs,USA NFL
+30.10. 18:00,TUR 1,Besiktas Istanbul,2:0,Gaziantep FK,Türkei Süper Lig
+30.10. 18:00,CYP 1,Othellos Athienou,0:1,Aris Limassol,Zypern 1. Division
+30.10. 18:30,ITA A,FC Empoli,0:3,Atalanta Bergamo,Italien Serie A
+30.10. 18:30,GRE 1,AEK Athen,2:0,PAOK Thessaloniki,Griechenland Super League
+30.10. 18:30,NOR 1,Bodö Glimt,3:1,Lilleström SK,Norwegen Tippeligaen
+30.10. 19:00,POR 2,FC Vilaverdense,0:5,FC Porto B,Portugal Segunda Liga
+30.10. 19:00,DEN 1,AGF Aarhus,2:1,Randers FC,Dänemark Superligaen
+30.10. 19:00,SWE 2,GIF Sundsvall,1:0,Örgryte Göteborg,Schweden Superettan
+30.10. 19:00,SWE 1,Hammarby IF,2:2,IK Sirius FK,Schweden Allsvenskan
+30.10. 19:10,SWE 1,IFK Göteborg,1:2,IF Elfsborg,Schweden Allsvenskan
+30.10. 19:30,ROU 1,CFR 1907 Cluj,3:1,FC Farul Constanta,Rumänien Liga 1
+30.10. 20:00,ARG LC,CA Talleres,0:0,CA Banfield,"Argentinien, Ligacup"
+30.10. 20:00,NL 2,Jong FC Utrecht,1:1,MVV Maastricht,Niederlande Jupiler League
+30.10. 20:30,GRE 1,OFI Kreta,0:2,Olympiakos Piräus,Griechenland Super League
+30.10. 20:45,ITA A,Lazio Rom,1:0,AC Fiorentina,Italien Serie A
+30.10. 20:45,FRA 2,AS Saint Etienne,2:0,SCO Angers,Frankreich Ligue 2
+30.10. 21:00,ESP 1,Granada CF,2:3,Villarreal CF,Spanien La Liga
+30.10. 21:00,ESP 2,Burgos CF,1:1,Real Saragossa,Spanien Segunda Division
+30.10. 21:00,ENG CS,Coventry City,0:2,West Bromwich,England Championship
+30.10. 21:00,NOR 1,Molde FK,1:4,Tromsö IL,Norwegen Tippeligaen
+30.10. 21:15,POR 1,Boavista FC,0:2,Sporting Lissabon,Portugal Primeira Liga
+30.10. 22:30,ARG LC,Atletico Lanus,2:0,CA Belgrano,"Argentinien, Ligacup"
+30.10. 23:00,ARG LC,CA Sarmiento,0:0,CA San Lorenzo,"Argentinien, Ligacup"

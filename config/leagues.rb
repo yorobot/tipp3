@@ -5,6 +5,7 @@ EXTRA_LEAGUE_MAPPINGS = {
   'CL'     => 'UEFA CL',    ##  how to deal with cl for Chile AND Champions Leauge??
   'CL Q'   => 'UEFA CL Q',
   'EL'     => 'UEFA EL',
+  'CON LG' => 'UEFA ECL',
   ## 'RL TIR' => 'AUT RL T',   ## or use AUT RLT or AUT RL TIR ???
   ## 'RL SBG' => 'AUT RL S',
   ## 'RL VBG' => 'AUT RL V',
@@ -48,6 +49,7 @@ HOCKEY_LEAGUES = [
 
 HANDBALL_LEAGUES = [
   'HB WM',   # Handball WM Herren
+  'HB WM Q',  # WM Qualifikation, Männer
   'HB EM',   # Handball Europameisterschaft
   'HB EMQ',  # Europameisterschaft Qualifikation
   'HB FS',   # Freundschaftsspiele, Herren
@@ -172,14 +174,17 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'WMQ DA',     # WM Qualifikation Frauen, Europa
   'ALGARVE',    # Algarve Cup
 
+
+
   ## todo/fix: move to clubs leagues (women) - why? why not?
   'CL DAM',     # UEFA Champions League Damen
   'CFS DA',     # Klub-Freundschaftsspiele, Damen
   'AUT DA',     # Österreich Frauen Bundesliga
   'DA CUP',     # Österreich Damen Cup
   'GER DA',     # Deutschland Frauen Bundesliga
+  'GER CDA',    # Deutschland DFB Pokal Frauen
   'INTDCYP',    # Zypern Cup (Damen)
-
+ 
   ## misc
   'FS',       # Freundschaftsspiele International (Klub)
   'INT CHC',  # International Champions Cup

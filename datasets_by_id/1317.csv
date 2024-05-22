@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+09.02. 18:00,TUR 1,Adana Demirspor,1:3,Kasimpasa,Türkei Süper Lig
+09.02. 18:00,TUR 2,Corum Belediyespor,0:1,Ümraniyespor,Türkei TFF 1. Lig
+09.02. 18:00,CYP 1,Omonia Nikosia,3:1,Anorthosis,Zypern 1. Division
+09.02. 18:30,GER 2,Hamburger SV,3:4,Hannover 96,Deutschland 2. Bundesliga
+09.02. 18:30,GER 2,Wehen Wiesbaden,1:1,1. FC Nürnberg,Deutschland 2. Bundesliga
+09.02. 19:00,GER 3,FC Viktoria Köln,1:3,Bor. Dortmund II,Deutschland 3. Liga
+09.02. 19:30,SUI 2,Xamax Neuchatel,0:1,AC Bellinzona,Schweiz Challenge League
+09.02. 20:00,NL 1,RKC Waalwijk,2:0,NEC Nijmegen,Niederlande Eredivisie
+09.02. 20:00,NL 2,NAC Breda,2:2,FC Eindhoven,Niederlande Jupiler League
+09.02. 20:00,NL 2,Roda JC Kerkrade,4:1,FC Dordrecht,Niederlande Jupiler League
+09.02. 20:00,NL 2,SC Telstar,3:2,Helmond Sport,Niederlande Jupiler League
+09.02. 20:00,NL 2,De Graafschap,0:2,Willem II Tilburg,Niederlande Jupiler League
+09.02. 20:00,EH 4NAT,Frankreich,6:0,Österreich,4 Nationen Turnier
+09.02. 20:15,SUI 2,FC Schaffhausen,1:1,FC Thun,Schweiz Challenge League
+09.02. 20:30,AUT BL,RB Salzburg,1:1,SK Sturm Graz,Österreich Bundesliga
+09.02. 20:30,AUT BL,RB Salzburg,1:2,SK Sturm Graz+1,Österreich Bundesliga
+09.02. 20:30,GER BL,Borussia Dortmund,3:0,SC Freiburg,Deutschland Bundesliga
+09.02. 20:30,GER BL,Borussia Dortmund,3:1,SC Freiburg+1,Deutschland Bundesliga
+09.02. 20:30,ESP 2,Levante UD,0:0,CD Leganes,Spanien Segunda Division
+09.02. 20:30,SCO FA,Greenock Morton,2:1,FC Motherwell,Schottland FA Cup
+09.02. 20:30,POL 1,Ruch Chorzow,0:1,Legia Warschau,Polen Orange Ekstraklasa
+09.02. 20:30,ITA B,Como Calcio,1:0,Brescia Calcio,Italien Serie B
+09.02. 20:45,ITA A,Salernitana Calcio,1:3,FC Empoli,Italien Serie A
+09.02. 20:45,ITA C1B,Rimini Calcio,0:2,AC Cesena,"Italien Lega Pro Prima Divisione, Girone B"
+09.02. 20:45,BEL 1,St. Truiden VV,1:0,KV Kortrijk,Belgien Jupiler Pro League
+09.02. 21:00,ESP 1,Cadiz CF,0:2,Betis Sevilla,Spanien La Liga
+09.02. 21:00,FRA 1,Olymp. Marseille,1:1,FC Metz,Frankreich Ligue 1
+09.02. 21:00,ENG CS,Sheffield Wednes.,2:0,Birmingham City,England Championship
+09.02. 21:00,IRL SC,FC Shamrock Rovers,3:1,St Patrick's,Irland Supercup
+09.02. 21:15,POR 1,CF Estrela,3:0,Portimonense SC,Portugal Primeira Liga
+10.02. 13:00,GER 2,FC Magdeburg,1:0,FC St. Pauli,Deutschland 2. Bundesliga
+10.02. 13:00,GER 2,Fortuna Düsseldorf,1:1,SV Elversberg,Deutschland 2. Bundesliga
+10.02. 13:00,GER 2,E. Braunschweig,2:0,Karlsruher SC,Deutschland 2. Bundesliga
+10.02. 13:30,ENG PL,Manchester City,2:0,FC Everton,England Premier League
+10.02. 14:00,ESP 1,CD Alaves,1:1,Villarreal CF,Spanien La Liga
+10.02. 15:00,ITA A,Cagliari Calcio,1:3,Lazio Rom,Italien Serie A
+10.02. 15:30,GER BL,FC Augsburg,2:2,RB Leipzig,Deutschland Bundesliga
+10.02. 15:30,GER BL,SV Werder Bremen,1:2,FC Heidenheim,Deutschland Bundesliga
+10.02. 15:30,GER BL,Mönchengladbach,0:0,SV Darmstadt 98,Deutschland Bundesliga
+10.02. 15:30,GER BL,Eintr. Frankfurt,1:1,VfL Bochum,Deutschland Bundesliga
+10.02. 15:30,GER BL,Union Berlin,1:0,VfL Wolfsburg,Deutschland Bundesliga
+10.02. 16:00,ENG PL,FC Liverpool,3:1,FC Burnley,England Premier League
+10.02. 16:00,ENG PL,Tottenham,2:1,Brighton & Hove,England Premier League
+10.02. 16:00,ENG PL,Luton Town,1:3,Sheffield United,England Premier League
+10.02. 16:00,ENG PL,Wolverhampton,0:2,FC Brentford,England Premier League
+10.02. 16:00,ENG PL,FC Fulham,3:1,AFC Bournemouth,England Premier League
+10.02. 16:00,ENG CS,FC Watford,1:2,Leicester City,England Championship
+10.02. 16:00,ASICUP,Jordanien*,1:3,Katar,Asien Cup
+10.02. 16:15,ESP 1,Real Sociedad,0:1,CA Osasuna,Spanien La Liga
+10.02. 16:30,GER 3,SC Freiburg II,0:3,Arminia Bielefeld,Deutschland 3. Liga
+10.02. 17:00,AUT BL,FK Austria Wien,3:1,TSV Hartberg,Österreich Bundesliga
+10.02. 17:00,AUT BL,SCR Altach,1:1,BW Linz,Österreich Bundesliga
+10.02. 17:00,FRA 1,RC Lens,3:1,Racing Strasbourg,Frankreich Ligue 1
+10.02. 17:00,TUR 1,Galatasaray,2:0,Basaksehir,Türkei Süper Lig
+10.02. 18:00,ITA A,AS Roma,2:4,Inter Mailand,Italien Serie A
+10.02. 18:00,SUI SL,FC Zürich,1:0,Grasshoppers,Schweiz Super League
+10.02. 18:30,ENG PL,Nottingham Forest,2:3,Newcastle United,England Premier League
+10.02. 18:30,GER BL,Bayer Leverkusen,3:0,Bayern München,Deutschland Bundesliga
+10.02. 18:30,GER BL,Bayer Leverkusen,3:1,Bayern München+1,Deutschland Bundesliga
+10.02. 18:30,GER BL,Bay. Leverkusen+1,4:0,Bayern München,Deutschland Bundesliga
+10.02. 18:30,ESP 1,Real Madrid,4:0,FC Girona,Spanien La Liga
+10.02. 18:30,EHF EC,UHK Krems AUT,26:26,Bregenz HB AUT,EHF European Cup
+10.02. 20:30,GER 2,FC Kaiserslautern,1:2,SC Paderborn,Deutschland 2. Bundesliga
+10.02. 20:30,SUI SL,FC Lugano,3:3,Young Boys Bern,Schweiz Super League
+10.02. 20:45,ITA A,US Sassuolo,1:1,FC Torino,Italien Serie A
+10.02. 21:00,ESP 1,UD Las Palmas,2:0,FC Valencia,Spanien La Liga
+10.02. 21:00,FRA 1,Paris SG,3:1,Lille OSC,Frankreich Ligue 1
+10.02. 21:00,AFR CUP,Südafrika*,0:0,DR Kongo,Afrika Cup
+11.02. 12:30,ITA A,AC Fiorentina,5:1,Frosinone Calcio,Italien Serie A
+11.02. 13:30,GER 2,Greuther Fürth,1:2,Hertha BSC,Deutschland 2. Bundesliga
+11.02. 13:30,GER 2,VfL Osnabrück,0:0,Hansa Rostock,Deutschland 2. Bundesliga
+11.02. 13:30,GER 2,Holstein Kiel,1:0,FC Schalke 04,Deutschland 2. Bundesliga
+11.02. 14:00,ESP 1,Getafe CF,3:2,Celta de Vigo,Spanien La Liga
+11.02. 14:30,AUT BL,Wolfsberger AC,0:2,SK Rapid Wien,Österreich Bundesliga
+11.02. 14:30,AUT BL,Wolfsberger AC+1,1:2,SK Rapid Wien,Österreich Bundesliga
+11.02. 14:30,AUT BL,WSG Tirol,0:2,Austria Lustenau,Österreich Bundesliga
+11.02. 14:30,NL 1,SC Heerenveen,3:2,Ajax Amsterdam,Niederlande Eredivisie
+11.02. 15:00,ENG PL,West Ham United,0:6,FC Arsenal,England Premier League
+11.02. 15:00,ITA A,Bologna FC,4:0,US Lecce,Italien Serie A
+11.02. 15:00,ITA A,AC Monza,0:0,Hellas Verona,Italien Serie A
+11.02. 15:00,FRA 1,FC Toulouse,1:2,FC Nantes,Frankreich Ligue 1
+11.02. 15:30,GER BL,VfB Stuttgart,3:1,FSV Mainz 05,Deutschland Bundesliga
+11.02. 16:15,ESP 1,RCD Mallorca,2:1,Rayo Vallecano,Spanien La Liga
+11.02. 16:30,SUI SL,FC Basel,1:0,FC St. Gallen,Schweiz Super League
+11.02. 17:00,AUT BL,LASK,2:2,Austria Klagenfurt,Österreich Bundesliga
+11.02. 17:05,FRA 1,HSC Montpellier,1:2,Olympique Lyon,Frankreich Ligue 1
+11.02. 17:30,GER BL,TSG Hoffenheim,1:1,1. FC Köln,Deutschland Bundesliga
+11.02. 17:30,ENG PL,Aston Villa,1:2,Manchester United,England Premier League
+11.02. 18:00,ITA A,FC Genua,1:4,Atalanta Bergamo,Italien Serie A
+11.02. 18:30,ESP 1,FC Sevilla,1:0,Atletico Madrid,Spanien La Liga
+11.02. 19:00,POR 1,Sporting Lissabon,5:0,Sporting Braga,Portugal Primeira Liga
+11.02. 20:45,ITA A,AC Milan,1:0,SSC Napoli,Italien Serie A
+11.02. 20:45,FRA 1,OGC Nizza,2:3,AS Monaco,Frankreich Ligue 1
+11.02. 21:00,ESP 1,FC Barcelona,3:3,Granada CF,Spanien La Liga
+11.02. 21:00,AFR CUP,Nigeria*,1:2,Elfenbeinküste,Afrika Cup
+11.02. 21:30,POR 1,Vitoria Guimaraes,2:2,Benfica Lissabon,Portugal Primeira Liga
+12.02. 00:30,NFL,Kansas City Chief*,19:19,San Francisco 49,USA NFL
+12.02. 15:00,TUR 1,Trabzonspor,2:0,Hatayspor,Türkei Süper Lig
+12.02. 16:00,ROU 1,UTA Arad,2:2,FC Botosani,Rumänien Liga 1
+12.02. 16:00,SERB 1,Napredak Krusevac,1:1,Spartak Subotica,Serbien Meridijan Superliga
+12.02. 18:00,TUR 1,Kayserispor,0:0,Besiktas Istanbul,Türkei Süper Lig
+12.02. 18:00,TUR 1,Samsunspor,2:0,Antalyaspor,Türkei Süper Lig
+12.02. 18:00,TUR 2,Eyupspor,1:0,Genclerbirligi,Türkei TFF 1. Lig
+12.02. 18:30,FRA 3,FC Chamois Niort,2:1,AS Nancy,Frankreich National
+12.02. 19:00,POR 2,CD Santa Clara,2:1,CD Feirense,Portugal Segunda Liga
+12.02. 19:00,ISR 1,Hapoel Haifa,2:3,Hapoel Jerusalem,Israel Superliga
+12.02. 19:00,ROU 1,FC Farul Constanta,0:2,Dinamo Bukarest,Rumänien Liga 1
+12.02. 19:00,POL 1,Korona Kielce,2:1,LKS Lodz,Polen Orange Ekstraklasa
+12.02. 19:00,BB AUT,BC Vienna,86:71,Oberwart Gunners,Basketball Superliga
+12.02. 19:30,FRA 3,US Orleans 45,0:0,FC Rouen,Frankreich National
+12.02. 20:30,ESP 2,Real Valladolid,0:0,Albacete Balompie,Spanien Segunda Division
+12.02. 20:30,ITA C1C,FC Crotone,0:0,Benevento Calcio,"Italien, Lega Pro Prima Divisione, Girone C"
+12.02. 20:45,ITA A,Juventus Turin,0:1,Udinese Calcio,Italien Serie A
+12.02. 20:45,ITA A,Juventus Turin,0:2,Udinese Calcio+1,Italien Serie A
+12.02. 20:45,FRA 2,AS Saint Etienne,5:0,Troyes AC,Frankreich Ligue 2
+12.02. 21:00,ENG PL,Crystal Palace,1:3,FC Chelsea,England Premier League
+12.02. 21:00,ENG PL,Crystal Palace+1,2:3,FC Chelsea,England Premier League
+12.02. 21:00,ESP 1,UD Almeria,0:0,Athletic Bilbao,Spanien La Liga
+12.02. 21:00,ESP 1,UD Almeria+1,1:0,Athletic Bilbao,Spanien La Liga
+12.02. 21:15,POR 1,FC Arouca,3:2,FC Porto,Portugal Primeira Liga

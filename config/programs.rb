@@ -170,8 +170,8 @@ class Programs
 
     def each( exclude: nil )
       @recs.each do |rec|
-        league_code = rec['league']
-        league_name = rec['league_name']
+        league_code = rec['League']
+        league_name = rec['League Name']
 
         next if HOCKEY_LEAGUES.include?( league_code ) ||     ## skip (ice) hockey leagues
                 BASKETBALL_LEAGUES.include?( league_code ) ||
@@ -187,7 +187,7 @@ class Programs
         league_code_fix = EXTRA_LEAGUE_MAPPINGS[ league_code ]
         if league_code_fix
           puts "  (auto-)patching league code >#{league_code}< to >#{league_code_fix}<"
-          rec['league'] = league_code_fix
+          rec['League'] = league_code_fix
         end
 
         yield( rec )

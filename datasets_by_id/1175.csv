@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+13.09. 18:45,CL,Vikt. Pilsen CZE,0:2,Inter Mailand ITA,UEFA Champions League
+13.09. 18:45,CL,Viktoria Pilsen+1,1:2,Inter Mailand,UEFA Champions League
+13.09. 18:45,CL,Sporting Liss. POR,2:0,Tottenham ENG,UEFA Champions League
+13.09. 18:45,CL,Sporting Lissab.+1,3:0,Tottenham,UEFA Champions League
+13.09. 19:00,SWE 2,Norrby IF,3:0,Halmstads BK,Schweden Superettan
+13.09. 19:00,SWE 2,AFC Eskilstuna,2:3,IK Brage,Schweden Superettan
+13.09. 20:45,ENG CS,Swansea City,0:1,Sheffield United,England Championship
+13.09. 20:45,ENG CS,Middlesbrough,2:3,Cardiff City,England Championship
+13.09. 20:45,ENG CS,Hull City,0:3,Stoke City,England Championship
+13.09. 20:45,ENG CS,Huddersfield Town,1:2,Wigan Athletic,England Championship
+13.09. 20:45,ENG CS,Blackburn Rovers,2:0,FC Watford,England Championship
+13.09. 20:45,ENG 1,Wycombe Wanderers,1:0,Accrington Stanley,England League One
+13.09. 20:45,ENG 1,Plymouth Argyle,1:0,Oxford United,England League One
+13.09. 20:45,ENG 1,Peterborough Utd.,0:1,Fleetwood Town,England League One
+13.09. 20:45,ENG 1,FC Morecambe,0:3,Sheffield Wednes.,England League One
+13.09. 20:45,ENG 1,MK Dons,0:2,Bolton Wanderers,England League One
+13.09. 20:45,ENG 1,Lincoln City,2:0,Derby County,England League One
+13.09. 20:45,ENG 1,Ipswich Town,2:0,Bristol Rovers,England League One
+13.09. 20:45,ENG 1,Charlton Athletic,1:1,Forest Green,England League One
+13.09. 20:45,ENG 1,Burton Albion,0:2,FC Portsmouth,England League One
+13.09. 20:45,ENG 1,FC Barnsley,1:1,Port Vale FC,England League One
+13.09. 20:45,IRL 1,FC Derry City,1:0,FC Sligo Rovers,Irland Premier Division
+13.09. 21:00,CL,FC Liverpool ENG,2:1,Ajax Amsterd. NED,UEFA Champions League
+13.09. 21:00,CL,FC Liverpool,2:2,Ajax Amsterdam+1,UEFA Champions League
+13.09. 21:00,CL,Leverkusen GER,2:0,Atl. Madrid ESP,UEFA Champions League
+13.09. 21:00,CL,Bay. Leverkusen+1,3:0,Atletico Madrid,UEFA Champions League
+13.09. 21:00,CL,Ol. Marseille FRA,0:1,E. Frankfurt GER,UEFA Champions League
+13.09. 21:00,CL,Olymp. Marseille,0:2,Eintr. Frankfurt+1,UEFA Champions League
+13.09. 21:00,CL,FC Porto POR,0:4,Club Brügge BEL,UEFA Champions League
+13.09. 21:00,CL,FC Porto,0:5,Club Brügge+1,UEFA Champions League
+13.09. 21:00,CL,Bayern München GER,2:0,FC Barcelona ESP,UEFA Champions League
+13.09. 21:00,CL,Bayern München,2:1,FC Barcelona+1,UEFA Champions League
+13.09. 21:00,ENG CS,Preston North End,1:1,FC Burnley,England Championship
+13.09. 21:30,ARG 1,Velez Sarsfield,abgesagt,CA Central Cordoba,Argentinien Primera Division
+14.09. 00:00,ARG 1,CD Godoy Cruz,1:1,CA Tigre,Argentinien Primera Division
+14.09. 00:00,ARG 1,CA Huracan,1:1,Barracas Central,Argentinien Primera Division
+14.09. 01:38,USA MLS,CF Montreal,3:2,Chicago Fire,USA Major League Soccer
+14.09. 02:00,USA MLS,FC Minnesota Utd.,1:1,Los Angeles FC,USA Major League Soccer
+14.09. 02:00,USA MLS,Inter Miami CF,2:1,Columbus Crew,USA Major League Soccer
+14.09. 02:30,ARG 1,Racing Club,1:0,Patronato Parana,Argentinien Primera Division
+14.09. 02:30,ARG 1,CA Platense,1:0,Union de Santa Fe,Argentinien Primera Division
+14.09. 02:30,USA MLS,Houston Dynamo,3:1,New England Rev.,USA Major League Soccer
+14.09. 02:30,USA MLS,Sp. Kansas City,3:0,DC United,USA Major League Soccer
+14.09. 16:00,BOS 1,FK Sloboda Tuzla,1:1,FK Velez Mostar,Bosnien Premier Liga
+14.09. 16:30,CRO 1,HNK Hajduk Split,2:0,HNK Rijeka,Kroatien 1. HNL
+14.09. 18:45,CL,AC Milan ITA,3:1,Dinamo Zagreb CRO,UEFA Champions League
+14.09. 18:45,CL,AC Milan,3:2,NK Dinamo Zagreb+1,UEFA Champions League
+14.09. 18:45,CL,Shakhtar Don. UKR*,1:1,Celtic Glasgow SCO,UEFA Champions League
+14.09. 18:45,CL,Shakhtar Donetsk+1,2:1,Celtic Glasgow,UEFA Champions League
+14.09. 19:00,RL SBG,SV Grödig,2:3,Austria Salzburg,Regionalliga Salzburg
+14.09. 19:00,ARG 1,CA Aldosivi,1:2,Newell's Old B.,Argentinien Primera Division
+14.09. 20:45,ENG CS,Rotherham United,3:0,FC Blackpool,England Championship
+14.09. 20:45,ENG CS,Norwich City,3:2,Bristol City,England Championship
+14.09. 20:45,ENG CS,FC Millwall,0:2,Queens Park R.,England Championship
+14.09. 20:45,ENG CS,Luton Town,2:2,Coventry City,England Championship
+14.09. 21:00,ENG CS,FC Reading,0:3,AFC Sunderland,England Championship
+14.09. 21:00,CL,Gl.Rangers SCO,0:3,SSC Napoli ITA,UEFA Champions League
+14.09. 21:00,CL,Glasgow Rangers+1,1:3,SSC Napoli,UEFA Champions League
+14.09. 21:00,CL,FC Chelsea ENG,1:1,RB Salzburg AUT,UEFA Champions League
+14.09. 21:00,CL,FC Chelsea,1:2,RB Salzburg+1,UEFA Champions League
+14.09. 21:00,CL,Real Madrid ESP,2:0,RB Leipzig GER,UEFA Champions League
+14.09. 21:00,CL,Real Madrid,2:1,RB Leipzig+1,UEFA Champions League
+14.09. 21:00,CL,Man. City ENG,2:1,Bor. Dortmund GER,UEFA Champions League
+14.09. 21:00,CL,Manchester City,2:2,Bor. Dortmund+1,UEFA Champions League
+14.09. 21:00,CL,Juventus Turin ITA,1:2,Benfica Lissab POR,UEFA Champions League
+14.09. 21:00,CL,Juventus Turin,1:3,Benfica Lissabon+1,UEFA Champions League
+14.09. 21:00,CL,Maccabi Haifa ISR,1:3,Paris SG FRA,UEFA Champions League
+14.09. 21:00,CL,Maccabi Haifa+1,2:3,Paris SG,UEFA Champions League
+14.09. 21:00,CL,FC Kopenhagen DEN,0:0,FC Sevilla ESP,UEFA Champions League
+14.09. 21:00,CL,FC Kopenhagen+1,1:0,FC Sevilla,UEFA Champions League
+14.09. 21:15,ENG CS,West Bromwich,2:3,Birmingham City,England Championship
+14.09. 21:30,ARG 1,Colon Santa Fe,0:0,CA San Lorenzo,Argentinien Primera Division
+15.09. 00:00,ARG 1,CA River Plate,1:2,CA Banfield,Argentinien Primera Division
+15.09. 00:00,USA MLS,Orlando City SC,0:1,Atlanta United FC,USA Major League Soccer
+15.09. 02:30,ARG 1,Atletico Lanus,0:1,Boca Juniors,Argentinien Primera Division
+15.09. 02:45,BRA CUP,Flamengo RJ,1:0,Sao Paulo SP,Brasilien Cup
+15.09. 03:15,USA MLS,Austin FC,3:0,Real Salt Lake,USA Major League Soccer
+15.09. 04:00,USA MLS,Vancouver W'caps,3:0,LA Galaxy,USA Major League Soccer
+15.09. 04:00,USA MLS,Colorado Rapids,2:1,San Jose Earthqua,USA Major League Soccer
+15.09. 18:00,CYP 1,Aris Limassol,1:2,Karmiotissa,Zypern 1. Division
+15.09. 18:45,EL,Feyenoord NED,6:0,SK Sturm Graz AUT,UEFA Europa League
+15.09. 18:45,EL,Feyenoord,6:1,SK Sturm Graz+1,UEFA Europa League
+15.09. 18:45,EL,FC Midtjylland DEN,5:1,Lazio Rom ITA,UEFA Europa League
+15.09. 18:45,EL,Olympiakos P. GRE,0:3,SC Freiburg GER,UEFA Europa League
+15.09. 18:45,EL,FC Sheriff T. MDA,0:2,Manchester U. ENG,UEFA Europa League
+15.09. 18:45,EL,Real Sociedad ESP,2:1,Omonia Nikosia CYP,UEFA Europa League
+15.09. 18:45,EL,Qarabag FK AZE,3:0,FC Nantes FRA,UEFA Europa League
+15.09. 18:45,EL,Trabzonspor TUR,2:1,Roter Stern B. SRB,UEFA Europa League
+15.09. 18:45,EL,AS Monaco FRA,0:1,Ferencvaros HUN,UEFA Europa League
+15.09. 18:45,CON LG,Pyunik Yerevan ARM,2:0,Slov. Bratisl. SVK,UEFA Europa Conference League
+15.09. 18:45,CON LG,AZ Alkmaar NED,4:1,FC Vaduz LIE,UEFA Europa Conference League
+15.09. 18:45,CON LG,Slavia Prag CZE,3:2,FC Ballkani KOS,UEFA Europa Conference League
+15.09. 18:45,CON LG,KAA Gent BEL,3:0,Shamrock IRL,UEFA Europa Conference League
+15.09. 18:45,CON LG,Zalg. Vilnius LTU,0:1,FC Basel SUI,UEFA Europa Conference League
+15.09. 18:45,CON LG,CFR 1907 Cluj ROU,0:1,Sivasspor TUR,UEFA Europa Conference League
+15.09. 18:45,CON LG,Djurgardens IF SWE,3:2,Molde FK NOR,UEFA Europa Conference League
+15.09. 18:45,CON LG,Apollon L. CYP*,1:3,SC Dnipro UKR,UEFA Europa Conference League
+15.09. 21:00,EL,FC Arsenal ENG,abgesagt,PSV Eindhoven NED,UEFA Europa League
+15.09. 21:00,EL,FC Arsenal,abgesagt,PSV Eindhoven+1,UEFA Europa League
+15.09. 21:00,EL,Sporting Braga POR,1:0,Union Berlin GER,UEFA Europa League
+15.09. 21:00,EL,Bodö Glimt NOR,2:1,FC Zürich SUI,UEFA Europa League
+15.09. 21:00,EL,Dynamo Kiew UKR*,0:1,AEK Larnaca CYP,UEFA Europa League
+15.09. 21:00,EL,Stade Rennes FRA,2:2,Fenerbahce TUR,UEFA Europa League
+15.09. 21:00,EL,Betis Sevilla ESP,3:2,Ludogorets BUL,UEFA Europa League
+15.09. 21:00,EL,AS Roma ITA,3:0,HJK Helsinki FIN,UEFA Europa League
+15.09. 21:00,EL,St. Gilloise BEL*,3:2,Malmö FF SWE,UEFA Europa League
+15.09. 21:00,CON LG,Lech Posen POL,4:1,Austria Wien AUT,UEFA Europa Conference League
+15.09. 21:00,CON LG,Lech Posen,4:2,FK Austria Wien+1,UEFA Europa Conference League
+15.09. 21:00,CON LG,H. Beer Sheva ISR,1:2,Villarreal CF ESP,UEFA Europa Conference League
+15.09. 21:00,CON LG,1. FC Köln GER,4:2,1. FC Slovacko CZE,UEFA Europa Conference League
+15.09. 21:00,CON LG,FK Partizan SRB,1:1,OGC Nizza FRA,UEFA Europa Conference League
+15.09. 21:00,CON LG,Silkeborg IF DEN,2:3,West Ham ENG,UEFA Europa Conference League
+15.09. 21:00,CON LG,FCS Bukarest ROU,0:0,RSC Anderlecht BEL,UEFA Europa Conference League
+15.09. 21:00,CON LG,Basaksehir TUR,3:0,AC Fiorentina ITA,UEFA Europa Conference League
+15.09. 21:00,CON LG,Rigas Fb.Sk LAT,0:2,Heart of Midl. SCO,UEFA Europa Conference League
+16.09. 00:00,ARG 1,Defensa y Justicia,2:1,Argentinos Juniors,Argentinien Primera Division
+16.09. 00:00,ARG 1,CA Rosario Central,1:1,Estudiantes LP,Argentinien Primera Division
+16.09. 01:00,BRA CUP,Corinthians SP,3:0,Fluminense RJ,Brasilien Cup
+16.09. 02:30,ARG 1,Gimnasia La Plata,2:0,Arsenal de Sarandi,Argentinien Primera Division
+16.09. 02:30,ARG 1,Atletico Tucuman,1:1,CA Talleres,Argentinien Primera Division

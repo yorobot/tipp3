@@ -1,11 +1,8 @@
+require_relative 'boot'   # boot helper
 
-require 'sportdb/config'
-
-SportDb::Import.config.leagues_dir = '../../openfootball/leagues'
 
 
 leagues = SportDb::Import.catalog.leagues
-leagues.dump_duplicates
 
 
 puts "** match AUT BL:"
@@ -25,3 +22,6 @@ pp leagues.match( 'ENG PL' )
 
 puts "** match ENG 1:"
 pp leagues.match( 'ENG 1' )
+
+
+puts "bye"

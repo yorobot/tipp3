@@ -1,20 +1,24 @@
+require_relative 'boot'
 
-require 'sportdb/config'
-
-## use (switch to) "external" datasets
-SportDb::Import.config.leagues_dir = '../../openfootball/leagues'
-SportDb::Import.config.clubs_dir   = '../../openfootball/clubs'
 
 
 leagues   = SportDb::Import.catalog.leagues
 clubs     = SportDb::Import.catalog.clubs
 countries = SportDb::Import.catalog.countries
 
-## pp clubs.match( 'Juventus Turin' )
-## pp clubs.match_by( name: 'Juventus Turin', country: countries['it'] )
-
 
 require_relative 'config/programs'
+
+
+## last five
+names = %w[
+2024-18b_fri-may-3
+2024-19a_tue-may-7
+2024-19b_fri-may-10
+2024-20a_tue-may-14
+2024-20b_fri-may-17
+]
+pp names
 
 
 
@@ -31,21 +35,27 @@ EXTRA_COUNTRY_MAPPINGS = {
 
 league_names = {}   ## lookup league name by league code
 
-year = 2020
-programs = Programs.year( year )  ## 2018, 2019, 2020
-programs.each do |program|
-  puts "#{program.size} rec(s) - #{program.name}:"
+
+MORE_EXCLUDES = [
+   'ITACRPO',  #  12  ITACRPO  Italien Serie C, Relegations Playoff
+   'SUI 3',    #   1  SUI 3    Schweiz, 1, Liga Promotion
+]
+
+
+names.each do |name|
+  prog = Programs::Program.new( name )
+  puts "#{prog.size} rec(s) - #{prog.name}:"
 
   ## note: skip (exclude) national (selection) teams / matches e.g. wm, em, u21, u20, int fs, etc.
-  program.each( exclude: EXCLUDE_LEAGUES ) do |rec|
-     league_code = rec[:league]
-     league_name = rec[:league_name]
+  prog.each( exclude: EXCLUDE_LEAGUES+MORE_EXCLUDES ) do |rec|
+     league_code = rec['League']
+     league_name = rec['League Name']
 
 
       league_names[ league_code ] = league_name
 
-       team1 = rec[:team_1]
-       team2 = rec[:team_2]
+       team1 = rec['Team 1']
+       team2 = rec['Team 2']
        ## remove possible (*) marker e.g. Atalanta Bergamo*
        team1 = team1.gsub( '*', '' )
        team2 = team2.gsub( '*', '' )
@@ -204,9 +214,9 @@ end
 puts buf
 
 ## save to missing_clubs.txt
-File.open( "missing_clubs_#{year}.txt", 'w:utf-8' ) do |f|
-  f.write( buf )
-end
+# File.open( "missing_clubs_#{year}.txt", 'w:utf-8' ) do |f|
+#  f.write( buf )
+# end
 
 
 puts "bye"

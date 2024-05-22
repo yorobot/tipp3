@@ -1,0 +1,120 @@
+Date,League,Team 1,Score,Team 2,League Name
+06.10. 18:10,AUT 2,SKU Amstetten,2:3,SV Ried,Österreich Zweite Liga
+06.10. 18:10,AUT 2,DSV Leoben,1:1,SV Lafnitz,Österreich Zweite Liga
+06.10. 18:10,AUT 2,SV Stripfing,4:1,SKN St. Pölten,Österreich Zweite Liga
+06.10. 18:10,AUT 2,SV Horn,0:2,Kapfenberger SV,Österreich Zweite Liga
+06.10. 18:30,ITA A,FC Empoli,0:0,Udinese Calcio,Italien Serie A
+06.10. 18:30,GER 2,FC Kaiserslautern,3:1,Hannover 96,Deutschland 2. Bundesliga
+06.10. 18:30,GER 2,Fortuna Düsseldorf,1:1,VfL Osnabrück,Deutschland 2. Bundesliga
+06.10. 19:00,GER 3,SV Sandhausen,1:2,SSV Ulm 1846,Deutschland 3. Liga
+06.10. 19:00,POR 2,CD Santa Clara,2:0,Academico Viseu,Portugal Segunda Liga
+06.10. 19:00,TUR 1,Adana Demirspor,1:0,Trabzonspor,Türkei Süper Lig
+06.10. 19:00,TUR 1,Alanyaspor,2:1,Karagümrük,Türkei Süper Lig
+06.10. 19:00,TUR 2,Kocaelispor,1:1,Erzurumspor FK,Türkei TFF 1. Lig
+06.10. 19:00,DEN 1,Silkeborg IF,5:0,Lyngby BK,Dänemark Superligaen
+06.10. 19:15,EH AUT,HC Innsbruck,4:1,EC KAC,win2day ICE Hockey League
+06.10. 19:15,EH AUT,Black Wings Linz,4:1,Fehervar AV19,win2day ICE Hockey League
+06.10. 19:30,AUT RLO,Young Violets A.W.,1:4,SR Donaufeld,Österreich Regionalliga Ost
+06.10. 19:30,AUT RLO,SK Rapid Wien II,4:0,Wiener Sport-Club,Österreich Regionalliga Ost
+06.10. 19:45,EH AUT,HC Pustertal,abgesagt,EC Graz 99ers,win2day ICE Hockey League
+06.10. 19:45,EH AUT,HC Asiago,1:0,Vienna Capitals,win2day ICE Hockey League
+06.10. 20:00,NL 1,FC Volendam,1:0,FC Utrecht,Niederlande Eredivisie
+06.10. 20:00,ROU 1,Rapid Bukarest,3:2,CSM Poli. Iasi,Rumänien Liga 1
+06.10. 20:30,GER BL,Mönchengladbach,2:2,FSV Mainz 05,Deutschland Bundesliga
+06.10. 20:30,GER BL,Mönchengladbach,2:3,FSV Mainz 05+1,Deutschland Bundesliga
+06.10. 20:30,AUT 2,First Vienna FC,2:2,Floridsdorfer AC,Österreich Zweite Liga
+06.10. 20:30,POL 1,Lech Posen,4:1,Pusz. Niepolomice,Polen Orange Ekstraklasa
+06.10. 20:30,ITA B,Brescia Calcio,1:1,Feralpisalò,Italien Serie B
+06.10. 20:45,ITA A,US Lecce,1:1,US Sassuolo,Italien Serie A
+06.10. 20:45,BEL 1,Sporting Charleroi,2:1,RWD Molenbeek,Belgien Jupiler Pro League
+06.10. 21:00,ESP 1,Athletic Bilbao,3:0,UD Almeria,Spanien La Liga
+06.10. 21:00,ESP 2,Albacete Balompie,0:2,Levante UD,Spanien Segunda Division
+06.10. 21:00,FRA 1,Racing Strasbourg,1:2,FC Nantes,Frankreich Ligue 1
+06.10. 21:00,ENG CS,Birmingham City,3:1,West Bromwich,England Championship
+06.10. 21:15,POR 1,Moreirense FC,1:1,Boavista FC,Portugal Primeira Liga
+07.10. 13:00,GER 2,Wehen Wiesbaden,1:1,Hamburger SV,Deutschland 2. Bundesliga
+07.10. 13:00,GER 2,Greuther Fürth,1:0,Hansa Rostock,Deutschland 2. Bundesliga
+07.10. 13:00,GER 2,FC Magdeburg,1:1,Karlsruher SC,Deutschland 2. Bundesliga
+07.10. 13:30,ENG PL,Luton Town,0:1,Tottenham,England Premier League
+07.10. 14:00,ESP 1,Cadiz CF,0:1,FC Girona,Spanien La Liga
+07.10. 14:30,AUT 2,Grazer AK,1:0,SW Bregenz,Österreich Zweite Liga
+07.10. 14:30,AUT 2,FC Dornbirn,2:3,SK Sturm Graz II,Österreich Zweite Liga
+07.10. 15:00,ITA A,Inter Mailand,2:2,Bologna FC,Italien Serie A
+07.10. 15:30,GER BL,VfB Stuttgart,3:1,VfL Wolfsburg,Deutschland Bundesliga
+07.10. 15:30,GER BL,FC Augsburg,1:2,SV Darmstadt 98,Deutschland Bundesliga
+07.10. 15:30,GER BL,RB Leipzig,0:0,VfL Bochum,Deutschland Bundesliga
+07.10. 15:30,GER BL,Borussia Dortmund,4:2,Union Berlin,Deutschland Bundesliga
+07.10. 15:30,GER BL,Borussia Dortmund,4:3,Union Berlin+1,Deutschland Bundesliga
+07.10. 16:00,ENG PL,Manchester United,2:1,FC Brentford,England Premier League
+07.10. 16:00,ENG PL,FC Fulham,3:1,Sheffield United,England Premier League
+07.10. 16:00,ENG PL,FC Everton,3:0,AFC Bournemouth,England Premier League
+07.10. 16:00,ENG PL,FC Burnley,1:4,FC Chelsea,England Premier League
+07.10. 16:00,ENG CS,FC Southampton,1:1,Rotherham United,England Championship
+07.10. 16:00,ENG CS,Leicester City,2:0,Stoke City,England Championship
+07.10. 16:00,ENG CS,Leeds United,2:1,Bristol City,England Championship
+07.10. 16:15,ESP 1,Real Madrid,4:0,CA Osasuna,Spanien La Liga
+07.10. 17:00,AUT BL,TSV Hartberg,3:0,WSG Tirol,Österreich Bundesliga
+07.10. 17:00,AUT BL,Austria Lustenau,0:5,SK Rapid Wien,Österreich Bundesliga
+07.10. 17:00,AUT BL,Austria Lustenau+1,1:5,SK Rapid Wien,Österreich Bundesliga
+07.10. 17:00,AUT BL,FK Austria Wien,4:0,BW Linz,Österreich Bundesliga
+07.10. 17:00,AUT BL,FK Austria Wien,4:1,BW Linz+1,Österreich Bundesliga
+07.10. 17:00,FRA 1,FC Metz,0:1,OGC Nizza,Frankreich Ligue 1
+07.10. 18:00,ITA A,Juventus Turin,2:0,FC Torino,Italien Serie A
+07.10. 18:00,TUR 1,Antalyaspor,0:2,Galatasaray,Türkei Süper Lig
+07.10. 18:30,GER BL,SV Werder Bremen,2:3,TSG Hoffenheim,Deutschland Bundesliga
+07.10. 18:30,ENG PL,Crystal Palace,0:0,Nottingham Forest,England Premier League
+07.10. 18:30,ESP 1,RCD Mallorca,1:1,FC Valencia,Spanien La Liga
+07.10. 20:30,GER 2,FC St. Pauli,5:1,1. FC Nürnberg,Deutschland 2. Bundesliga
+07.10. 20:45,ITA A,FC Genua,0:1,AC Milan,Italien Serie A
+07.10. 21:00,ESP 1,FC Sevilla,2:2,Rayo Vallecano,Spanien La Liga
+07.10. 21:00,FRA 1,Stade de Reims,1:3,AS Monaco,Frankreich Ligue 1
+08.10. 10:30,AUT 2,FC Liefering,1:1,Admira Wacker,Österreich Zweite Liga
+08.10. 12:30,ITA A,AC Monza,3:0,Salernitana Calcio,Italien Serie A
+08.10. 13:00,FRA 1,Olymp. Marseille,3:0,Le Havre AC,Frankreich Ligue 1
+08.10. 13:30,GER 2,E. Braunschweig,1:3,SC Paderborn,Deutschland 2. Bundesliga
+08.10. 13:30,GER 2,Holstein Kiel,1:1,SV Elversberg,Deutschland 2. Bundesliga
+08.10. 13:30,GER 2,FC Schalke 04,1:2,Hertha BSC,Deutschland 2. Bundesliga
+08.10. 14:00,ESP 1,Villarreal CF,1:2,UD Las Palmas,Spanien La Liga
+08.10. 14:30,AUT BL,Wolfsberger AC,1:2,SK Sturm Graz,Österreich Bundesliga
+08.10. 14:30,AUT BL,LASK,1:0,SCR Altach,Österreich Bundesliga
+08.10. 15:00,ENG PL,Wolverhampton,1:1,Aston Villa,England Premier League
+08.10. 15:00,ENG PL,West Ham United,2:2,Newcastle United,England Premier League
+08.10. 15:00,ENG PL,Brighton & Hove,2:2,FC Liverpool,England Premier League
+08.10. 15:00,ITA A,Lazio Rom,3:2,Atalanta Bergamo,Italien Serie A
+08.10. 15:00,FRA 1,Olympique Lyon,3:3,FC Lorient,Frankreich Ligue 1
+08.10. 15:00,TUR 1,Besiktas Istanbul,2:0,Istanbulspor AS,Türkei Süper Lig
+08.10. 15:30,GER BL,Bayer Leverkusen,3:0,1. FC Köln,Deutschland Bundesliga
+08.10. 16:15,ESP 1,Atletico Madrid,2:1,Real Sociedad,Spanien La Liga
+08.10. 17:00,AUT BL,Austria Klagenfurt,2:2,RB Salzburg,Österreich Bundesliga
+08.10. 17:05,FRA 1,RC Lens,1:1,Lille OSC,Frankreich Ligue 1
+08.10. 17:30,GER BL,Bayern München,3:0,SC Freiburg,Deutschland Bundesliga
+08.10. 17:30,ENG PL,FC Arsenal,1:0,Manchester City,England Premier League
+08.10. 18:00,ITA A,Cagliari Calcio,1:4,AS Roma,Italien Serie A
+08.10. 18:00,TUR 1,Kasimpasa,0:2,Fenerbahce,Türkei Süper Lig
+08.10. 18:30,ESP 1,CD Alaves,1:1,Betis Sevilla,Spanien La Liga
+08.10. 18:30,ESP 1,Celta de Vigo,2:2,Getafe CF,Spanien La Liga
+08.10. 19:30,GER BL,Eintr. Frankfurt,2:0,FC Heidenheim,Deutschland Bundesliga
+08.10. 20:45,ITA A,SSC Napoli,1:3,AC Fiorentina,Italien Serie A
+08.10. 20:45,FRA 1,Stade Rennes,1:3,Paris SG,Frankreich Ligue 1
+08.10. 21:00,ESP 1,Granada CF,2:2,FC Barcelona,Spanien La Liga
+08.10. 22:05,NFL,Los Angeles Rams,14:23,Philadelph. Eagles,USA NFL
+09.10. 15:00,ROU 2,CS Tunari,1:1,Corvinul Hunedoara,"Rumänien, Liga 2"
+09.10. 18:00,ISR 2,Hapoel Akko,abgesagt,I. Ramat Hasharon,Israel National League
+09.10. 18:00,ISR 2,Sectzya Nes Ziona,abgesagt,Bnei Yehuda,Israel National League
+09.10. 18:00,BOS 1,Zrinjski Mostar,2:0,FK Sloga Doboj,Bosnien Premier Liga
+09.10. 19:00,ESP 2,Elche CF,2:1,Andorra FC,Spanien Segunda Division
+09.10. 19:00,DEN 2,FC Helsingor,0:1,Vendsyssel FF,Dänemark 1. Division
+09.10. 20:00,ROU 1,Universitatea Cluj,1:0,Sepsi Sf.Gheorghe,Rumänien Liga 1
+09.10. 20:30,ITA C1A,Pro Vercelli,1:0,LR Vicenza,"Italien Lega Pro Prima Divisione, Girone A"
+09.10. 20:45,ITA C1B,AS Gubbio,2:0,Carrarese Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+09.10. 20:45,ITA C1B,US Fermana,0:2,Perugia Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+09.10. 20:45,ITA C1B,AC Arezzo,0:2,AC Cesena,"Italien Lega Pro Prima Divisione, Girone B"
+09.10. 20:45,ITA C1C,US Avellino,4:1,Potenza SC,"Italien, Lega Pro Prima Divisione, Girone C"
+09.10. 21:00,ENG 1,Burton Albion,2:1,Cambridge United,England League One
+09.10. 21:00,ESP 2,CF Villarreal B,3:1,Espanyol Barcelona,Spanien Segunda Division
+09.10. 21:15,POR 2,AVS Futebol SAD,1:0,FC Penafiel,Portugal Segunda Liga
+09.10. 23:00,ARG LC,Arsenal de Sarandi,0:0,CA Banfield,"Argentinien, Ligacup"
+09.10. 23:00,ARG LC,Barracas Central,2:1,Colon Santa Fe,"Argentinien, Ligacup"
+10.10. 01:00,BRA 2,Sport Recife PE,3:3,AA Ponte Preta SP,Brasilien Brasilero Serie B
+10.10. 01:30,ARG LC,Velez Sarsfield,3:1,Atletico Tucuman,"Argentinien, Ligacup"
+13.10. 20:45,EM Q,Österreich,2:3,Belgien,EM-Qualifikation
