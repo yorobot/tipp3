@@ -6,6 +6,9 @@ EXTRA_LEAGUE_MAPPINGS = {
   'CL Q'   => 'UEFA CL Q',
   'EL'     => 'UEFA EL',
   'CON LG' => 'UEFA ECL',
+  'CONCAC'  => 'CONCACAF CL',
+
+
   ## 'RL TIR' => 'AUT RL T',   ## or use AUT RLT or AUT RL TIR ???
   ## 'RL SBG' => 'AUT RL S',
   ## 'RL VBG' => 'AUT RL V',
@@ -45,7 +48,11 @@ HOCKEY_LEAGUES = [
   'EH SVK',  # Slowakei Extraliga
   'EH BLR',  # Weißrussland Extraliga
   'EHU20WM', # Weltmeisterschaft U20
+  'EH BWM',  #  Eishockey WM, Division I
+
+  'EH WMF',  # Weltmeisterschaft Frauen
 ]
+
 
 HANDBALL_LEAGUES = [
   'HB WM',   # Handball WM Herren
@@ -66,7 +73,9 @@ HANDBALL_LEAGUES = [
   'HB EHF',  # EHF Cup, Herren
   'HBWMQD',  # Weltmeisterschaft, Qualifikation, Damen
   'HB EMDA', # Europameisterschaft Frauen
+  'HB OLQ',  #   Olympische Spiele, Qualifikation Männer
 ]
+
 
 BASKETBALL_LEAGUES = [
   'BB AUT',  # Österreich Basketball Superliga
@@ -118,6 +127,7 @@ MORE_LEAGUES = [
   'VB EM H',  # Volleyball Europameisterschaft Herren
   'VB CL',    # Champions League Männer
   'VBCEVCH',  # CEV Cup, Männer
+  'VB AUT',   #  Österreich Austrian Volley League
   ## tennis
   'TEN ATP',  # Tennis ATP
   'TEN WTA',  # Tennis WTA
@@ -167,13 +177,15 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
 
   ## national leagues (women)
   'INT FSD',    # Internationale Freundschaftsspiele, Damen
+  'INT FSF',    # Freundschaftsspiele, Frauen
   'INT D',      # International, Damen
   'EMQDA',      # EM Qualifikation, Damen
+  'EMQFR',      # EM Qualifikation, Frauen
   'U19 DAQ',    # U19 EM Frauen, Qualifikation
   'WM DAM',     # Damen WM 2019 in Frankreich
   'WMQ DA',     # WM Qualifikation Frauen, Europa
   'ALGARVE',    # Algarve Cup
-
+  'UEFANLF',    #  UEFA Nations League, Frauen
 
 
   ## todo/fix: move to clubs leagues (women) - why? why not?
@@ -184,7 +196,8 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'GER DA',     # Deutschland Frauen Bundesliga
   'GER CDA',    # Deutschland DFB Pokal Frauen
   'INTDCYP',    # Zypern Cup (Damen)
- 
+  'CL FR',      #  UEFA Champions League Frauen
+
   ## misc
   'FS',       # Freundschaftsspiele International (Klub)
   'INT CHC',  # International Champions Cup

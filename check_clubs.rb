@@ -10,8 +10,29 @@ countries = SportDb::Import.catalog.countries
 require_relative 'config/programs'
 
 
-## last five
+
+## last twenty-five
 names = %w[
+2024-08b_fri-feb-23
+2024-09a_tue-feb-27
+2024-09b_fri-mar-1
+2024-10a_tue-mar-5
+2024-10b_fri-mar-8
+2024-11a_tue-mar-12
+2024-11b_fri-mar-15
+2024-12a_tue-mar-19
+2024-12b_fri-mar-22
+2024-13a_tue-mar-26
+2024-13b_fri-mar-29
+2024-14a_tue-apr-2
+2024-14b_fri-apr-5
+2024-15a_tue-apr-9
+2024-15b_fri-apr-12
+2024-16a_tue-apr-16
+2024-16b_fri-apr-19
+2024-17a_tue-apr-23
+2024-17b_fri-apr-26
+2024-18a_tue-apr-30
 2024-18b_fri-may-3
 2024-19a_tue-may-7
 2024-19b_fri-may-10
@@ -19,6 +40,8 @@ names = %w[
 2024-20b_fri-may-17
 ]
 pp names
+
+puts "   #{names.size} prog(s)"
 
 
 
@@ -127,6 +150,8 @@ names.each do |name|
                 team = 'Wolverhampton ENG'
               elsif team == 'FC Basel'
                 team = 'FC Basel SUI'
+              elsif team == 'Indep.Chorrera'
+                team = 'Indep.Chorrera PAN'
               else
                 team
               end
