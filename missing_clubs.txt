@@ -14,8 +14,6 @@ League ARG LC (2) - >Argentinien, Ligacup<:
   CA Central Cordoba
 League GRE 1 (1) - >Griechenland Super League<:
   AE Kifisia FC
-League SUI CUP (1) - >Schweiz Cup<:
-  SR Delemont
 League BUL CUP (2) - >Bulgarien Cup<:
   CSKA 1948 Sofia
   FK Hebar Pazardzhi
@@ -28,7 +26,7 @@ League FRA CUP (1) - >Frankreich Coupe de France<:
 League COPA L (2) - >Copa Libertadores<:
   Sportivo Trini, Paraguay (py)
   Dep. Tachira, Venezuela (ve)
-League CONCACAF CL (5) - >CONCACAF Champions Cup<:
+League CONCACAF CL (2) - >CONCACAF Champions Cup<:
   Indep.Chorrera, Panama (pa)
   SV Robinhood, Suriname (sr)
 League TUR 1 (1) - >Türkei Süper Lig<:
@@ -47,27 +45,19 @@ League ITA C1B (4) - >Italien Lega Pro Prima Divisione, Girone B<:
   Sestri Levante
   ASD Torres Calcio
   Lucchese Libertas
-League COPA S (14) - >Copa Sudamericana<:
+League COPA S (12) - >Copa Sudamericana<:
   Real Tomayapo, Bolivia (bo)
   Dep. Garcilaso, Peru (pe)
   AD Tarma, Peru (pe)
-  Dep.Tolima, Colombia (co)
   Evert. V.d.Mar, Chile (cl)
   Un.La Calera, Chile (cl)
   Uni. De Vinto, Bolivia (bo)
   Montev. Wand., Uruguay (uy)
   Sp. Luqueno, Paraguay (py)
-  Alianza Valled, Colombia (co)
   Rayo Zuliano, Venezuela (ve)
   Sp. Ameliano, Paraguay (py)
   CD Tecnico Uni, Ecuador (ec)
   Sportivo Trini, Paraguay (py)
-League EGY 1 (5) - >Ägypten Premier League<:
-  Pharco FC
-  Future FC
-  ZED FC
-  Nat. Bank Egypt
-  El Daklyeh
 League ITA C1C (10) - >Italien, Lega Pro Prima Divisione, Girone C<:
   AZ Picerno
   Messina FC
@@ -112,16 +102,6 @@ League PAR 1 (3) - >Paraguay Primera Division<:
   Sportivo Ameliano
   Tacuary Asuncion
   Sportivo Trinidens
-League COL 2 (7) - >Categoría Primera B<:
-  Tigres FC
-  FC Llaneros
-  Deportes Quindio
-  Real Cartagena FC
-  Inter. de Palmira
-  Atletico FC
-  FC Bogota
-League SCO 1 (1) - >Schottland League One<:
-  Kelty Hearts FC
 League NIRL 2 (5) - >Nordirland IFA Championship<:
   FC Ards
   FC Portadown
@@ -136,21 +116,6 @@ League ECU 1 (7) - >Ecuador Serie A<:
   Barcelona Guaya.
   CD Tecnico Univers
   Libertad Loja
-League COL 1 (3) - >Kolumbien Primera Liga<:
-  Alianza Valledupar
-  Deportes Pereira
-  FC Fortaleza
-League CZE 2 (10) - >Tschechien 2. Liga<:
-  FK Varnsdorf
-  SK Lisen Brno
-  1.SK Prostejov
-  MFK Vyskov
-  AFK Chrudim
-  SK Sigma Olmütz B
-  SK Hanacka Slavia
-  MAS Taborsko
-  AC Sparta Prag B
-  FC Graffin Vlasim
 League CRO 2 (2) - >Kroatien Druga HNL<:
   HNK Orijent 1919
   NK Vukovar 1991
@@ -172,12 +137,6 @@ League PER 1 (4) - >Peru Primera Division<:
   Alianza Atletico
 League BRA PAU (1) - >Brasilien Paulista Serie A1<:
   Novorizontino SP
-League SUI 2 (2) - >Schweiz Challenge League<:
-  FC Stade Nyonnais
-  FC Baden
-League SUI SL (2) - >Schweiz Super League<:
-  Yverdon-Sport
-  Lausanne-Ouchy
 League SWE 1 (1) - >Schweden Allsvenskan<:
   IFK Värnamo
 League NOR 1 (1) - >Norwegen Tippeligaen<:
@@ -251,3 +210,5 @@ League ROU CUP (1) - >Rumänien Cup<:
   Corv. Hunedoara
 League ISL CUP (1) - >Island Cup<:
   IF Vestri
+
+  
