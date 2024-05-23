@@ -5,10 +5,6 @@ League TUR 2 (6) - >Türkei TFF 1. Lig<:
   Eyupspor
   Bandirmaspor
   Erzurumspor FK
-League ISR 1 (3) - >Israel Superliga<:
-  Maccabi Bnei Reine
-  Ashdod SC
-  Mac. Petach Tikva
 League ARG LC (2) - >Argentinien, Ligacup<:
   CA Platense
   CA Central Cordoba
@@ -92,12 +88,6 @@ League BOL 1 (3) - >Bolivien Liga Profesjonal<:
   San Ant. Bulo Bulo
   Real Santa Cruz
   GV San Jose Oruro
-League ISR 2 (5) - >Israel National League<:
-  Maccabi Jaffa
-  Ihud Shefa-AMR
-  Maccabi Herzliya
-  Ironi Tiberias
-  El Fahem
 League PAR 1 (3) - >Paraguay Primera Division<:
   Sportivo Ameliano
   Tacuary Asuncion
@@ -187,9 +177,6 @@ League IRL 1 (1) - >Irland Premier Division<:
   FC Drogheda United
 League POR 1 (1) - >Portugal Primeira Liga<:
   CF Estrela
-League ISR CUP (2) - >Israel Cup<:
-  H. Nof HaGalil
-  Mac. Petach Tikva
 League RSA PL (1) - >Südafrika, Premier League<:
   Richards Bay FC
 League BRA CUP (6) - >Brasilien Cup<:
