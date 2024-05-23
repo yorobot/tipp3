@@ -17,6 +17,10 @@ datasets = ['ch',  # switzerland
             'co',  # columbia 
             'eg',  # egypt
             'il',  # isreal
+            'bo',  # bolivia
+            'ec',  # ecuador
+            'py',  # paraguay
+            'fr',  # france
           ]
 
 
@@ -48,14 +52,14 @@ datasets.each do |code|
     end
 
     if m.empty?
-       puts "** !! no match for club -   #{name}"
+       puts "!! #{name}"
        missing_clubs[ name ] += 1
     elsif m.size > 1
-        puts "** !! too many matches (#{m.size}) for club >#{name}<:"
+        puts "!! too many matches (#{m.size}) for club >#{name}<:"
         pp m
         exit 1
       else  # bingo; match
-        print "   OK "
+        print "     OK "
         if name != m[0].name
             print "%-20s => %-20s" % [name, m[0].name] 
         else
