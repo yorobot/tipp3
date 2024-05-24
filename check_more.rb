@@ -21,6 +21,7 @@ datasets = ['ch',  # switzerland
             'ec',  # ecuador
             'py',  # paraguay
             'fr',  # france
+            'tr',  # turkey
           ]
 
 

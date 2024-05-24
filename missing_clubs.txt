@@ -1,27 +1,3 @@
-League TUR 2 (6) - >Türkei TFF 1. Lig<:
-  Sanliurfaspor
-  Manisa FK
-  Bodrumspor
-  Eyupspor
-  Bandirmaspor
-  Erzurumspor FK
-League ARG LC (2) - >Argentinien, Ligacup<:
-  CA Platense
-  CA Central Cordoba
-League GRE 1 (1) - >Griechenland Super League<:
-  AE Kifisia FC
-League BUL CUP (2) - >Bulgarien Cup<:
-  CSKA 1948 Sofia
-  FK Hebar Pazardzhi
-League CYP CUP (1) - >Zypern Cup<:
-  Aris Limassol
-League TUR CUP (1) - >Türkei Türkiye Kupasi<:
-  Karagümrük
-League CONCACAF CL (2) - >CONCACAF Champions Cup<:
-  Indep.Chorrera, Panama (pa)
-  SV Robinhood, Suriname (sr)
-League TUR 1 (1) - >Türkei Süper Lig<:
-  Karagümrük
 League POR 2 (1) - >Portugal Segunda Liga<:
   FC Vilaverdense
 League ITA C1A (6) - >Italien Lega Pro Prima Divisione, Girone A<:
@@ -36,13 +12,6 @@ League ITA C1B (4) - >Italien Lega Pro Prima Divisione, Girone B<:
   Sestri Levante
   ASD Torres Calcio
   Lucchese Libertas
-League COPA S (6) - >Copa Sudamericana<:
-  Dep. Garcilaso, Peru (pe)
-  AD Tarma, Peru (pe)
-  Evert. V.d.Mar, Chile (cl)
-  Un.La Calera, Chile (cl)
-  Montev. Wand., Uruguay (uy)
-  Rayo Zuliano, Venezuela (ve)
 League ITA C1C (10) - >Italien, Lega Pro Prima Divisione, Girone C<:
   AZ Picerno
   Messina FC
@@ -54,31 +23,11 @@ League ITA C1C (10) - >Italien, Lega Pro Prima Divisione, Girone C<:
   ASD Turris Calcio
   Audace Cerignola
   FC Casertana
-League ROU 1 (1) - >Rumänien Liga 1<:
-  CSM Poli. Iasi
 League ESP 2 (4) - >Spanien Segunda Division<:
   SD Amorebieta
   Andorra FC
   CF Villarreal B
   Racing de Ferrol
-League SERB 1 (3) - >Serbien Meridijan Superliga<:
-  FK Novi Beograd
-  FK Novi Pazar
-  FK Javor Ivanjica
-League SLO 1 (1) - >Slowenien PrvaLiga Telekom<:
-  NK Rogaska
-League NIRL 2 (5) - >Nordirland IFA Championship<:
-  FC Ards
-  FC Portadown
-  Newington FC
-  Knockbreda
-  FC Bangor
-League CRO 2 (2) - >Kroatien Druga HNL<:
-  HNK Orijent 1919
-  NK Vukovar 1991
-League CRC 1 (2) - >Costa Rica Primera División<:
-  Puntarenas FC
-  Sporting San Jose
 League SVK 2 (2) - >Slowakei 1. Liga<:
   Povazska Bystrica
   FK Humenne
@@ -87,80 +36,37 @@ League ROU 2 (4) - >Rumänien, Liga 2<:
   FK Csikszereda
   FC Unirea Slobozia
   CSC 1599 Selimbar
-League PER 1 (4) - >Peru Primera Division<:
-  Dep. Garcilaso
-  Comerciantes Uni
+League PER 1 (1) - >Peru Primera Division<:
   Los Chankas CYC
-  Alianza Atletico
-League BRA PAU (1) - >Brasilien Paulista Serie A1<:
-  Novorizontino SP
 League SWE 1 (1) - >Schweden Allsvenskan<:
   IFK Värnamo
 League NOR 1 (1) - >Norwegen Tippeligaen<:
   Brann Bergen
 League POL 2 (1) - >Polen I Liga<:
   ZKS Stal Rzeszow
-League HUN CUP (2) - >Ungarn Cup<:
-  SC Vasas Budapest
-  Nyiregyhaza FC
 League CYP 1 (4) - >Zypern 1. Division<:
   Othellos Athienou
   AEZ Zakakiou
   Karmiotissa
   Doxa Katokopias
-League BUL 1 (4) - >Bulgarien Premier League<:
-  Beroe Stara Zagora
-  Lokomotive Sofia
-  CSKA 1948 Sofia
-  FK Hebar Pazardzhi
-League GEO 1 (1) - >Georgien Umaglesi Liga<:
-  FC Dinamo Tiflis
 League SWE 2 (3) - >Schweden Superettan<:
   IK Oddevold
   Skövde AIK
   Utsiktens BK
-League SER CUP (1) - >Serbien Cup<:
-  FK Novi Pazar
 League NOR 2 (2) - >Norwegen Adeccoligaen<:
   Egersunds IK
   Levanger FK
-League NIRL 1 (2) - >Nordirland JJB Sports Premiership<:
-  FC Dungannon
-  Loughgall
 League SVK CUP (1) - >Slowakei Cup<:
   Sport Podbrezova
 League BOS CUP (1) - >Bosnien Cup<:
   FK Sloga Doboj
-League BRA 1 (2) - >Brasilien Brasilero Serie A<:
-  EC Juventude RS
-  Atl. Goianense GO
-League SLO CUP (2) - >Slowenien Cup<:
+League SLO CUP (1) - >Slowenien Cup<:
   ND Beltinci
-  NK Rogaska
-League COPA L (1) - >Copa Libertadores<:
-  Dep. Tachira, Venezuela (ve)
-League IRL 1 (1) - >Irland Premier Division<:
-  FC Drogheda United
-League POR 1 (1) - >Portugal Primeira Liga<:
-  CF Estrela
-League RSA PL (1) - >Südafrika, Premier League<:
-  Richards Bay FC
-League BRA CUP (6) - >Brasilien Cup<:
-  Brusque FC SC
-  Atl. Goianense GO
-  Sousa EC PB
-  Ypiranga FC RS
-  EC Juventude RS
-  Amazonas FC AM
 League NOR CUP (1) - >Norwegen Cup<:
   Levanger FK
-League HUN 2 (2) - >Ungarn NB II<:
-  SC Vasas Budapest
-  Haladas Szombat.
 League SWE 3N (1) - >Schweden Div 1 Norra<:
   Vasalunds IF
 League ROU CUP (1) - >Rumänien Cup<:
   Corv. Hunedoara
 League ISL CUP (1) - >Island Cup<:
   IF Vestri
-  
