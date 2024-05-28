@@ -18,6 +18,8 @@ require_relative 'lib/metal'
 ## new prog ids for/in 2024
 =begin
 <select name="oddsetProgramID" id="oddsetProgramID" class="t3-list-filter__filter" style="" data-errordiv="oddsetProgramID_error_message" data-defaultcssclass="t3-list-filter__filter" data-elementdiv="oddsetProgramID" data-inputobject='{"id":"oddsetProgramID","valueType":"comboBox","requiredField":false,"formName":"programDatesForm","errorDiv":"oddsetProgramID_error_message","errorText":"oddsetProgramID_error_message","checkAllErrors":false,"defaultClassName":"t3-list-filter__filter","elementId":"oddsetProgramID","elementDivId":"oddsetProgramID"}' data-events="{&#34;change&#34;:[{&#34;functionName&#34;:&#34;UEP.components.combobox.comboboxChange&#34;,&#34;parameterValues&#34;:[&#34;oddsetProgramID&#34;]}]}">
+
+<option value="1347">24.05.2024 - 27.05.2024</option>
 <option value="1346">21.05.2024 - 23.05.2024</option>
 <option value="1345">17.05.2024 - 20.05.2024</option>
 <option value="1344">14.05.2024 - 16.05.2024</option>
@@ -138,7 +140,7 @@ Webcache.root = '../../cache'  ### c:\sports\cache
 
 
 ## try last five
-prog_ids = (1340..1345).to_a.reverse
+prog_ids = (1342..1347).to_a.reverse
 
 prog_ids.each do |prog_id|
   Tipp3::Metal.program( prog_id )

@@ -197,6 +197,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'GER CDA',    # Deutschland DFB Pokal Frauen
   'INTDCYP',    # Zypern Cup (Damen)
   'CL FR',      #  UEFA Champions League Frauen
+  'ITCOPD',     # Coppa Italia, Frauen
 
   ## misc
   'FS',       # Freundschaftsspiele International (Klub)

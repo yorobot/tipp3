@@ -1,16 +1,16 @@
 require_relative 'boot'
 
 
+countries = SportDb::Import.world.countries
 
 leagues   = SportDb::Import.catalog.leagues
 clubs     = SportDb::Import.catalog.clubs
-countries = SportDb::Import.catalog.countries
 
 
 require_relative 'config/programs'
 
 
-
+=begin
 ## last twenty-five
 names = %w[
 2024-08b_fri-feb-23
@@ -38,6 +38,17 @@ names = %w[
 2024-19b_fri-may-10
 2024-20a_tue-may-14
 2024-20b_fri-may-17
+]
+pp names
+=end
+
+## last five
+names = %w[
+2024-19b_fri-may-10
+2024-20a_tue-may-14
+2024-20b_fri-may-17
+2024-21a_tue-may-21
+2024-21b_fri-may-24
 ]
 pp names
 
