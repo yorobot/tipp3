@@ -86,6 +86,7 @@ BASKETBALL_LEAGUES = [
   'BB ITA',  # Italien A1
   'BB FRA',  # Frankreich Pro A
   'BB POR',  # Portugal, LPB
+  'BB GRE',  # Griechenland A1
   'BB WM',   # FIBA Weltmeisterschaft
   'BB EMQ',  # Europameisterschaft, Qualifikation
   'BB EL',   # Euroleague

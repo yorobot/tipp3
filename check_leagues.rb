@@ -47,13 +47,18 @@ pp names
 =end
 
 
-## last five
-names = %w[
+=begin
 2024-19b_fri-may-10
 2024-20a_tue-may-14
 2024-20b_fri-may-17
 2024-21a_tue-may-21
 2024-21b_fri-may-24
+=end
+
+## last two
+names = %w[
+  2024-22a_tue-may-28
+  2024-22b_fri-may-31
 ]
 pp names
 

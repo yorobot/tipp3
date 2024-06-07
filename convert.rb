@@ -47,7 +47,7 @@ Webcache.root = '../../cache'  ### c:\sports\cache
 ## try last five
 ## prog_ids = (1340..1345).to_a.reverse
 
-prog_ids = (1244..1347).to_a.reverse
+prog_ids = (1244..1347+2).to_a.reverse
 pp prog_ids
 
 # prog_ids = [1340]
