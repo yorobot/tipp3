@@ -44,11 +44,14 @@ end
 Webcache.root = '../../cache'  ### c:\sports\cache
 
 
-## try last five
-## prog_ids = (1340..1345).to_a.reverse
 
-prog_ids = (1244..1347+2).to_a.reverse
+
+prog_ids = (1342..1347+
+                     2+   ## week 22a+b  - 1348+1349 
+                     2    ## week 23a+b  - 1350+1351
+            ).to_a.reverse
 pp prog_ids
+
 
 # prog_ids = [1340]
 

@@ -3,8 +3,15 @@
 #  tipp3 (oddset) program ids
 #    cut-n-paste from results page (source)
 
+##
+## see
+##  https://www.tipp3.at/sportwetten/sportwetten-classic-ergebnisse
+    
 
 id,  date
+
+1351, 07.06.2024-10.06.2024
+1350, 04.06.2024-06.06.2024
 
 1349, 31.05.2024-03.06.2024
 1348, 28.05.2024-30.05.2024

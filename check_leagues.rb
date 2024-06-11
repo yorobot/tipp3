@@ -56,11 +56,14 @@ pp names
 =end
 
 ## last two
+  # 2024-22a_tue-may-28
+  # 2024-22b_fri-may-31
 names = %w[
-  2024-22a_tue-may-28
-  2024-22b_fri-may-31
+  2024-23a_tue-jun-4
+  2024-23b_fri-jun-7
 ]
 pp names
+
 
 
 puts "   #{names.size} prog(s)"
