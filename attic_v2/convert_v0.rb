@@ -3,36 +3,6 @@ require_relative 'lib/metal'
 
 require_relative 'config/programs'
 
-
-
-def csv_encode( values )
-  ## quote values that incl. a comma
-  values.map do |value|
-    if value.index(',')
-      puts "** rec with field with comma:"
-      pp values
-      %Q{"#{value}"}
-    else
-      value
-    end
-  end.join( ',' )
-end
-
-def save_tipp3( path, rows )
-  headers = ['Num','Date', 'Time', 'League', 'Team 1', 'Score', 'Team 2', 'League Name']
-  File.open( path, 'w:utf-8' ) do |f|
-    f.write headers.join( ',' )
-    f.write "\n"
-    rows.each do |row|
-      f.write csv_encode( row.values )
-      f.write "\n"
-    end
-  end
-end
-
-
-
-
 # prog_ids = (888..984).to_a.reverse.take(6)
 # prog_ids = (888..984).to_a.reverse
 prog_ids = PROGRAMS_BY_ID.keys

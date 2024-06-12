@@ -56,8 +56,8 @@ pp names
 # 2024-22b_fri-may-31
 
 names = %w[
-  2024-23a_tue-jun-4
-  2024-23b_fri-jun-7
+  2024-06-04_W23-Tue_3d
+  2024-06-07_W23-Fri_4d
 ]
 pp names
 
