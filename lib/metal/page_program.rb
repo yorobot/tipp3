@@ -135,6 +135,19 @@ end
 ##   28.05.2024 - 30.05.2024  =>  2024-05-28_W22-Tue_3d
 ##   31.05.2024 - 03.06.2024  =>  2024-05-31_W22-Fri_4d
 ##   04.06.2024 - 06.06.2024  =>  2024-06-04_W23-Tue_3d
+##
+## renamed (was - fixing outliers with new generic scheme - examples before/after):  
+##  datasets_v1/2023-51b_fri-dec-22:csv -> datasets/2023-12-22_W51-Fri_5d.csv
+##     is (double) 51B + 52A in real world??
+##  datasets_v1/2023-52b_wed-dec-27.csv -> datasets/2023-12-27_W52-Wed_7d.csv
+##     is (double) 52B + 01A in real world or such??
+##  datasets_v1/2024-01b_wed-jan-3.csv -> datasets/2024-01-03_W01-Wed_6d.csv
+##     is (double) 01B + 02A in reald world or such??
+##
+##  todo:
+##  add known real world examples here with date and progam names/shorthands:
+##  
+
 
 
 def program_basename

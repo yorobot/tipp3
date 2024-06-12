@@ -39,11 +39,18 @@ end
 Webcache.root = '../../cache'  ### c:\sports\cache
 
 
+
+## note: only works starting no. 1244 
+##   (before the select options prog id/dates are missing!!) 
+## prog_ids = (1244..1347).to_a.reverse
+
+
 ## try last five
 prog_ids = (1342..1347+
                      2+   ## week 22a+b  - 1348+1349 
                      2    ## week 23a+b  - 1350+1351
             ).to_a.reverse
+
 
 prog_ids.each do |prog_id|
   prog = Tipp3::Page::Program.get( prog_id )
