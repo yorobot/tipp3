@@ -2,7 +2,7 @@
 module Tipp3
 class Page
 
-def self.from_file( path )
+def self.from_file( path )      ## change to self.read( path ) - why? why not?
   html = File.open( path, 'r:utf-8' ) {|f| f.read }
   new( html )
 end

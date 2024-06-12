@@ -138,15 +138,16 @@ end
 ##
 ## renamed (was - fixing outliers with new generic scheme - examples before/after):  
 ##  datasets_v1/2023-51b_fri-dec-22:csv -> datasets/2023-12-22_W51-Fri_5d.csv
-##     is (double) 51B + 52A in real world??
+##     is (double ??) 51B + 52A in real world??
 ##  datasets_v1/2023-52b_wed-dec-27.csv -> datasets/2023-12-27_W52-Wed_7d.csv
-##     is (double) 52B + 01A in real world or such??
+##     is (double ??) 52B + 01A in real world or such??
 ##  datasets_v1/2024-01b_wed-jan-3.csv -> datasets/2024-01-03_W01-Wed_6d.csv
-##     is (double) 01B + 02A in reald world or such??
+##     is (double ??) 01B + 02A in reald world or such??
+##  assume double if duration is 7 days (7d)
 ##
 ##  todo:
 ##  add known real world examples here with date and progam names/shorthands:
-##  
+##    see test_basenames script
 
 
 
@@ -223,7 +224,7 @@ el1 = el.css( 'div.t3-list-entry__date' )[0]
 assert( el1, "no date found" )
 # assert( el2, "no time found" )
 
-date = el1.text.strip
+date = squish( el1.text )
 # time = el2.text.strip
 
 
@@ -243,9 +244,8 @@ date = el1.text.strip
     assert( el1, "no league name short found" )
     assert( el2, "no league name long found" )
 
-    liga       = el1.text.strip
-    liga_title = el2.text.strip
-    liga_title = liga_title.gsub( /[ ]+/, ' ' ).strip
+    liga       = squish( el1.text )
+    liga_title = squish( el2.text )
 
                       
     el = tr.css( 'div.t3-list-entry__players' )[0]
@@ -258,8 +258,7 @@ date = el1.text.strip
     assert( els && els.size==2, "no players found or players.size != 2" )
 
     els.each do |el|
-      player = el.text.strip
-      player = player.gsub( /[ ]+/, ' ' ).strip
+      player = squish( el.text )
 
       players << player
     end
@@ -267,7 +266,7 @@ date = el1.text.strip
 
     el  = tr.css( 'div.t3-list-entry__result' )[0]
     assert( el, "no result found" )
-    score = el.text.strip
+    score = squish( el.text )
 
 
     puts "#{i+1} | >#{date}<  >#{liga}< >#{liga_title}< >#{players[0]}< >#{players[1]}< >#{score}<"
