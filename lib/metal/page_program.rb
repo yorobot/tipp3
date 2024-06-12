@@ -23,14 +23,133 @@ def self.clean_html( html )
 end
 
 
-def self.from_cache( id )
-  url  = Tipp3::Metal.program_url( id )
+
+
+def self.get( id, cache: true )
+    url = Metal.program_url( id ) 
+    ## check check first
+    if cache && Webcache.cached?( url )
+      ## puts "  reuse local (cached) copy >#{Webcache.url_to_id( url )}<"
+    else
+      Metal.get( url )
+    end
+
+    from_cache( id )  ## change id to url - why? why not?
+end
+
+
+
+def self.from_cache( id )  ## change id to url - why? why not?
+  url  = Metal.program_url( id )
   html = Webcache.read( url )
   html = clean_html( html )
 
-  new( html )
+  new( html, id: id )
 end
 
+
+=begin
+<select name="oddsetProgramID" id="oddsetProgramID">
+  <option value="1346" selected="selected">21.05.2024 - 23.05.2024</option>
+  ...
+=end
+
+def initialize( html, id: )
+  super( html )
+  # note: assume id is integer
+
+  ## assert progam_id is the same   - why? why not?
+  ##  option value, text
+  @program_id  = program_meta[0]
+
+  assert( @program_id == id,
+          "program id NOT matching - expected #{id} but got #{@program_id})" ) 
+end
+
+def program_id()     program_meta[0]; end
+def program_dates()  _parse_dates(program_meta[1] ); end 
+
+def program_meta   ## use program_selected or such - why? why not?
+  @program_meta ||= begin
+
+    ## try to get selected program id text - why? why not?
+    el = doc.css( 'select#oddsetProgramID' ).first
+    assert( el, 'no select#oddsetProgramID found ' )
+
+    opts = el.css( 'option[selected]' )
+    ## pp opts
+    ## todo - assert one el returned
+
+  
+    ## return value and text e.g.
+    ##    1350, 04.06.2024 - 06.06.2024
+    ##    etc. 
+    ##   note - convert program id to integer number here!!!!
+    [squish( opts[0]['value'] ).to_i(10),
+     squish( opts[0].text ) 
+    ]
+    end
+end
+
+def _parse_dates( str )   ## use/rename to parse_prog_dates - why? why not?
+  # e.g "07.05.2024 - 09.05.2024"
+  if str =~ /([0-9]{2})\.
+             ([0-9]{2})\.
+             ([0-9]{4})
+             [ ]*-[ ]*
+             ([0-9]{2})\.
+             ([0-9]{2})\.
+             ([0-9]{4})
+            /x
+    [Date.strptime( "#{$3}/#{$2}/#{$1}", '%Y/%m/%d' ),  # start_date
+     Date.strptime( "#{$6}/#{$5}/#{$4}", '%Y/%m/%d' )   # end_date
+    ]
+  else
+    puts "!! ERROR - unknown date format in program id/meta; sorry"
+    puts str
+    exit 1
+  end
+end
+
+###
+#  helper - generate a file basename via dates
+#             that auto sorts
+#
+# e.g.  2024-12-03_W44-Tue_3d
+##  use W01 or W1 ??
+##
+##  plus add 3d  (for duration) 
+##
+## ## note: use calendar year (e.g. date.cwyear) ???
+##   (e.g. 2019/12/30 => 2020/W01!)
+##
+##  note - for now do NOT use a/b  for (tue/fri)
+##         as some programs are doubles? or start on Wed or such!!!!
+##         ## commercial week (+ commercial year) should map to tipp3 program id
+##             in most (standard/vanilla) cases
+##
+##   07.05.2024 - 09.05.2024  =>  2024-05-07_W19-Tue_3d
+##   10.05.2024 - 13.05.2024  =>  2024-05-10_W19-Fri_4d
+##   14.05.2024 - 16.05.2024  =>  2024-05-14_W20-Tue_3d
+##   17.05.2024 - 20.05.2024  =>  2024-05-17_W20-Fri_4d
+##   28.05.2024 - 30.05.2024  =>  2024-05-28_W22-Tue_3d
+##   31.05.2024 - 03.06.2024  =>  2024-05-31_W22-Fri_4d
+##   04.06.2024 - 06.06.2024  =>  2024-06-04_W23-Tue_3d
+
+
+def program_basename
+   start_date, end_date = program_dates
+
+   days  =   end_date - start_date
+
+   buf = String.new
+   buf <<  start_date.strftime('%Y-%m-%d')
+   buf <<  '_W%02d'  % start_date.cweek
+   buf <<  start_date.strftime( '-%a' )
+   buf <<  '_%dd' % (days+1)
+
+   buf
+end
 
 
 def matches
@@ -64,6 +183,28 @@ def matches
 
 el  = tr.css( 'div.t3-list-entry__datetime' )[0]    ## first
 assert( el, "no datetime found" )
+
+
+#####
+#   use embedded timestamp (with leagueid) in
+#    data-sort-starttime  ??? 
+
+=begin
+## datetime_sort
+## data-sort-starttime="17174916000000000030103
+sort = el['data-sort-starttime']
+## split - get first ten digits for date
+ts       = sort[0,10]
+leagueid = sort[10..-1]
+pp  [ts,
+     Time.at(ts.to_i(10)),
+     Time.at(ts.to_i(10)).utc,   ## try utc 
+     leagueid]
+
+assert( ts+leagueid == sort, 'startime split not working?')
+=end
+
+
 el1 = el.css( 'div.t3-list-entry__date' )[0]
 # el2 = el.css( 'div.t3-list-entry__time' )[0]
 assert( el1, "no date found" )

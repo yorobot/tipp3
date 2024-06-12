@@ -21,8 +21,11 @@ class Metal
   end
 
 
+  
   ##################
   #  helpers
+
+  ###  change rename to download_page( url ) - why? why not?
   def self.get( url )  ## get & record/save to cache
     response = Webget.page( url )  ## fetch (and cache) html page (via HTTP GET)
 
