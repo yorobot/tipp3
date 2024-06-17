@@ -143,8 +143,26 @@ names.each do |name|
            ##                       e.g. Cardiff City
            ##                    france      add monaco
            ##                    switzerland add lichtenstein
-           club_queries << [team1, league.country]
-           club_queries << [team2, league.country]
+
+           country_keys = []
+           country_keys << league.country.key
+           ## check for 2nd countries for known leagues 
+            ## (re)try with second country - quick hacks for known leagues
+            case league.country.key
+            when 'eng' then country_keys << 'wal' 
+            when 'ie'  then country_keys << 'nir'   
+            when 'fr'  then country_keys << 'mc' 
+            when 'es'  then country_keys << 'ad' 
+            when 'ch'  then country_keys << 'li' 
+            when 'us'  then country_keys << 'ca'
+            end 
+
+            ## use single ("unwrapped") item for one country 
+            ##    otherwise use array
+            country =  country_keys.size == 1 ? country_keys[0] : country_keys
+
+           club_queries << [team1, country]
+           club_queries << [team2, country]
         else  ## assume int'l tournament
            ##  split name into club name and country e.g.
            ##    LASK Linz AUT    =>  LASK Linz,   AUT
@@ -203,16 +221,6 @@ names.each do |name|
           country = q[1]
 
           m = clubs.match_by( name: name, country: country )
-
-          if m.empty? && league.national?
-            ## (re)try with second country - quick hacks for known leagues
-            m = clubs.match_by( name: name, country: countries['wal'])  if country.key == 'eng'
-            m = clubs.match_by( name: name, country: countries['nir'])  if country.key == 'ie'
-            m = clubs.match_by( name: name, country: countries['mc'])   if country.key == 'fr'
-            m = clubs.match_by( name: name, country: countries['li'])   if country.key == 'ch'
-            m = clubs.match_by( name: name, country: countries['ca'])   if country.key == 'us'
-            m = clubs.match_by( name: name, country: countries['ad'])   if country.key == 'es'
-          end
 
           if m.empty?
              puts "** !!WARN!! no match for club <#{name}>:"
