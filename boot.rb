@@ -14,3 +14,6 @@ puts "  #{CatalogDb::Metal::Country.count} countries"
 puts "  #{CatalogDb::Metal::Club.count} clubs"
 puts "  #{CatalogDb::Metal::NationalTeam.count} national teams"
 puts "  #{CatalogDb::Metal::League.count} leagues"
+
+
+require 'cocos'

@@ -58,9 +58,11 @@ pp names
 ## last two
   # 2024-22a_tue-may-28
   # 2024-22b_fri-may-31
+  # 2024-06-04_W23-Tue_3d
+  # 2024-06-07_W23-Fri_4d
 names = %w[
-  2024-06-04_W23-Tue_3d
-  2024-06-07_W23-Fri_4d
+  2024-06-11_W24-Tue_3d
+  2024-06-14_W24-Fri_4d
 ]
 pp names
 
@@ -71,7 +73,6 @@ puts "   #{names.size} prog(s)"
 
 MORE_EXCLUDES = [
    'ITACRPO',  #  12  ITACRPO  Italien Serie C, Relegations Playoff
-   'SUI 3',    #   1  SUI 3    Schweiz, 1, Liga Promotion
 ]
 
 

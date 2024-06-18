@@ -157,6 +157,7 @@ MORE_LEAGUES = [
 EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with national (selction) teams for now
   'WM Q',       # WM Qualifikation
   'U20 WM',     # U20 Weltmeisterschaft
+  'EM',         # Europameisterschaft
   'EM Q',       # Europameisterschaft Qualifikation
   'U21 EMQ',    # U21 EM Qualifikation
   'U21 EM',     # U21 Europameisterschaft

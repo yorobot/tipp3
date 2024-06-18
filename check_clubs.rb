@@ -1,10 +1,9 @@
 require_relative 'boot'
 
 
-countries = SportDb::Import.world.countries
-
-leagues   = SportDb::Import.catalog.leagues
-clubs     = SportDb::Import.catalog.clubs
+COUNTRIES = SportDb::Import.world.countries
+LEAGUES   = SportDb::Import.catalog.leagues
+CLUBS     = SportDb::Import.catalog.clubs
 
 
 require_relative 'config/programs'
@@ -54,10 +53,12 @@ pp names
 ## last two
 # 2024-22a_tue-may-28
 # 2024-22b_fri-may-31
+# 2024-06-04_W23-Tue_3d
+# 2024-06-07_W23-Fri_4d
 
 names = %w[
-  2024-06-04_W23-Tue_3d
-  2024-06-07_W23-Fri_4d
+  2024-06-11_W24-Tue_3d
+  2024-06-14_W24-Fri_4d
 ]
 pp names
 
@@ -68,6 +69,10 @@ puts "   #{names.size} prog(s)"
 
 missing_clubs = {}   ## index by league code
 
+
+##
+# fix - fix - fix
+##   check - extra/alternate country code added upstream!!!!
 
 ## extra country three-letter code mappings (tipp3 to fifa code)
 EXTRA_COUNTRY_MAPPINGS = {
@@ -82,7 +87,6 @@ league_names = {}   ## lookup league name by league code
 
 MORE_EXCLUDES = [
    'ITACRPO',  #  12  ITACRPO  Italien Serie C, Relegations Playoff
-   'SUI 3',    #   1  SUI 3    Schweiz, 1, Liga Promotion
 ]
 
 
@@ -120,7 +124,7 @@ names.each do |name|
        next if ambiguous_teams.include?( team1 ) || ambiguous_teams.include?( team2 )
 
 
-       m = leagues.match( league_code )
+       m = LEAGUES.match( league_code )
        if m.size == 1
          league = m[0]
        else
@@ -144,22 +148,22 @@ names.each do |name|
            ##                    france      add monaco
            ##                    switzerland add lichtenstein
 
-           country_keys = []
-           country_keys << league.country.key
+           countries = []
+           countries << league.country
            ## check for 2nd countries for known leagues 
             ## (re)try with second country - quick hacks for known leagues
             case league.country.key
-            when 'eng' then country_keys << 'wal' 
-            when 'ie'  then country_keys << 'nir'   
-            when 'fr'  then country_keys << 'mc' 
-            when 'es'  then country_keys << 'ad' 
-            when 'ch'  then country_keys << 'li' 
-            when 'us'  then country_keys << 'ca'
+            when 'eng' then countries << COUNTRIES['wal'] 
+            when 'ie'  then countries << COUNTRIES['nir']   
+            when 'fr'  then countries << COUNTRIES['mc'] 
+            when 'es'  then countries << COUNTRIES['ad'] 
+            when 'ch'  then countries << COUNTRIES['li'] 
+            when 'us'  then countries << COUNTRIES['ca']
             end 
 
             ## use single ("unwrapped") item for one country 
             ##    otherwise use array
-            country =  country_keys.size == 1 ? country_keys[0] : country_keys
+            country =  countries.size == 1 ? countries[0] : countries
 
            club_queries << [team1, country]
            club_queries << [team2, country]
@@ -200,7 +204,7 @@ names.each do |name|
            teams.each do |team|
              if team =~ /^(.+)[ ]+([A-Z]{3})$/
                country_code = EXTRA_COUNTRY_MAPPINGS[$2] || $2   ## check for corrections / (re)mappings first
-               country = countries[ country_code ]
+               country = COUNTRIES[ country_code ]
                if country.nil?
                  puts "** !!! ERROR !!! cannot map country code >#{country_code}<; sorry"
                  pp rec
@@ -220,7 +224,7 @@ names.each do |name|
           name    = q[0]
           country = q[1]
 
-          m = clubs.match_by( name: name, country: country )
+          m = CLUBS.match_by( name: name, country: country )
 
           if m.empty?
              puts "** !!WARN!! no match for club <#{name}>:"
