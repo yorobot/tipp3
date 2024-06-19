@@ -6,7 +6,8 @@ COUNTRIES = SportDb::Import.world.countries
 CLUBS     = SportDb::Import.catalog.clubs
 
 
-datasets = ['ch',  # switzerland 
+datasets = ['ch',  # switzerland +
+            'li',  # lichtenstein
             'cz',  # czech republic 
             'co',  # columbia 
             'eg',  # egypt
@@ -19,35 +20,11 @@ datasets = ['ch',  # switzerland
           ]
 
 
-##
-## add a helper "upstream" e.g.
-##    find_countries_for_league_clubs or such
-##     find_countries_for_league  - why? why not?
-##      returns array of countries OR single country 
-
 
 datasets.each do |code|
   country = COUNTRIES.find_by_code( code )
   pp country
  
-  countries = [] 
-    countries << country
-    ## check for 2nd countries for known leagues 
-     ## (re)try with second country - quick hacks for known leagues
-     case country.key
-     when 'eng' then countries << COUNTRIES['wal'] 
-     when 'ie'  then countries << COUNTRIES['nir']   
-     when 'fr'  then countries << COUNTRIES['mc'] 
-     when 'es'  then countries << COUNTRIES['ad'] 
-     when 'ch'  then countries << COUNTRIES['li'] 
-     when 'us'  then countries << COUNTRIES['ca']
-     end 
-
-     ## use single ("unwrapped") item for one country 
-     ##    otherwise use array
-     country =  countries.size == 1 ? countries[0] : countries
-
-
      txt = read_data( "more_clubs/#{code}.txt" )
      puts "   #{txt.size} record(s)"
   ###

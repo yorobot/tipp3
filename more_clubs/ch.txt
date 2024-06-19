@@ -23,7 +23,6 @@ FC Baden
 ## challenge league
 FC Sion
 FC Thun Berner Oberland
-FC Vaduz                   # in Liechtenstein !!!!
 Neuchâtel Xamax FCS
 FC Wil 1900
 FC Aarau

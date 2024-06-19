@@ -9,53 +9,6 @@ CLUBS     = SportDb::Import.catalog.clubs
 require_relative 'config/programs'
 
 
-=begin
-## last twenty-five
-names = %w[
-2024-08b_fri-feb-23
-2024-09a_tue-feb-27
-2024-09b_fri-mar-1
-2024-10a_tue-mar-5
-2024-10b_fri-mar-8
-2024-11a_tue-mar-12
-2024-11b_fri-mar-15
-2024-12a_tue-mar-19
-2024-12b_fri-mar-22
-2024-13a_tue-mar-26
-2024-13b_fri-mar-29
-2024-14a_tue-apr-2
-2024-14b_fri-apr-5
-2024-15a_tue-apr-9
-2024-15b_fri-apr-12
-2024-16a_tue-apr-16
-2024-16b_fri-apr-19
-2024-17a_tue-apr-23
-2024-17b_fri-apr-26
-2024-18a_tue-apr-30
-2024-18b_fri-may-3
-2024-19a_tue-may-7
-2024-19b_fri-may-10
-2024-20a_tue-may-14
-2024-20b_fri-may-17
-]
-pp names
-=end
-
-=begin
-2024-19b_fri-may-10
-2024-20a_tue-may-14
-2024-20b_fri-may-17
-2024-21a_tue-may-21
-2024-21b_fri-may-24
-=end
-
-
-## last two
-# 2024-22a_tue-may-28
-# 2024-22b_fri-may-31
-# 2024-06-04_W23-Tue_3d
-# 2024-06-07_W23-Fri_4d
-
 names = %w[
   2024-06-11_W24-Tue_3d
   2024-06-14_W24-Fri_4d
@@ -125,48 +78,25 @@ names.each do |name|
 
 
        m = LEAGUES.match( league_code )
-       if m.size == 1
-         league = m[0]
-       else
-         if m.size == 0
-          puts "** !!ERROR!! no match for league >#{league_code}<:"
-         else
-          puts "** !!ERROR!! to many matches for league >#{league_code}<:"
-         end
-         pp rec
-         exit 1
-       end
+       league = if m.size == 1
+                  m[0]
+                else
+                  if m.size == 0
+                    puts "** !!ERROR!! no match for league >#{league_code}<:"
+                  else
+                   puts "** !!ERROR!! to many matches for league >#{league_code}<:"
+                  end
+                  pp rec
+                  exit 1
+                end
 
 
         ## try matching clubs
         club_queries = []
         if league.national?
-           ## todo/fix: hack - use a quick hack for now - why? why not?
-           ##   todo/fix: allow more than one country in match_by !!!
-           ## for league country england     add wales
-           ##                       e.g. Cardiff City
-           ##                    france      add monaco
-           ##                    switzerland add lichtenstein
-
-           countries = []
-           countries << league.country
-           ## check for 2nd countries for known leagues 
-            ## (re)try with second country - quick hacks for known leagues
-            case league.country.key
-            when 'eng' then countries << COUNTRIES['wal'] 
-            when 'ie'  then countries << COUNTRIES['nir']   
-            when 'fr'  then countries << COUNTRIES['mc'] 
-            when 'es'  then countries << COUNTRIES['ad'] 
-            when 'ch'  then countries << COUNTRIES['li'] 
-            when 'us'  then countries << COUNTRIES['ca']
-            end 
-
-            ## use single ("unwrapped") item for one country 
-            ##    otherwise use array
-            country =  countries.size == 1 ? countries[0] : countries
-
-           club_queries << [team1, country]
-           club_queries << [team2, country]
+           ## query by (national club) league
+           club_queries << [team1, { league: league }]
+           club_queries << [team2, { league: league }]
         else  ## assume int'l tournament
            ##  split name into club name and country e.g.
            ##    LASK Linz AUT    =>  LASK Linz,   AUT
@@ -210,7 +140,8 @@ names.each do |name|
                  pp rec
                  exit 1
                end
-               club_queries << [$1, country]
+               ## query by country
+               club_queries << [$1, { country: country }]
              else
                puts "** !!! ERROR !!! three-letter country code missing >#{team}<; sorry"
                pp rec
@@ -221,10 +152,10 @@ names.each do |name|
         end
 
         club_queries.each do |q|
-          name    = q[0]
-          country = q[1]
+          name     = q[0]
+          kwargs   = q[1]   ## e.g. by league or country
 
-          m = CLUBS.match_by( name: name, country: country )
+          m = CLUBS.match_by( name: name, **kwargs )
 
           if m.empty?
              puts "** !!WARN!! no match for club <#{name}>:"
