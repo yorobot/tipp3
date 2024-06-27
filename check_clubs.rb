@@ -10,8 +10,13 @@ require_relative 'config/programs'
 
 
 names = %w[
+  2024-06-04_W23-Tue_3d
+  2024-06-07_W23-Fri_4d
   2024-06-11_W24-Tue_3d
   2024-06-14_W24-Fri_4d
+
+  2024-06-18_W25-Tue_3d
+  2024-06-21_W25-Fri_4d
 ]
 pp names
 

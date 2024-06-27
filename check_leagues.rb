@@ -14,55 +14,15 @@ require_relative 'config/programs'
 leagues = {}    ## track league usage & names
 
 
-=begin
-## last twenty-five
-names = %w[
-2024-08b_fri-feb-23
-2024-09a_tue-feb-27
-2024-09b_fri-mar-1
-2024-10a_tue-mar-5
-2024-10b_fri-mar-8
-2024-11a_tue-mar-12
-2024-11b_fri-mar-15
-2024-12a_tue-mar-19
-2024-12b_fri-mar-22
-2024-13a_tue-mar-26
-2024-13b_fri-mar-29
-2024-14a_tue-apr-2
-2024-14b_fri-apr-5
-2024-15a_tue-apr-9
-2024-15b_fri-apr-12
-2024-16a_tue-apr-16
-2024-16b_fri-apr-19
-2024-17a_tue-apr-23
-2024-17b_fri-apr-26
-2024-18a_tue-apr-30
-2024-18b_fri-may-3
-2024-19a_tue-may-7
-2024-19b_fri-may-10
-2024-20a_tue-may-14
-2024-20b_fri-may-17
-]
-pp names
-=end
-
-
-=begin
-2024-19b_fri-may-10
-2024-20a_tue-may-14
-2024-20b_fri-may-17
-2024-21a_tue-may-21
-2024-21b_fri-may-24
-=end
 
 ## last two
-  # 2024-22a_tue-may-28
-  # 2024-22b_fri-may-31
   # 2024-06-04_W23-Tue_3d
   # 2024-06-07_W23-Fri_4d
+  # 2024-06-11_W24-Tue_3d
+  # 2024-06-14_W24-Fri_4d
 names = %w[
-  2024-06-11_W24-Tue_3d
-  2024-06-14_W24-Fri_4d
+  2024-06-18_W25-Tue_3d
+  2024-06-21_W25-Fri_4d
 ]
 pp names
 
