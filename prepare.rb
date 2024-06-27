@@ -54,8 +54,9 @@ prog_ids = (1342..1347+
             ).to_a.reverse
 
 
+## do NOT cache (use cache: false)
 prog_ids.each do |prog_id|
-  prog = Tipp3::Page::Program.get( prog_id )
+  prog = Tipp3::Page::Program.get( prog_id, cache: false )
   puts "==> prog no.#{prog_id}..."
   puts prog.title
   pp prog.program_meta
