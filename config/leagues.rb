@@ -2,11 +2,16 @@
 EXTRA_LEAGUE_MAPPINGS = {
   'ENG 1'  => 'ENG 3',      ## note: ENG 1 is Premier League (level 1) NOT League One (level 3)
   'ENG 2'  => 'ENG 4',      ## note: ENG 2 is Championship (level 2) NOT League Two (level 4)
+
   'CL'     => 'UEFA CL',    ##  how to deal with cl for Chile AND Champions Leauge??
   'CL Q'   => 'UEFA CL Q',
   'EL'     => 'UEFA EL',
-  'CON LG' => 'UEFA ECL',
+  'EL Q'   => 'UEFA EL Q',      # UEFA Europa League, Qualifikation
+  'CON LG'   => 'UEFA CONF',
+  'CON LGQ'  => 'UEFA CONF Q',  # UEFA Conference League Qualifikation
+
   'CONCAC'  => 'CONCACAF CL',
+  'USOPCUP' => 'US CUP',
 
 
   ## 'RL TIR' => 'AUT RL T',   ## or use AUT RLT or AUT RL TIR ???
@@ -55,6 +60,7 @@ HOCKEY_LEAGUES = [
 
 
 HANDBALL_LEAGUES = [
+  'HB OLYH',  # Olympia
   'HB WM',   # Handball WM Herren
   'HB WM Q',  # WM Qualifikation, Männer
   'HB EM',   # Handball Europameisterschaft
@@ -78,6 +84,7 @@ HANDBALL_LEAGUES = [
 
 
 BASKETBALL_LEAGUES = [
+  'BB OLYH',  #  Olympia
   'BB AUT',  # Österreich Basketball Superliga
   'BB AUTC', # Basketball Cup Österreich
   'BBAUTSC', # Österreich, Herren Supercup
@@ -134,6 +141,7 @@ MORE_LEAGUES = [
   'TEN WTA',  # Tennis WTA
   'TEN AUT',  # Austrian Pro, Einzel, Herren
   'ATPWIEN',  # Tennis ATP Wien, Einzel
+  'OLY HE',   #  Olympia Einzel
   ## motorsport
   'F1',       # Formel 1
   ## darts
@@ -155,6 +163,7 @@ MORE_LEAGUES = [
 
 ## national teams and/or women leagues
 EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with national (selction) teams for now
+  'FB OLYH',    #  Olympia, Männer
   'WM Q',       # WM Qualifikation
   'U20 WM',     # U20 Weltmeisterschaft
   'EM',         # Europameisterschaft
@@ -168,6 +177,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'FS U20',     # U20 Freundschaftsspiele
   'AFR CUP',    # Afrika Cup
   'AFR CQ',     # Africa Cup, Qualifikation
+  'COSAFAC',    #  COSAFA Cup
   'GOLF-C',     # Golf Cup in Katar
   'COPA AM',    # Copa America
   'G-CUP',      # Gold Cup
@@ -178,6 +188,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'SUZ CUP',    # AFF Suzuki Cup
 
   ## national leagues (women)
+  'FB OLYF',    # Olympia, Frauen
   'INT FSD',    # Internationale Freundschaftsspiele, Damen
   'INT FSF',    # Freundschaftsspiele, Frauen
   'INT D',      # International, Damen
@@ -203,6 +214,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
 
   ## misc
   'FS',       # Freundschaftsspiele International (Klub)
+  'FS KLUB',  # Klub-Freundschaftsspiele International
   'INT CHC',  # International Champions Cup
   'PL ASIA',  # Premier League Asia Trophy
   'EMR CUP',  # Emirates Cup

@@ -23,6 +23,18 @@ leagues = {}    ## track league usage & names
 names = %w[
   2024-06-18_W25-Tue_3d
   2024-06-21_W25-Fri_4d
+  2024-06-25_W26-Tue_3d
+  2024-06-28_W26-Fri_6d
+  2024-07-04_W27-Thu_4d
+  2024-07-08_W28-Mon_4d
+  2024-07-12_W28-Fri_4d
+  2024-07-16_W29-Tue_3d
+  2024-07-19_W29-Fri_4d
+  2024-07-23_W30-Tue_3d
+  2024-07-26_W30-Fri_4d
+  2024-07-30_W31-Tue_3d
+  2024-08-02_W31-Fri_4d
+  2024-08-06_W32-Tue_3d
 ]
 pp names
 
@@ -59,8 +71,8 @@ end
 
 
 sorted_leagues = leagues.to_a.sort do |l,r|
-  ## sort by 
-  ##   1) counter 
+  ## sort by
+  ##   1) counter
   ##   2) league a-z code
   res = r[1][0] <=> l[1][0]
   res = l[0] <=> r[0]     if res == 0
