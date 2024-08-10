@@ -2,55 +2,55 @@
 require_relative 'lib/metal'
 
 
-###
-# helpers
-#
-#
-## fix - move csv_encode and write_csv upstream for (re)use
-##          to cocos gem!!!!
-
-def csv_encode( values )
-  ## quote values that incl. a comma
-  values.map do |value|
-    if value.index(',')
-      puts "** rec with field with comma:"
-      pp values
-      %Q{"#{value}"}
-    else
-      value
-    end
-  end.join( ',' )
-end
-
-def save_tipp3( path, rows )
-  headers = ['Date', 'League', 'Team 1', 'Score', 'Team 2', 'League Name']
-  File.open( path, 'w:utf-8' ) do |f|
-    f.write headers.join( ',' )
-    f.write "\n"
-    rows.each do |row|
-      f.write csv_encode( row.values )
-      f.write "\n"
-    end
-  end
-end
 
 
 
-Webcache.root = '../../cache'  ### c:\sports\cache
+
+Webcache.root = '/sports/cache'  ### c:\sports\cache
 
 
 
-## note: only works starting no. 1244 
-##   (before the select options prog id/dates are missing!!) 
+## note: only works starting no. 1244
+##   (before the select options prog id/dates are missing!!)
 ## prog_ids = (1244..1347).to_a.reverse
+
+=begin
+<option value="1367">06.08.2024 - 08.08.2024</option>
+<option value="1366">02.08.2024 - 05.08.2024</option>
+<option value="1365">30.07.2024 - 01.08.2024</option>
+<option value="1364">26.07.2024 - 29.07.2024</option>
+<option value="1363">23.07.2024 - 25.07.2024</option>
+<option value="1362">19.07.2024 - 22.07.2024</option>
+<option value="1361">16.07.2024 - 18.07.2024</option>
+<option value="1360">12.07.2024 - 15.07.2024</option>
+<option value="1359">08.07.2024 - 11.07.2024</option>
+<option value="1358">04.07.2024 - 07.07.2024</option>
+<option value="1357">28.06.2024 - 03.07.2024</option>
+<option value="1356">25.06.2024 - 27.06.2024</option>
+<option value="1355">21.06.2024 - 24.06.2024</option>
+<option value="1354">18.06.2024 - 20.06.2024</option>
+<option value="1353">14.06.2024 - 17.06.2024</option>
+<option value="1352">11.06.2024 - 13.06.2024</option>
+<option value="1351">07.06.2024 - 10.06.2024</option>
+<option value="1350">04.06.2024 - 06.06.2024</option>
+<option value="1349">31.05.2024 - 03.06.2024</option>
+<option value="1348">28.05.2024 - 30.05.2024</option>
+<option value="1347">24.05.2024 - 27.05.2024</option>
+<option value="1346">21.05.2024 - 23.05.2024</option>
+<option value="1345">17.05.2024 - 20.05.2024</option>
+<option value="1344">14.05.2024 - 16.05.2024</option>
+<option value="1343">10.05.2024 - 13.05.2024</option>
+<option value="1342">07.05.2024 - 09.05.2024</option>
+<option value="1341">03.05.2024 - 06.05.2024</option>
+<option value="1340">30.04.2024 - 02.05.2024</option>
+<option value="1339">26.04.2024 - 29.04.2024</option>
+<option value="1338">23.04.2024 - 25.04.2024</option>
+<option value="1337">19.04.2024 - 22.04.2024</option>
+=end
 
 
 ## try last five
-prog_ids = (1342..1347+
-                     2+   ## week 22a+b  - 1348+1349 
-                     2+    ## week 23a+b  - 1350+1351
-                     2+     ## week 24a+b
-                     2      ## week 25a+b
+prog_ids = ( 1350..1367
             ).to_a.reverse
 
 
@@ -62,7 +62,7 @@ prog_ids.each do |prog_id|
   pp prog.program_meta
   pp prog.program_dates
   pp prog.program_basename
- 
+
   pp prog.matches[0]
 
 
@@ -73,9 +73,16 @@ prog_ids.each do |prog_id|
     puts "!! #{prog_id} - 120 records expected; got #{rows.size}"
   end
 
-  save_tipp3( "datasets/#{prog.program_basename}.csv", rows )
+  ## save tipp3 to csv
+  path = "datasets/#{prog.program_basename}.csv"
+  headers = ['Date', 'League', 'Team 1', 'Score', 'Team 2', 'League Name']
+
+  ## convert rows from (named) hash to values only
+  rows = rows.map { |row| row.values }
+
+  write_csv( path, rows, headers: headers )
 end
 
 
 
-puts "bye"  
+puts "bye"

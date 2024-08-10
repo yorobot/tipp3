@@ -64,9 +64,9 @@ Date,League,Team 1,Score,Team 2,League Name
 08.05. 18:00,NOR CUP,Valerenga IF,2:2,HamKam,Norwegen Cup
 08.05. 18:00,NOR CUP,Molde FK,4:2,Sarpsborg 08,Norwegen Cup
 08.05. 18:00,BOS CUP,Zrinjski Mostar,1:0,Borac Banja Luka,Bosnien Cup
-08.05. 18:45,CON LG,Club Brügge BEL,1:1,AC Fiorentina ITA,UEFA Europa Conference League
-08.05. 18:45,CON LG,Club Brügge,1:2,AC Fiorentina+1,UEFA Europa Conference League
-08.05. 18:45,CON LG,Club Brügge+1,2:1,AC Fiorentina,UEFA Europa Conference League
+08.05. 18:45,CON LGQ,Club Brügge BEL,1:1,AC Fiorentina ITA,UEFA Conference League Qualifikation
+08.05. 18:45,CON LGQ,Club Brügge,1:2,AC Fiorentina+1,UEFA Conference League Qualifikation
+08.05. 18:45,CON LGQ,Club Brügge+1,2:1,AC Fiorentina,UEFA Conference League Qualifikation
 08.05. 19:00,MLT CUP,Birkirkara FC*,0:0,Sliema Wanderers,Malta FA Trophy
 08.05. 19:00,BB EL,AS Monaco FRA,70:70,Fenerbahce TUR,Euroleague
 08.05. 19:05,NOR CUP,Levanger FK,2:2,Viking FK,Norwegen Cup
@@ -114,8 +114,8 @@ Date,League,Team 1,Score,Team 2,League Name
 09.05. 21:00,EL,Bayer Leverkusen,2:4,AS Roma+2,UEFA Europa League
 09.05. 21:00,EL,Atalanta BC ITA,3:0,Ol. Marseille FRA,UEFA Europa League
 09.05. 21:00,EL,Atalanta Bergamo,3:1,Olymp. Marseille+1,UEFA Europa League
-09.05. 21:00,CON LG,Olympiakos P. GRE,2:0,Aston Villa ENG,UEFA Europa Conference League
-09.05. 21:00,CON LG,Olympiakos Pir.+1,3:0,Aston Villa,UEFA Europa Conference League
+09.05. 21:00,CON LGQ,Olympiakos P. GRE,2:0,Aston Villa ENG,UEFA Conference League Qualifikation
+09.05. 21:00,CON LGQ,Olympiakos Pir.+1,3:0,Aston Villa,UEFA Conference League Qualifikation
 10.05. 00:00,COPA L,Liverpool Mont URU,0:5,SE Palmeiras S BRA,Copa Libertadores
 10.05. 02:00,COPA L,The Strongest BOL,1:0,Estudiantes LP ARG,Copa Libertadores
 10.05. 02:00,COPA L,Colo Colo CHI,0:1,Fluminense RJ BRA,Copa Libertadores

@@ -42,7 +42,7 @@ Date,League,Team 1,Score,Team 2,League Name
 01.05. 15:00,ITA B,Ascoli FC,0:1,Cosenza Calcio,Italien Serie B
 01.05. 15:00,SVK CUP,MFK Ruzomberok*,1:0,FC Spartak Trnava,Slowakei Cup
 01.05. 16:00,BEL 1,KMSK Deinze,2:1,Patro Eisden,Belgien Jupiler Pro League
-01.05. 16:00,NOR CUP,Strömsgodset,4:0,Kristiansund BK,Norwegen Cup
+01.05. 16:00,NOR CUP,Strömsgodset IF,4:0,Kristiansund BK,Norwegen Cup
 01.05. 16:00,NOR CUP,Valerenga IF,0:0,Tromsö IL,Norwegen Cup
 01.05. 16:00,SERB 1,FK Radnicki Nis,2:0,FK Vozdovac,Serbien Meridijan Superliga
 01.05. 16:00,SERB 1,FK Novi Beograd,5:2,Radnik Surdulica,Serbien Meridijan Superliga
@@ -67,7 +67,7 @@ Date,League,Team 1,Score,Team 2,League Name
 01.05. 21:00,CL,Bor. Dortmund GER,1:0,Paris SG FRA,UEFA Champions League
 01.05. 21:00,CL,Borussia Dortmund,1:1,Paris SG+1,UEFA Champions League
 01.05. 21:00,CL,Bor. Dortmund+1,2:0,Paris SG,UEFA Champions League
-01.05. 21:00,BRA CUP,Brusque FC SC,0:1,Atl. Goianense GO,Brasilien Cup
+01.05. 21:00,BRA CUP,Brusque FC SC,0:1,Atletico GO,Brasilien Cup
 01.05. 21:00,BRA CUP,Sampaio Correa FC,0:2,Fluminense RJ,Brasilien Cup
 01.05. 23:00,BRA CUP,Sousa EC PB,1:1,RB Bragantino,Brasilien Cup
 01.05. 23:00,BRA CUP,Ypiranga FC RS,2:1,CA Paranaense,Brasilien Cup
@@ -85,7 +85,7 @@ Date,League,Team 1,Score,Team 2,League Name
 02.05. 17:45,BUL CUP,FK Hebar Pazardzhi,0:5,Ludogorets,Bulgarien Cup
 02.05. 18:00,DEN 2,SönderjyskE,2:1,FC Fredericia,Dänemark 1. Division
 02.05. 18:00,ISR 2,Maccabi Herzliya,1:1,I. Ramat Hasharon,Israel National League
-02.05. 18:00,EGY 1,Future FC,0:0,Talaea El Gaish,Ägypten Premier League
+02.05. 18:00,EGY 1,Modern Sport FC,0:0,Talaea El Gaish,Ägypten Premier League
 02.05. 18:00,EGY 1,El Zamalek,1:0,Nat. Bank Egypt,Ägypten Premier League
 02.05. 18:00,EH TOUR,Finnland*,4:1,Tschechien,Euro Hockey Tour
 02.05. 18:30,SERB 1,Cukaricki Belgrad,2:0,Napredak Krusevac,Serbien Meridijan Superliga
@@ -105,11 +105,11 @@ Date,League,Team 1,Score,Team 2,League Name
 02.05. 21:00,EL,Ol. Marseille FRA,1:1,Atalanta BC ITA,UEFA Europa League
 02.05. 21:00,EL,Olymp. Marseille,1:2,Atalanta Bergamo+1,UEFA Europa League
 02.05. 21:00,EL,Olymp. Marseille+1,2:1,Atalanta Bergamo,UEFA Europa League
-02.05. 21:00,CON LG,AC Fiorentina ITA,3:2,Club Brügge BEL,UEFA Europa Conference League
-02.05. 21:00,CON LG,AC Fiorentina,3:3,Club Brügge+1,UEFA Europa Conference League
-02.05. 21:00,CON LG,Aston Villa ENG,2:4,Olympiakos P. GRE,UEFA Europa Conference League
-02.05. 21:00,CON LG,Aston Villa,2:5,Olympiakos Pir.+1,UEFA Europa Conference League
-02.05. 21:00,CON LG,Aston Villa,2:6,Olympiakos Pir.+2,UEFA Europa Conference League
+02.05. 21:00,CON LGQ,AC Fiorentina ITA,3:2,Club Brügge BEL,UEFA Conference League Qualifikation
+02.05. 21:00,CON LGQ,AC Fiorentina,3:3,Club Brügge+1,UEFA Conference League Qualifikation
+02.05. 21:00,CON LGQ,Aston Villa ENG,2:4,Olympiakos P. GRE,UEFA Conference League Qualifikation
+02.05. 21:00,CON LGQ,Aston Villa,2:5,Olympiakos Pir.+1,UEFA Conference League Qualifikation
+02.05. 21:00,CON LGQ,Aston Villa,2:6,Olympiakos Pir.+2,UEFA Conference League Qualifikation
 03.05. 00:00,BRA CUP,Botafogo FR RJ,1:0,EC Vitoria BA,Brasilien Cup
 03.05. 01:30,BRA CUP,CR Brasil AL,1:0,Ceara SC CE,Brasilien Cup
 03.05. 02:30,BRA CUP,SE Palmeiras SP,2:1,Botafogo FC SP,Brasilien Cup

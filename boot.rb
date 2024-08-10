@@ -1,4 +1,3 @@
-$LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-catalogs/lib' )
 $LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-langs/lib' )
 $LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-structs/lib' )
 $LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-catalogs/lib' )
@@ -9,6 +8,8 @@ $LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-models/lib' )
 require 'sportdb/catalogs'
 
 SportDb::Import.config.catalog_path = '../../sportdb/sport.db/catalog/catalog.db'
+
+
 
 puts "  #{CatalogDb::Metal::Country.count} countries"
 puts "  #{CatalogDb::Metal::Club.count} clubs"
