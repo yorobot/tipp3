@@ -27,61 +27,8 @@ League ISL 2 (7) - >Island 2. Liga<:
   Leiknir Reykjavik
   IF Vestri
   L. Faskrudsfjördur
-League PER 1 (3) - >Peru Primera Division<:
-  FC Carlos Stein
-  Club Cienciano
-  Dep. Binacional
 League ITA CUP (1) - >Italien Coppa Italia<:
   AC Monopoli
-League BEL 2 (2) - >Belgium Tweede Klasse<:
-  MSK Deinze
-  KFC Oosterzonen
-League UEFA EL (45) - >UEFA Europa League<:
-  Ararat-Arm., Armenia (am)
-  B.Podgorica, Montenegro (me)
-  FC Lokomotivi, Georgia (ge)
-  Shk.Tetovo, North Macedonia (mk)
-  FC Sheriff T., Moldova (md)
-  Dinamo Tiflis, Georgia (ge)
-  Desna Tscherni, Ukraine (ua)
-  Dunajska Str., Slovakia (sk)
-  Anorthosis F., Cyprus (cy)
-  K.Kovalivka, Ukraine (ua)
-  FC Qaisar Qys, Kazakhstan (kz)
-  Lok. Plovdiv, Bulgaria (bg)
-  Zalg. Vilnius, Lithuania (lt)
-  Ol. Ljubljana, Slovenia (si)
-  FC Sfintul Gh, Moldova (md)
-  Inter Club DE, Andorra (ad)
-  FK Sileks Kra, North Macedonia (mk)
-  Borac Banja L., Bosnia and Herzegovina (ba)
-  KS Kukesi, Albania (al)
-  FK Topola, Serbia (rs)
-  FC Derry City, Ireland (ie)
-  Ordabassy Sch., Kazakhstan (kz)
-  FC Noah, Armenia (am)
-  Sutj. Niksic, Montenegro (me)
-  Shkupi Skopje, North Macedonia (mk)
-  Sab.Tiflis, Georgia (ge)
-  Zalg. Kaunas, Lithuania (lt)
-  Sumgayit FK, Azerbaijan (az)
-  SC Gjilani, Kosovo (xk)
-  Vikingur Reykj, Iceland (is)
-  Paide Linnam., Estonia (ee)
-  FK Keshla, Azerbaijan (az)
-  Cracovia Krak., Poland (pl)
-  Hafnarfjördur, Iceland (is)
-  Sh. Soligorsk, Belarus (by)
-  FC Sfintul Ghe, Moldova (md)
-  FC Petrocub, Moldova (md)
-  PFC Slavia Sof, Bulgaria (bg)
-  Levadia Tall., Estonia (ee)
-  FK Iskra Danil, Montenegro (me)
-  Tampereen Ilve, Finland (fi)
-  Rigas Fb.Sk, Latvia (lv)
-  FC Pristina, Kosovo (xk)
-  FK Zeta Golubo, Montenegro (me)
-  FC Santa Colom, Andorra (ad)
 League ROU 2 (2) - >Rumänien, Liga 2<:
   FC Unirea 2004 Slo
   Farul Constanta
@@ -97,8 +44,6 @@ League RUS CUP (5) - >Russland Russian Cup<:
   FC Volga Ulyanovsk
   Rodina Moskau
   Chernomorets N.
-League COPA L (1) - >Copa Libertadores<:
-  Defensa y Jus., Argentina (ar)
 League UKR 1 (1) - >Ukraine Premier League<:
   Desna Tschernihiw
 League SERB 1 (10) - >Serbien Meridijan Superliga<:
@@ -116,9 +61,6 @@ League RUS 2 (3) - >Russland 1. Division<:
   Akron Tolyatti
   FC Irtysh Omsk
   FC Dynamo Bryansk
-League ISR 2 (2) - >Israel National League<:
-  Hap.Kfar Shalem
-  Hapoel Iksal Imad
 League POL 2 (9) - >Polen I Liga<:
   KS Widzew Lodz
   Radomiak Radom
@@ -140,11 +82,6 @@ League NOR 3 (3) - >Norwegen 2. Division, avd. 2<:
   FK Arendal
   Odd Grenland 2
   Rosenborg BK 2
-League UEFA CL Q (4) - >UEFA Champions League, Qualifikation<:
-  FC Sheriff T., Moldova (md)
-  FK Sileks Krat, North Macedonia (mk)
-  Dinamo Tiflis, Georgia (ge)
-  B.Podgorica, Montenegro (me)
 League AUS 1 (1) - >Australien Hyundai A-League<:
   Wellington Ph.
 League SWE CUP (10) - >Schweden Cup<:
@@ -162,20 +99,6 @@ League IRL 2 (3) - >Irland First Division<:
   FC Bray Wanderers
   Shamrock Rovers II
   FC Drogheda United
-League JPN 2 (13) - >Japan J.League 2<:
-  JEF Utd Ichihara
-  Kyoto Sanga FC
-  Mito Hollyhock
-  Niigata Albirex
-  Renofa Yamaguchi
-  Giravanz Kitakyush
-  Zweigen Kanazawa
-  Ehime FC
-  Thespakusatsu
-  Machida Zelvia
-  FC Ryukyu
-  Tochigi SC
-  Fagiano Okayama
 League POL CUP (3) - >Polen Cup<:
   Stal Stalowa Wola
   KS Sleza Wroclaw
@@ -209,9 +132,6 @@ League HUN 2 (12) - >Ungarn NB II<:
   Szolnoki Mav FC
   Gyirmot SE
   SC Vasas Budapest
-League SUI CUP (2) - >Schweiz Cup<:
-  FC Bavois
-  Rapperswil-Jona
 League CRO 1 (1) - >Kroatien 1. HNL<:
   HNK Orijent 1919
 League POL 3 (3) - >Polen, II Liga<:
@@ -248,8 +168,6 @@ League CZE 2 (9) - >Tschechien 1. Division<:
   SK Lisen
 League ARM 1 (1) - >Armenien Premier League<:
   FC Pyunik Yerevan
-League ISR CUP (1) - >Israel Cup<:
-  M. Petach Tikva
 League SER CUP (3) - >Serbien Cup<:
   Cukaricki Belgrad
   FK Indija
@@ -539,8 +457,6 @@ League GRE 2 (2) - >Griechenland Super League 2<:
   APO Levadiakos FC
 League IRL LC (1) - >Irland League Cup<:
   Cockhill Celtic
-League CCC CL (1) - >CONCACAF Champions League<:
-  Montreal Impac, United States (us)
 League HUN CUP (2) - >Ungarn Cup<:
   FC Dorogi
   Haladas Szombat.

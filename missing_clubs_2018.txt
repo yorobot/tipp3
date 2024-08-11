@@ -1,22 +1,10 @@
-League ISR 2 (3) - >Israel National League<:
-  Hapoel Marmorek FC
-  Hapoel Iksal Imad
-  Hapoel K. Jerusale
-League NL 2 (1) - >Niederlande Jupiler League<:
-  Jong Ajax Amst.
-League ESP 2 (2) - >Spanien Segunda Division<:
-  Gimn. Tarragona
-  R. Majadahonda
-League KLUB WM (2) - >FIFA Klub WM<:
+League KLUB WM (1) - >FIFA Klub WM<:
   Al Ain, United Arab Emirates (ae)
-  Guadalajara C., Mexico (mx)
 League NL CUP (1) - >Niederlande KNVB Cup<:
   Kozakken Boys
 League GRE CUP (2) - >Griechenland Cup<:
   Panachaiki 1891 FC
   APO Levadiakos FC
-League SUI 2 (1) - >Schweiz Challenge League<:
-  Rapperswil-Jona
 League GRE 1 (1) - >Griechenland Super League<:
   APO Levadiakos FC
 League ENG FA (3) - >England FA Cup<:
@@ -42,8 +30,6 @@ League ITA C1B (5) - >Italien Lega Pro Prima Divisione, Girone B<:
 League NIRL LC (2) - >Nordirland CO-Operative Insurance Cup<:
   FC Dungannon
   FC Ards
-League UEFA CL (1) - >UEFA Champions League<:
-  AS Monaco, France (fr)
 League ITA C1A (9) - >Italien Lega Pro Prima Divisione, Girone A<:
   AC Gozzano
   Pro Piacenza
@@ -54,67 +40,23 @@ League ITA C1A (9) - >Italien Lega Pro Prima Divisione, Girone A<:
   Cuneo
   Lucchese Libertas
   Olbia Calcio
-League COPA S (2) - >Copa Sudamericana<:
-  Atl. Junior, Colombia (co)
-  Ind. Santa Fe, Colombia (co)
-League UEFA EL (2) - >UEFA Europa League<:
-  Ol. Marseille, France (fr)
-  Vorskla Poltaw, Ukraine (ua)
-League BEL CUP (1) - >Belgium Beker van Belgie<:
-  Beerschot Wilrijk
 League FRA 2 (1) - >Frankreich Ligue 2<:
   Red Star FC 93
 League POL CUP (2) - >Polen Cup<:
   Nieciecza KS
   Rozwoj Katowice
-League PAR 1 (3) - >Paraguay Primera Division<:
-  Olimpia Asuncion
-  Guarani Asuncion
-  CA 3 DE Febrero
-League AUT 2 (1) - >Österreich Zweite Liga<:
-  Wack. Innsbruck II
 League SWE CUP (1) - >Schweden Cup<:
   Lunds BK
 League SVK CUP (3) - >Slowakei Cup<:
   Sport Podbrezova
   Lokomotiva Zvolen
   FK Inter Bratislav
-League AUT RLO (3) - >Österreich Regionalliga Ost<:
-  St. Pölten Amat.
-  Marchfeld Donauaue
-  SC Parndorf
 League ARG 1 (1) - >Argentinien Primera Division<:
   Patronato Parana
 League BRA 2 (3) - >Brasilien Brasilero Serie B<:
   EC Juventude RS
   Boa EC MG
   Paysandu SC PA
-League AUT RLW (1) - >Österreich Regionalliga West<:
-  SK Bischofshofen
-League PER 1 (8) - >Peru Primera Division<:
-  Univ. San Martin
-  Universitario Dep.
-  Dep. Municipal
-  Comerciantes Un.
-  Dep. Binacional
-  Sport Boys Assoc.
-  Sport Rosario
-  UTC de Cajamarca
-League COL 1 (4) - >Kolumbien Primera Liga<:
-  CD Once Caldas
-  Leones FC
-  B. Patriotas FC
-  Jaguares Cordoba
-League ESP CUP (9) - >Spanien Copa del Rey<:
-  CD Ebro
-  UE Sant Andreu
-  CF Villanovense
-  Union Mutilvera
-  CD Calahorra
-  La Hoya Lorca CF
-  Ontinyent CF
-  R. Majadahonda
-  Gimn. Tarragona
 League SERB 1 (2) - >Serbien Meridijan Superliga<:
   Cukaricki Belgrad
   FK Rad Belgrad
@@ -123,8 +65,6 @@ League GER CUP (1) - >Deutschland DFB Pokal<:
 League RUS CUP (2) - >Russland Russian Cup<:
   FK Anzhi
   FK Tyumen
-League SUI CUP (1) - >Schweiz Cup<:
-  Rapperswil-Jona
 League CYP 1 (1) - >Zypern 1. Division<:
   Doxa Katokopias
 League SWE 2 (1) - >Schweden Superettan<:

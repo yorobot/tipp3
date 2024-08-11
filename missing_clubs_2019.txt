@@ -3,62 +3,9 @@ League QAT 1 (1) - >Katar, Stars League<:
 League RUS PL (2) - >Russland Premier League<:
   FK Tambow
   FK Anzhi
-League AUT RLO (3) - >Österreich Regionalliga Ost<:
-  Marchfeld Donauaue
-  SC Parndorf
-  St. Pölten Amat.
-League BEL 2 (2) - >Belgium Tweede Klasse<:
-  Beerschot Wilrijk
-  FC Tubize
-League ISR 2 (3) - >Israel National League<:
-  Hapoel K. Jerusale
-  Hapoel Iksal Imad
-  Hapoel Marmorek FC
-League URU 1 (1) - >Uruguay Primera Division<:
-  Atletico Fenix Mon
-League AUT CUP (1) - >Österreich ÖFB Cup<:
-  Marchfeld Donauaue
 League BLR 1 (2) - >Weißrussland Premier League<:
   FC Slutsk
   Energet. BGU Minsk
-League UEFA EL (37) - >UEFA Europa League<:
-  Sutj. Niksic, Montenegro (me)
-  Sab.Tiflis, Georgia (ge)
-  Atromitos Ath., Greece (gr)
-  Dinamo Tiflis, Georgia (ge)
-  Sh. Soligorsk, Belarus (by)
-  FC Sheriff T., Moldova (md)
-  Lok. Plovdiv, Bulgaria (bg)
-  Ararat-Arm., Armenia (am)
-  Shk.Tetovo, North Macedonia (mk)
-  Cukaricki Belg, Serbia (rs)
-  Ordabassy Sch., Kazakhstan (kz)
-  Viitorul Con., Romania (ro)
-  B.Podgorica, Montenegro (me)
-  Honved Budap., Hungary (hu)
-  Partiz.Tirana, Albania (al)
-  FK Gabala, Azerbaijan (az)
-  Dunajska Str., Slovakia (sk)
-  Ol. Ljubljana, Slovenia (si)
-  Ch. Sachkhere, Georgia (ge)
-  FC Santa Colo, Andorra (ad)
-  Pyu. Yerevan, Armenia (am)
-  Tobol Kostanay, Kazakhstan (kz)
-  Gjorce Petrov, North Macedonia (mk)
-  Sabail FK, Azerbaijan (az)
-  Rigas Fb.Sk, Latvia (lv)
-  Levadia Tall., Estonia (ee)
-  Sp. Nisporeni, Moldova (md)
-  Ak.Pandev, North Macedonia (mk)
-  FC Petrocub, Moldova (md)
-  Torp. Kutaisi, Georgia (ge)
-  Zalg. Vilnius, Lithuania (lt)
-  Zalg. Kaunas, Lithuania (lt)
-  Cracovia Krak., Poland (pl)
-  KS Kukesi, Albania (al)
-  FK Zeta Golubo, Montenegro (me)
-  Shkupi Skopje, North Macedonia (mk)
-  FC Pristina, Kosovo (xk)
 League SWE CUP (11) - >Schweden Cup<:
   Lunds BK
   IF Karlstad United
@@ -71,9 +18,6 @@ League SWE CUP (11) - >Schweden Cup<:
   Karlbergs BK
   Hittarps IK
   Eskilsminne IF
-League RL TIR (2) - >Regionalliga Tirol<:
-  SC Imst 1933
-  Zirl
 League DEN CUP (9) - >Dänemark Landspokalturneringen<:
   Marstal/Rise
   Kolding BK
@@ -109,16 +53,6 @@ League ITA CUP (3) - >Italien Coppa Italia<:
   SS Cavese
 League UKR 1 (1) - >Ukraine Premier League<:
   Desna Tschernihiw
-League UEFA CL Q (6) - >UEFA Champions League, Qualifikation<:
-  Sutj. Niksic, Montenegro (me)
-  Sab.Tiflis, Georgia (ge)
-  Shk.Tetovo, North Macedonia (mk)
-  FC Sheriff T., Moldova (md)
-  Partiz.Tirana, Albania (al)
-  FC Santa Colom, Andorra (ad)
-League SUI 2 (2) - >Schweiz Challenge League<:
-  FC Stade Ls Ouchy
-  Rapperswil-Jona
 League ISL 2 (7) - >Island 2. Liga<:
   Vikingur Olafsvik
   UMF Njardvik
@@ -127,34 +61,6 @@ League ISL 2 (7) - >Island 2. Liga<:
   Haukar Hafnarfj.
   Magni
   Afturelding
-League COPA S (13) - >Copa Sudamericana<:
-  Sp. Cristal, Peru (pe)
-  Liverpool Mont, Uruguay (uy)
-  Rionegro Aguil, Colombia (co)
-  Un.La Calera, Chile (cl)
-  Dep.Santani, Paraguay (py)
-  Montev. Wand., Uruguay (uy)
-  Dep.Tolima, Colombia (co)
-  Atletico Nac., Colombia (co)
-  UTC Cajamarca, Peru (pe)
-  Min. Guayana, Venezuela (ve)
-  Guar. Asuncion, Paraguay (py)
-  Defensa y Jus., Argentina (ar)
-  CD Once Caldas, Colombia (co)
-League JPN 2 (13) - >Japan J.League 2<:
-  Zweigen Kanazawa
-  Kyoto Sanga FC
-  Kagoshima United
-  Ehime FC
-  Machida Zelvia
-  Niigata Albirex
-  Fagiano Okayama
-  Mito Hollyhock
-  FC Ryukyu
-  JEF Utd Ichihara
-  Renofa Yamaguchi
-  FC Gifu
-  Tochigi SC
 League SCO LC (6) - >Schottland League Cup<:
   East Kilbride
   FC Albion Rovers
@@ -227,11 +133,6 @@ League NOR CUP (5) - >Norwegen Cup<:
   Alta IF
 League AFC C (1) - >AFC Cup<:
   AL Wehdat JOR, Jordan (jo)
-League ESP 2 (2) - >Spanien Segunda Division<:
-  Gimn. Tarragona
-  R. Majadahonda
-League AUT 2 (1) - >Österreich Zweite Liga<:
-  Wack. Innsbruck II
 League ITA C1A (7) - >Italien Lega Pro Prima Divisione, Girone A<:
   Imolese Calcio
   Viterbo Calcio
@@ -256,8 +157,6 @@ League SLO CUP (1) - >Slowenien Cup<:
   Ol. Ljubljana
 League IRL LC (1) - >Irland League Cup<:
   FC Bray Wanderers
-League BEL 1 (1) - >Belgien Jupiler Pro League<:
-  Beerschot Wilrijk
 League AFC CL (11) - >AFC Champions League<:
   Kawasaki Front, Japan (jp)
   Buriram United, Thailand (th)
@@ -277,27 +176,6 @@ League NIRL 1 (3) - >Nordirland JJB Sports Premiership<:
   FC Cliftonville
   FC Coleraine
   FC Dungannon
-League CZE 2 (8) - >Tschechien 1. Division<:
-  1. SC Znojmo
-  MAS Taborsko
-  FC Graffin Vlasim
-  1.SK Prostejov
-  FK Banik Sokolov
-  FK Fotbal Trinec
-  FK Varnsdorf
-  Pardubice
-League COPA L (11) - >Copa Libertadores<:
-  Rosario Cen., Argentina (ar)
-  Atl. Junior, Colombia (co)
-  UD Concepcion, Chile (cl)
-  Sp. Cristal, Peru (pe)
-  J.Wilstermann, Bolivia (bo)
-  Dep.Tolima, Colombia (co)
-  CA Talleres, Argentina (ar)
-  Atletico Nac., Colombia (co)
-  Ind. Medellin, Colombia (co)
-  Barcelona G., Ecuador (ec)
-  Univ. de Chile, Chile (cl)
 League FRA 3 (11) - >Frankreich National<:
   Cholet
   Villefranche-Beauj
@@ -310,8 +188,6 @@ League FRA 3 (11) - >Frankreich National<:
   Lyon Duchere
   Avranches
   Concarneau
-League AUT RLW (1) - >Österreich Regionalliga West<:
-  SK Bischofshofen
 League EGY 1 (1) - >Ägypten Premier League<:
   Nogoom Mostakbal
 League ITA C1C (8) - >Italien, Lega Pro Prima Divisione, Girone C<:
@@ -325,18 +201,8 @@ League ITA C1C (8) - >Italien, Lega Pro Prima Divisione, Girone C<:
   US Siracusa
 League SERB 1 (1) - >Serbien Meridijan Superliga<:
   Cukaricki Belgrad
-League COL 1 (3) - >Kolumbien Primera Liga<:
-  B. Patriotas FC
-  UM Santa Marta
-  Jaguares Cordoba
-League PAR 1 (3) - >Paraguay Primera Division<:
-  Olimpia Asuncion
-  Nacional Asuncion
-  Guarani Asuncion
 League FRA 2 (1) - >Frankreich Ligue 2<:
   Red Star FC 93
-League AUT RLM (1) - >Österreich Regionalliga Mitte<:
-  SV Lendorf
 League BUL CUP (1) - >Bulgarien Cup<:
   FK Septemvri Sofia
 League SVK CUP (1) - >Slowakei Cup<:
@@ -353,8 +219,6 @@ League GRE 2 (7) - >Griechenland Super League 2<:
   Iraklis 1908 FC
 League ITA C1B (1) - >Italien Lega Pro Prima Divisione, Girone B<:
   SSD Monza 1912
-League NL 2 (1) - >Niederlande Jupiler League<:
-  Jong Ajax Amst.
 League FRA CUP (6) - >Frankreich Coupe de France<:
   AS Vitre
   Croix IC

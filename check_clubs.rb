@@ -142,6 +142,10 @@ names.each do |name|
                 team = 'FC Basel SUI'
               elsif team == 'Indep.Chorrera'
                 team = 'Indep.Chorrera PAN'
+              elsif team == 'KF Malisheva'
+                 team = 'KF Malisheva KOS'  ## kosovo (use kvx??)
+              elsif team == 'Barcelona SC'
+                team = 'Barcelona SC ECU'
               else
                 team
               end
@@ -149,7 +153,9 @@ names.each do |name|
 
 
            teams.each do |team|
-             if team =~ /^(.+)[ ]+([A-Z]{3})$/
+             if team =~ %r{^(.+)[ ]+
+                               ([A-Z]{3})
+                            $}x
                country_code = EXTRA_COUNTRY_MAPPINGS[$2] || $2   ## check for corrections / (re)mappings first
                country = COUNTRIES[ country_code ]
                if country.nil?
@@ -181,7 +187,8 @@ names.each do |name|
              missing_clubs[ league_code ] ||= []
 
              if league.intl?
-               full_name = "#{name}, #{country.name} (#{country.key})"
+              country   = kwargs[:country]
+              full_name = "#{name}, #{country.name} (#{country.key})"
              else   ## just use name for national league
                full_name = "#{name}"
              end
@@ -195,7 +202,7 @@ names.each do |name|
             puts "** !!WARN!! too many matches (#{m.size}) for club <#{name}>:"
             pp m
             pp rec
-            exit 1
+            ## exit 1
           else
             # bingo; match
           end
