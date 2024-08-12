@@ -1,15 +1,6 @@
 require_relative 'boot'
 
 
-countries = SportDb::Import.world.countries
-
-leagues   = SportDb::Import.catalog.leagues
-clubs     = SportDb::Import.catalog.clubs
-
-
-
-require 'cocos'
-
 
 datasets = ['tipp3',
             'footballsquads',
@@ -29,7 +20,7 @@ datasets.each do |code|
 
   txt.each_with_index do |(name,_),i|
 
-    m = leagues.match_by( name: name )
+    m = League.match_by( name: name )
 
     if m.empty?
        puts "!! #{name}"
@@ -41,7 +32,7 @@ datasets.each do |code|
       else  # bingo; match
         print "     OK "
         if name != m[0].name
-            print "%-20s => %-20s" % [name, m[0].name] 
+            print "%-20s => %-20s" % [name, m[0].name]
             print ", #{m[0].country.name}"   unless m[0].intl?
         else
             print name

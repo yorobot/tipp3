@@ -10,11 +10,17 @@ require 'sportdb/catalogs'
 SportDb::Import.config.catalog_path = '../../sportdb/sport.db/catalog/catalog.db'
 
 
+## dump table stats
+CatalogDb::Metal.tables
 
-puts "  #{CatalogDb::Metal::Country.count} countries"
-puts "  #{CatalogDb::Metal::Club.count} clubs"
-puts "  #{CatalogDb::Metal::NationalTeam.count} national teams"
-puts "  #{CatalogDb::Metal::League.count} leagues"
+
+
+League  = Sports::League
+Club    = Sports::Club
+Country = Sports::Country
+## pp League
+## pp Club
+
 
 
 require 'cocos'

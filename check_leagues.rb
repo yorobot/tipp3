@@ -4,10 +4,6 @@
 require_relative 'boot'
 
 
-LEAGUES = SportDb::Import.catalog.leagues
-
-
-
 require_relative 'config/programs'
 
 
@@ -79,7 +75,7 @@ sorted_leagues = leagues.to_a.sort do |l,r|
   res
 end
 
-pp sorted_leagues
+## pp sorted_leagues
 
 
 
@@ -90,10 +86,10 @@ puts "sorted - #{sorted_leagues.size} league(s) in #{names.size} program(s):"
 
 
 sorted_leagues.each do |l|
-  m = LEAGUES.match( l[0] )
+  m = League.match_by( code: l[0] )
   if m.size > 0
     if m.size == 1
-      print "    "
+      print "  OK  "
     else
       ## check for ambigious (multiple) matches too (and warn)
       print " !! ambigious (multiple) matches (#{m.size})"
@@ -102,11 +98,20 @@ sorted_leagues.each do |l|
   else
     print "!!! "
   end
-  puts "   #{'%3s'%l[1][0]} #{'%-8s'%l[0]} #{l[1][1]}"
+  print "   #{'%3s'%l[1][0]} #{'%-8s'%l[0]} #{l[1][1]}"
+
+  if m.size == 1
+     ## print canonicial name too
+     print "   --  #{m[0].name}"
+     print ", #{m[0].country.name} (#{m[0].country.code})"   unless m[0].intl?
+  end
+
+  print "\n"
 end
 
 
 puts "bye"
+
 
 
 __END__

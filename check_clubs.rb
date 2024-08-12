@@ -1,10 +1,6 @@
 require_relative 'boot'
 
 
-COUNTRIES = SportDb::Import.world.countries
-LEAGUES   = SportDb::Import.catalog.leagues
-CLUBS     = SportDb::Import.catalog.clubs
-
 
 require_relative 'config/programs'
 
@@ -94,7 +90,7 @@ names.each do |name|
        next if ambiguous_teams.include?( team1 ) || ambiguous_teams.include?( team2 )
 
 
-       m = LEAGUES.match( league_code )
+       m = League.match_by( code: league_code )
        league = if m.size == 1
                   m[0]
                 else
@@ -157,7 +153,7 @@ names.each do |name|
                                ([A-Z]{3})
                             $}x
                country_code = EXTRA_COUNTRY_MAPPINGS[$2] || $2   ## check for corrections / (re)mappings first
-               country = COUNTRIES[ country_code ]
+               country = Country.find_by( code: country_code )
                if country.nil?
                  puts "** !!! ERROR !!! cannot map country code >#{country_code}<; sorry"
                  pp rec
@@ -178,7 +174,7 @@ names.each do |name|
           name     = q[0]
           kwargs   = q[1]   ## e.g. by league or country
 
-          m = CLUBS.match_by( name: name, **kwargs )
+          m = Club.match_by( name: name, **kwargs )
 
           if m.empty?
              puts "** !!WARN!! no match for club <#{name}>:"
