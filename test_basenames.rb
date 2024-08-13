@@ -1,7 +1,7 @@
 require 'cocos'
 
 
-  
+
 def parse_dates( str )
   if str =~ /([0-9]{2})\.
              ([0-9]{2})\.
@@ -19,7 +19,7 @@ def parse_dates( str )
     exit 1
   end
 end
-  
+
 def to_basename( start_date, end_date )
       days  =   end_date - start_date
 
@@ -28,8 +28,8 @@ def to_basename( start_date, end_date )
       buf <<  '_W%02d'  % start_date.cweek
       buf <<  start_date.strftime( '-%a' )
       buf <<  '_%dd' % (days+1)
-   
-      buf   
+
+      buf
 end
 
 def to_basename_old( date )
@@ -38,12 +38,12 @@ def to_basename_old( date )
   buf << '%02d'  % date.cweek
   ### add a or b depending on weekday
   ##  d.cwdayReturn the day of calendar week of date d (1-7, Monday is 1)
-  if  date.monday? || 
+  if  date.monday? ||
       date.tuesday?     ## mon, tue
     buf << 'a_'
-  elsif date.wednesday? || 
-        date.thursday? || 
-        date.friday? || 
+  elsif date.wednesday? ||
+        date.thursday? ||
+        date.friday? ||
         date.saturday? ## wed??, thu, fri, sat
     buf << 'b_'
   else
@@ -91,7 +91,7 @@ recs = parse_csv( <<TXT )
 
   24B,    18.06.2021-20.06.2021   #=> 2021-06-18_W24-Fri_3d
   25A,    21.06.2021-24.06.2021   #=> 2021-06-21_W25-Mon_4d
-  25B/26A, 25.06.2021-30.06.2021  #=> 2021-06-25_W25-Fri_6d 
+  25B/26A, 25.06.2021-30.06.2021  #=> 2021-06-25_W25-Fri_6d
   26B, 01.07.2021-04.07.2021      #=> 2021-07-01_W26-Thu_4d
   27A, 05.07.2021-08.07.2021      #=> 2021-07-05_W27-Mon_4d
 
@@ -103,12 +103,15 @@ recs = parse_csv( <<TXT )
 
   02A, 11.01.2022-13.01.2022
   06B, 11.02.2022-14.02.2022
-  
+
   50B/51A,  16.12.2022-22.12.2022   #=> 2022-12-16_W50-Fri_7d
   51B/52A,  23.12.2022-29.12.2022   #=> 2022-12-23_W51-Fri_7d
   52B/01A,  30.12.2022-04.01.2023   #=> 2022-12-30_W52-Fri_6d
   01B,      05.01.2023-09.01.2023   #=> 2023-01-05_W01-Thu_5d
 
+  26B/27A,  28.06.2024-03.07.2024    ## Friday to Wednesday
+  27B,      04.07.2024-07.07.2024    ## starting on Thursday (not Friday)
+  28A,      08.07.2024-11.07.2024    ## starting on Monday (not Tuesday)
 
 TXT
 
