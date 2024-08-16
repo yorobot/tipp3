@@ -122,7 +122,7 @@
   OK       9 CRO CUP  Kroatien Croatian Cup   --  Cup, Croatia (CRO)
   OK       9 JPN LC   Japan Nabisco Cup   --  J. League Cup, Japan (JPN)
   OK       9 PER 2    Peru, Segunda Division   --  Segunda Division, Peru (PER)
-!!!      8 ALG 1    Algeria Ligue 1
+  OK       8 ALG 1    Algeria Ligue 1   --  Ligue 1, Algeria (ALG)
   OK       8 BOS 1    Bosnien Premier Liga   --  Premier Liga, Bosnia and Herzegovina (BIH)
   OK       8 CHN SL   China Chinese Super League   --  Super League, China (CHN)
   OK       8 CZE CUP  Tschechien Cup   --  Cup, Czech Republic (CZE)
@@ -134,18 +134,17 @@
   OK       7 SER CUP  Serbien Cup   --  Cup, Serbia (SRB)
   OK       7 SUI CUP  Schweiz Cup   --  Schweizer Cup, Switzerland (SUI)
   OK       6 BOS CUP  Bosnien Cup   --  Bosnia and Herzegovina Football Cup, Bosnia and Herzegovina (BIH)
-!!!      6 EGT CUP  Ägypten, Cup
+  OK       6 EGT CUP  Ägypten, Cup   --  Cup, Egypt (EGY)
   OK       6 ROU 2    Rumänien, Liga 2   --  Liga 2, Romania (ROU)
   OK       6 SLO CUP  Slowenien Cup   --  Cup, Slovenia (SVN)
   OK       5 CHI CUP  Copa Chile   --  Copa Chile, Chile (CHI)
   OK       5 COL 2    Categoría Primera B   --  Primera B, Colombia (COL)
-!!!      5 ECU 2    Ecuador, LigaPro Primera B
+  OK       5 ECU 2    Ecuador, LigaPro Primera B   --  Serie B, Ecuador (ECU)
   OK       5 ESP SC   Spanien Supercopa   --  Supercopa, Spain (ESP)
   OK       5 EST 1    Estland Meistriliiga   --  Meistriliiga, Estonia (EST)
   OK       5 GRE 2    Griechenland Super League 2   --  Super League 2, Greece (GRE)
   OK       5 IRL CUP  Irland FAI Ford Cup   --  FAI Cup, Ireland (IRL)
   OK       5 ISR LCP  Israel, League Cup Premier   --  League Cup Premier, Israel (ISR)
-!!!      5 KLUB WM  FIFA Klub WM
   OK       4 AUT RLW  Österreich Regionalliga West   --  Regionalliga West, Austria (AUT)
   OK       4 ISR CUP  Israel Cup   --  League Cup National, Israel (ISR)
   OK       4 KOR CUP  Südkorea FA Cup   --  Cup, South Korea (KOR)
@@ -153,14 +152,12 @@
   OK       4 POR SC   Portugal Supercup   --  Supercup, Portugal (POR)
   OK       4 SVK CUP  Slowakei Cup   --  Slovak Cup, Slovakia (SVK)
   OK       4 WAL 1    Wales Premier League   --  Premier League, Wales (WAL)
-!!!      3 EHGERC   Germany Cup
   OK       3 FRO 1    Färöer Inseln Premier League   --  Premier Division, Faroe Islands (FRO)
   OK       3 ITA SC   Italien Supercoppa   --  Supercoppa Italiana, Italy (ITA)
   OK       3 KOR 2    Südkorea, K-League 2   --  K-League 2, South Korea (KOR)
   OK       3 TUR SC   Türkei Süper Kupa   --  Süper Kupa, Turkey (TUR)
   OK       3 UEFA SC  UEFA Super Cup   --  Super Cup
   OK       2 AFC CL   AFC Champions League   --  AFC Champions League
-!!!      2 ATP FIN  ATP Tour Finals, Einzel
   OK       2 AUS 1    Australien Hyundai A-League   --  A-League, Australia (AUS)
   OK       2 BEL 2    Belgium Tweede Klasse   --  First Division B, Belgium (BEL)
   OK       2 BEL SC   Belgien Supercup   --  Supercup, Belgium (BEL)
@@ -190,23 +187,19 @@
   OK       2 VEN 1    Venezuela Primera Divison   --  Primera División, Venezuela (VEN)
   OK       1 ARG SC   Argentinien Supercup   --  Supercopa Argentina, Argentina (ARG)
   OK       1 AUS CUP  Australien, FFA Cup   --  FFA Cup, Australia (AUS)
-!!!      1 BB WMQE  WM Qualifikation, Europa
   OK       1 CCC CL   CONCACAF Champions League   --  CONCACAF Champions League
   OK       1 CHI 2    Chile, Primera B   --  Primera B, Chile (CHI)
-!!!      1 COL SC   Kolumbien Super Cup
+  OK       1 COL SC   Kolumbien Super Cup   --  Super Cup, Colombia (COL)
   OK       1 CRO 2    Kroatien Druga HNL   --  Prva NL, Croatia (CRO)
   OK       1 CRO SC   Kroatien Supercup   --  Supercup, Croatia (CRO)
-!!!      1 EH 4NAT  4 Nationen Turnier
-!!!      1 EHF EC   EHF European Cup
-!!!      1 FIN 4A   Finnland Kakkonen Group A
+  OK       1 FIN 4A   Finnland Kakkonen Group A   --  Kakkonen Group A, Finland (FIN)
   OK       1 FRA SC   Frankreich Trophée des Champions   --  Trophée des Champions, France (FRA)
-!!!      1 FS U19   U19 Freundschaftsspiele
   OK       1 GEO 1    Georgien Umaglesi Liga   --  Premier League A, Georgia (GEO)
-!!!      1 IRL SC   Irland Supercup
+  OK       1 IRL SC   Irland Supercup   --  Supercup, Ireland (IRL)
   OK       1 ISR SC   Israel Supercup   --  Supercup, Israel (ISR)
   OK       1 MNE CUP  Montenegro Cup Crne Gore   --  Cup, Montenegro (MNE)
   OK       1 POL SC   Polen Supercup   --  Supercup, Poland (POL)
   OK       1 SAUDSC   Saudi Arabien, Super Cup   --  Super Cup, Saudi Arabia (KSA)
-!!!      1 SCO CC   Schottland Challenge Cup
-!!!      1 SLO 2    Slowenien 2. Liga
+  OK       1 SCO CC   Schottland Challenge Cup   --  Challenge Cup, Scotland (SCO)
+  OK       1 SLO 2    Slowenien 2. Liga   --  Second League, Slovenia (SVN)
   OK       1 SVK 2    Slowakei 1. Liga   --  Second League, Slovakia (SVK)

@@ -19,67 +19,8 @@ EXTRA_COUNTRY_MAPPINGS = {
 
 MORE_EXCLUDES = [
    'ITACRPO',  #  12  ITACRPO  Italien Serie C, Relegations Playoff
-
-   'ECU 2',
-   'EGT CUP',
-   'ALG 1',
-   'FIN 4A',
-   'SCO CC',
-   'IRL SC',
-   'SCO CC',
-   'SLO 2',
-   'COL SC',
 ]
 
-
-## todo/add leagues
-=begin
-!!!      1 IRL SC   Irland Supercup
-!!!      1 SCO CC   Schottland Challenge Cup
-!!!      1 SLO 2    Slowenien 2. Liga
-!!!      1 COL SC   Kolumbien Super Cup
-!!!      1 FIN 4A   Finnland Kakkonen Group A
-
-** !!ERROR!! no match for league >ECU 2<:
-{"Date"=>"13.06. 22:00",
- "League"=>"ECU 2",
- "Team 1"=>"CSD Vargas Torres",
- "Score"=>"0:0",
- "Team 2"=>"Cuniburo FC",
- "League Name"=>"Ecuador, LigaPro Primera B"}
-
-** !!ERROR!! no match for league >EGT CUP<:
-{"Date"=>"22.06. 17:30",
- "League"=>"EGT CUP",
- "Team 1"=>"Al Ittihad",
- "Score"=>"0:1",
- "Team 2"=>"Pyramids FC",
- "League Name"=>"Ägypten, Cup"}
-
-** !!ERROR!! no match for league >ALG 1<:
-{"Date"=>"23.06. 19:00",
- "League"=>"ALG 1",
- "Team 1"=>"USM Alger",
- "Score"=>"2:0",
- "Team 2"=>"MC Alger",
- "League Name"=>"Algeria Ligue 1"}
-
-** !!ERROR!! no match for league >FIN 4A<:
-{"Date"=>"04.07. 18:00",
- "League"=>"FIN 4A",
- "Team 1"=>"HJK Klubi 04",
- "Score"=>"4:1",
- "Team 2"=>"PK Keski-Uusimaa",
- "League Name"=>"Finnland Kakkonen Group A"}
-
-** !!ERROR!! no match for league >SCO CC<:
-{"Date"=>"05.09. 20:45",
- "League"=>"SCO CC",
- "Team 1"=>"Ayr United",
- "Score"=>"0:1",
- "Team 2"=>"FC Falkirk",
- "League Name"=>"Schottland Challenge Cup"}
-=end
 
 
 
