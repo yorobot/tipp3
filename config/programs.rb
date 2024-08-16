@@ -18,12 +18,24 @@ require_relative 'leagues'
 
 
 class Programs
-  ## nested Program class (note: no plural s) 
+  ## nested Program class (note: no plural s)
   class Program
+    def self.read( path )
+      recs = read_csv( path )
+      name = File.basename( path, File.extname( path ))
+      new( recs, name: name )
+    end
+
+    def self.read_by( name: )
+      recs = read_csv( "datasets/#{name}.csv" )
+      new( recs, name: name )
+    end
+
+
     attr_reader :name
-    def initialize( name )
+    def initialize( recs, name: )
       @name = name
-      @recs = read_csv( "datasets/#{name}.csv" )
+      @recs = recs
     end
 
     def size() @recs.size; end

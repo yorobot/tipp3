@@ -36,6 +36,7 @@ HOCKEY_LEAGUES = [
   'EH AUT',  # Österreich Erste Bank-EHL
   'EH GER',  # Deutschland Deutsche Eishockey Liga
   'EH GER2', # Deutschland 2. Eishockey Liga
+  'EHGERC',  #  Germany Cup
   'INTGERC', # Germany Cup
   'EH SWE',  # Schweden Elitserien
   'EH ALP',  # Alps Hockey League
@@ -56,7 +57,11 @@ HOCKEY_LEAGUES = [
   'EH BWM',  #  Eishockey WM, Division I
 
   'EH WMF',  # Weltmeisterschaft Frauen
+
+  'EH 4NAT',  # 4 Nationen Turnier
+  'EHF EC',   # EHF European Cup
 ]
+
 
 
 HANDBALL_LEAGUES = [
@@ -89,6 +94,7 @@ BASKETBALL_LEAGUES = [
   'BB AUTC', # Basketball Cup Österreich
   'BBAUTSC', # Österreich, Herren Supercup
   'BB GER',  # Deutschland BBL
+  'BB SUI',  # Schweiz LNA
   'BB ESP',  # Spanien Spagnola ACB
   'BB ITA',  # Italien A1
   'BB FRA',  # Frankreich Pro A
@@ -109,6 +115,9 @@ BASKETBALL_LEAGUES = [
   'BB TWN',  # Super Basketball League
   'BB EMDA', # Europameisterschaft Damen
   'TJK NOC', # Tadschikistan, Northern Cup    -- Basketball Tournament
+  'ABA L',   # ABA League
+  'BB ISR',  # Basketball, Israel Super League
+  'BB WMQE', # WM Qualifikation, Europa
 ]
 
 
@@ -127,6 +136,8 @@ MORE_LEAGUES = [
   ## football
   'NFL',      # USA NFL
   'AFB AFL',  # Austrian Football League
+  'ELF',      # European League of Football
+  'AMFB EM',  # American Football EM
   ## rugby
   'RUG WM',   # Rugby Union WM
   'RUG AUS',  # Australien NRL
@@ -136,12 +147,16 @@ MORE_LEAGUES = [
   'VB CL',    # Champions League Männer
   'VBCEVCH',  # CEV Cup, Männer
   'VB AUT',   #  Österreich Austrian Volley League
+  'VB EL H',  # European League Männer
+
   ## tennis
   'TEN ATP',  # Tennis ATP
   'TEN WTA',  # Tennis WTA
   'TEN AUT',  # Austrian Pro, Einzel, Herren
   'ATPWIEN',  # Tennis ATP Wien, Einzel
   'OLY HE',   #  Olympia Einzel
+  'ATP FIN',  # ATP Tour Finals, Einzel
+
   ## motorsport
   'F1',       # Formel 1
   ## darts
@@ -158,6 +173,9 @@ MORE_LEAGUES = [
   ## bandy(sport) - a form of (ice)hockey
   'FTS RUS',  # Russland Superliga
   'FTSBLR1',  # Weißrussland 1. Division
+
+  # futsal
+   'FUTS FS',  # Futsal Internationale Freundschaftsspiele
 ]
 
 
@@ -172,6 +190,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'U21 EM',     # U21 Europameisterschaft
   'U19 EM',     # U19 Europameisterschaft
   'U19 EMQ',    # U19 EM Qualifikation
+  'FS U19',     # U19 Freundschaftsspiele
   'INT FS',     # Internationale Freundschaftsspiele
   'FS U21',     # U21 Freundschaftsspiele
   'FS U20',     # U20 Freundschaftsspiele
@@ -199,7 +218,8 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'WMQ DA',     # WM Qualifikation Frauen, Europa
   'ALGARVE',    # Algarve Cup
   'UEFANLF',    #  UEFA Nations League, Frauen
-
+  'U19EMFR',    # U19 Europameisterschaft, Frauen
+  'WM FR',      # FIFA Weltmeisterschaft, Frauen
 
   ## todo/fix: move to clubs leagues (women) - why? why not?
   'CL DAM',     # UEFA Champions League Damen
@@ -219,6 +239,9 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'PL ASIA',  # Premier League Asia Trophy
   'EMR CUP',  # Emirates Cup
   'FLOR C',   # Florida Cup
+  'UECONCC',  # UEFA-Conmebol Club Challenge
+  'KLUB WM',  # FIFA Klub WM
+
 
   ## move minor/youth leagues
   'UEFA YL',  # UEFA Youth League

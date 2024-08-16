@@ -46,8 +46,16 @@ MORE_EXCLUDES = [
 
 ## todo: check league names too (NOT only codes!!!)
 
-names.each do |name|
-    prog = Programs::Program.new( name )
+# names.each do |name|
+#    prog = Programs::Program.read_by( name: name )
+
+
+
+datasets = Dir.glob( './datasets/*.csv' )
+puts "   #{datasets.size} dataset(s)"
+
+datasets.each do |path|
+  prog = Programs::Program.read( path )
 
    puts "#{prog.size} rec(s) - #{prog.name}:"
 
