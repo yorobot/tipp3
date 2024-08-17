@@ -57,7 +57,7 @@ MORE_EXCLUDES = [
 
 
 names.each do |name|
-  prog = Programs::Program.new( name )
+  prog = Programs::Program.read_by( name: name )
   puts "#{prog.size} rec(s) - #{prog.name}:"
 
   ## note: skip (exclude) national (selection) teams / matches e.g. wm, em, u21, u20, int fs, etc.
