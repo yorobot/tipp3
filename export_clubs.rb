@@ -29,8 +29,8 @@ CLUBS = {}
 ####
 ##  add to export catalog
 def add_club( name, league_code:,
-                    league: )
-  code =   league.intl?  ? 'intl' : league.country.key
+                    country: )
+  code =  country ?  country.key : 'intl'
   CLUBS[ code ] ||= {}
   stat   = CLUBS[ code ][ name ] ||= { count: 0,
                                        leagues: Hash.new(0)}
@@ -43,6 +43,9 @@ end
 datasets = Dir.glob( './datasets/*.csv' )
 puts "   #{datasets.size} dataset(s)"
 
+
+## clubs to auto-fix (missing country codes, etc)
+patch_clubs = {}
 
 
 datasets.each do |path|
@@ -68,6 +71,14 @@ datasets.each do |path|
           next
        end
 
+       ## skip matches with 1.HZ or HZ/T
+       ##   e.g.  1.HZ Man. City, 1.HZ Inter Mailand
+       ##         HZ/T Man. City, HZ/T Inter Mailand
+       if team1.start_with?( '1.HZ' ) ||
+          team2.start_with?( 'HZ/T' )
+          puts "skip match with HZ marker"
+          next
+       end
 
        ## quick hack - for now skip
        ambiguous_teams = [
@@ -93,18 +104,27 @@ datasets.each do |path|
         teams = [team1, team2]
 
         if league.national?
+          country = league.country
           teams.each do |team|
-             add_club( team, league: league,
-                             league_code: league_code )
+             add_club( team, league_code: league_code,
+                             country: country )
           end
         else  ## assume int'l tournament
 
-           ## skip for now
-           next
+
+          ## move name auto-fix to boot for reuse - why? why not?
 
            ##  split name into club name and country e.g.
            ##    LASK Linz AUT    =>  LASK Linz,   AUT
            ##    Club Brügge BEL  =>  Club Brügge, BEL
+
+
+           #### fix
+           ##  use lookup table e.g.
+           ##   name, (county) code
+           # { 'Al Hilal FC' => 'KSA'  ## used in 2019-51a_tue-dec-17 for KLUB WM
+           ##  for easy fix/extension/updates
+
 
            ## quick hack: check for known exceptions; fix missing country codes
            teams = teams.map do |team|
@@ -132,6 +152,10 @@ datasets.each do |path|
                  team = 'KF Malisheva KOS'  ## kosovo (use kvx??)
               elsif team == 'Barcelona SC'
                 team = 'Barcelona SC ECU'
+              elsif team == 'KF Dukagjini'
+                team = 'KF Dukagjini KOS'  # kosovo
+              elsif team == 'CSKA 1948 Sofia'
+                team = 'CSKA 1948 Sofia BUL'
               else
                 team
               end
@@ -149,13 +173,24 @@ datasets.each do |path|
                  pp rec
                  exit 1
                end
-               ## query by country
-               club_queries << [$1, { country: country }]
+                ## export no. 1 - intl
+               add_club( team, league_code: league_code,
+                               country: nil )
+
+                ## export no. 2 (twice) - add teams local dataset too
+                ##   note - add name WITHOUT (trailing) country code
+                add_club( $1.strip, league_code: league_code,
+                                    country: country )
              else
                puts "** !!! ERROR !!! three-letter country code missing >#{team}<; sorry"
                pp rec
                pp league   ## note: also print league to help debugging
-               exit 1
+               ## exit 1
+
+               stat = patch_clubs[ team ] ||= { count: 0,
+                                                leagues: [] }
+               stat[ :count ] += 1
+               stat[ :leagues ] << league_code  unless stat[ :leagues ].include?( league_code )
              end
            end
         end
@@ -170,8 +205,6 @@ pp CLUBS
 
 ## export
 CLUBS.each do |code, clubs|
-   next if code == 'intl'  ## skip intl for now
-
    puts "==> #{code}"
    rows = []
    clubs_sorted = clubs.sort do |l,r|
@@ -198,6 +231,10 @@ CLUBS.each do |code, clubs|
     write_csv( "../clubs.sandbox/tipp3/#{code}.csv", rows, headers: headers  )
 end
 
+
+puts
+puts "  clubs to patch:"
+pp patch_clubs
 
 
 puts "bye"
