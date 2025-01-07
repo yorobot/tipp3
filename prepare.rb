@@ -10,6 +10,23 @@ Webcache.root = '/sports/cache'  ### c:\sports\cache
 
 
 
+## update - jan/7 2025
+=begin
+<select name="oddsetProgramID" id="oddsetProgramID" class="t3-list-filter__filter" style="" data-errordiv="oddsetProgramID_error_message" data-defaultcssclass="t3-list-filter__filter" data-elementdiv="oddsetProgramID" data-inputobject='{"id":"oddsetProgramID","valueType":"comboBox","requiredField":false,"formName":"programDatesForm","errorDiv":"oddsetProgramID_error_message","errorText":"oddsetProgramID_error_message","checkAllErrors":false,"defaultClassName":"t3-list-filter__filter","elementId":"oddsetProgramID","elementDivId":"oddsetProgramID"}' data-events="{&#34;change&#34;:[{&#34;functionName&#34;:&#34;UEP.components.combobox.comboboxChange&#34;,&#34;parameterValues&#34;:[&#34;oddsetProgramID&#34;]}]}">
+<option value="1408">30.12.2024 - 06.01.2025</option>
+<option value="1407">23.12.2024 - 29.12.2024</option>
+<option value="1406">20.12.2024 - 22.12.2024</option>
+<option value="1405">17.12.2024 - 19.12.2024</option>
+<option value="1404">13.12.2024 - 16.12.2024</option>
+<option value="1403">10.12.2024 - 12.12.2024</option>
+<option value="1402">06.12.2024 - 09.12.2024</option>
+<option value="1401">03.12.2024 - 05.12.2024</option>
+<option value="1400">29.11.2024 - 02.12.2024</option>
+<option value="1399">26.11.2024 - 28.11.2024</option>
+...
+=end
+
+
 ## note: only works starting no. 1244
 ##   (before the select options prog id/dates are missing!!)
 ## prog_ids = (1244..1347).to_a.reverse
@@ -48,9 +65,11 @@ Webcache.root = '/sports/cache'  ### c:\sports\cache
 <option value="1337">19.04.2024 - 22.04.2024</option>
 =end
 
+## note - .. (two dots) is an inclusive range
+##  e.g.  (1367..1408).include?( 1408 ) == true  !!
 
-## try last five
-prog_ids = ( 1350..1367
+## try latest     - was last five
+prog_ids = ( 1367..1408
             ).to_a.reverse
 
 

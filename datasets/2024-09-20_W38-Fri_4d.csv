@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+20.09. 18:00,AUT 2,First Vienna FC,3:1,SK Rapid Wien II,Österreich Zweite Liga
+20.09. 18:00,AUT 2,SV Stripfing,0:2,SW Bregenz,Österreich Zweite Liga
+20.09. 18:00,AUT 2,SV Lafnitz,1:2,Kapfenberger SV,Österreich Zweite Liga
+20.09. 18:00,AUT 2,ASK Voitsberg,0:2,SKN St. Pölten,Österreich Zweite Liga
+20.09. 18:30,ITA A,Cagliari Calcio,0:2,FC Empoli,Italien Serie A
+20.09. 18:30,GER 2,FC Schalke 04,3:5,SV Darmstadt 98,Deutschland 2. Bundesliga
+20.09. 18:30,GER 2,SC Paderborn,2:1,Hannover 96,Deutschland 2. Bundesliga
+20.09. 19:00,GER 3,Unterhaching,2:2,Erzgebirge Aue,Deutschland 3. Liga
+20.09. 19:00,TUR 1,Hatayspor,0:1,Bodrumspor,Türkei Süper Lig
+20.09. 19:00,AUT RLO,FC Marchfeld,2:1,TWL Elektra,Österreich Regionalliga Ost
+20.09. 19:00,AUT RLM,Deutschlandsberg,3:4,DSV Leoben,Österreich Regionalliga Mitte
+20.09. 19:00,AUT RLM,SV Wallern,5:3,SK Vorwärts Steyr,Österreich Regionalliga Mitte
+20.09. 19:15,EH AUT,Vienna Capitals,1:2,EC Graz 99ers,win2day ICE Hockey League
+20.09. 19:30,AUT RLO,SV Oberwart,0:0,Young Violets A.W.,Österreich Regionalliga Ost
+20.09. 19:30,EH AUT,EC KAC,3:3,EC RB Salzburg,win2day ICE Hockey League
+20.09. 19:45,EH AUT,HC Bozen Foxes,5:0,Black Wings Linz,win2day ICE Hockey League
+20.09. 20:00,NL 1,FC Zwolle,1:2,AZ Alkmaar,Niederlande Eredivisie
+20.09. 20:00,ROU 1,ASC Otelul Galati,1:1,Dinamo Bukarest,Rumänien Liga 1
+20.09. 20:00,HUN 1,MTK Budapest FC,1:3,Ferencvaros,Ungarn NB I
+20.09. 20:15,AUT RLO,Kremser SC,2:1,SV Leobendorf,Österreich Regionalliga Ost
+20.09. 20:30,AUT 2,Admira Wacker,2:1,Floridsdorfer AC,Österreich Zweite Liga
+20.09. 20:30,GER BL,FC Augsburg,2:3,FSV Mainz 05,Deutschland Bundesliga
+20.09. 20:30,ESP 2,Granada CF,2:2,Malaga CF,Spanien Segunda Division
+20.09. 20:30,POL 1,Pogon Szczecin,1:0,Legia Warschau,Polen Orange Ekstraklasa
+20.09. 20:45,ITA A,Hellas Verona,2:3,FC Torino,Italien Serie A
+20.09. 20:45,FRA 1,OGC Nizza,8:0,AS Saint Etienne,Frankreich Ligue 1
+20.09. 20:45,BEL 1,Standard Lüttich,0:0,Saint Gilloise,Belgien Jupiler Pro League
+20.09. 20:45,SCO LC,FC Motherwell,2:1,Dundee United,Schottland League Cup
+20.09. 21:00,ENG CS,Stoke City,1:3,Hull City,England Championship
+20.09. 21:00,ESP 1,CD Alaves,2:1,FC Sevilla,Spanien La Liga
+21.09. 13:00,GER 2,Fortuna Düsseldorf,2:2,1. FC Köln,Deutschland 2. Bundesliga
+21.09. 13:00,GER 2,E. Braunschweig,2:0,Greuther Fürth,Deutschland 2. Bundesliga
+21.09. 13:00,GER 2,1. FC Nürnberg,0:2,Hertha BSC,Deutschland 2. Bundesliga
+21.09. 13:30,ENG PL,West Ham United,0:3,FC Chelsea,England Premier League
+21.09. 13:30,ENG CS,AFC Sunderland,1:0,Middlesbrough,England Championship
+21.09. 13:30,ENG CS,Queens Park R.,1:1,FC Millwall,England Championship
+21.09. 14:00,ESP 1,Real Valladolid,0:0,Real Sociedad,Spanien La Liga
+21.09. 14:00,GER 3,Dynamo Dresden,1:1,Hansa Rostock,Deutschland 3. Liga
+21.09. 14:30,AUT 2,Austria Lustenau,0:0,SK Sturm Graz II,Österreich Zweite Liga
+21.09. 15:00,ITA A,Venezia FC,2:0,FC Genua,Italien Serie A
+21.09. 15:30,GER BL,SV Werder Bremen,0:5,Bayern München,Deutschland Bundesliga
+21.09. 15:30,GER BL,Union Berlin,2:1,TSG Hoffenheim,Deutschland Bundesliga
+21.09. 15:30,GER BL,VfL Bochum,2:2,Holstein Kiel,Deutschland Bundesliga
+21.09. 15:30,GER BL,FC Heidenheim,0:3,SC Freiburg,Deutschland Bundesliga
+21.09. 16:00,ENG PL,FC Liverpool,3:0,AFC Bournemouth,England Premier League
+21.09. 16:00,ENG PL,Tottenham,3:1,FC Brentford,England Premier League
+21.09. 16:00,ENG PL,Aston Villa,3:1,Wolverhampton,England Premier League
+21.09. 16:00,ENG PL,FC Southampton,1:1,Ipswich Town,England Premier League
+21.09. 16:00,ENG PL,Leicester City,1:1,FC Everton,England Premier League
+21.09. 16:00,ENG PL,FC Fulham,3:1,Newcastle United,England Premier League
+21.09. 16:00,ENG CS,Sheffield United,1:0,Derby County,England Championship
+21.09. 16:00,ENG CS,Coventry City,1:2,Swansea City,England Championship
+21.09. 16:00,ENG CS,Cardiff City,0:2,Leeds United,England Championship
+21.09. 16:15,ESP 1,CA Osasuna,2:1,UD Las Palmas,Spanien La Liga
+21.09. 16:30,GER 3,Arminia Bielefeld,0:1,TSV 1860 München,Deutschland 3. Liga
+21.09. 17:00,AUT BL,LASK,4:2,Grazer AK,Österreich Bundesliga
+21.09. 17:00,AUT BL,SCR Altach,0:1,BW Linz,Österreich Bundesliga
+21.09. 17:00,AUT BL,Austria Klagenfurt,2:2,TSV Hartberg,Österreich Bundesliga
+21.09. 17:00,FRA 1,Lille OSC,3:3,Racing Strasbourg,Frankreich Ligue 1
+21.09. 18:00,ITA A,Juventus Turin,0:0,SSC Napoli,Italien Serie A
+21.09. 18:30,GER BL,Eintr. Frankfurt,2:0,Mönchengladbach,Deutschland Bundesliga
+21.09. 18:30,ENG PL,Crystal Palace,0:0,Manchester United,England Premier League
+21.09. 18:30,ESP 1,FC Valencia,2:0,FC Girona,Spanien La Liga
+21.09. 19:00,FRA 1,Stade Rennes,1:1,RC Lens,Frankreich Ligue 1
+21.09. 19:00,TUR 1,Fenerbahce,1:3,Galatasaray,Türkei Süper Lig
+21.09. 20:30,GER 2,FC Kaiserslautern,2:2,Hamburger SV,Deutschland 2. Bundesliga
+21.09. 20:45,ITA A,US Lecce,2:2,FC Parma,Italien Serie A
+21.09. 21:00,ESP 1,Real Madrid,4:1,Espanyol Barcelona,Spanien La Liga
+21.09. 21:00,FRA 1,Stade de Reims,1:1,Paris SG,Frankreich Ligue 1
+21.09. 21:00,ARG 1,Boca Juniors,0:1,CA River Plate,Argentinien Primera Division
+22.09. 10:30,AUT 2,SKU Amstetten,2:3,SV Ried,Österreich Zweite Liga
+22.09. 12:30,AUT 2,FC Liefering,0:1,SV Horn,Österreich Zweite Liga
+22.09. 12:30,ITA A,AC Fiorentina,2:1,Lazio Rom,Italien Serie A
+22.09. 13:30,GER 2,Jahn Regensburg,0:3,Preussen Münster,Deutschland 2. Bundesliga
+22.09. 13:30,GER 2,FC Magdeburg,2:2,Karlsruher SC,Deutschland 2. Bundesliga
+22.09. 13:30,GER 2,SV 07 Elversberg,1:3,SSV Ulm 1846,Deutschland 2. Bundesliga
+22.09. 14:00,ESP 1,Getafe CF,1:1,CD Leganes,Spanien La Liga
+22.09. 14:30,AUT BL,WSG Tirol,0:0,RB Salzburg,Österreich Bundesliga
+22.09. 14:30,AUT BL,SK Sturm Graz,0:3,Wolfsberger AC,Österreich Bundesliga
+22.09. 15:00,ENG PL,Brighton & Hove,2:2,Nottingham Forest,England Premier League
+22.09. 15:00,ITA A,AC Monza,1:2,Bologna FC,Italien Serie A
+22.09. 15:00,FRA 1,AS Monaco,3:1,Le Havre AC,Frankreich Ligue 1
+22.09. 15:30,GER BL,Bayer Leverkusen,4:3,VfL Wolfsburg,Deutschland Bundesliga
+22.09. 15:30,ELF,Vienna Vikings*,20:51,Rhein Fire,European League of Football
+22.09. 16:15,ESP 1,Athletic Bilbao,3:1,Celta de Vigo,Spanien La Liga
+22.09. 17:00,AUT BL,SK Rapid Wien,2:1,FK Austria Wien,Österreich Bundesliga
+22.09. 17:00,AUT BL,SK Rapid Wien,2:2,FK Austria Wien+1,Österreich Bundesliga
+22.09. 17:00,FRA 1,HSC Montpellier,3:2,AJ Auxerre,Frankreich Ligue 1
+22.09. 17:00,FRA 1,Stade Brest,2:0,FC Toulouse,Frankreich Ligue 1
+22.09. 17:30,GER BL,VfB Stuttgart,5:1,Borussia Dortmund,Deutschland Bundesliga
+22.09. 17:30,ENG PL,Manchester City,2:2,FC Arsenal,England Premier League
+22.09. 18:00,ITA A,AS Roma,3:0,Udinese Calcio,Italien Serie A
+22.09. 18:30,ESP 1,Villarreal CF,1:5,FC Barcelona,Spanien La Liga
+22.09. 19:30,GER BL,FC St. Pauli,0:0,RB Leipzig,Deutschland Bundesliga
+22.09. 20:45,ITA A,Inter Mailand,1:2,AC Milan,Italien Serie A
+22.09. 20:45,FRA 1,Olympique Lyon,2:3,Olymp. Marseille,Frankreich Ligue 1
+22.09. 21:00,ESP 1,Rayo Vallecano,1:1,Atletico Madrid,Spanien La Liga
+22.09. 22:25,NFL,Los Angeles Rams,27:24,San Francisco 49,USA NFL
+23.09. 17:00,ROU 1,UTA Arad,0:0,CSM Poli. Iasi,Rumänien Liga 1
+23.09. 18:00,CYP 1,Enosis N.Paralimni,0:2,Omonia Aradippou,Zypern 1. Division
+23.09. 19:00,TUR 1,Gaziantep FK,0:0,Trabzonspor,Türkei Süper Lig
+23.09. 19:00,TUR 1,Göztepe,3:0,Kayserispor,Türkei Süper Lig
+23.09. 19:00,DEN 1,FC Kopenhagen,2:0,Aalborg BK,Dänemark Superligaen
+23.09. 19:00,BUL 1,FK Arda Kurdzhali,1:0,Botev Plovdiv,Bulgarien Premier League
+23.09. 19:00,NOR 1,KFUM Oslo,1:1,Molde FK,Norwegen Tippeligaen
+23.09. 19:00,SWE 1,IFK Göteborg,1:1,Halmstads BK,Schweden Allsvenskan
+23.09. 19:00,SERB 1,Partizan Belgrad,0:4,Roter Stern B.,Serbien Meridijan Superliga
+23.09. 19:30,ISR 1,Maccabi Haifa,abgesagt,Beitar Jerusalem,Israel Premier League
+23.09. 20:00,ROU 1,FC Unirea 2004 Slo,1:2,Rapid Bukarest,Rumänien Liga 1
+23.09. 20:30,ESP 2,SD Huesca,4:1,Cordoba CF,Spanien Segunda Division
+23.09. 20:30,ITA C1B,Delfino Pescara,0:0,Perugia Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+23.09. 20:45,ITA C1B,Spal Ferrara,2:1,AC Carpi,"Italien Lega Pro Prima Divisione, Girone B"
+23.09. 20:45,ITA C1B,Rimini Calcio,1:0,Milan Futuro,"Italien Lega Pro Prima Divisione, Girone B"
+23.09. 20:45,IRL 1,FC Shamrock Rovers,1:0,Boh. Dublin,Irland Premier Division
+23.09. 20:45,IRL 1,FC Drogheda United,0:0,FC Galway United,Irland Premier Division
+23.09. 21:00,ESP 1,Betis Sevilla,1:2,RCD Mallorca,Spanien La Liga
+23.09. 21:15,POR 1,Boavista FC,0:3,Benfica Lissabon,Portugal Primeira Liga
+24.09. 01:30,NFL,Buffalo Bills,47:10,Jacksonv. Jaguars,USA NFL
+24.09. 02:15,NFL,Cincinnati Bengals,33:38,Washington Com.,USA NFL
+24.09. 20:45,ITA A,Atalanta Bergamo,2:3,Como Calcio,Italien Serie A

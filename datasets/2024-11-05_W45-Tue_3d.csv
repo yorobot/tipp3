@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+05.11. 18:45,CL,PSV Eindhoven NED,4:0,FC Girona ESP,UEFA Champions League
+05.11. 18:45,CL,PSV Eindhoven,4:1,FC Girona+1,UEFA Champions League
+05.11. 18:45,CL,Slov. Bratisl. SVK,1:4,Dinamo Zagreb CRO,UEFA Champions League
+05.11. 18:45,CL,Slov. Bratislava+1,2:4,NK Dinamo Zagreb,UEFA Champions League
+05.11. 20:00,ENG LTR,Cheltenham Town,1:0,FC Reading,England Football League Trophy
+05.11. 20:45,ENG 1,Stockport County,0:5,Wycombe Wanderers,England League One
+05.11. 20:45,ENG 1,Burton Albion,0:0,Crawley Town,England League One
+05.11. 20:45,ENG CS,Sheffield Wednes.,2:0,Norwich City,England Championship
+05.11. 20:45,ENG CS,Queens Park R.,1:4,Middlesbrough,England Championship
+05.11. 20:45,ENG CS,Oxford United,1:0,Hull City,England Championship
+05.11. 20:45,ENG CS,Bristol City,1:2,Sheffield United,England Championship
+05.11. 21:00,ENG CS,Swansea City,1:0,FC Watford,England Championship
+05.11. 21:00,ENG CS,Plymouth Argyle,1:0,FC Portsmouth,England Championship
+05.11. 21:00,CL,Bor. Dortmund GER,1:0,SK Sturm Graz AUT,UEFA Champions League
+05.11. 21:00,CL,Borussia Dortmund,1:1,SK Sturm Graz+1,UEFA Champions League
+05.11. 21:00,CL,Borussia Dortmund,1:2,SK Sturm Graz+2,UEFA Champions League
+05.11. 21:00,CL,Sporting Liss. POR,4:1,Man. City ENG,UEFA Champions League
+05.11. 21:00,CL,Sporting Lissab.+1,5:1,Manchester City,UEFA Champions League
+05.11. 21:00,CL,Real Madrid ESP,1:3,AC Milan ITA,UEFA Champions League
+05.11. 21:00,CL,Real Madrid,1:4,AC Milan+1,UEFA Champions League
+05.11. 21:00,CL,Lille OSC FRA,1:1,Juventus Turin ITA,UEFA Champions League
+05.11. 21:00,CL,Lille OSC,1:2,Juventus Turin+1,UEFA Champions League
+05.11. 21:00,CL,Lille OSC+1,2:1,Juventus Turin,UEFA Champions League
+05.11. 21:00,CL,FC Liverpool ENG,4:0,Leverkusen GER,UEFA Champions League
+05.11. 21:00,CL,FC Liverpool,4:1,Bay. Leverkusen+1,UEFA Champions League
+05.11. 21:00,CL,Celtic Glasgow SCO,3:1,RB Leipzig GER,UEFA Champions League
+05.11. 21:00,CL,Celtic Glasgow+1,4:1,RB Leipzig,UEFA Champions League
+05.11. 21:00,CL,Bologna FC ITA,0:1,AS Monaco FRA,UEFA Champions League
+05.11. 22:45,ARG 1,Gimnasia La Plata,0:0,CA Central Cordoba,Argentinien Primera Division
+05.11. 22:45,ARG 1,CA San Lorenzo,1:1,Estudiantes LP,Argentinien Primera Division
+06.11. 01:00,ARG 1,CA Independiente,3:0,Union de Santa Fe,Argentinien Primera Division
+06.11. 01:00,ARG 1,Newell's Old B.,2:4,CA Huracan,Argentinien Primera Division
+06.11. 01:30,BRA 1,Botafogo FR RJ,3:0,Vasco Da Gama RJ,Brasilien Brasilero Serie A
+06.11. 01:30,BRA 1,EC Bahia BA,0:3,Sao Paulo SP,Brasilien Brasilero Serie A
+06.11. 01:30,BRA 1,Internacional RS,2:0,Criciuma EC SC,Brasilien Brasilero Serie A
+06.11. 16:30,EL,Besiktas Ist. TUR,2:1,Malmö FF SWE,UEFA Europa League
+06.11. 18:45,CL,Club Brügge BEL,1:0,Aston Villa ENG,UEFA Champions League
+06.11. 18:45,CL,Club Brügge+1,2:0,Aston Villa,UEFA Champions League
+06.11. 18:45,CL,Shakhtar Don. UKR*,2:1,YB Bern SUI,UEFA Champions League
+06.11. 20:45,ENG CS,Coventry City,1:2,Derby County,England Championship
+06.11. 20:45,ENG CS,Blackburn Rovers,0:2,Stoke City,England Championship
+06.11. 20:45,ENG CS,FC Millwall,1:0,Leeds United,England Championship
+06.11. 21:00,ENG CS,Preston North End,0:0,AFC Sunderland,England Championship
+06.11. 21:00,ENG CS,Luton Town,1:0,Cardiff City,England Championship
+06.11. 21:00,CL,Feyenoord NED,1:3,RB Salzburg AUT,UEFA Champions League
+06.11. 21:00,CL,Feyenoord,1:4,RB Salzburg+1,UEFA Champions League
+06.11. 21:00,CL,VfB Stuttgart GER,0:2,Atalanta BC ITA,UEFA Champions League
+06.11. 21:00,CL,VfB Stuttgart,0:3,Atalanta Bergamo+1,UEFA Champions League
+06.11. 21:00,CL,Paris SG FRA,1:2,Atl. Madrid ESP,UEFA Champions League
+06.11. 21:00,CL,Paris SG,1:3,Atletico Madrid+1,UEFA Champions League
+06.11. 21:00,CL,Roter Stern B. SRB,2:5,FC Barcelona ESP,UEFA Champions League
+06.11. 21:00,CL,Roter Stern B.+1,3:5,FC Barcelona,UEFA Champions League
+06.11. 21:00,CL,Roter Stern B.+2,4:5,FC Barcelona,UEFA Champions League
+06.11. 21:00,CL,Inter Mailand ITA,1:0,FC Arsenal ENG,UEFA Champions League
+06.11. 21:00,CL,Inter Mailand,1:1,FC Arsenal+1,UEFA Champions League
+06.11. 21:00,CL,Inter Mailand+1,2:0,FC Arsenal,UEFA Champions League
+06.11. 21:00,CL,Sparta Prag CZE,1:2,Stade Brest FRA,UEFA Champions League
+06.11. 21:00,ARG 1,CA Banfield,1:1,CA Belgrano,Argentinien Primera Division
+06.11. 21:15,CL,Bayern München GER,1:0,Benfica Lissab POR,UEFA Champions League
+06.11. 21:15,CL,Bayern München,1:1,Benfica Lissabon+1,UEFA Champions League
+06.11. 21:15,CL,Bayern München,1:2,Benfica Lissabon+2,UEFA Champions League
+06.11. 23:30,ARG 1,Boca Juniors,4:1,CD Godoy Cruz,Argentinien Primera Division
+07.11. 01:00,BRA 1,Atletico GO,1:0,Atletico MG,Brasilien Brasilero Serie A
+07.11. 01:00,BRA 1,Cruzeiro EC MG,0:1,Flamengo RJ,Brasilien Brasilero Serie A
+07.11. 01:30,ARG 1,Instituto Cordoba,2:3,CA River Plate,Argentinien Primera Division
+07.11. 12:30,EHGERC,Österreich*,0:1,Slowakei,Germany Cup
+07.11. 15:30,CON LG,Vikingur Reykj ISL,2:0,Borac Banja L. BIH,UEFA Conference League
+07.11. 17:00,EH TOUR,Tschechien,5:2,Schweden,Euro Hockey Tour
+07.11. 17:30,EH TOUR,Schweiz*,2:2,Finnland,Euro Hockey Tour
+07.11. 18:45,EL,E. Frankfurt GER,1:0,Slavia Prag CZE,UEFA Europa League
+07.11. 18:45,EL,Eintr. Frankfurt,1:1,SK Slavia Prag+1,UEFA Europa League
+07.11. 18:45,EL,Saint Gilloise BEL,1:1,AS Roma ITA,UEFA Europa League
+07.11. 18:45,EL,Saint Gilloise+1,2:1,AS Roma,UEFA Europa League
+07.11. 18:45,EL,Galatasaray TUR,3:2,Tottenham ENG,UEFA Europa League
+07.11. 18:45,EL,Galatasaray,3:3,Tottenham+1,UEFA Europa League
+07.11. 18:45,EL,Ludogorets BUL,1:2,Athl. Bilbao ESP,UEFA Europa League
+07.11. 18:45,EL,OGC Nizza FRA,2:2,Twente Ensch. NED,UEFA Europa League
+07.11. 18:45,EL,Bodö Glimt NOR,1:2,Qarabag FK AZE,UEFA Europa League
+07.11. 18:45,EL,FCS Bukarest ROU,2:0,FC Midtjylland DEN,UEFA Europa League
+07.11. 18:45,EL,IF Elfsborg SWE,1:1,Sporting Braga POR,UEFA Europa League
+07.11. 18:45,EL,Olympiakos P. GRE,1:1,Gl.Rangers SCO,UEFA Europa League
+07.11. 18:45,CON LG,FC Petrocub MDA,0:3,SK Rapid Wien AUT,UEFA Conference League
+07.11. 18:45,CON LG,FC Petrocub+1,1:3,SK Rapid Wien,UEFA Conference League
+07.11. 18:45,CON LG,FC Pafos CYP,1:0,FC Astana KAZ,UEFA Conference League
+07.11. 18:45,CON LG,TSC Backa Topo SRB,4:1,FC Lugano SUI,UEFA Conference League
+07.11. 18:45,CON LG,HJK Helsinki FIN,0:2,Ol. Ljubljana SLO,UEFA Conference League
+07.11. 18:45,CON LG,KAA Gent BEL,1:0,Omonia Nikosia CYP,UEFA Conference League
+07.11. 18:45,CON LG,Legia Warschau POL,4:0,Dinamo Minsk BLR,UEFA Conference League
+07.11. 18:45,CON LG,Shamrock IRL,2:1,The New Saints WAL,UEFA Conference League
+07.11. 19:45,EHGERC,Deutschland,5:5,Dänemark,Germany Cup
+07.11. 20:45,ITA A,FC Genua,1:1,Como Calcio,Italien Serie A
+07.11. 21:00,EL,AZ Alkmaar NED,3:1,Fenerbahce TUR,UEFA Europa League
+07.11. 21:00,EL,AZ Alkmaar,3:2,Fenerbahce+1,UEFA Europa League
+07.11. 21:00,EL,AZ Alkmaar+1,4:1,Fenerbahce,UEFA Europa League
+07.11. 21:00,EL,Manchester U. ENG,2:0,PAOK Thessalon GRE,UEFA Europa League
+07.11. 21:00,EL,Manchester United,2:1,PAOK Thessalonik+1,UEFA Europa League
+07.11. 21:00,EL,Hoffenheim GER,2:2,Ol. Lyon FRA,UEFA Europa League
+07.11. 21:00,EL,TSG Hoffenheim+1,3:2,Olympique Lyon,UEFA Europa League
+07.11. 21:00,EL,Lazio Rom ITA,2:1,FC Porto POR,UEFA Europa League
+07.11. 21:00,EL,Lazio Rom,2:2,FC Porto+1,UEFA Europa League
+07.11. 21:00,EL,Dynamo Kiew UKR*,0:4,Ferencvaros HUN,UEFA Europa League
+07.11. 21:00,EL,Rigas Fb.Sk LAT,1:1,RSC Anderlecht BEL,UEFA Europa League
+07.11. 21:00,EL,Ajax Amsterd. NED,5:0,Macc. Tel Aviv ISR,UEFA Europa League
+07.11. 21:00,EL,Vikt. Pilsen CZE,2:1,Real Sociedad ESP,UEFA Europa League
+07.11. 21:00,CON LG,LASK AUT,0:0,Cercle Brügge BEL,UEFA Conference League
+07.11. 21:00,CON LG,LASK,0:1,Cercle Brügge+1,UEFA Conference League
+07.11. 21:00,CON LG,Heart of Midl. SCO,0:2,FC Heidenheim GER,UEFA Conference League
+07.11. 21:00,CON LG,Heart of Midl.+1,1:2,FC Heidenheim,UEFA Conference League
+07.11. 21:00,CON LG,Larne NIR,1:2,FC St. Gallen SUI,UEFA Conference League
+07.11. 21:00,CON LG,APOEL Nikosia CYP,2:1,AC Fiorentina ITA,UEFA Conference League
+07.11. 21:00,CON LG,FC Chelsea ENG,8:0,FC Noah ARM,UEFA Conference League
+07.11. 21:00,CON LG,Djurgardens IF SWE,2:1,Panathinaikos GRE,UEFA Conference League
+07.11. 21:00,CON LG,FC Kopenhagen DEN,2:2,Basaksehir TUR,UEFA Conference League
+07.11. 21:00,CON LG,Jagiellonia B. POL,3:0,Molde FK NOR,UEFA Conference League
+07.11. 21:00,CON LG,Betis Sevilla ESP,2:1,NK Celje SLO,UEFA Conference League
+07.11. 21:00,CON LG,Vit. Guimaraes POR,2:1,Mlada Boleslav CZE,UEFA Conference League
+07.11. 21:00,ENG CS,West Bromwich,0:0,FC Burnley,England Championship
+07.11. 22:45,ARG 1,CA Talleres,1:2,Atletico Lanus,Argentinien Primera Division
+07.11. 23:00,ARG 1,Defensa y Justicia,2:1,Argentinos Juniors,Argentinien Primera Division
+08.11. 02:15,NFL,Baltimore Ravens,35:34,Cincinnati Bengals,USA NFL
