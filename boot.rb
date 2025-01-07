@@ -1,13 +1,9 @@
-$LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-langs/lib' )
-$LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-structs/lib' )
-$LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-catalogs/lib' )
-$LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-formats/lib' )
-$LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-readers/lib' )
-$LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-sync/lib' )
-$LOAD_PATH.unshift( '../../sportdb/sport.db/sportdb-models/lib' )
-require 'sportdb/catalogs'
+$LOAD_PATH.unshift( '/sports/sportdb/sport.db/sportdb-structs/lib' )
+$LOAD_PATH.unshift( '/sports/sportdb/sport.db/sportdb-catalogs/lib' )
+$LOAD_PATH.unshift( '/sports/sportdb/sport.db/sportdb-search/lib' )
+require 'sportdb/search'
 
-SportDb::Import.config.catalog_path = '../../sportdb/sport.db/catalog/catalog.db'
+SportDb::Import.config.catalog_path = '/sports/sportdb/sport.db/catalog/catalog.db'
 
 
 ## dump table stats
@@ -22,5 +18,3 @@ Country = Sports::Country
 ## pp Club
 
 
-
-require 'cocos'

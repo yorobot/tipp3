@@ -53,11 +53,31 @@ league_names = {}   ## lookup league name by league code
 
 MORE_EXCLUDES = [
    'ITACRPO',  #  12  ITACRPO  Italien Serie C, Relegations Playoff
+
+   ## quick hack:
+   ## exclude ambigous ENG 3 for now
+   'ENG 3',
+   'ENG3',
 ]
 
 
-names.each do |name|
-  prog = Programs::Program.read_by( name: name )
+
+## names.each do |name|
+##   prog = Programs::Program.read_by( name: name )
+##   puts "#{prog.size} rec(s) - #{prog.name}:"
+
+
+datasets = Dir.glob( './datasets/*.csv' )
+puts "   #{datasets.size} dataset(s)"
+
+## sort  and use last 5
+datasets = datasets.sort
+pp datasets[-5..-1]
+
+
+datasets[-5..-1].each do |path|
+  prog = Programs::Program.read( path )
+
   puts "#{prog.size} rec(s) - #{prog.name}:"
 
   ## note: skip (exclude) national (selection) teams / matches e.g. wm, em, u21, u20, int fs, etc.
@@ -65,7 +85,10 @@ names.each do |name|
      league_code = rec['League']
      league_name = rec['League Name']
 
+     ## another quick hack - ambigous ENG 3
+     next if league_code == 'ENG 3'
 
+     
       league_names[ league_code ] = league_name
 
        team1 = rec['Team 1']

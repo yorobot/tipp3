@@ -1,0 +1,19 @@
+League GRE 1 (1) - >Griechenland Super League<:
+  Kallithea FC Athen
+League ITA C1C (1) - >Italien, Lega Pro Prima Divisione, Girone C<:
+  Audace Cerignola
+League ENG LTR (1) - >England Football League Trophy<:
+  Aston Villa U21
+League GRE CUP (1) - >Griechenland Cup<:
+  Panachaiki 1891 FC
+League TUR 2 (1) - >Türkei TFF 1. Lig<:
+  Amed SK
+League RSA PL (1) - >Südafrika, Premier League<:
+  Marumo Gallants FC
+League MAR 1 (1) - >Marokko, 1. Liga<:
+  Maghrib Tetouan
+League WAL 1 (1) - >Wales Premier League<:
+  Briton Ferry
+
+
+  

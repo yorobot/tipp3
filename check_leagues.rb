@@ -54,7 +54,12 @@ MORE_EXCLUDES = [
 datasets = Dir.glob( './datasets/*.csv' )
 puts "   #{datasets.size} dataset(s)"
 
-datasets.each do |path|
+## sort  and use last 5
+datasets = datasets.sort
+pp datasets[-5..-1]
+
+
+datasets[-5..-1].each do |path|
   prog = Programs::Program.read( path )
 
    puts "#{prog.size} rec(s) - #{prog.name}:"
@@ -124,6 +129,69 @@ puts "bye"
 
 __END__
 
+dump from jan 7, 2025
+
+sorted - 53 league(s) in 14 program(s):
+  OK      51 ENG PL   England Premier League   --  Premier League, England (ENG)
+  OK      48 ENG CS   England Championship   --  Championship, England (ENG)
+  OK      38 ITA A    Italien Serie A   --  Serie A, Italy (ITA)
+  OK      25 ESP 1    Spanien La Liga   --  Primera División, Spain (ESP)
+  OK      23 UEFA CONF UEFA Conference League   --  UEFA Conference League
+  OK      21 GER BL   Deutschland Bundesliga   --  Bundesliga, Germany (GER)
+  OK      19 POR 1    Portugal Primeira Liga   --  Primeira Liga, Portugal (POR)
+  OK      18 GER 2    Deutschland 2. Bundesliga   --  2. Bundesliga, Germany (GER)
+  OK      17 FRA 1    Frankreich Ligue 1   --  Ligue 1, France (FRA)
+  OK      16 SCO PS   Schottland Premiership   --  Premiership, Scotland (SCO)
+  OK      14 BEL 1    Belgien Jupiler Pro League   --  First Division A, Belgium (BEL)
+  OK      13 ESP 2    Spanien Segunda Division   --  Segunda División, Spain (ESP)
+  OK      13 TUR 1    Türkei Süper Lig   --  Süper Lig, Turkey (TUR)
+  OK       9 FRA 2    Frankreich Ligue 2   --  Ligue 2, France (FRA)
+  OK       9 NL 2     Niederlande Jupiler League   --  Eerste Divisie, Netherlands (NED)
+  OK       9 SCO CS   Schottland Championship   --  Championship, Scotland (SCO)
+  OK       8 ENG LC   England - EFL Cup   --  EFL Cup, England (ENG)
+  OK       7 ITA CUP  Coppa Italia   --  Coppa Italia, Italy (ITA)
+  OK       6 GER 3    Deutschland 3. Liga   --  3. Liga, Germany (GER)
+  OK       5 CYP 1    Zypern 1. Division   --  First Division, Cyprus (CYP)
+  OK       5 EGY 1    Ägypten Premier League   --  Premiership, Egypt (EGY)
+  OK       5 ESP CUP  Spanien Copa del Rey   --  Copa del Rey, Spain (ESP)
+  OK       5 ISR 1    Israel Premier League   --  Premier League, Israel (ISR)
+  OK       5 NL 1     Niederlande Eredivisie   --  Eredivisie, Netherlands (NED)
+  OK       5 NL CUP   Niederlande KNVB Cup   --  Cup, Netherlands (NED)
+ !! ambigious (multiple) matches (2)[<League CLUBS: League One, England (ENG)>, 
+                                     <League CLUBS: League Two, England (ENG)>]
+     4 ENG 3    England League One
+  OK       4 FRA CUP  Frankreich Coupe de France   --  Coupe de France, France (FRA)
+  OK       4 GRE 1    Griechenland Super League   --  Super League, Greece (GRE)
+  OK       4 ROU CUP  Rumänien Cup   --  Cup, Romania (ROU)
+  OK       4 WAL 1    Wales Premier League   --  Premier League, Wales (WAL)
+  OK       3 GRE CUP  Griechenland Cup   --  Greek Cup, Greece (GRE)
+  OK       2 AUT BL   Österreich Bundesliga   --  Bundesliga, Austria (AUT)
+  OK       2 ENG LTR  England Football League Trophy   --  EFL Trophy, England (ENG)
+  OK       2 ITA B    Italien Serie B   --  Serie B, Italy (ITA)
+  OK       2 ITA C1C  Italien, Lega Pro Prima Divisione, Girone C   --  Serie C (South), Italy (ITA)
+  OK       2 ITA SC   Italien Supercoppa   --  Supercoppa Italiana, Italy (ITA)
+  OK       2 NIRL 1   Nordirland JJB Sports Premiership   --  Premiership, Northern Ireland (NIR)
+  OK       2 POR 2    Portugal Segunda Liga   --  Segunda Liga, Portugal (POR)
+  OK       2 ROU 1    Rumänien Liga 1   --  Liga 1, Romania (ROU)
+  OK       2 RSA PL   Südafrika, Premier League   --  Premier League, South Africa (RSA)
+  OK       2 SERB 1   Serbien Meridijan Superliga   --  Super League, Serbia (SRB)
+  OK       2 TUR 2    Türkei TFF 1. Lig   --  1. Lig, Turkey (TUR)
+  OK       1 BUL 1    Bulgarien Premier League   --  Premier League, Bulgaria (BUL)
+  OK       1 CRO 1    Kroatien 1. HNL   --  HNL, Croatia (CRO)
+  OK       1 DEN CUP  Dänemark Landspokalturneringen   --  Landspokalturneringen, Denmark (DEN)
+  OK       1 FRA SC   Frankreich Trophée des Champions   --  Trophée des Champions, France (FRA)
+  OK       1 ISR LCP  Israel, League Cup Premier   --  League Cup Premier, Israel (ISR)
+  OK       1 MAR 1    Marokko, 1. Liga   --  Botola, Morocco (MAR)
+  OK       1 NIRL LC  Nordirland CO-Operative Insurance Cup   --  League Cup, Northern Ireland (NIR)
+  OK       1 POR CUP  Portugal Taca de Portugal   --  Taça de Portugal, Portugal (POR)
+  OK       1 SCO 1    Schottland League One   --  Premiership, Scotland (SCO)
+  OK       1 SCO LC   Schottland League Cup   --  League Cup, Scotland (SCO)
+  OK       1 SUI SL   Schweiz Super League   --  Super League, Switzerland (SUI)
+
+
+
+
+----
 sorted - 81 league(s) in 5 program(s):
         44 ESP 1    Spanien La Liga
         30 AUT 2    Österreich Zweite Liga
