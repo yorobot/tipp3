@@ -20,17 +20,17 @@ Date,League,Team 1,Score,Team 2,League Name
 09.07. 02:00,BRA 2,Amazonas FC AM,1:2,Vila Nova GO,Brasilien Brasilero Serie B
 09.07. 14:30,TEN ATP,"Sinner, Jannik",2:3,"Medvedev, Daniil",Tennis ATP
 09.07. 16:40,TEN ATP,"Alcaraz, Carlos",3:1,"Paul, Tommy",Tennis ATP
-09.07. 17:30,CL Q,FK Panevezys LTU,3:0,HJK Helsinki FIN,"UEFA Champions League, Qualifikation"
-09.07. 18:45,CL Q,Hamrun Spartan MLT,0:1,Lincoln FC GIB,"UEFA Champions League, Qualifikation"
-09.07. 20:00,CL Q,Santa Coloma AND,1:2,FC Ballkani KOS,"UEFA Champions League, Qualifikation"
-09.07. 20:00,CL Q,The New Saints WAL,3:0,FK Decic Tuzi MNE,"UEFA Champions League, Qualifikation"
-09.07. 20:45,CL Q,Vikingur Reykj ISL,0:0,Shamrock IRL,"UEFA Champions League, Qualifikation"
+09.07. 17:30,CL,FK Panevezys LTU,3:0,HJK Helsinki FIN,UEFA Champions League
+09.07. 18:45,CL,Hamrun Spartan MLT,0:1,Lincoln FC GIB,UEFA Champions League
+09.07. 20:00,CL,Santa Coloma AND,1:2,FC Ballkani KOS,UEFA Champions League
+09.07. 20:00,CL,The New Saints WAL,3:0,FK Decic Tuzi MNE,UEFA Champions League
+09.07. 20:45,CL,Vikingur Reykj ISL,0:0,Shamrock IRL,UEFA Champions League
 09.07. 21:00,EM,Spanien,2:1,Frankreich,Europameisterschaft
 09.07. 21:00,EM,Spanien,2:2,Frankreich+1,Europameisterschaft
 09.07. 21:00,EM,Spanien+1,3:1,Frankreich,Europameisterschaft
 09.07. 21:00,EM,1.HZ Spanien,2:1,1.HZ Frankreich,Europameisterschaft
 09.07. 21:00,EM,HZ/T Spanien,2:1,HZ/T Frankreich,Europameisterschaft
-09.07. 21:00,CL Q,AC Virtus SMR,1:7,FCS Bukarest ROU,"UEFA Champions League, Qualifikation"
+09.07. 21:00,CL,AC Virtus SMR,1:7,FCS Bukarest ROU,UEFA Champions League
 10.07. 02:00,COPA AM,Argentinien,2:0,Kanada,Copa America
 10.07. 02:00,COPA AM,Argentinien,2:1,Kanada+1,Copa America
 10.07. 02:00,BRA 2,Mirassol FC SP,1:0,CR Brasil AL,Brasilien Brasilero Serie B
@@ -42,60 +42,60 @@ Date,League,Team 1,Score,Team 2,League Name
 10.07. 12:00,JPN CUP,Kyoto Sanga FC*,3:1,Shimizu S-Pulse,Japan Emperor Cup
 10.07. 12:00,JPN CUP,Kawasaki Frontale*,1:3,Oita Trinita,Japan Emperor Cup
 10.07. 12:00,JPN CUP,Kashima Antlers*,2:1,Fujieda Myfc,Japan Emperor Cup
-10.07. 12:00,JPN CUP,Hokkaido Consadol*,6:3,Montedio Yamagata,Japan Emperor Cup
+10.07. 12:00,JPN CUP,Consadole Sapporo*,6:3,Montedio Yamagata,Japan Emperor Cup
 10.07. 12:00,JPN CUP,Gamba Osaka*,2:1,Tegevajaro Miyazak,Japan Emperor Cup
-10.07. 12:00,JPN CUP,FC Tokyo*,1:1,JEF Utd Ichihara,Japan Emperor Cup
+10.07. 12:00,JPN CUP,FC Tokyo*,1:1,Jef U. Ichihara Ch,Japan Emperor Cup
 10.07. 12:00,JPN CUP,Cerezo Osaka*,1:1,Ventforet Kofu,Japan Emperor Cup
 10.07. 12:00,JPN CUP,Avispa Fukuoka*,0:2,Ehime FC,Japan Emperor Cup
 10.07. 12:00,JPN CUP,Albirex Niigata*,1:6,V-Varen Nagasaki,Japan Emperor Cup
 10.07. 15:45,TEN ATP,"De Minaur, Alex",abgesagt,"Djokovic, Novak",Tennis ATP
 10.07. 16:10,TEN ATP,"Musetti, Lorenzo",3:2,"Fritz, Taylor",Tennis ATP
-10.07. 17:00,CL Q,Ordabassy Sch. KAZ,0:0,FC Petrocub MDA,"UEFA Champions League, Qualifikation"
-10.07. 17:30,FIN 2,Jippo,3:2,Järvenpään PS,Finnland Ykkosliiga
-10.07. 18:00,CL Q,Flora Tallinn EST,0:5,NK Celje SLO,"UEFA Champions League, Qualifikation"
-10.07. 19:00,CL Q,Rigas Fb.Sk LAT,3:0,Larne NIR,"UEFA Champions League, Qualifikation"
-10.07. 19:00,CL Q,Slov. Bratisl. SVK,4:2,Struga Trim MKD,"UEFA Champions League, Qualifikation"
-10.07. 20:00,CL Q,Ludogorets BUL,3:1,Dinamo Batumi GEO,"UEFA Champions League, Qualifikation"
-10.07. 20:00,CL Q,KI Klaksvik FRO,2:0,Differdange FC LUX,"UEFA Champions League, Qualifikation"
-10.07. 20:00,CON LGQ,FK Velez Mosta BIH,1:1,Inter Escaldes AND,UEFA Conference League Qualifikation
-10.07. 20:45,CL Q,Dinamo Minsk BLR*,0:0,Pyunik Yerevan ARM,"UEFA Champions League, Qualifikation"
+10.07. 17:00,CL,Ordabassy Sch. KAZ,0:0,FC Petrocub MDA,UEFA Champions League
+10.07. 17:30,FIN 2,JIPPO Joensuu,3:2,Järvenpään PS,Finnland Ykkosliiga
+10.07. 18:00,CL,Flora Tallinn EST,0:5,NK Celje SLO,UEFA Champions League
+10.07. 19:00,CL,Rigas Fb.Sk LAT,3:0,Larne NIR,UEFA Champions League
+10.07. 19:00,CL,Slov. Bratisl. SVK,4:2,Struga Trim MKD,UEFA Champions League
+10.07. 20:00,CL,Ludogorets BUL,3:1,Dinamo Batumi GEO,UEFA Champions League
+10.07. 20:00,CL,KI Klaksvik FRO,2:0,Differdange FC LUX,UEFA Champions League
+10.07. 20:00,CON LG,FK Velez Mosta BIH,1:1,Inter Escaldes AND,UEFA Conference League
+10.07. 20:45,CL,Dinamo Minsk BLR*,0:0,Pyunik Yerevan ARM,UEFA Champions League
 10.07. 21:00,EM,Niederlande,1:2,England,Europameisterschaft
 10.07. 21:00,EM,Niederlande,1:3,England+1,Europameisterschaft
 10.07. 21:00,EM,Niederlande+1,2:2,England,Europameisterschaft
 10.07. 21:00,EM,1.HZ Niederlande,1:2,1.HZ England,Europameisterschaft
 10.07. 21:00,EM,HZ/T Niederlande,1:2,HZ/T England,Europameisterschaft
-10.07. 21:00,CL Q,Borac Banja L. BIH,1:0,KF Egnatia Rro ALB,"UEFA Champions League, Qualifikation"
-10.07. 21:00,CON LGQ,FK Auda Riga LAT,2:0,B36 Torshavn FRO,UEFA Conference League Qualifikation
+10.07. 21:00,CL,Borac Banja L. BIH,1:0,KF Egnatia Rro ALB,UEFA Champions League
+10.07. 21:00,CON LG,FK Auda Riga LAT,2:0,B36 Torshavn FRO,UEFA Conference League
 11.07. 00:00,BRA 1,CA Paranaense,1:3,EC Bahia BA,Brasilien Brasilero Serie A
 11.07. 00:00,BRA 1,Vasco Da Gama RJ,2:0,Corinthians SP,Brasilien Brasilero Serie A
 11.07. 00:00,BRA CUP,Internacional RS,1:2,EC Juventude RS,Brasilien Cup
 11.07. 02:00,COPA AM,Uruguay,0:1,Kolumbien,Copa America
 11.07. 02:00,COPA AM,Uruguay,0:2,Kolumbien+1,Copa America
 11.07. 03:00,USOPCUP,Sp. Kansas City,1:1,FC Dallas,USA US Open Cup
-11.07. 17:00,CON LGQ,FK Aktobe KAZ,0:1,FK Sarajevo BIH,UEFA Conference League Qualifikation
-11.07. 17:00,CON LGQ,FA Siauliai LTU,0:2,Levadia Tall. EST,UEFA Conference League Qualifikation
-11.07. 18:00,CON LGQ,NK Bravo SLO,0:1,Connah's Quay WAL,UEFA Conference League Qualifikation
-11.07. 18:00,CON LGQ,FCB Magpies GIB,2:0,FC Derry City IRL,UEFA Conference League Qualifikation
+11.07. 17:00,CON LG,FK Aktobe KAZ,0:1,FK Sarajevo BIH,UEFA Conference League
+11.07. 17:00,CON LG,FA Siauliai LTU,0:2,Levadia Tall. EST,UEFA Conference League
+11.07. 18:00,CON LG,NK Bravo SLO,0:1,Connah's Quay WAL,UEFA Conference League
+11.07. 18:00,CON LG,FCB Magpies GIB,2:0,FC Derry City IRL,UEFA Conference League
 11.07. 18:00,FIN 2,Mikkelin Pall.,2:6,Käpylän Pallo,Finnland Ykkosliiga
-11.07. 19:00,EL Q,MFK Ruzomberok SVK,5:2,Tobol Kostanay KAZ,"UEFA Europa League, Qualifikation"
-11.07. 19:00,EL Q,FC Sheriff T. MDA,0:1,Zira FK AZE,"UEFA Europa League, Qualifikation"
-11.07. 19:00,EL Q,Paksi FC HUN,0:4,Corv. Hunedoar ROU,"UEFA Europa League, Qualifikation"
-11.07. 19:00,EL Q,IF Elfsborg SWE,3:0,FC Pafos CYP,"UEFA Europa League, Qualifikation"
-11.07. 19:00,CON LGQ,Vaasa PS FIN,1:2,Zalg. Vilnius LTU,UEFA Conference League Qualifikation
-11.07. 19:00,CON LGQ,UNA Strassen LUX,0:0,Kuopio PS FIN,UEFA Conference League Qualifikation
-11.07. 19:00,CON LGQ,Torp. Kutaisi GEO,1:1,KF Tirana ALB,UEFA Conference League Qualifikation
-11.07. 19:00,CON LGQ,Torp. Zhodino BLR*,2:4,FC Milsami MDA,UEFA Conference League Qualifikation
-11.07. 19:30,CON LGQ,Caernarfon WAL,2:0,Crusaders NIR,UEFA Conference League Qualifikation
+11.07. 19:00,EL,MFK Ruzomberok SVK,5:2,Tobol Kostanay KAZ,UEFA Europa League
+11.07. 19:00,EL,FC Sheriff T. MDA,0:1,Zira FK AZE,UEFA Europa League
+11.07. 19:00,EL,Paksi FC HUN,0:4,Corv. Hunedoar ROU,UEFA Europa League
+11.07. 19:00,EL,IF Elfsborg SWE,3:0,FC Pafos CYP,UEFA Europa League
+11.07. 19:00,CON LG,Vaasa PS FIN,1:2,Zalg. Vilnius LTU,UEFA Conference League
+11.07. 19:00,CON LG,UNA Strassen LUX,0:0,Kuopio PS FIN,UEFA Conference League
+11.07. 19:00,CON LG,Torp. Kutaisi GEO,1:1,KF Tirana ALB,UEFA Conference League
+11.07. 19:00,CON LG,Torp. Zhodino BLR*,2:4,FC Milsami MDA,UEFA Conference League
+11.07. 19:30,CON LG,Caernarfon WAL,2:0,Crusaders NIR,UEFA Conference League
 11.07. 19:30,FS KLUB,LASK AUT,3:2,Galatasaray TUR,Klub-Freundschaftsspiele International
-11.07. 20:00,EL Q,Botev Plovdiv BUL,2:1,NK Maribor SLO,"UEFA Europa League, Qualifikation"
-11.07. 20:00,CON LGQ,Partiz.Tirana ALB*,1:1,Marsaxlokk FC MLT,UEFA Conference League Qualifikation
-11.07. 20:00,CON LGQ,Bala Town WAL,1:2,Paide Linnam. EST,UEFA Conference League Qualifikation
+11.07. 20:00,EL,Botev Plovdiv BUL,2:1,NK Maribor SLO,UEFA Europa League
+11.07. 20:00,CON LG,Partiz.Tirana ALB*,1:1,Marsaxlokk FC MLT,UEFA Conference League
+11.07. 20:00,CON LG,Bala Town WAL,1:2,Paide Linnam. EST,UEFA Conference League
 11.07. 20:00,ISL 2,Throttur Reykjavik,2:1,IBV Vestmannaeyjar,Island 2. Liga
-11.07. 20:30,CON LGQ,GFK Tikvesh 19 MKD,3:2,Breidablik ISL,UEFA Conference League Qualifikation
-11.07. 20:30,EL Q,Wisla Krakau POL,2:0,KF Llapi KOS,"UEFA Europa League, Qualifikation"
-11.07. 20:45,CON LGQ,Shelbourne IRL,2:1,St. Joseph's GIB,UEFA Conference League Qualifikation
-11.07. 21:00,CON LGQ,Stjarnan Gard. ISL,2:0,FC Linfield NIR,UEFA Conference League Qualifikation
-11.07. 21:00,CON LGQ,Valur Reykj. ISL,2:2,Vllaznia Shkod ALB,UEFA Conference League Qualifikation
+11.07. 20:30,CON LG,GFK Tikvesh 19 MKD,3:2,Breidablik ISL,UEFA Conference League
+11.07. 20:30,EL,Wisla Krakau POL,2:0,KF Llapi KOS,UEFA Europa League
+11.07. 20:45,CON LG,Shelbourne IRL,2:1,St. Joseph's GIB,UEFA Conference League
+11.07. 21:00,CON LG,Stjarnan Gard. ISL,2:0,FC Linfield NIR,UEFA Conference League
+11.07. 21:00,CON LG,Valur Reykj. ISL,2:2,Vllaznia Shkod ALB,UEFA Conference League
 11.07. 21:15,ISL 1,Fram Reykjavik,1:0,KR Reykjavik,Island Bestadeild
 11.07. 21:15,ISL 2,Leiknir Reykjavik,0:1,Fjölnir,Island 2. Liga
 11.07. 21:15,ISL 2,Keflavik IF,2:1,Grotta,Island 2. Liga

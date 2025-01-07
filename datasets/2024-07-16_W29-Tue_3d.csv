@@ -1,10 +1,10 @@
 Date,League,Team 1,Score,Team 2,League Name
 16.07. 16:30,U19 EM,Dänemark U19,1:2,Spanien U19,U19 Europameisterschaft
 16.07. 16:30,U19 EM,Dänemark U19+1,2:2,Spanien U19,U19 Europameisterschaft
-16.07. 16:30,CL Q,FC Ballkani KOS,0:1,Santa Coloma AND,"UEFA Champions League, Qualifikation"
-16.07. 18:00,CL Q,Lincoln FC GIB,0:1,Hamrun Spartan MLT,"UEFA Champions League, Qualifikation"
-16.07. 18:00,CL Q,Pyunik Yerevan ARM,0:1,Dinamo Minsk BLR,"UEFA Champions League, Qualifikation"
-16.07. 18:00,CL Q,HJK Helsinki FIN,1:1,FK Panevezys LTU,"UEFA Champions League, Qualifikation"
+16.07. 16:30,CL,FC Ballkani KOS,0:1,Santa Coloma AND,UEFA Champions League
+16.07. 18:00,CL,Lincoln FC GIB,0:1,Hamrun Spartan MLT,UEFA Champions League
+16.07. 18:00,CL,Pyunik Yerevan ARM,0:1,Dinamo Minsk BLR,UEFA Champions League
+16.07. 18:00,CL,HJK Helsinki FIN,1:1,FK Panevezys LTU,UEFA Champions League
 16.07. 19:00,EMQFR,Deutschland Frauen,4:0,Österreich Frauen,"EM Qualifikation, Frauen"
 16.07. 19:00,EMQFR,Deutschland Frauen,4:1,Österreich F+1,"EM Qualifikation, Frauen"
 16.07. 19:00,EMQFR,Polen Frauen,0:1,Island Frauen,"EM Qualifikation, Frauen"
@@ -29,29 +29,29 @@ Date,League,Team 1,Score,Team 2,League Name
 16.07. 20:45,SCO LC,FC Montrose,1:1,FC Motherwell,Schottland League Cup
 16.07. 20:45,SCO LC,Hamilton FC,0:0,Stirling Albion,Schottland League Cup
 16.07. 20:45,SCO LC,FC Raith Rovers,2:1,FC Stranraer,Schottland League Cup
-16.07. 21:00,CL Q,Shamrock IRL,2:1,Vikingur Reykj ISL,"UEFA Champions League, Qualifikation"
-16.07. 21:00,CL Q,FK Decic Tuzi MNE,1:1,The New Saints WAL,"UEFA Champions League, Qualifikation"
+16.07. 21:00,CL,Shamrock IRL,2:1,Vikingur Reykj ISL,UEFA Champions League
+16.07. 21:00,CL,FK Decic Tuzi MNE,1:1,The New Saints WAL,UEFA Champions League
 17.07. 00:00,BRA 1,EC Juventude RS,1:1,Atletico MG,Brasilien Brasilero Serie A
 17.07. 00:00,COPA S,Huachipato CHI,2:3,RC Montevideo URU,Copa Sudamericana
 17.07. 02:00,BRA 1,Corinthians SP,2:1,Criciuma EC SC,Brasilien Brasilero Serie A
 17.07. 02:30,COPA S,Rosario Cen. ARG,1:0,Internacional BRA,Copa Sudamericana
 17.07. 03:00,MEX 1,CF Pachuca,2:0,San Luis,Mexiko Primera Division
 17.07. 05:05,MEX 1,Cruz Azul,3:0,Club Tijuana,Mexiko Primera Division
-17.07. 17:00,CL Q,Struga Trim MKD,1:2,Slov. Bratisl. SVK,"UEFA Champions League, Qualifikation"
-17.07. 17:00,CL Q,Struga Trim Lum+1,2:2,Slovan Bratislava,"UEFA Champions League, Qualifikation"
+17.07. 17:00,CL,Struga Trim MKD,1:2,Slov. Bratisl. SVK,UEFA Champions League
+17.07. 17:00,CL,Struga Trim Lum+1,2:2,Slovan Bratislava,UEFA Champions League
 17.07. 17:30,FIN 2,SalPa,2:1,SJK Akatemia,Finnland Ykkosliiga
 17.07. 17:30,FIN 2,FC KTP,1:2,Turun Palloseura,Finnland Ykkosliiga
-17.07. 17:30,FIN 2,Käpylän Pallo,1:4,Jippo,Finnland Ykkosliiga
+17.07. 17:30,FIN 2,Käpylän Pallo,1:4,JIPPO Joensuu,Finnland Ykkosliiga
 17.07. 17:30,FIN 2,PK-35 Helsinki,2:1,FF Jaro,Finnland Ykkosliiga
 17.07. 17:30,FIN 2,Järvenpään PS,1:1,Mikkelin Pall.,Finnland Ykkosliiga
 17.07. 18:00,FS KLUB,RB Salzburg AUT*,1:0,HNK Rijeka CRO,Klub-Freundschaftsspiele International
-17.07. 19:00,CL Q,Dinamo Batumi GEO,1:0,Ludogorets BUL,"UEFA Champions League, Qualifikation"
-17.07. 19:00,CL Q,Differdange FC LUX,0:0,KI Klaksvik FRO,"UEFA Champions League, Qualifikation"
-17.07. 19:00,CL Q,FC Petrocub MDA,1:0,Ordabassy Sch. KAZ,"UEFA Champions League, Qualifikation"
-17.07. 19:00,CON LGQ,B36 Torshavn FRO,0:1,FK Auda Riga LAT,UEFA Conference League Qualifikation
-17.07. 20:45,CON LGQ,Crusaders NIR,3:1,Caernarfon WAL,UEFA Conference League Qualifikation
-17.07. 21:00,CL Q,Larne NIR,0:4,Rigas Fb.Sk LAT,"UEFA Champions League, Qualifikation"
-17.07. 21:00,CL Q,KF Egnatia Rro ALB,2:1,Borac Banja L. BIH,"UEFA Champions League, Qualifikation"
+17.07. 19:00,CL,Dinamo Batumi GEO,1:0,Ludogorets BUL,UEFA Champions League
+17.07. 19:00,CL,Differdange FC LUX,0:0,KI Klaksvik FRO,UEFA Champions League
+17.07. 19:00,CL,FC Petrocub MDA,1:0,Ordabassy Sch. KAZ,UEFA Champions League
+17.07. 19:00,CON LG,B36 Torshavn FRO,0:1,FK Auda Riga LAT,UEFA Conference League
+17.07. 20:45,CON LG,Crusaders NIR,3:1,Caernarfon WAL,UEFA Conference League
+17.07. 21:00,CL,Larne NIR,0:4,Rigas Fb.Sk LAT,UEFA Champions League
+17.07. 21:00,CL,KF Egnatia Rro ALB,2:1,Borac Banja L. BIH,UEFA Champions League
 18.07. 00:00,COPA S,Club Libertad PAR,2:0,CD Catolica ECU,Copa Sudamericana
 18.07. 00:00,BRA 1,Atletico GO,0:1,Vasco Da Gama RJ,Brasilien Brasilero Serie A
 18.07. 01:00,BRA 1,Sao Paulo SP,1:0,Gremio RS,Brasilien Brasilero Serie A
@@ -68,7 +68,7 @@ Date,League,Team 1,Score,Team 2,League Name
 18.07. 02:30,USA MLS,Nashville SC,0:3,Orlando City SC,USA Major League Soccer
 18.07. 02:30,USA MLS,FC Minnesota Utd.,2:3,DC United,USA Major League Soccer
 18.07. 02:30,USA MLS,FC Dallas,3:1,Austin FC,USA Major League Soccer
-18.07. 03:00,MEX 1,Necaxa,0:1,CF Monterrey,Mexiko Primera Division
+18.07. 03:00,MEX 1,Club Necaxa,0:1,CF Monterrey,Mexiko Primera Division
 18.07. 03:06,MEX 1,FC Juarez,1:2,UNAM Pumas,Mexiko Primera Division
 18.07. 04:30,USA MLS,Vancouver W'caps,2:1,Sp. Kansas City,USA Major League Soccer
 18.07. 04:30,USA MLS,Seattle Sounders,2:0,Saint Louis City,USA Major League Soccer
@@ -78,38 +78,38 @@ Date,League,Team 1,Score,Team 2,League Name
 18.07. 05:00,MEX 1,UANL Tigres,1:0,Club America,Mexiko Primera Division
 18.07. 05:00,MEX 1,Deportivo Toluca,3:0,Mazatlan FC,Mexiko Primera Division
 18.07. 16:30,U19 EM,Norwegen U19,0:0,Ukraine U19,U19 Europameisterschaft
-18.07. 16:30,EL Q,KF Llapi KOS,1:2,Wisla Krakau POL,"UEFA Europa League, Qualifikation"
-18.07. 17:00,EL Q,Tobol Kostanay KAZ,1:0,MFK Ruzomberok SVK,"UEFA Europa League, Qualifikation"
-18.07. 17:00,CON LGQ,FC Urartu ARM,2:0,JK Tallinna Ka EST,UEFA Conference League Qualifikation
-18.07. 17:00,CON LGQ,Kuopio PS FIN,5:0,UNA Strassen LUX,UEFA Conference League Qualifikation
-18.07. 18:00,EL Q,Zira FK AZE,1:2,FC Sheriff T. MDA,"UEFA Europa League, Qualifikation"
-18.07. 18:00,EL Q,FC Pafos CYP,2:5,IF Elfsborg SWE,"UEFA Europa League, Qualifikation"
-18.07. 18:00,CON LGQ,Zalg. Vilnius LTU,1:0,Vaasa PS FIN,UEFA Conference League Qualifikation
-18.07. 18:00,CON LGQ,St. Joseph's GIB,1:1,Shelbourne IRL,UEFA Conference League Qualifikation
-18.07. 18:00,CON LGQ,FC Milsami MDA,0:0,Torp. Zhodino BLR,UEFA Conference League Qualifikation
-18.07. 18:00,CON LGQ,Inter Escaldes AND,5:1,FK Velez Mosta BIH,UEFA Conference League Qualifikation
-18.07. 18:00,CON LGQ,Levadia Tall. EST,0:0,FA Siauliai LTU,UEFA Conference League Qualifikation
-18.07. 18:30,CON LGQ,Paide Linnam. EST,0:1,Bala Town WAL,UEFA Conference League Qualifikation
-18.07. 19:00,CON LGQ,Dinamo Tiflis GEO,1:1,FK Mornar Bar MNE,UEFA Conference League Qualifikation
-18.07. 19:00,CON LGQ,F91 Dudelange LUX,2:0,AC Escaldes AND,UEFA Conference League Qualifikation
-18.07. 19:00,CON LGQ,Marsaxlokk FC MLT,1:2,Partiz.Tirana ALB,UEFA Conference League Qualifikation
-18.07. 19:30,CON LGQ,Connah's Quay WAL,0:1,NK Bravo SLO,UEFA Conference League Qualifikation
-18.07. 19:30,CON LGQ,Isloch BLR*,0:1,SP La Fiorita SMR,UEFA Conference League Qualifikation
-18.07. 20:00,CON LGQ,Shk.Tetovo MKD,1:2,FC Noah ARM,UEFA Conference League Qualifikation
-18.07. 20:00,CON LGQ,KF Tirana ALB,0:1,Torp. Kutaisi GEO,UEFA Conference League Qualifikation
-18.07. 20:00,CON LGQ,Vikingur Gota FRO,2:0,FK Liepaja LAT,UEFA Conference League Qualifikation
+18.07. 16:30,EL,KF Llapi KOS,1:2,Wisla Krakau POL,UEFA Europa League
+18.07. 17:00,EL,Tobol Kostanay KAZ,1:0,MFK Ruzomberok SVK,UEFA Europa League
+18.07. 17:00,CON LG,FC Urartu ARM,2:0,JK Tallinna Ka EST,UEFA Conference League
+18.07. 17:00,CON LG,Kuopio PS FIN,5:0,UNA Strassen LUX,UEFA Conference League
+18.07. 18:00,EL,Zira FK AZE,1:2,FC Sheriff T. MDA,UEFA Europa League
+18.07. 18:00,EL,FC Pafos CYP,2:5,IF Elfsborg SWE,UEFA Europa League
+18.07. 18:00,CON LG,Zalg. Vilnius LTU,1:0,Vaasa PS FIN,UEFA Conference League
+18.07. 18:00,CON LG,St. Joseph's GIB,1:1,Shelbourne IRL,UEFA Conference League
+18.07. 18:00,CON LG,FC Milsami MDA,0:0,Torp. Zhodino BLR,UEFA Conference League
+18.07. 18:00,CON LG,Inter Escaldes AND,5:1,FK Velez Mosta BIH,UEFA Conference League
+18.07. 18:00,CON LG,Levadia Tall. EST,0:0,FA Siauliai LTU,UEFA Conference League
+18.07. 18:30,CON LG,Paide Linnam. EST,0:1,Bala Town WAL,UEFA Conference League
+18.07. 19:00,CON LG,Dinamo Tiflis GEO,1:1,FK Mornar Bar MNE,UEFA Conference League
+18.07. 19:00,CON LG,F91 Dudelange LUX,2:0,AC Escaldes AND,UEFA Conference League
+18.07. 19:00,CON LG,Marsaxlokk FC MLT,1:2,Partiz.Tirana ALB,UEFA Conference League
+18.07. 19:30,CON LG,Connah's Quay WAL,0:1,NK Bravo SLO,UEFA Conference League
+18.07. 19:30,CON LG,Isloch BLR*,0:1,SP La Fiorita SMR,UEFA Conference League
+18.07. 20:00,CON LG,Shk.Tetovo MKD,1:2,FC Noah ARM,UEFA Conference League
+18.07. 20:00,CON LG,KF Tirana ALB,0:1,Torp. Kutaisi GEO,UEFA Conference League
+18.07. 20:00,CON LG,Vikingur Gota FRO,2:0,FK Liepaja LAT,UEFA Conference League
 18.07. 20:00,U19 EM,Nordirland U19,0:3,Italien U19,U19 Europameisterschaft
 18.07. 20:00,U19 EM,Nordirland U19+1,1:3,Italien U19,U19 Europameisterschaft
 18.07. 20:00,ISL 2,Fjölnir,5:1,UMF Grindavik,Island 2. Liga
-18.07. 20:00,EL Q,Corv. Hunedoar ROU,0:2,Paksi FC HUN,"UEFA Europa League, Qualifikation"
-18.07. 20:15,EL Q,NK Maribor SLO,2:2,Botev Plovdiv BUL,"UEFA Europa League, Qualifikation"
-18.07. 20:30,CON LGQ,Vllaznia Shkod ALB,0:4,Valur Reykj. ISL,UEFA Conference League Qualifikation
-18.07. 20:45,CON LGQ,FC Linfield NIR,3:2,Stjarnan Gard. ISL,UEFA Conference League Qualifikation
-18.07. 20:45,CON LGQ,FC Derry City IRL,2:0,FCB Magpies GIB,UEFA Conference League Qualifikation
-18.07. 20:45,CON LGQ,SP Tre Penne SMR,1:1,Floriana FC MLT,UEFA Conference League Qualifikation
-18.07. 21:00,CON LGQ,FK Sarajevo BIH,1:2,FK Aktobe KAZ,UEFA Conference League Qualifikation
-18.07. 21:00,CON LGQ,B.Podgorica MNE,3:0,KF Malisheva,UEFA Conference League Qualifikation
-18.07. 21:15,CON LGQ,Breidablik ISL,3:1,GFK Tikvesh 19 MKD,UEFA Conference League Qualifikation
+18.07. 20:00,EL,Corv. Hunedoar ROU,0:2,Paksi FC HUN,UEFA Europa League
+18.07. 20:15,EL,NK Maribor SLO,2:2,Botev Plovdiv BUL,UEFA Europa League
+18.07. 20:30,CON LG,Vllaznia Shkod ALB,0:4,Valur Reykj. ISL,UEFA Conference League
+18.07. 20:45,CON LG,FC Linfield NIR,3:2,Stjarnan Gard. ISL,UEFA Conference League
+18.07. 20:45,CON LG,FC Derry City IRL,2:0,FCB Magpies GIB,UEFA Conference League
+18.07. 20:45,CON LG,SP Tre Penne SMR,1:1,Floriana FC MLT,UEFA Conference League
+18.07. 21:00,CON LG,FK Sarajevo BIH,1:2,FK Aktobe KAZ,UEFA Conference League
+18.07. 21:00,CON LG,B.Podgorica MNE,3:0,KF Malisheva,UEFA Conference League
+18.07. 21:15,CON LG,Breidablik ISL,3:1,GFK Tikvesh 19 MKD,UEFA Conference League
 18.07. 21:15,ISL 2,UMF Njardvik,3:2,Leiknir Reykjavik,Island 2. Liga
 18.07. 21:15,ISL 2,IR Reykjavik,0:1,Keflavik IF,Island 2. Liga
 18.07. 21:15,ISL 2,Grotta,1:4,Afturelding,Island 2. Liga

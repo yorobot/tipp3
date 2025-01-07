@@ -1,21 +1,21 @@
 Date,League,Team 1,Score,Team 2,League Name
 23.07. 13:55,TEN ATP,"Ofner, Sebastian",1:2,"Neumayer, Lukas",Tennis ATP
-23.07. 17:00,CL Q,Bodö Glimt NOR,4:0,Rigas Fb.Sk LAT,"UEFA Champions League, Qualifikation"
-23.07. 17:30,CL Q,FK Panevezys LTU,0:4,Jagiellonia B. POL,"UEFA Champions League, Qualifikation"
-23.07. 18:00,CL Q,Lincoln FC GIB,0:2,Qarabag FK AZE,"UEFA Champions League, Qualifikation"
-23.07. 18:00,CON LGQ,FC Ballkani KOS,0:0,Hamrun Spartan MLT,UEFA Conference League Qualifikation
-23.07. 19:00,CL Q,Malmö FF SWE,4:1,KI Klaksvik FRO,"UEFA Champions League, Qualifikation"
-23.07. 19:00,CL Q,APOEL Nikosia CYP,1:0,FC Petrocub MDA,"UEFA Champions League, Qualifikation"
-23.07. 19:00,CON LGQ,Differdange FC LUX,1:0,Ordabassy Sch. KAZ,UEFA Conference League Qualifikation
+23.07. 17:00,CL,Bodö Glimt NOR,4:0,Rigas Fb.Sk LAT,UEFA Champions League
+23.07. 17:30,CL,FK Panevezys LTU,0:4,Jagiellonia B. POL,UEFA Champions League
+23.07. 18:00,CL,Lincoln FC GIB,0:2,Qarabag FK AZE,UEFA Champions League
+23.07. 18:00,CON LG,FC Ballkani KOS,0:0,Hamrun Spartan MLT,UEFA Conference League
+23.07. 19:00,CL,Malmö FF SWE,4:1,KI Klaksvik FRO,UEFA Champions League
+23.07. 19:00,CL,APOEL Nikosia CYP,1:0,FC Petrocub MDA,UEFA Champions League
+23.07. 19:00,CON LG,Differdange FC LUX,1:0,Ordabassy Sch. KAZ,UEFA Conference League
 23.07. 19:00,FS KLUB,SK Sturm Graz AUT*,0:2,FC Porto POR,Klub-Freundschaftsspiele International
 23.07. 19:30,TEN ATP,"Tirante, Thiago A.",2:0,"Thiem, Dominic",Tennis ATP
-23.07. 19:30,CL Q,FCS Bukarest ROU,1:1,Macc. Tel Aviv ISR,"UEFA Champions League, Qualifikation"
-23.07. 20:00,CL Q,FC Dynamo Kiew UKR,6:2,FK Partizan SRB,"UEFA Champions League, Qualifikation"
-23.07. 20:00,CL Q,Ferencvaros HUN,5:0,The New Saints WAL,"UEFA Champions League, Qualifikation"
-23.07. 20:00,CL Q,Santa Coloma AND,0:3,FC Midtjylland DEN,"UEFA Champions League, Qualifikation"
+23.07. 19:30,CL,FCS Bukarest ROU,1:1,Macc. Tel Aviv ISR,UEFA Champions League
+23.07. 20:00,CL,FC Dynamo Kiew UKR,6:2,FK Partizan SRB,UEFA Champions League
+23.07. 20:00,CL,Ferencvaros HUN,5:0,The New Saints WAL,UEFA Champions League
+23.07. 20:00,CL,Santa Coloma AND,0:3,FC Midtjylland DEN,UEFA Champions League
 23.07. 20:00,ARG 1,Deportivo Riestra,2:0,Argentinos Juniors,Argentinien Primera Division
-23.07. 20:30,CL Q,FC Lugano SUI,3:4,Fenerbahce TUR,"UEFA Champions League, Qualifikation"
-23.07. 20:30,CL Q,FC Lugano+1,4:4,Fenerbahce,"UEFA Champions League, Qualifikation"
+23.07. 20:30,CL,FC Lugano SUI,3:4,Fenerbahce TUR,UEFA Champions League
+23.07. 20:30,CL,FC Lugano+1,4:4,Fenerbahce,UEFA Champions League
 23.07. 20:45,SCO LC,FC Aberdeen,2:1,Airdrie Utd.,Schottland League Cup
 23.07. 20:45,SCO LC,East Kilbride,1:3,Queen of the South,Schottland League Cup
 23.07. 20:45,SCO LC,FC Stenhousemuir,1:4,Ayr United,Schottland League Cup
@@ -30,8 +30,8 @@ Date,League,Team 1,Score,Team 2,League Name
 23.07. 20:45,SCO LC,Partick Thistle,2:3,FC Clyde,Schottland League Cup
 23.07. 20:45,SCO LC,Hamilton FC,1:2,FC Ross County,Schottland League Cup
 23.07. 20:45,SCO LC,Stirling Albion,2:2,FC Stranraer,Schottland League Cup
-23.07. 21:00,CL Q,Shamrock IRL,0:2,Sparta Prag CZE,"UEFA Champions League, Qualifikation"
-23.07. 21:00,CON LGQ,AC Virtus SMR,0:0,Flora Tallinn EST,UEFA Conference League Qualifikation
+23.07. 21:00,CL,Shamrock IRL,0:2,Sparta Prag CZE,UEFA Champions League
+23.07. 21:00,CON LG,AC Virtus SMR,0:0,Flora Tallinn EST,UEFA Conference League
 23.07. 23:45,ARG 1,Newell's Old B.,0:0,Indep. Rivadavia,Argentinien Primera Division
 23.07. 23:45,ARG 1,Gimnasia La Plata,0:1,CA San Lorenzo,Argentinien Primera Division
 24.07. 00:00,COPA S,RC Montevideo URU,0:1,Huachipato CHI,Copa Sudamericana
@@ -41,17 +41,17 @@ Date,League,Team 1,Score,Team 2,League Name
 24.07. 15:00,FB OLYH,Usbekistan,1:2,Spanien,"Olympia, Männer"
 24.07. 17:00,FB OLYH,Ägypten,0:0,Dominikanische Rep,"Olympia, Männer"
 24.07. 17:00,FB OLYH,Guinea,1:2,Neuseeland,"Olympia, Männer"
-24.07. 17:00,CON LGQ,Struga Trim MKD,2:1,Pyunik Yerevan ARM,UEFA Conference League Qualifikation
+24.07. 17:00,CON LG,Struga Trim MKD,2:1,Pyunik Yerevan ARM,UEFA Conference League
 24.07. 17:30,FIN 2,FF Jaro,2:0,Mikkelin Pall.,Finnland Ykkosliiga
-24.07. 18:00,CON LGQ,FC Riga LAT,1:0,Slask Wroclaw POL,UEFA Conference League Qualifikation
-24.07. 19:00,CON LGQ,Dinamo Batumi GEO,0:2,FK Decic Tuzi MNE,UEFA Conference League Qualifikation
+24.07. 18:00,CON LG,FC Riga LAT,1:0,Slask Wroclaw POL,UEFA Conference League
+24.07. 19:00,CON LG,Dinamo Batumi GEO,0:2,FK Decic Tuzi MNE,UEFA Conference League
 24.07. 19:00,FB OLYH,Japan,5:0,Paraguay,"Olympia, Männer"
 24.07. 19:00,FB OLYH,Irak,2:1,Ukraine,"Olympia, Männer"
-24.07. 19:30,CL Q,PAOK Thessal. GRE,3:2,Borac Banja L. BIH,"UEFA Champions League, Qualifikation"
-24.07. 20:00,CL Q,Ludogorets BUL,2:0,Dinamo Minsk BLR,"UEFA Champions League, Qualifikation"
-24.07. 20:15,CL Q,NK Celje SLO,1:1,Slov. Bratisl. SVK,"UEFA Champions League, Qualifikation"
+24.07. 19:30,CL,PAOK Thessalon GRE,3:2,Borac Banja L. BIH,UEFA Champions League
+24.07. 20:00,CL,Ludogorets BUL,2:0,Dinamo Minsk BLR,UEFA Champions League
+24.07. 20:15,CL,NK Celje SLO,1:1,Slov. Bratisl. SVK,UEFA Champions League
 24.07. 20:30,SUI SL,Servette Genf,3:1,Young Boys Bern,Schweiz Super League
-24.07. 20:45,CON LGQ,Cliftonville NIR,1:2,FK Auda Riga LAT,UEFA Conference League Qualifikation
+24.07. 20:45,CON LG,Cliftonville NIR,1:2,FK Auda Riga LAT,UEFA Conference League
 24.07. 21:00,FB OLYH,Mali,1:1,Israel,"Olympia, Männer"
 24.07. 21:00,FB OLYH,Frankreich,3:0,USA,"Olympia, Männer"
 24.07. 21:00,FB OLYH,Frankreich,3:1,USA+1,"Olympia, Männer"
@@ -70,52 +70,52 @@ Date,League,Team 1,Score,Team 2,League Name
 25.07. 02:30,COPA S,RB Bragantino BRA,3:2,Barcelona SC,Copa Sudamericana
 25.07. 17:00,FB OLYF,Spanien Frauen,2:1,Japan Frauen,"Olympia, Frauen"
 25.07. 17:00,FB OLYF,Kanada Frauen,2:1,Neuseeland Frauen,"Olympia, Frauen"
-25.07. 17:00,CON LGQ,Kuopio PS FIN,0:1,Tromsö IL NOR,UEFA Conference League Qualifikation
-25.07. 18:00,CON LGQ,Mlada Boleslav CZE,2:0,FK Transinvest LTU,UEFA Conference League Qualifikation
-25.07. 18:00,CON LGQ,Tampereen Ilve FIN,2:1,Austria Wien AUT,UEFA Conference League Qualifikation
-25.07. 18:00,CON LGQ,Tampereen Ilves+1,3:1,FK Austria Wien,UEFA Conference League Qualifikation
-25.07. 18:00,CON LGQ,Zalg. Vilnius LTU,2:1,FC Pafos CYP,UEFA Conference League Qualifikation
-25.07. 18:00,EL Q,Wisla Krakau POL,1:2,SK Rapid Wien AUT,"UEFA Europa League, Qualifikation"
-25.07. 18:00,EL Q,Wisla Krakau+1,2:2,SK Rapid Wien,"UEFA Europa League, Qualifikation"
-25.07. 18:30,CON LGQ,Zira FK AZE,4:0,Dunajska Str. SVK,UEFA Conference League Qualifikation
-25.07. 18:30,EL Q,MFK Ruzomberok SVK,0:2,Trabzonspor TUR,"UEFA Europa League, Qualifikation"
-25.07. 18:30,CON LGQ,Omonia Nikosia CYP,3:1,Torp. Kutaisi GEO,UEFA Conference League Qualifikation
-25.07. 19:00,EL Q,Molde FK NOR,3:1,Silkeborg IF DEN,"UEFA Europa League, Qualifikation"
-25.07. 19:00,EL Q,FC Sheriff T. MDA,0:1,IF Elfsborg SWE,"UEFA Europa League, Qualifikation"
-25.07. 19:00,CON LGQ,Paksi FC HUN,3:0,AEK Larnaca CYP,UEFA Conference League Qualifikation
-25.07. 19:00,CON LGQ,H. Beer Sheva ISR,0:0,Cherno More BUL,UEFA Conference League Qualifikation
-25.07. 19:00,CON LGQ,Djurgardens IF SWE,3:0,P. Niederkorn LUX,UEFA Conference League Qualifikation
-25.07. 19:00,CON LGQ,Ol. Ljubljana SLO,2:0,FC Polissya UKR,UEFA Conference League Qualifikation
-25.07. 19:00,CON LGQ,Bröndby IF DEN,6:0,KF Llapi KOS,UEFA Conference League Qualifikation
-25.07. 19:00,CON LGQ,F91 Dudelange LUX,2:6,BK Häcken SWE,UEFA Conference League Qualifikation
-25.07. 19:00,CON LGQ,Banik Ostrava CZE,5:1,FC Urartu ARM,UEFA Conference League Qualifikation
-25.07. 19:00,CON LGQ,FC Zürich SUI,3:0,Shelbourne IRL,UEFA Conference League Qualifikation
-25.07. 19:00,CON LGQ,Floriana FC MLT,0:1,Vit. Guimaraes POR,UEFA Conference League Qualifikation
+25.07. 17:00,CON LG,Kuopio PS FIN,0:1,Tromsö IL NOR,UEFA Conference League
+25.07. 18:00,CON LG,Mlada Boleslav CZE,2:0,FK Transinvest LTU,UEFA Conference League
+25.07. 18:00,CON LG,Tampereen Ilve FIN,2:1,Austria Wien AUT,UEFA Conference League
+25.07. 18:00,CON LG,Tampereen Ilves+1,3:1,FK Austria Wien,UEFA Conference League
+25.07. 18:00,CON LG,Zalg. Vilnius LTU,2:1,FC Pafos CYP,UEFA Conference League
+25.07. 18:00,EL,Wisla Krakau POL,1:2,SK Rapid Wien AUT,UEFA Europa League
+25.07. 18:00,EL,Wisla Krakau+1,2:2,SK Rapid Wien,UEFA Europa League
+25.07. 18:30,CON LG,Zira FK AZE,4:0,Dunajska Str. SVK,UEFA Conference League
+25.07. 18:30,EL,MFK Ruzomberok SVK,0:2,Trabzonspor TUR,UEFA Europa League
+25.07. 18:30,CON LG,Omonia Nikosia CYP,3:1,Torp. Kutaisi GEO,UEFA Conference League
+25.07. 19:00,EL,Molde FK NOR,3:1,Silkeborg IF DEN,UEFA Europa League
+25.07. 19:00,EL,FC Sheriff T. MDA,0:1,IF Elfsborg SWE,UEFA Europa League
+25.07. 19:00,CON LG,Paksi FC HUN,3:0,AEK Larnaca CYP,UEFA Conference League
+25.07. 19:00,CON LG,H. Beer Sheva ISR,0:0,Cherno More BUL,UEFA Conference League
+25.07. 19:00,CON LG,Djurgardens IF SWE,3:0,P. Niederkorn LUX,UEFA Conference League
+25.07. 19:00,CON LG,Ol. Ljubljana SLO,2:0,FC Polissya UKR,UEFA Conference League
+25.07. 19:00,CON LG,Bröndby IF DEN,6:0,KF Llapi KOS,UEFA Conference League
+25.07. 19:00,CON LG,F91 Dudelange LUX,2:6,BK Häcken SWE,UEFA Conference League
+25.07. 19:00,CON LG,Banik Ostrava CZE,5:1,FC Urartu ARM,UEFA Conference League
+25.07. 19:00,CON LG,FC Zürich SUI,3:0,Shelbourne IRL,UEFA Conference League
+25.07. 19:00,CON LG,Floriana FC MLT,0:1,Vit. Guimaraes POR,UEFA Conference League
 25.07. 19:00,FB OLYF,Nigeria Frauen,0:1,Brasilien Frauen,"Olympia, Frauen"
 25.07. 19:00,FB OLYF,Deutschland Frauen,3:0,Australien Frauen,"Olympia, Frauen"
-25.07. 19:00,EL Q,Corv. Hunedoar ROU,0:0,HNK Rijeka CRO,"UEFA Europa League, Qualifikation"
-25.07. 19:15,CON LGQ,Maccabi Haifa ISR,0:3,Sabah FK AZE,UEFA Conference League Qualifikation
-25.07. 19:30,CON LGQ,CFR 1907 Cluj ROU,0:0,Neman Grodno BLR,UEFA Conference League Qualifikation
-25.07. 19:30,CON LGQ,CSKA 1948 BUL,1:0,B.Podgorica MNE,UEFA Conference League Qualifikation
-25.07. 20:00,EL Q,Panathinaikos GRE,2:1,Botev Plovdiv BUL,"UEFA Europa League, Qualifikation"
-25.07. 20:00,CON LGQ,Radnicki 1923 SRB,1:0,FK Mornar Bar MNE,UEFA Conference League Qualifikation
-25.07. 20:00,CON LGQ,NK Osijek CRO,5:1,Levadia Tall. EST,UEFA Conference League Qualifikation
-25.07. 20:00,CON LGQ,KAA Gent BEL,4:1,Vikingur Gota FRO,UEFA Conference League Qualifikation
-25.07. 20:00,CON LGQ,FC St. Gallen SUI,4:1,Tobol Kostanay KAZ,UEFA Conference League Qualifikation
-25.07. 20:15,CON LGQ,NK Maribor SLO,2:0,CS Uni Craiova ROU,UEFA Conference League Qualifikation
-25.07. 20:30,EL Q,FC Kilmarnock SCO,1:1,Cercle Brügge BEL,"UEFA Europa League, Qualifikation"
-25.07. 20:30,EL Q,Ajax Amsterd. NED,1:0,FK Vojvodina SRB,"UEFA Europa League, Qualifikation"
-25.07. 20:45,CON LGQ,St Patrick's IRL,3:1,FC Vaduz LIE,UEFA Conference League Qualifikation
-25.07. 20:45,CON LGQ,Vikingur Reykj ISL,0:1,KF Egnatia Rro ALB,UEFA Conference League Qualifikation
-25.07. 20:45,CON LGQ,Valur Reykj. ISL,0:0,FC St. Mirren SCO,UEFA Conference League Qualifikation
-25.07. 20:45,CON LGQ,Legia Warschau POL,6:0,Caernarfon WAL,UEFA Conference League Qualifikation
-25.07. 21:00,CON LGQ,Hajduk Split CRO,2:0,HB Torshavn FRO,UEFA Conference League Qualifikation
-25.07. 21:00,CON LGQ,Zrinjs. Mostar BIH,0:1,NK Bravo SLO,UEFA Conference League Qualifikation
-25.07. 21:00,CON LGQ,Stjarnan Gard. ISL,2:1,Paide Linnam. EST,UEFA Conference League Qualifikation
-25.07. 21:00,CON LGQ,FK Sarajevo BIH,0:0,Spartak Trnava SVK,UEFA Conference League Qualifikation
+25.07. 19:00,EL,Corv. Hunedoar ROU,0:0,HNK Rijeka CRO,UEFA Europa League
+25.07. 19:15,CON LG,Maccabi Haifa ISR,0:3,Sabah FK AZE,UEFA Conference League
+25.07. 19:30,CON LG,CFR 1907 Cluj ROU,0:0,Neman Grodno BLR,UEFA Conference League
+25.07. 19:30,CON LG,CSKA 1948 BUL,1:0,B.Podgorica MNE,UEFA Conference League
+25.07. 20:00,EL,Panathinaikos GRE,2:1,Botev Plovdiv BUL,UEFA Europa League
+25.07. 20:00,CON LG,Radnicki 1923 SRB,1:0,FK Mornar Bar MNE,UEFA Conference League
+25.07. 20:00,CON LG,NK Osijek CRO,5:1,Levadia Tall. EST,UEFA Conference League
+25.07. 20:00,CON LG,KAA Gent BEL,4:1,Vikingur Gota FRO,UEFA Conference League
+25.07. 20:00,CON LG,FC St. Gallen SUI,4:1,Tobol Kostanay KAZ,UEFA Conference League
+25.07. 20:15,CON LG,NK Maribor SLO,2:0,CS Uni Craiova ROU,UEFA Conference League
+25.07. 20:30,EL,FC Kilmarnock SCO,1:1,Cercle Brügge BEL,UEFA Europa League
+25.07. 20:30,EL,Ajax Amsterd. NED,1:0,FK Vojvodina SRB,UEFA Europa League
+25.07. 20:45,CON LG,St Patrick's IRL,3:1,FC Vaduz LIE,UEFA Conference League
+25.07. 20:45,CON LG,Vikingur Reykj ISL,0:1,KF Egnatia Rro ALB,UEFA Conference League
+25.07. 20:45,CON LG,Valur Reykj. ISL,0:0,FC St. Mirren SCO,UEFA Conference League
+25.07. 20:45,CON LG,Legia Warschau POL,6:0,Caernarfon WAL,UEFA Conference League
+25.07. 21:00,CON LG,Hajduk Split CRO,2:0,HB Torshavn FRO,UEFA Conference League
+25.07. 21:00,CON LG,Zrinjs. Mostar BIH,0:1,NK Bravo SLO,UEFA Conference League
+25.07. 21:00,CON LG,Stjarnan Gard. ISL,2:1,Paide Linnam. EST,UEFA Conference League
+25.07. 21:00,CON LG,FK Sarajevo BIH,0:0,Spartak Trnava SVK,UEFA Conference League
 25.07. 21:00,FB OLYF,Frankreich Frauen,3:2,Kolumbien Frauen,"Olympia, Frauen"
-25.07. 21:15,CON LGQ,Breidablik ISL,1:2,KF Drita KOS,UEFA Conference League Qualifikation
-25.07. 21:30,EL Q,Sporting Braga POR,2:0,M. Petach Tikv ISR,"UEFA Europa League, Qualifikation"
+25.07. 21:15,CON LG,Breidablik ISL,1:2,KF Drita KOS,UEFA Conference League
+25.07. 21:30,EL,Sporting Braga POR,2:0,M. Petach Tikv ISR,UEFA Europa League
 25.07. 22:15,PER 1,Cusco FC,3:0,Sport Huancayo,Peru Primera Division
 25.07. 23:45,ARG 1,CA Platense,0:2,Velez Sarsfield,Argentinien Primera Division
 25.07. 23:45,ARG 1,Atletico Lanus,3:2,CA Belgrano,Argentinien Primera Division
