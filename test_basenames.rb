@@ -104,6 +104,7 @@ recs = parse_csv( <<TXT )
   02A, 11.01.2022-13.01.2022
   06B, 11.02.2022-14.02.2022
 
+  50A,      12.12.2022-15.12.2022   ## starts on monday
   50B/51A,  16.12.2022-22.12.2022   #=> 2022-12-16_W50-Fri_7d
   51B/52A,  23.12.2022-29.12.2022   #=> 2022-12-23_W51-Fri_7d
   52B/01A,  30.12.2022-04.01.2023   #=> 2022-12-30_W52-Fri_6d
@@ -113,7 +114,15 @@ recs = parse_csv( <<TXT )
   27B,      04.07.2024-07.07.2024    ## starting on Thursday (not Friday)
   28A,      08.07.2024-11.07.2024    ## starting on Monday (not Tuesday)
 
+
+  44B,       02.11.2024-04.11.2024
+
+  51B,       20.12.2024-22.12.2024   ## friday to sunday
+
+  01AB,     30.12.2024-06.01.2025    ## monday to monday (8d!)
+  02AB,     07.01.2025-13.01.2025    ## tuesday to monday (7d)
 TXT
+
 
 
 recs.each do |rec|
