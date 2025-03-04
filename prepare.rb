@@ -9,6 +9,32 @@ require_relative 'lib/metal'
 Webcache.root = '/sports/cache'  ### c:\sports\cache
 
 
+##
+## to check on (latest) program ids, see
+#    https://www.tipp3.at/sportwetten/sportwetten-classic-ergebnisse?oddsetProgramID=1345
+
+
+## update - march/4 2025
+=begin
+<option value="1423">28.02.2025 - 03.03.2025</option>
+<option value="1422">25.02.2025 - 27.02.2025</option>
+<option value="1421">21.02.2025 - 24.02.2025</option>
+<option value="1420">18.02.2025 - 20.02.2025</option>
+<option value="1419">14.02.2025 - 17.02.2025</option>
+<option value="1418">11.02.2025 - 13.02.2025</option>
+<option value="1417">07.02.2025 - 10.02.2025</option>
+<option value="1416">04.02.2025 - 06.02.2025</option>
+<option value="1415">31.01.2025 - 03.02.2025</option>
+<option value="1414">28.01.2025 - 30.01.2025</option>
+<option value="1413">24.01.2025 - 27.01.2025</option>
+<option value="1412">21.01.2025 - 23.01.2025</option>
+<option value="1411">17.01.2025 - 20.01.2025</option>
+<option value="1410">14.01.2025 - 16.01.2025</option>
+<option value="1409">07.01.2025 - 13.01.2025</option>
+<option value="1408">30.12.2024 - 06.01.2025</option>
+=end
+
+
 
 ## update - jan/7 2025
 =begin
@@ -69,7 +95,7 @@ Webcache.root = '/sports/cache'  ### c:\sports\cache
 ##  e.g.  (1367..1408).include?( 1408 ) == true  !!
 
 ## try latest     - was last five
-prog_ids = ( 1367..1408
+prog_ids = ( 1400..1423
             ).to_a.reverse
 
 
