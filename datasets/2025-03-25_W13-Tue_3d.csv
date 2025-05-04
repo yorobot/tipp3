@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+25.03. 11:35,WM Q,Japan,0:0,Saudi Arabien,"WM Qualifikation, Asien"
+25.03. 12:00,WM Q,China,0:2,Australien,"WM Qualifikation, Asien"
+25.03. 12:00,WM Q,Südkorea,1:1,Jordanien,"WM Qualifikation, Asien"
+25.03. 15:00,U19 EMQ,Österreich U19*,1:2,Dänemark U19,"U19 EM, Qualifikation"
+25.03. 15:00,U19 EMQ,Frankreich U19*,0:2,Italien U19,"U19 EM, Qualifikation"
+25.03. 15:00,U19 EMQ,Irland U19*,0:1,Deutschland U19,"U19 EM, Qualifikation"
+25.03. 15:00,U19 EMQ,Island U19*,0:1,Ungarn U19,"U19 EM, Qualifikation"
+25.03. 17:00,U19 EMQ,Serbien U19,1:2,Norwegen U19,"U19 EM, Qualifikation"
+25.03. 17:00,U19 EMQ,Tschechien U19,0:4,Niederlande U19,"U19 EM, Qualifikation"
+25.03. 17:00,U19 EMQ,Kroatien U19*,1:2,Luxemburg U19,"U19 EM, Qualifikation"
+25.03. 17:00,WM Q,Iran,2:2,Usbekistan,"WM Qualifikation, Asien"
+25.03. 17:00,WM Q,Benin*,0:2,Südafrika,"WM Qualifikation, Afrika"
+25.03. 18:00,WM Q,Moldawien,2:3,Estland,"WM Qualifikation, Europa"
+25.03. 18:45,INT FS,Aserbaidschan,0:2,Weißrussland,Internationale Freundschaftsspiele
+25.03. 19:00,INT FS,Schweden,5:1,Nordirland,Internationale Freundschaftsspiele
+25.03. 19:00,EH SWE,HV 71,3:2,MoDo Hockey,Schweden Elitserien
+25.03. 19:00,EH GER,Eisbären Berlin,4:1,Straubing Tigers,Deutschland Eishockey Liga
+25.03. 19:30,EH GER,Adler Mannheim,3:3,EHC München,Deutschland Eishockey Liga
+25.03. 19:30,EH AUT,Black Wings Linz,3:1,EC KAC,win2day ICE Hockey League
+25.03. 19:45,EH AUT,HC Bozen Foxes,2:2,EC RB Salzburg,win2day ICE Hockey League
+25.03. 20:00,WM Q,Kamerun,3:1,Libyen,"WM Qualifikation, Afrika"
+25.03. 20:00,U19 EMQ,England U19*,1:0,Portugal U19,"U19 EM, Qualifikation"
+25.03. 20:00,U19 EMQ,Türkei U19*,1:3,Wales U19,"U19 EM, Qualifikation"
+25.03. 20:30,FS U21,Deutschland U21,3:1,Spanien U21,U21 Freundschaftsspiele
+25.03. 20:30,FS U21,Deutschland U21,3:2,Spanien U21+1,U21 Freundschaftsspiele
+25.03. 20:45,INT FS,Schweiz,3:1,Luxemburg,Internationale Freundschaftsspiele
+25.03. 20:45,SCO CS,FC Livingston,1:0,FC Falkirk,Schottland Championship
+25.03. 20:45,WM Q,Montenegro,1:0,Färöer Inseln,"WM Qualifikation, Europa"
+25.03. 20:45,WM Q,Nordmazedonien,1:1,Wales,"WM Qualifikation, Europa"
+25.03. 20:45,WM Q,Nordmazedonien+1,2:1,Wales,"WM Qualifikation, Europa"
+25.03. 20:45,WM Q,Israel*,2:4,Norwegen,"WM Qualifikation, Europa"
+25.03. 20:45,WM Q,Israel+1,3:4,Norwegen,"WM Qualifikation, Europa"
+25.03. 20:45,WM Q,Liechtenstein,0:2,Kasachstan,"WM Qualifikation, Europa"
+25.03. 20:45,WM Q,Gibraltar+2,2:4,Tschechien,"WM Qualifikation, Europa"
+25.03. 21:00,WM Q,Bolivien,0:0,Uruguay,"WM Qualifikation, CONMEBOL"
+25.03. 21:00,WM Q,Bolivien,0:1,Uruguay+1,"WM Qualifikation, CONMEBOL"
+25.03. 22:00,WM Q,Senegal,2:0,Togo,"WM Qualifikation, Afrika"
+25.03. 22:30,WM Q,Marokko,2:0,Tansania,"WM Qualifikation, Afrika"
+26.03. 01:00,WM Q,Chile,0:0,Ecuador,"WM Qualifikation, CONMEBOL"
+26.03. 01:00,WM Q,Chile,0:1,Ecuador+1,"WM Qualifikation, CONMEBOL"
+26.03. 01:00,WM Q,Chile+1,1:0,Ecuador,"WM Qualifikation, CONMEBOL"
+26.03. 01:00,WM Q,Argentinien,4:1,Brasilien,"WM Qualifikation, CONMEBOL"
+26.03. 01:00,WM Q,Argentinien,4:2,Brasilien+1,"WM Qualifikation, CONMEBOL"
+26.03. 01:00,WM Q,Argentinien+1,5:1,Brasilien,"WM Qualifikation, CONMEBOL"
+26.03. 01:00,WM Q,Venezuela,1:0,Peru,"WM Qualifikation, CONMEBOL"
+26.03. 01:00,WM Q,Venezuela,1:1,Peru+1,"WM Qualifikation, CONMEBOL"
+26.03. 01:00,WM Q,Kolumbien,2:2,Paraguay,"WM Qualifikation, CONMEBOL"
+26.03. 01:00,WM Q,Kolumbien,2:3,Paraguay+1,"WM Qualifikation, CONMEBOL"
+26.03. 16:30,HE-RTL,"Odermatt, Marco",Meillar,"Meillard, Loic","Ski Alpin, Herren Riesentorlauf"
+26.03. 16:30,HE-RTL,Kristoffersen H.,Kristof,"Tumler, Thomas","Ski Alpin, Herren Riesentorlauf"
+26.03. 16:30,HE-RTL,"P. Braathen, Lucas",Braathe,Steen Olsen A.,"Ski Alpin, Herren Riesentorlauf"
+26.03. 16:30,HE-RTL,Brennsteiner S.,Brennst,"Haaser, Raphael","Ski Alpin, Herren Riesentorlauf"
+26.03. 16:30,HE-RTL,"Schwarz, Marco",Schwarz,"Zubcic, Filip","Ski Alpin, Herren Riesentorlauf"
+26.03. 17:00,SER CUP,Roter Stern B.,5:3,OFK Belgrad,Serbien Cup
+26.03. 17:30,EH CZE,BK Mlada Boleslav,5:5,Mountfield HK,Tschechische Republik Extraliga
+26.03. 18:00,URU 1,RC Montevideo,1:0,CA River Plate,Uruguay Primera Division
+26.03. 18:30,BB EL,Efes Istanbul TUR,92:76,Baskonia G. ESP,Euroleague
+26.03. 18:45,HB CL,D.Bucuresti ROU,26:30,SC Magdeburg GER,Champions League
+26.03. 18:45,CL FR,Lyon Frauen FRA,4:1,Bayern M. Frau GER,UEFA Champions League Frauen
+26.03. 18:45,CL FR,Oly. Lyon Frauen,4:2,Bayern M. Frauen+1,UEFA Champions League Frauen
+26.03. 19:00,AUT RLO,SV Gloggnitz,2:2,SV Leobendorf,Österreich Regionalliga Ost
+26.03. 19:00,EH SWE,Växjö Lakers,3:3,Lulea Hockey,Schweden Elitserien
+26.03. 19:00,EH SWE,Malmö Redhawks,6:3,Brynas IF,Schweden Elitserien
+26.03. 19:30,EH GER,ERC Ingolstadt,5:3,Nürnberg Ice Tiger,Deutschland Eishockey Liga
+26.03. 20:00,BB EL,KK Roter Stern SRB,88:52,Bologna ITA,Euroleague
+26.03. 20:05,BB EL,M.Tel Aviv ISR*,92:99,Panathinaikos GRE,Euroleague
+26.03. 20:30,URU 1,Liverpool Montev.,2:2,Nacional de Footb.,Uruguay Primera Division
+26.03. 20:45,HB CL,Targi Kielce POL,27:33,Füchse Berlin GER,Champions League
+26.03. 21:00,BOS 1,FK Sarajevo,0:2,Borac Banja Luka,Bosnien Premier Liga
+26.03. 21:00,CL FR,Arsenal Frauen ENG,3:0,Real Madrid (F ESP,UEFA Champions League Frauen
+26.03. 21:00,CL FR,Arsenal Frauen,3:1,Real Madrid (F)+1,UEFA Champions League Frauen
+26.03. 22:00,COL 1,Alianza Valledupar,0:0,FC Fortaleza,Kolumbien Primera Liga
+26.03. 23:00,URU 1,Plaza Colonia,0:1,CA Boston River,Uruguay Primera Division
+27.03. 00:30,COL 1,Atletico Junior,2:1,UM Santa Marta,Kolumbien Primera Liga
+27.03. 02:00,CRC 1,Puntarenas FC,2:1,Sporting San Jose,Costa Rica Primera División
+27.03. 02:30,COL 1,Los Millonarios,2:0,Indep. Santa Fe,Kolumbien Primera Liga
+27.03. 03:00,CRC 1,CS Herediano,3:0,Perez Zeledon,Costa Rica Primera División
+27.03. 16:00,DA-SL,"Ljutic, Zrinka","Ljutic,","Rast, Camille","Ski Alpin, Damen Slalom"
+27.03. 16:00,DA-SL,Liensberger K.,Holdene,"Holdener, Wendy","Ski Alpin, Damen Slalom"
+27.03. 16:00,DA-SL,"Truppe, Katharina",Colturi,"Colturi, Lara","Ski Alpin, Damen Slalom"
+27.03. 17:00,HE-SL,"Meillard, Loic",Meillar,"McGrath, Atle Lie","Ski Alpin, Herren Slalom"
+27.03. 17:00,HE-SL,"Haugan, Timon",Haugan,Kristoffersen H.,"Ski Alpin, Herren Slalom"
+27.03. 17:00,HE-SL,"Noel, Clement",Noel C.,"P. Braathen, Lucas","Ski Alpin, Herren Slalom"
+27.03. 17:00,HE-SL,"Feller, Manuel",Strasse,"Strasser, Linus","Ski Alpin, Herren Slalom"
+27.03. 17:00,HE-SL,"Nef, Tanguy",Gstrein,"Gstrein, Fabio","Ski Alpin, Herren Slalom"
+27.03. 18:00,EH CZE,HC Karlsbad,0:1,HC Kometa Brünn,Tschechische Republik Extraliga
+27.03. 18:00,URU 1,Danubio FC,1:1,Defensor Sporting,Uruguay Primera Division
+27.03. 18:45,CL FR,Barcelona Frau ESP,6:1,Wolfsburg (F) GER,UEFA Champions League Frauen
+27.03. 18:45,CL FR,Barcelona Frauen,6:2,Wolfsburg Frauen+1,UEFA Champions League Frauen
+27.03. 18:45,CL FR,Barcelona Frauen,6:3,Wolfsburg Frauen+2,UEFA Champions League Frauen
+27.03. 18:45,HB CL,Pick Szeged HUN,30:31,Paris Handball FRA,Champions League
+27.03. 19:00,PER 1,Comerciantes Uni,2:2,Atletico Grau,Peru Primera Division
+27.03. 19:00,EH SWE,Timra IK,2:1,Frölunda HC,Schweden Elitserien
+27.03. 19:00,EH SWE,Skelleftea AIK,6:2,Färjestads BK,Schweden Elitserien
+27.03. 20:15,BB EL,Olympiakos P. GRE,77:80,AS Monaco FRA,Euroleague
+27.03. 20:30,BB EL,Bayern München GER,89:74,Partizan Belgr SRB,Euroleague
+27.03. 20:30,BB EL,O.Milano ITA,88:98,Barcelona Bask ESP,Euroleague
+27.03. 20:30,URU 1,Juventud Piedras,0:2,CA Penarol,Uruguay Primera Division
+27.03. 20:45,HB CL,Wisla Plock POL,28:25,HBC Nantes FRA,Champions League
+27.03. 21:00,ENG 1,Leyton Orient,1:0,FC Stevenage,England League One
+27.03. 21:00,ESP 1,FC Barcelona,3:0,CA Osasuna,Spanien La Liga
+27.03. 21:00,ESP 1,FC Barcelona,3:1,CA Osasuna+1,Spanien La Liga
+27.03. 21:00,ESP 1,FC Barcelona,3:2,CA Osasuna+2,Spanien La Liga
+27.03. 21:00,CL FR,Chelsea Frauen ENG,3:0,Man. City Frau ENG,UEFA Champions League Frauen
+27.03. 21:00,CL FR,Chelsea FC Frauen,3:1,Man. City Frauen+1,UEFA Champions League Frauen
+27.03. 21:30,PER 1,Ayacucho FC,2:3,FBC Melgar,Peru Primera Division
+27.03. 22:15,CHI 1,Colo Colo,1:1,Palestino,Chile Primera Divison
+27.03. 23:00,URU 1,Montev. Wanderers,1:1,CA Progreso,Uruguay Primera Division
+27.03. 23:00,CRC 1,Mun. Santa Ana,0:1,CS Cartagines,Costa Rica Primera División
+28.03. 00:00,COL 1,CD Once Caldas,1:0,FC Llaneros,Kolumbien Primera Liga
+28.03. 00:30,CHI 1,Everton Vina d.Mar,2:0,Univers. de Chile,Chile Primera Divison
+28.03. 01:15,URU 1,Miramar Misiones,1:1,CA Cerro,Uruguay Primera Division
+28.03. 02:10,COL 1,America de Cali,3:0,Boyaca Chico FC,Kolumbien Primera Liga
+28.03. 03:00,CRC 1,Santos de Guapiles,2:0,Deportivo Saprissa,Costa Rica Primera División
+28.03. 19:30,AUT BL,SCR Altach,0:2,LASK,Österreich Bundesliga
+29.03. 17:00,AUT BL,Grazer AK,0:0,WSG Tirol,Österreich Bundesliga
+29.03. 17:00,AUT BL,TSV Hartberg,2:3,Austria Klagenfurt,Österreich Bundesliga
+30.03. 14:30,AUT BL,BW Linz,0:2,FK Austria Wien,Österreich Bundesliga
+30.03. 14:30,AUT BL,Wolfsberger AC,1:1,SK Sturm Graz,Österreich Bundesliga
+30.03. 17:00,AUT BL,SK Rapid Wien,0:2,RB Salzburg,Österreich Bundesliga

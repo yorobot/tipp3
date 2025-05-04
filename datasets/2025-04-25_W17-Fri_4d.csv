@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+25.04. 18:00,AUT 2,Admira Wacker,2:3,SK Sturm Graz II,Österreich Zweite Liga
+25.04. 18:00,AUT 2,SKN St. Pölten,4:1,SV Horn,Österreich Zweite Liga
+25.04. 18:00,AUT 2,SV Lafnitz,3:1,SK Rapid Wien II,Österreich Zweite Liga
+25.04. 18:00,AUT 2,ASK Voitsberg,0:2,First Vienna FC,Österreich Zweite Liga
+25.04. 18:30,GER 2,Hertha BSC,1:1,FC Magdeburg,Deutschland 2. Bundesliga
+25.04. 18:30,GER 2,Greuther Fürth,0:1,SSV Ulm 1846,Deutschland 2. Bundesliga
+25.04. 18:45,NL 1,RKC Waalwijk,0:4,FC Utrecht,Niederlande Eredivisie
+25.04. 19:00,GER 3,Hansa Rostock,1:0,TSV 1860 München,Deutschland 3. Liga
+25.04. 19:00,TUR 1,Besiktas Istanbul,5:1,Hatayspor,Türkei Süper Lig
+25.04. 19:00,DEN 1,Randers FC,0:0,Bröndby IF,Dänemark Superligaen
+25.04. 19:00,AUT RLO,FC Marchfeld,1:0,Sportunion Mauer,Österreich Regionalliga Ost
+25.04. 19:00,AUT RLO,SV Gloggnitz,0:1,Wiener Viktoria,Österreich Regionalliga Ost
+25.04. 19:30,AUT RLO,Wiener Sport-Club,abgesagt,FCM Traiskirchen,Österreich Regionalliga Ost
+25.04. 19:30,AUT RLO,Kremser SC,abgesagt,TWL Elektra,Österreich Regionalliga Ost
+25.04. 19:30,AUT RLO,Favoritner AC,3:6,Young Violets A.W.,Österreich Regionalliga Ost
+25.04. 19:30,AUT BL,TSV Hartberg,1:1,Grazer AK,Österreich Bundesliga
+25.04. 19:30,AUT BL,TSV Hartberg,1:2,Grazer AK+1,Österreich Bundesliga
+25.04. 19:30,EH GER,Eisbären Berlin,7:0,Kölner Haie,Deutschland Eishockey Liga
+25.04. 20:00,NL 2,SC Telstar,3:2,FC Oss,Niederlande Jupiler League
+25.04. 20:00,NL 2,FC Dordrecht,3:0,MVV Maastricht,Niederlande Jupiler League
+25.04. 20:30,GER BL,VfB Stuttgart,0:1,FC Heidenheim,Deutschland Bundesliga
+25.04. 20:30,GER BL,VfB Stuttgart,0:2,FC Heidenheim+1,Deutschland Bundesliga
+25.04. 20:30,AUT 2,Austria Lustenau,2:1,SW Bregenz,Österreich Zweite Liga
+25.04. 20:30,ESP 2,Cadiz CF,1:0,Sporting Gijon,Spanien Segunda Division
+25.04. 20:30,POL 1,Rakow Czestochowa,3:0,Slask Wroclaw,Polen Orange Ekstraklasa
+25.04. 20:45,FRA 1,Paris SG,1:3,OGC Nizza,Frankreich Ligue 1
+25.04. 21:00,ENG CS,Stoke City,0:2,Sheffield United,England Championship
+25.04. 21:00,NL 1,Feyenoord,4:0,FC Zwolle,Niederlande Eredivisie
+25.04. 21:30,POR 1,FC Famalicao,1:1,Sporting Braga,Portugal Primeira Liga
+26.04. 13:00,GER 2,SC Paderborn,1:1,SV 07 Elversberg,Deutschland 2. Bundesliga
+26.04. 13:00,GER 2,Jahn Regensburg,1:1,E. Braunschweig,Deutschland 2. Bundesliga
+26.04. 13:00,GER 2,Preussen Münster,1:1,SV Darmstadt 98,Deutschland 2. Bundesliga
+26.04. 13:30,ENG PL,FC Chelsea,1:0,FC Everton,England Premier League
+26.04. 13:30,SCO PS,Dundee United,0:5,Celtic Glasgow,Schottland Premiership
+26.04. 14:00,GER 3,Dynamo Dresden,2:1,SV Sandhausen,Deutschland 3. Liga
+26.04. 14:30,AUT 2,Floridsdorfer AC,1:0,SKU Amstetten,Österreich Zweite Liga
+26.04. 15:30,GER BL,Bayern München,3:0,FSV Mainz 05,Deutschland Bundesliga
+26.04. 15:30,GER BL,Bayern München,3:1,FSV Mainz 05+1,Deutschland Bundesliga
+26.04. 15:30,GER BL,Bayer Leverkusen,2:0,FC Augsburg,Deutschland Bundesliga
+26.04. 15:30,GER BL,Bayer Leverkusen,2:1,FC Augsburg+1,Deutschland Bundesliga
+26.04. 15:30,GER BL,TSG Hoffenheim,2:3,Borussia Dortmund,Deutschland Bundesliga
+26.04. 15:30,GER BL,VfL Wolfsburg,0:1,SC Freiburg,Deutschland Bundesliga
+26.04. 15:30,GER BL,Holstein Kiel,4:3,Mönchengladbach,Deutschland Bundesliga
+26.04. 16:00,ENG PL,Newcastle United,3:0,Ipswich Town,England Premier League
+26.04. 16:00,ENG PL,Brighton & Hove,3:2,West Ham United,England Premier League
+26.04. 16:00,ENG PL,Wolverhampton,3:0,Leicester City,England Premier League
+26.04. 16:00,ENG PL,FC Southampton,1:2,FC Fulham,England Premier League
+26.04. 16:00,ENG CS,Blackburn Rovers,2:1,FC Watford,England Championship
+26.04. 16:00,SCO PS,FC St. Mirren,2:2,Glasgow Rangers,Schottland Premiership
+26.04. 17:00,AUT BL,LASK,6:0,Austria Klagenfurt,Österreich Bundesliga
+26.04. 17:00,AUT BL,SCR Altach,3:0,WSG Tirol,Österreich Bundesliga
+26.04. 17:00,EH FS,Deutschland,5:0,Österreich,Freundschaftsspiele
+26.04. 17:00,FRA 1,Racing Strasbourg,3:1,AS Saint Etienne,Frankreich Ligue 1
+26.04. 18:00,TUR 1,Gaziantep FK,1:3,Fenerbahce,Türkei Süper Lig
+26.04. 18:15,ENG FA,Crystal Palace*,3:0,Aston Villa,England FA Cup
+26.04. 18:30,GER BL,Eintr. Frankfurt,4:0,RB Leipzig,Deutschland Bundesliga
+26.04. 19:00,FRA 1,Le Havre AC,1:1,AS Monaco,Frankreich Ligue 1
+26.04. 20:30,GER 2,Fortuna Düsseldorf,3:3,1. FC Nürnberg,Deutschland 2. Bundesliga
+26.04. 20:30,SUI CUP,FC Biel-Bienne,0:0,Young Boys Bern,Schweiz Cup
+26.04. 21:05,FRA 1,Olympique Lyon,4:1,Stade Rennes,Frankreich Ligue 1
+26.04. 21:30,POR 1,CF Estrela,2:0,FC Porto,Portugal Primeira Liga
+26.04. 22:00,ESP CUP,FC Barcelona*,2:2,Real Madrid,Spanien Copa del Rey
+26.04. 22:00,ESP CUP,FC Barcelona,2:3,Real Madrid+1,Spanien Copa del Rey
+27.04. 10:30,AUT 2,Kapfenberger SV,2:1,SV Ried,Österreich Zweite Liga
+27.04. 12:30,ITA A,Como Calcio,1:0,FC Genua,Italien Serie A
+27.04. 12:30,ITA A,Venezia FC,0:2,AC Milan,Italien Serie A
+27.04. 13:30,GER 2,FC Kaiserslautern,2:1,FC Schalke 04,Deutschland 2. Bundesliga
+27.04. 13:30,GER 2,Hannover 96,1:0,1. FC Köln,Deutschland 2. Bundesliga
+27.04. 13:30,GER 2,Hamburger SV,1:2,Karlsruher SC,Deutschland 2. Bundesliga
+27.04. 14:30,AUT BL,Wolfsberger AC,2:1,RB Salzburg,Österreich Bundesliga
+27.04. 14:30,AUT BL,SK Rapid Wien,0:0,BW Linz,Österreich Bundesliga
+27.04. 14:30,NL 1,Ajax Amsterdam,1:1,Sparta Rotterdam,Niederlande Eredivisie
+27.04. 15:00,ENG PL,AFC Bournemouth,1:1,Manchester United,England Premier League
+27.04. 15:00,ITA A,Inter Mailand,0:1,AS Roma,Italien Serie A
+27.04. 15:00,ITA A,AC Fiorentina,2:1,FC Empoli,Italien Serie A
+27.04. 15:00,FRA 1,SCO Angers,0:2,Lille OSC,Frankreich Ligue 1
+27.04. 15:00,CL FR,Chelsea Frauen ENG,1:4,Barcelona Frau ESP,UEFA Champions League Frauen
+27.04. 15:30,GER BL,VfL Bochum,1:1,Union Berlin,Deutschland Bundesliga
+27.04. 16:15,ESP 1,Villarreal CF,1:0,Espanyol Barcelona,Spanien La Liga
+27.04. 17:00,AUT BL,SK Sturm Graz,0:1,FK Austria Wien,Österreich Bundesliga
+27.04. 17:00,AUT BL,SK Sturm Graz,0:2,FK Austria Wien+1,Österreich Bundesliga
+27.04. 17:15,FRA 1,RC Lens,0:4,AJ Auxerre,Frankreich Ligue 1
+27.04. 17:15,FRA 1,HSC Montpellier,0:0,Stade de Reims,Frankreich Ligue 1
+27.04. 17:15,FRA 1,FC Nantes,0:0,FC Toulouse,Frankreich Ligue 1
+27.04. 17:30,GER BL,SV Werder Bremen,0:0,FC St. Pauli,Deutschland Bundesliga
+27.04. 17:30,ENG PL,FC Liverpool,5:1,Tottenham,England Premier League
+27.04. 17:30,ENG FA,Nottingham Forest*,0:2,Manchester City,England FA Cup
+27.04. 18:00,ITA A,Juventus Turin,2:0,AC Monza,Italien Serie A
+27.04. 18:00,TUR 1,Eyupspor,1:5,Galatasaray,Türkei Süper Lig
+27.04. 18:00,CL FR,Lyon Frauen FRA,1:4,Arsenal Frauen ENG,UEFA Champions League Frauen
+27.04. 20:45,ITA A,Atalanta Bergamo,1:1,US Lecce,Italien Serie A
+27.04. 20:45,ITA A,SSC Napoli,2:0,FC Torino,Italien Serie A
+27.04. 20:45,FRA 1,Olymp. Marseille,4:1,Stade Brest,Frankreich Ligue 1
+27.04. 21:30,POR 1,Boavista FC,0:5,Sporting Lissabon,Portugal Primeira Liga
+28.04. 18:00,FIN 1,Seinajoen JK,2:2,Haka Valkeakoski,Finnland Veikkausliiga
+28.04. 18:30,ITA A,Udinese Calcio,0:0,Bologna FC,Italien Serie A
+28.04. 19:00,TUR 1,Göztepe,4:1,Basaksehir,Türkei Süper Lig
+28.04. 19:00,POL 1,Zaglebie Lubin,2:2,FKS Stal Mielec,Polen Orange Ekstraklasa
+28.04. 19:00,DEN 1,Aalborg BK,0:1,Vejle BK,Dänemark Superligaen
+28.04. 19:00,NOR 2,Aasane Fotball,0:0,Aalesunds FK,Norwegen Adeccoligaen
+28.04. 19:00,NOR 2,Sogndal Fotball,3:2,Odds BK,Norwegen Adeccoligaen
+28.04. 19:00,NOR 2,Skeid Fotball,1:4,Kongsvinger IL,Norwegen Adeccoligaen
+28.04. 19:00,NOR 2,Raufoss IL,0:1,Egersunds IK,Norwegen Adeccoligaen
+28.04. 19:00,NOR 2,Mjöndalen,2:3,IK Start,Norwegen Adeccoligaen
+28.04. 19:00,SWE 2,Utsiktens BK,2:2,Västeraas SK,Schweden Superettan
+28.04. 19:00,SWE 1,IF Brommapojkarna,abgesagt,Djurgardens,Schweden Allsvenskan
+28.04. 19:10,SWE 1,IFK Göteborg,1:1,GAIS Göteborg,Schweden Allsvenskan
+28.04. 19:15,CRO 1,HNK Sibenik,0:0,HNK Gorica,Kroatien 1. HNL
+28.04. 19:45,ISL 1,Stjarnan Gardab.,2:3,IBV Vestmannaeyjar,Island Bestadeild
+28.04. 20:00,NL 2,VVV Venlo,3:1,De Graafschap,Niederlande Jupiler League
+28.04. 20:00,ROU 1,Dinamo Bukarest,1:1,CFR 1907 Cluj,Rumänien Liga 1
+28.04. 20:00,EH SWE,Brynas IF,2:6,Lulea Hockey,Schweden Elitserien
+28.04. 20:45,ITA A,Lazio Rom,2:2,FC Parma,Italien Serie A
+28.04. 20:45,ITA A,Lazio Rom,2:3,FC Parma+1,Italien Serie A
+28.04. 20:45,ITA A,Hellas Verona,0:2,Cagliari Calcio,Italien Serie A
+28.04. 21:00,ENG CS,Leeds United,4:0,Bristol City,England Championship
+28.04. 21:15,ISL 1,Vikingur Reykjavik,abgesagt,Valur Reykjavik,Island Bestadeild
+28.04. 21:15,ISL 1,Fram Reykjavik,3:0,Afturelding,Island Bestadeild
+29.04. 20:30,ESP 2,UD Almeria,2:1,Racing de Ferrol,Spanien Segunda Division
+29.04. 21:30,POR 1,Casa Pia AC,1:3,Estoril Praia,Portugal Primeira Liga

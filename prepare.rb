@@ -50,6 +50,46 @@ Webcache.root = '/sports/cache'  ### c:\sports\cache
 <option value="1400">29.11.2024 - 02.12.2024</option>
 <option value="1399">26.11.2024 - 28.11.2024</option>
 ...
+
+
+## update - may/4 2025
+<option value="1440">29.04.2025 - 01.05.2025</option>
+<option value="1439">25.04.2025 - 28.04.2025</option>
+<option value="1438">22.04.2025 - 24.04.2025</option>
+<option value="1437">18.04.2025 - 21.04.2025</option>
+<option value="1436">15.04.2025 - 17.04.2025</option>
+<option value="1435">11.04.2025 - 14.04.2025</option>
+<option value="1434">08.04.2025 - 10.04.2025</option>
+<option value="1433">04.04.2025 - 07.04.2025</option>
+<option value="1432">01.04.2025 - 03.04.2025</option>
+<option value="1431">28.03.2025 - 31.03.2025</option>
+<option value="1430">25.03.2025 - 27.03.2025</option>
+<option value="1429">21.03.2025 - 24.03.2025</option>
+<option value="1428">18.03.2025 - 20.03.2025</option>
+<option value="1427">14.03.2025 - 17.03.2025</option>
+<option value="1426">11.03.2025 - 13.03.2025</option>
+<option value="1425">07.03.2025 - 10.03.2025</option>
+<option value="1424">04.03.2025 - 06.03.2025</option>
+<option value="1423">28.02.2025 - 03.03.2025</option>
+<option value="1422">25.02.2025 - 27.02.2025</option>
+<option value="1421">21.02.2025 - 24.02.2025</option>
+<option value="1420">18.02.2025 - 20.02.2025</option>
+<option value="1419">14.02.2025 - 17.02.2025</option>
+<option value="1418">11.02.2025 - 13.02.2025</option>
+<option value="1417">07.02.2025 - 10.02.2025</option>
+<option value="1416">04.02.2025 - 06.02.2025</option>
+<option value="1415">31.01.2025 - 03.02.2025</option>
+<option value="1414">28.01.2025 - 30.01.2025</option>
+<option value="1413">24.01.2025 - 27.01.2025</option>
+<option value="1412">21.01.2025 - 23.01.2025</option>
+<option value="1411">17.01.2025 - 20.01.2025</option>
+<option value="1410">14.01.2025 - 16.01.2025</option>
+<option value="1409">07.01.2025 - 13.01.2025</option>
+<option value="1408">30.12.2024 - 06.01.2025</option>
+<option value="1407">23.12.2024 - 29.12.2024</option>
+<option value="1406">20.12.2024 - 22.12.2024</option>
+<option value="1405">17.12.2024 - 19.12.2024</option>
+
 =end
 
 
@@ -95,7 +135,7 @@ Webcache.root = '/sports/cache'  ### c:\sports\cache
 ##  e.g.  (1367..1408).include?( 1408 ) == true  !!
 
 ## try latest     - was last five
-prog_ids = ( 1400..1423
+prog_ids = ( 1407..1440
             ).to_a.reverse
 
 
