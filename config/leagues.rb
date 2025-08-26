@@ -77,6 +77,7 @@ HANDBALL_LEAGUES = [
   'HB GERC', # Deutschland DHB Pokal
   'HBGERSC', # Deutschland Supercup
   'HBAUTSC', # Handball Supercup Österreich
+  'HB HUN',  #  Ungarn NB I
   'HB SWE',  # Schweden Elitserien
   'HB BLR',  # Weißrussland Division 1
   'EHF EUC', # EHF EURO Cup
@@ -183,6 +184,10 @@ MORE_LEAGUES = [
 EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with national (selction) teams for now
   'FB OLYH',    #  Olympia, Männer
   'WM Q',       # WM Qualifikation
+  'WMQCONM',    #  WM Qualifikation, CONMEBOL
+  'WMQ ASI',    #  WM Qualifikation, Asien
+  'WMQ AFR',    #  WM Qualifikation, Afrika
+  'WMQCONC',    #  WM Qualifikation, CONCACAF
   'U20 WM',     # U20 Weltmeisterschaft
   'EM',         # Europameisterschaft
   'EM Q',       # Europameisterschaft Qualifikation
@@ -211,6 +216,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'INT FSD',    # Internationale Freundschaftsspiele, Damen
   'INT FSF',    # Freundschaftsspiele, Frauen
   'INT D',      # International, Damen
+  'EM FR',      # Frauen EM
   'EMQDA',      # EM Qualifikation, Damen
   'EMQFR',      # EM Qualifikation, Frauen
   'U19 DAQ',    # U19 EM Frauen, Qualifikation
@@ -225,6 +231,7 @@ EXCLUDE_LEAGUES = [    # note: skip (ignore) all leagues/cups/tournaments with n
   'CL DAM',     # UEFA Champions League Damen
   'CFS DA',     # Klub-Freundschaftsspiele, Damen
   'AUT DA',     # Österreich Frauen Bundesliga
+  'AUT FRC',    #  Österreich Frauen Cup
   'DA CUP',     # Österreich Damen Cup
   'GER DA',     # Deutschland Frauen Bundesliga
   'GER CDA',    # Deutschland DFB Pokal Frauen
