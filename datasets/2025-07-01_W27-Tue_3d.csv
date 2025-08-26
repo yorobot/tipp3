@@ -1,0 +1,89 @@
+Date,League,Team 1,Score,Team 2,League Name
+01.07. 12:00,TEN ATP,"Michelsen, Alex",2:3,"Kecmanovic, Mio.",Tennis ATP
+01.07. 13:25,TEN ATP,"Basilashvili, Nik.",3:1,"Musetti, Lorenzo",Tennis ATP
+01.07. 13:55,TEN ATP,"Munar, Jaume",3:2,"Bublik, Alexander",Tennis ATP
+01.07. 14:00,TEN ATP,"Ofner, Sebastian",w.o.,"Medjedovic, Hamad",Tennis ATP
+01.07. 15:25,TEN ATP,"Evans, Daniel",3:0,"Clarke, Jay",Tennis ATP
+01.07. 16:15,TEN WTA,"Sakkari, Maria",2:0,"Blinkova, Anna",Tennis WTA
+01.07. 17:00,FIN 1,Kuopio PS,6:2,IF Gnistan,Finnland Veikkausliiga
+01.07. 17:00,LAT 1,SK Super Nova,0:1,FK Auda Riga,Lettland LMT Virsliga
+01.07. 17:20,TEN WTA,"Kvitova, Petra",0:2,"Navarro, Emma",Tennis WTA
+01.07. 17:30,FIN 3,FC Jazz Pori,7:0,Espoon Palloseura,Finnland Ykkonen
+01.07. 17:50,TEN ATP,"Shelton, Ben",3:0,"Bolt, Alex",Tennis ATP
+01.07. 17:50,TEN WTA,Bouzas Maneiro Jes,w.o.,"Seidel, Ella",Tennis WTA
+01.07. 17:55,TEN ATP,"Shevchenko, Alex",0:3,"Opelka, Reilly",Tennis ATP
+01.07. 17:55,TEN ATP,"Monfils, Gael",3:2,"Humbert, Ugo",Tennis ATP
+01.07. 18:00,GEO SC,FC Iberia Tiflis*,0:0,FC Torpedo Kutaisi,Supercup
+01.07. 18:15,TEN ATP,Kovacevic A.,2:3,"Fucsovics, Marton",Tennis ATP
+01.07. 18:20,TEN ATP,"Dimitrov, Grigor",3:0,"Nishioka, Yoshi.",Tennis ATP
+01.07. 19:00,LAT 1,FC Riga,3:0,FK Jelgava,Lettland LMT Virsliga
+01.07. 19:15,TEN WTA,"Azarenka, Victoria",1:2,Zakharova A.,Tennis WTA
+01.07. 19:25,TEN WTA,"Parks, Alycia",0:2,"Bencic, Belinda",Tennis WTA
+01.07. 20:40,TEN WTA,"Yastremska, Daya.",2:0,"Gauff, Coco",Tennis WTA
+01.07. 21:00,KLUB WM,Real Madrid ESP,1:0,Juventus Turin ITA,Klub WM
+01.07. 21:00,KLUB WM,Real Madrid,1:1,Juventus Turin+1,Klub WM
+01.07. 21:30,ISL CUP,Valur Reykjavik,3:1,Stjarnan Gardab.,Island Cup
+01.07. 22:30,ECU 2,Cumbaya FC,1:0,9 de Octubre FC,"Ecuador, LigaPro Primera B"
+02.07. 00:00,CHI CUP,Audax Italiano,2:0,Deportes Temuco,Copa Chile
+02.07. 01:00,CHI CUP,Nublense,2:0,CD Magallanes,Copa Chile
+02.07. 03:00,KLUB WM,Bor. Dortmund GER,2:1,CF Monterrey MEX,Klub WM
+02.07. 03:00,KLUB WM,Borussia Dortmund,2:2,CF Monterrey+1,Klub WM
+02.07. 12:00,JPN 1,Vissel Kobe,1:0,Sanfr. Hiroshima,Japan J-League 1
+02.07. 12:00,KOR CUP,Daegu FC,1:2,Gangwon FC,Südkorea FA Cup
+02.07. 12:00,KOR CUP,Gimpo Citizen FC,1:3,FC Bucheon,Südkorea FA Cup
+02.07. 12:00,KOR CUP,Gwangju FC,1:0,Ulsan Hyundai,Südkorea FA Cup
+02.07. 12:30,KOR CUP,FC Seoul,0:1,Jeonbuk Hyundai,Südkorea FA Cup
+02.07. 17:00,FIN 1,Vaasa PS,1:2,Haka Valkeakoski,Finnland Veikkausliiga
+02.07. 17:00,FIN 1,Tampereen Ilves,2:1,FC KTP,Finnland Veikkausliiga
+02.07. 17:00,FIN 1,HJK Helsinki,2:3,FF Jaro,Finnland Veikkausliiga
+02.07. 17:00,FIN 1,FC Inter Turku,0:0,IFK Mariehamn,Finnland Veikkausliiga
+02.07. 17:00,FIN 3,PK Keski-Uusimaa,0:4,Rovaniemi PS,Finnland Ykkonen
+02.07. 17:30,FIN 3,Oulun Luistinseura,1:1,KPV Kokkola,Finnland Ykkonen
+02.07. 17:30,FIN 3,Mikkelin Pall.,2:2,Inter Turku 2,Finnland Ykkonen
+02.07. 18:00,FIN 3,Atlantis FC,2:0,Tampere United,Finnland Ykkonen
+02.07. 18:00,EM FR,Island Frauen,0:1,Finnland Frauen,Frauen EM
+02.07. 18:00,EM FR,Island Frauen,0:2,Finnland Frauen+1,Frauen EM
+02.07. 18:00,LAT 1,FK Metta,0:3,FK Tukums 2000,Lettland LMT Virsliga
+02.07. 18:00,GEO SC,FC Dila Gori*,2:0,FC Spaeri,Supercup
+02.07. 19:00,SWE 3S,Eskilsminne IF,2:0,BK Olympic,Schweden Div 1 Södra
+02.07. 19:30,FRO 2,Skala IF,3:0,NSI Runavik II,Färöer Inseln 2. Liga
+02.07. 20:00,FRO 2,Vikingur Gota II,4:0,Vestur Sorvagur 2,Färöer Inseln 2. Liga
+02.07. 21:00,EM FR,Schweiz Frauen,1:2,Norwegen Frauen,Frauen EM
+02.07. 21:00,EM FR,Schweiz Frauen+1,2:2,Norwegen Frauen,Frauen EM
+02.07. 21:00,CHI CUP,Union La Calera,1:4,Coquimbo Unido,Copa Chile
+02.07. 22:00,PER 1,ADC Juan Pablo II,1:1,FBC Melgar,Peru Primera Division
+02.07. 22:30,ECU 2,Independ. Juniors,2:0,22 de Julio,"Ecuador, LigaPro Primera B"
+02.07. 23:45,ARG CUP,Racing Club*,3:1,CA San Martin,Argentinien Cup
+03.07. 00:00,CHI CUP,CD La Serena,4:1,San Luis d.Quilota,Copa Chile
+03.07. 01:00,G-CUP,USA,2:1,Guatemala,Gold Cup
+03.07. 01:00,G-CUP,USA,2:2,Guatemala+1,Gold Cup
+03.07. 01:30,INT FSF,USA Frauen,3:0,Kanada Frauen,"Freundschaftsspiele, Frauen"
+03.07. 01:30,CHI CUP,Dep.Concepcion,1:1,Huachipato,Copa Chile
+03.07. 02:00,ECU 2,Guayaquil City FC,6:0,Chacaritas FC,"Ecuador, LigaPro Primera B"
+03.07. 02:15,ARG CUP,CA Platense*,2:2,Indep. Rivadavia,Argentinien Cup
+03.07. 04:00,G-CUP,Mexiko,1:0,Honduras,Gold Cup
+03.07. 04:00,G-CUP,Mexiko,1:1,Honduras+1,Gold Cup
+03.07. 17:30,FIN 2,Käpylän Pallo,4:2,Turun Palloseura,Finnland Ykkosliiga
+03.07. 17:30,FIN 2,FC Lahti,3:2,JIPPO Joensuu,Finnland Ykkosliiga
+03.07. 18:00,EM FR,Belgien Frauen,0:1,Italien Frauen,Frauen EM
+03.07. 18:00,EM FR,Belgien Frauen+1,1:1,Italien Frauen,Frauen EM
+03.07. 20:00,ISL 2,Thor Akureyri,1:2,Throttur Reykjavik,Island 2. Liga
+03.07. 20:00,FRO 1,Vikingur Gota,0:1,KI Klaksvik,Färöer Inseln Premier League
+03.07. 21:00,EM FR,Spanien Frauen,5:0,Portugal Frauen,Frauen EM
+03.07. 21:00,EM FR,Spanien Frauen,5:1,Portugal Frauen+1,Frauen EM
+03.07. 21:00,EM FR,Spanien Frauen,5:2,Portugal Frauen+2,Frauen EM
+03.07. 21:15,ISL 1,Afturelding,2:2,Breidablik,Island Bestadeild
+03.07. 21:15,ISL 2,Keflavik IF,3:2,UMF Selfoss,Island 2. Liga
+03.07. 21:15,ISL 2,UMF Grindavik,1:5,UMF Njardvik,Island 2. Liga
+04.07. 00:45,ARG CUP,Instituto Cordoba*,0:0,CA Huracan,Argentinien Cup
+04.07. 01:30,USA MLS,New York City FC,3:1,FC Toronto,USA Major League Soccer
+04.07. 02:00,ECU 2,CSD Vargas Torres,1:0,Imbabura SC,"Ecuador, LigaPro Primera B"
+04.07. 02:35,BRA 2,Atletico GO,2:1,CR Brasil AL,Brasilien Brasilero Serie B
+04.07. 18:00,EM FR,Dänemark Frauen,0:1,Schweden Frauen,Frauen EM
+04.07. 21:00,EM FR,Deutschland Frauen,2:0,Polen Frauen,Frauen EM
+05.07. 03:00,KLUB WM,SE Palmeiras S BRA,1:2,FC Chelsea ENG,Klub WM
+05.07. 18:00,EM FR,Wales Frauen,0:3,Niederlande Frauen,Frauen EM
+05.07. 18:00,KLUB WM,Paris SG FRA,2:0,Bayern München GER,Klub WM
+05.07. 21:00,EM FR,Frankreich Frauen,2:1,England Frauen,Frauen EM
+06.07. 18:00,EM FR,Norwegen Frauen,2:1,Finnland Frauen,Frauen EM
+06.07. 21:00,EM FR,Schweiz Frauen,2:0,Island Frauen,Frauen EM

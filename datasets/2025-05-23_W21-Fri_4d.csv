@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+23.05. 17:00,FIN 1,FC KTP,0:0,Haka Valkeakoski,Finnland Veikkausliiga
+23.05. 17:30,SLO 1,NK Radomlje,0:1,ND Primorje,Slowenien PrvaLiga Telekom
+23.05. 18:00,BB AUT,BBC Nord Dragonz,66:79,Oberwart Gunners,Basketball Superliga
+23.05. 18:00,AUT RLO,SR Donaufeld,2:0,Wiener Sport-Club,Österreich Regionalliga Ost
+23.05. 19:00,DEN 2,Odense BK,4:2,Esbjerg FB,Dänemark 1. Division
+23.05. 19:00,DEN 2,Hvidovre IF,1:1,AC Horsens,Dänemark 1. Division
+23.05. 19:00,DEN 2,FC Fredericia,2:0,Kolding IF,Dänemark 1. Division
+23.05. 19:30,AUT BL,LASK,0:0,SCR Altach,Österreich Bundesliga
+23.05. 19:30,AUT BL,WSG Tirol,1:1,Grazer AK,Österreich Bundesliga
+23.05. 19:30,AUT BL,Austria Klagenfurt,0:1,TSV Hartberg,Österreich Bundesliga
+23.05. 19:30,AUT RLO,FCM Traiskirchen,3:2,Kremser SC,Österreich Regionalliga Ost
+23.05. 20:00,NL 1,SC Telstar,1:1,FC Den Bosch,Niederlande Eredivisie
+23.05. 20:15,SUI 2,FC Aarau,1:1,FC Stade Nyonnais,Schweiz Challenge League
+23.05. 20:15,SUI 2,Xamax Neuchatel,2:3,FC Wil 1900,Schweiz Challenge League
+23.05. 20:15,SUI 2,FC Schaffhausen,1:3,AC Bellinzona,Schweiz Challenge League
+23.05. 20:15,SUI 2,Lausanne-Ouchy,2:0,FC Vaduz,Schweiz Challenge League
+23.05. 20:15,SUI 2,FC Thun,1:0,Etoile Carouge FC,Schweiz Challenge League
+23.05. 20:30,GER 2,FC Saarbrücken,0:2,E. Braunschweig,Deutschland 2. Bundesliga
+23.05. 20:30,GER 2,FC Saarbrücken,0:3,E. Braunschweig+1,Deutschland 2. Bundesliga
+23.05. 20:45,ITA A,SSC Napoli,2:0,Cagliari Calcio,Italien Serie A
+23.05. 20:45,ITA A,Como Calcio,0:2,Inter Mailand,Italien Serie A
+23.05. 20:45,BEL 1,Cercle Brügge,3:1,Patro Eisden,Belgien Jupiler Pro League
+23.05. 20:45,IRL 1,St. Patrick's,2:2,Waterford United,Irland Premier Division
+23.05. 20:45,IRL 1,Shelbourne Dublin,3:2,FC Sligo Rovers,Irland Premier Division
+23.05. 20:45,IRL 1,FC Galway United,2:1,Cork City FC,Irland Premier Division
+23.05. 20:45,IRL 1,FC Drogheda United,1:0,Boh. Dublin,Irland Premier Division
+23.05. 20:45,IRL 1,FC Derry City,1:2,FC Shamrock Rovers,Irland Premier Division
+23.05. 21:00,ESP 1,Betis Sevilla,1:1,FC Valencia,Spanien La Liga
+23.05. 21:30,ISL 1,KR Reykjavik,2:3,Fram Reykjavik,Island Bestadeild
+24.05. 02:00,NHL,Dallas Stars,0:3,Edmonton Oilers,USA NHL
+24.05. 13:00,AUT FRC,Austria W. Frauen*,1:2,St. Pölten Frauen,Österreich Frauen Cup
+24.05. 14:20,EH WM,Schweden,2:6,USA,Eishockey A-WM
+24.05. 14:30,AUT 2,Kapfenberger SV,5:3,SW Bregenz,Österreich Zweite Liga
+24.05. 14:30,AUT 2,Floridsdorfer AC,1:1,SK Sturm Graz II,Österreich Zweite Liga
+24.05. 16:00,SCO FA,FC Aberdeen*,1:1,Celtic Glasgow,Schottland FA Cup
+24.05. 16:00,SCO FA,FC Aberdeen+1,2:1,Celtic Glasgow,Schottland FA Cup
+24.05. 16:00,ENG CS,Sheffield United*,1:2,AFC Sunderland,England Championship
+24.05. 16:15,ESP 1,Real Madrid,2:0,Real Sociedad,Spanien La Liga
+24.05. 17:00,AUT BL,SK Sturm Graz,1:1,Wolfsberger AC,Österreich Bundesliga
+24.05. 17:00,AUT BL,SK Sturm Graz,1:2,Wolfsberger AC+1,Österreich Bundesliga
+24.05. 17:00,AUT BL,FK Austria Wien,2:2,BW Linz,Österreich Bundesliga
+24.05. 17:00,AUT BL,FK Austria Wien,2:3,BW Linz+1,Österreich Bundesliga
+24.05. 17:00,AUT BL,RB Salzburg,4:2,SK Rapid Wien,Österreich Bundesliga
+24.05. 17:00,AUT BL,RB Salzburg,4:3,SK Rapid Wien+1,Österreich Bundesliga
+24.05. 18:00,ITA A,Bologna FC,1:3,FC Genua,Italien Serie A
+24.05. 18:00,TUR 1,Göztepe,0:2,Galatasaray,Türkei Süper Lig
+24.05. 18:00,SUI SL,Servette Genf,3:3,Lausanne Sport,Schweiz Super League
+24.05. 18:00,SUI SL,FC Lugano,1:1,Young Boys Bern,Schweiz Super League
+24.05. 18:00,SUI SL,FC Basel,4:0,FC Luzern,Schweiz Super League
+24.05. 18:00,NOR 1,Bodö Glimt,4:0,Rosenborg BK,Norwegen Tippeligaen
+24.05. 18:00,CL FR,Arsenal F ENG*,1:0,Barcelona Frau ESP,UEFA Champions League Frauen
+24.05. 18:20,EH WM,Schweiz,7:0,Dänemark,Eishockey A-WM
+24.05. 18:30,ESP 1,CD Leganes,3:0,Real Valladolid,Spanien La Liga
+24.05. 18:30,ESP 1,Espanyol Barcelona,2:0,UD Las Palmas,Spanien La Liga
+24.05. 20:00,GER CUP,Arminia Bielefeld*,2:4,VfB Stuttgart,Deutschland DFB Pokal
+24.05. 20:00,GER CUP,Arm. Bielefeld+1,3:4,VfB Stuttgart,Deutschland DFB Pokal
+24.05. 20:00,NL 1,Willem II Tilburg,3:2,FC Dordrecht,Niederlande Eredivisie
+24.05. 20:45,ITA A,AC Milan,2:0,AC Monza,Italien Serie A
+24.05. 21:00,ESP 1,Rayo Vallecano,0:0,RCD Mallorca,Spanien La Liga
+24.05. 21:00,ESP 1,Getafe CF,1:2,Celta de Vigo,Spanien La Liga
+24.05. 21:00,ESP 1,CD Alaves,1:1,CA Osasuna,Spanien La Liga
+24.05. 21:00,FRA CUP,Paris SG*,3:0,Stade de Reims,Frankreich Coupe de France
+25.05. 14:00,ESP 1,FC Girona,0:4,Atletico Madrid,Spanien La Liga
+25.05. 14:00,ENG 1,Charlton Athletic*,1:0,Leyton Orient,England League One
+25.05. 14:30,AUT 2,SKU Amstetten,3:1,FC Liefering,Österreich Zweite Liga
+25.05. 16:15,ESP 1,Villarreal CF,4:2,FC Sevilla,Spanien La Liga
+25.05. 17:00,ENG PL,Nottingham Forest,0:1,FC Chelsea,England Premier League
+25.05. 17:00,ENG PL,FC Liverpool,1:1,Crystal Palace,England Premier League
+25.05. 17:00,ENG PL,FC Fulham,0:2,Manchester City,England Premier League
+25.05. 17:00,ENG PL,Wolverhampton,1:1,FC Brentford,England Premier League
+25.05. 17:00,ENG PL,Newcastle United,0:1,FC Everton,England Premier League
+25.05. 17:00,ENG PL,Tottenham,1:4,Brighton & Hove,England Premier League
+25.05. 17:00,ENG PL,FC Southampton,1:2,FC Arsenal,England Premier League
+25.05. 17:00,ENG PL,Manchester United,2:0,Aston Villa,England Premier League
+25.05. 17:00,ENG PL,Ipswich Town,1:3,West Ham United,England Premier League
+25.05. 17:00,ENG PL,AFC Bournemouth,2:0,Leicester City,England Premier League
+25.05. 17:00,AUT 2,Admira Wacker,1:3,SV Horn,Österreich Zweite Liga
+25.05. 17:00,AUT 2,SV Ried,1:1,First Vienna FC,Österreich Zweite Liga
+25.05. 17:00,AUT 2,Austria Lustenau,3:0,ASK Voitsberg,Österreich Zweite Liga
+25.05. 17:00,AUT 2,SK Rapid Wien II,2:3,SV Stripfing,Österreich Zweite Liga
+25.05. 17:00,AUT 2,SV Lafnitz,2:2,SKN St. Pölten,Österreich Zweite Liga
+25.05. 17:00,DEN 1,FC Midtjylland,3:2,Randers FC,Dänemark Superligaen
+25.05. 17:00,DEN 1,FC Kopenhagen,3:0,FC Nordsjaelland,Dänemark Superligaen
+25.05. 18:00,TUR 1,Trabzonspor,2:2,Samsunspor,Türkei Süper Lig
+25.05. 18:15,POR CUP,Benfica Lissabon*,1:1,Sporting Lissabon,Portugal Taca de Portugal
+25.05. 18:30,BEL 1,Club Brügge,1:1,Royal Antwerpen,Belgien Jupiler Pro League
+25.05. 18:30,BEL 1,KRC Genk,2:1,RSC Anderlecht,Belgien Jupiler Pro League
+25.05. 18:30,BEL 1,Saint Gilloise,3:1,KAA Gent,Belgien Jupiler Pro League
+25.05. 20:20,EH WM,Schweiz,0:0,USA,Eishockey A-WM
+25.05. 20:45,ITA A,Venezia FC,2:3,Juventus Turin,Italien Serie A
+25.05. 20:45,ITA A,Lazio Rom,0:1,US Lecce,Italien Serie A
+25.05. 20:45,ITA A,Atalanta Bergamo,2:3,FC Parma,Italien Serie A
+25.05. 20:45,ITA A,Udinese Calcio,2:3,AC Fiorentina,Italien Serie A
+25.05. 20:45,ITA A,FC Torino,0:2,AS Roma,Italien Serie A
+25.05. 20:45,ITA A,FC Empoli,1:2,Hellas Verona,Italien Serie A
+25.05. 21:00,ESP 1,Athletic Bilbao,0:3,FC Barcelona,Spanien La Liga
+26.05. 19:00,AUT BL,LASK,2:0,TSV Hartberg,Österreich Bundesliga
+26.05. 19:00,AUT BL,LASK,2:1,TSV Hartberg+1,Österreich Bundesliga
+26.05. 19:00,TUR 1,Hatayspor,4:2,Fenerbahce,Türkei Süper Lig
+26.05. 19:00,ROU 1,FC Voluntari,2:1,Unirea Slobozia,Rumänien Liga 1
+26.05. 19:00,NOR 1,KFUM Oslo,0:1,Valerenga IF,Norwegen Tippeligaen
+26.05. 19:00,SWE 2,Umea FC,3:3,Örgryte Göteborg,Schweden Superettan
+26.05. 19:00,SWE 2,Landskrona BoIS,0:3,Falkenbergs FF,Schweden Superettan
+26.05. 19:00,SWE 2,IK Oddevold,1:5,Västeras SK,Schweden Superettan
+26.05. 19:00,SWE 2,IK Brage,2:2,Utsiktens BK,Schweden Superettan
+26.05. 19:00,SWE 1,IFK Norrköping,1:1,Mjällby AIF,Schweden Allsvenskan
+26.05. 19:10,SWE 1,Hammarby IF,1:0,Degerfors IF,Schweden Allsvenskan
+26.05. 19:20,BB AUT,Oberwart Gunners,75:67,BBC Nord Dragonz,Basketball Superliga
+26.05. 19:45,BUL 1,Botev Plovdiv,0:4,ZSKA Sofia,Bulgarien Premier League
+26.05. 19:45,BUL 1,Beroe Stara Zagora,3:1,Spartak Varna,Bulgarien Premier League
+26.05. 20:30,GER BL,SV 07 Elversberg,1:2,FC Heidenheim,Deutschland Bundesliga
+26.05. 20:30,GER BL,SV 07 Elversberg,1:3,FC Heidenheim+1,Deutschland Bundesliga
+26.05. 20:30,GER BL,SV Elversberg+1,2:2,FC Heidenheim,Deutschland Bundesliga
+26.05. 21:00,SCO PS,FC Ross County,2:4,FC Livingston,Schottland Premiership
+27.05. 00:00,BRA 2,Criciuma EC SC,0:1,Coritiba FC PR,Brasilien Brasilero Serie B
+27.05. 01:00,BRA 1,RB Bragantino,1:0,EC Juventude RS,Brasilien Brasilero Serie A
+27.05. 01:00,BRA 2,Botafogo FC SP,2:1,CR Brasil AL,Brasilien Brasilero Serie B
+27.05. 01:30,CHI 1,Audax Italiano,4:3,Huachipato,Chile Primera Divison
+27.05. 02:00,BRA 2,Cuiaba MT,1:0,Vila Nova GO,Brasilien Brasilero Serie B
+27.05. 02:00,NHL,Florida Panthers,0:3,Carolina Hurric.,USA NHL

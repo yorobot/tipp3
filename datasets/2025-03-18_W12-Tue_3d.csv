@@ -51,9 +51,9 @@ Date,League,Team 1,Score,Team 2,League Name
 19.03. 17:00,U19 EMQ,Italien U19,1:1,Lettland U19,"U19 EM, Qualifikation"
 19.03. 17:00,U19 EMQ,Israel U19*,2:3,Serbien U19,"U19 EM, Qualifikation"
 19.03. 17:00,U19 EMQ,Luxemburg U19*,0:2,Tschechien U19,"U19 EM, Qualifikation"
-19.03. 17:00,WM Q,Zentralafrika*,1:4,Madagaskar,"WM Qualifikation, Afrika"
-19.03. 17:00,WM Q,Liberia,0:1,Tunesien,"WM Qualifikation, Afrika"
-19.03. 17:00,WM Q,Eswatini,0:0,Kamerun,"WM Qualifikation, Afrika"
+19.03. 17:00,WMQ AFR,Zentralafrika*,1:4,Madagaskar,"WM Qualifikation, Afrika"
+19.03. 17:00,WMQ AFR,Liberia,0:1,Tunesien,"WM Qualifikation, Afrika"
+19.03. 17:00,WMQ AFR,Eswatini,0:0,Kamerun,"WM Qualifikation, Afrika"
 19.03. 17:30,EH FIN,HC TPS Turku,6:2,SaiPa Lappeenr.,Finnland SM-Liiga
 19.03. 17:30,EH FIN,Vaasan Sport,0:3,KooKoo Kouvola,Finnland SM-Liiga
 19.03. 18:00,EH CZE,HC Kometa Brünn,3:2,HC Karlsbad,Tschechische Republik Extraliga
@@ -73,20 +73,20 @@ Date,League,Team 1,Score,Team 2,League Name
 19.03. 21:00,CL FR,Man. City Frau ENG,2:0,Chelsea Frauen ENG,UEFA Champions League Frauen
 19.03. 21:00,CL FR,Man. City Frauen,2:1,Chelsea Frauen+1,UEFA Champions League Frauen
 20.03. 00:30,COL 1,Indep. Santa Fe,1:1,CA Bucaramanga,Kolumbien Primera Liga
-20.03. 02:00,MEX 2,Tapatio,1:1,Atlante FC,Mexiko Liga de Expansion
+20.03. 02:00,MEX 2,CD Tapatio,1:1,Atlante FC,Mexiko Liga de Expansion
 20.03. 02:30,COL 1,Atletico Nacional,4:3,Deportes Tolima,Kolumbien Primera Liga
-20.03. 10:10,WM Q,Australien,5:1,Indonesien,"WM Qualifikation, Asien"
-20.03. 11:35,WM Q,Japan,2:0,Bahrain,"WM Qualifikation, Asien"
-20.03. 12:00,WM Q,Südkorea,1:1,Oman,"WM Qualifikation, Asien"
-20.03. 17:00,WM Q,Usbekistan,1:0,Kirgisistan,"WM Qualifikation, Asien"
-20.03. 17:00,WM Q,Iran,2:0,Ver. Arab. Emirate,"WM Qualifikation, Asien"
+20.03. 10:10,WMQ ASI,Australien,5:1,Indonesien,"WM Qualifikation, Asien"
+20.03. 11:35,WMQ ASI,Japan,2:0,Bahrain,"WM Qualifikation, Asien"
+20.03. 12:00,WMQ ASI,Südkorea,1:1,Oman,"WM Qualifikation, Asien"
+20.03. 17:00,WMQ ASI,Usbekistan,1:0,Kirgisistan,"WM Qualifikation, Asien"
+20.03. 17:00,WMQ ASI,Iran,2:0,Ver. Arab. Emirate,"WM Qualifikation, Asien"
 20.03. 18:00,UEFA NL,Türkei,3:1,Ungarn,UEFA Nations League
 20.03. 18:00,UEFA NL,Türkei,3:2,Ungarn+1,UEFA Nations League
 20.03. 18:00,UEFA NL,Armenien,0:3,Georgien,UEFA Nations League
-20.03. 19:15,WM Q,Jordanien,3:1,Palästina,"WM Qualifikation, Asien"
-20.03. 19:15,WM Q,Saudi Arabien,1:0,China,"WM Qualifikation, Asien"
-20.03. 19:15,WM Q,Irak,2:2,Kuwait,"WM Qualifikation, Asien"
-20.03. 19:15,WM Q,Katar,5:1,Nordkorea,"WM Qualifikation, Asien"
+20.03. 19:15,WMQ ASI,Jordanien,3:1,Palästina,"WM Qualifikation, Asien"
+20.03. 19:15,WMQ ASI,Saudi Arabien,1:0,China,"WM Qualifikation, Asien"
+20.03. 19:15,WMQ ASI,Irak,2:2,Kuwait,"WM Qualifikation, Asien"
+20.03. 19:15,WMQ ASI,Katar,5:1,Nordkorea,"WM Qualifikation, Asien"
 20.03. 20:00,EH SUI,Fribourg Gotteron,2:1,SC Bern,Schweiz National League A
 20.03. 20:00,EH SUI,HC Davos,5:2,EV Zug,Schweiz National League A
 20.03. 20:45,UEFA NL,Österreich,1:1,Serbien,UEFA Nations League
@@ -111,11 +111,11 @@ Date,League,Team 1,Score,Team 2,League Name
 20.03. 20:45,UEFA NL,Kroatien,2:0,Frankreich,UEFA Nations League
 20.03. 20:45,UEFA NL,Kroatien+1,3:0,Frankreich,UEFA Nations League
 20.03. 21:00,URU 1,Montevideo City,2:4,Juventud Piedras,Uruguay Primera Division
-21.03. 00:00,WM Q,Paraguay,1:0,Chile,"WM Qualifikation, CONMEBOL"
-21.03. 00:00,WM Q,Paraguay,1:1,Chile+1,"WM Qualifikation, CONMEBOL"
+21.03. 00:00,WMQCONM,Paraguay,1:0,Chile,"WM Qualifikation, CONMEBOL"
+21.03. 00:00,WMQCONM,Paraguay,1:1,Chile+1,"WM Qualifikation, CONMEBOL"
 21.03. 00:00,CCC NL,USA,0:1,Panama,CONCACAF Nations League
-21.03. 01:45,WM Q,Brasilien,2:1,Kolumbien,"WM Qualifikation, CONMEBOL"
-21.03. 01:45,WM Q,Brasilien,2:2,Kolumbien+1,"WM Qualifikation, CONMEBOL"
-21.03. 02:30,WM Q,Peru,3:1,Bolivien,"WM Qualifikation, CONMEBOL"
-21.03. 02:30,WM Q,Peru,3:2,Bolivien+1,"WM Qualifikation, CONMEBOL"
+21.03. 01:45,WMQCONM,Brasilien,2:1,Kolumbien,"WM Qualifikation, CONMEBOL"
+21.03. 01:45,WMQCONM,Brasilien,2:2,Kolumbien+1,"WM Qualifikation, CONMEBOL"
+21.03. 02:30,WMQCONM,Peru,3:1,Bolivien,"WM Qualifikation, CONMEBOL"
+21.03. 02:30,WMQCONM,Peru,3:2,Bolivien+1,"WM Qualifikation, CONMEBOL"
 21.03. 03:30,CCC NL,Kanada*,0:2,Mexiko,CONCACAF Nations League

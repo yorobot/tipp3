@@ -33,7 +33,6 @@ names = %w[
   2024-08-02_W31-Fri_4d
   2024-08-06_W32-Tue_3d
 ]
-=end
 
 names = %w[
 2024-12-30_W01-Mon_8d
@@ -70,12 +69,51 @@ names = %w[
 2025-04-25_W17-Fri_4d
 2025-04-29_W18-Tue_3d
 ]
+=end
+
+
+names = %w[
+2025-05-02_W18-Fri_4d
+2025-05-06_W19-Tue_3d
+2025-05-09_W19-Fri_4d
+2025-05-13_W20-Tue_3d
+2025-05-16_W20-Fri_4d
+2025-05-20_W21-Tue_3d
+2025-05-23_W21-Fri_4d
+2025-05-27_W22-Tue_3d
+2025-05-30_W22-Fri_4d
+2025-06-03_W23-Tue_3d
+2025-06-06_W23-Fri_4d
+2025-06-10_W24-Tue_3d
+2025-06-13_W24-Fri_4d
+2025-06-17_W25-Tue_3d
+2025-06-20_W25-Fri_4d
+2025-06-24_W26-Tue_3d
+2025-06-27_W26-Fri_4d
+2025-07-01_W27-Tue_3d
+2025-07-04_W27-Fri_4d
+2025-07-08_W28-Tue_3d
+2025-07-11_W28-Fri_4d
+2025-07-15_W29-Tue_3d
+2025-07-18_W29-Fri_4d
+2025-07-22_W30-Tue_3d
+2025-07-25_W30-Fri_4d
+2025-07-29_W31-Tue_3d
+2025-08-01_W31-Fri_4d
+2025-08-05_W32-Tue_3d
+2025-08-08_W32-Fri_4d
+2025-08-12_W33-Tue_4d
+2025-08-16_W33-Sat_3d
+2025-08-19_W34-Tue_3d
+2025-08-22_W34-Fri_4d
+]
 
 pp names
 
-
-
 puts "   #{names.size} prog(s)"
+
+
+
 
 
 MORE_EXCLUDES = [
@@ -93,12 +131,13 @@ MORE_EXCLUDES = [
 datasets = Dir.glob( './datasets/*.csv' )
 puts "   #{datasets.size} dataset(s)"
 
-## sort  and use last 5
+## sort  and use last 5  / 50
 datasets = datasets.sort
-pp datasets[-5..-1]
+pp datasets[-50..-1]   #[-5..-1]
 
 
-datasets[-5..-1].each do |path|
+
+datasets[-50..-1].each do |path|
   prog = Programs::Program.read( path )
 
    puts "#{prog.size} rec(s) - #{prog.name}:"

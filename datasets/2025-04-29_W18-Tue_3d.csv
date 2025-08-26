@@ -40,7 +40,7 @@ Date,League,Team 1,Score,Team 2,League Name
 30.04. 18:45,SLO 1,FC Koper,1:1,NK Celje,Slowenien PrvaLiga Telekom
 30.04. 19:00,EGY 1,Petrojet FC,2:3,Al Ahly Kairo,Ägypten Premier League
 30.04. 19:00,BB EL,Barcelona Bask ESP,100:89,AS Monaco FRA,Euroleague
-30.04. 19:00,AUT RLM,FC Gleisdorf,1:3,SPG Hertha Wels,Österreich Regionalliga Mitte
+30.04. 19:00,AUT RLM,FC Gleisdorf,1:3,FC Hertha Wels,Österreich Regionalliga Mitte
 30.04. 19:00,HB AUT,SG Westwien,24:22,Bärnbach/Köflach,Österreich HLA
 30.04. 19:30,HB AUT,HSG Graz,30:28,SC Ferlach,Österreich HLA
 30.04. 19:30,RSA PL,Mamelodi FC,3:0,Richards Bay FC,"Südafrika, Premier League"
@@ -54,7 +54,7 @@ Date,League,Team 1,Score,Team 2,League Name
 30.04. 21:00,CL,FC Barcelona ESP,3:3,Inter Mailand ITA,UEFA Champions League
 30.04. 21:00,CL,FC Barcelona,3:4,Inter Mailand+1,UEFA Champions League
 30.04. 21:00,CL,FC Barcelona,3:5,Inter Mailand+2,UEFA Champions League
-01.05. 00:00,BRA CUP,Botafogo FR RJ,4:0,Capital CF DF,Brasilien Cup
+01.05. 00:00,BRA CUP,Botafogo RJ,4:0,Capital CF DF,Brasilien Cup
 01.05. 00:30,BRA CUP,Ceara SC CE,0:1,SE Palmeiras SP,Brasilien Cup
 01.05. 01:00,COL 1,Rionegro Aguilas,0:1,America de Cali,Kolumbien Primera Liga
 01.05. 01:00,NHL,Washington Cap.,4:1,Montreal Canad.,USA NHL
@@ -86,7 +86,7 @@ Date,League,Team 1,Score,Team 2,League Name
 01.05. 18:00,NOR 1,Rosenborg BK,1:1,Kristiansund BK,Norwegen Tippeligaen
 01.05. 18:00,EH TOUR,Tschechien*,4:2,Finnland,Euro Hockey Tour
 01.05. 18:00,BB AUT,Oberwart Gunners,89:84,Traiskirchen Lions,Basketball Superliga
-01.05. 18:30,BUL 1,FK Hebar Pazardzhi,1:3,FC Krumovgrad,Bulgarien Premier League
+01.05. 18:30,BUL 1,Hebar Pazardzhik,1:3,FC Krumovgrad,Bulgarien Premier League
 01.05. 19:00,EGY 1,Al-Masry Club,0:0,El Zamalek,Ägypten Premier League
 01.05. 19:30,ITA B,US Sassuolo,2:0,Carrarese Calcio,Italien Serie B
 01.05. 19:30,DEN CUP,Viborg FF,0:1,FC Kopenhagen,Dänemark Landspokalturneringen
@@ -114,6 +114,8 @@ Date,League,Team 1,Score,Team 2,League Name
 03.05. 15:30,GER BL,RB Leipzig,3:3,Bayern München,Deutschland Bundesliga
 03.05. 17:00,AUT BL,WSG Tirol,1:3,LASK,Österreich Bundesliga
 03.05. 18:30,GER BL,Borussia Dortmund,4:0,VfL Wolfsburg,Deutschland Bundesliga
-heute 14:30,AUT BL,TSV Hartberg,2:0,SCR Altach,Österreich Bundesliga
-heute 14:30,AUT BL,SK Rapid Wien,0:1,Wolfsberger AC,Österreich Bundesliga
-heute 14:30,AUT BL,BW Linz,0:1,SK Sturm Graz,Österreich Bundesliga
+04.05. 14:30,AUT BL,TSV Hartberg,2:0,SCR Altach,Österreich Bundesliga
+04.05. 14:30,AUT BL,SK Rapid Wien,0:1,Wolfsberger AC,Österreich Bundesliga
+04.05. 14:30,AUT BL,BW Linz,0:1,SK Sturm Graz,Österreich Bundesliga
+04.05. 17:00,AUT BL,RB Salzburg,2:0,FK Austria Wien,Österreich Bundesliga
+04.05. 17:30,GER BL,SC Freiburg,2:2,Bayer Leverkusen,Deutschland Bundesliga

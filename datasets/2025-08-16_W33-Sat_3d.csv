@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+16.08. 13:00,GER CUP,BFC Dynamo,1:1,VfL Bochum,Deutschland DFB Pokal
+16.08. 13:30,ENG PL,Aston Villa,0:0,Newcastle United,England Premier League
+16.08. 13:30,ENG CS,FC Portsmouth,1:2,Norwich City,England Championship
+16.08. 13:30,ENG CS,Wrexham FC,2:3,West Bromwich,England Championship
+16.08. 13:30,ENG CS,Derby County,3:5,Coventry City,England Championship
+16.08. 15:30,GER CUP,FV Illertissen,3:3,1. FC Nürnberg,Deutschland DFB Pokal
+16.08. 15:30,GER CUP,E. Norderstedt*,0:0,FC St. Pauli,Deutschland DFB Pokal
+16.08. 15:30,GER CUP,SV Sandhausen,2:4,RB Leipzig,Deutschland DFB Pokal
+16.08. 15:30,GER CUP,Hansa Rostock,0:4,TSG Hoffenheim,Deutschland DFB Pokal
+16.08. 16:00,ENG PL,AFC Sunderland,3:0,West Ham United,England Premier League
+16.08. 16:00,ENG PL,Brighton & Hove,1:1,FC Fulham,England Premier League
+16.08. 16:00,ENG PL,Tottenham,3:0,FC Burnley,England Premier League
+16.08. 16:00,ENG CS,Blackburn Rovers,1:2,Birmingham City,England Championship
+16.08. 16:00,ENG CS,Bristol City,0:0,Charlton Athletic,England Championship
+16.08. 16:00,ENG CS,FC Millwall,0:3,Middlesbrough,England Championship
+16.08. 16:00,ENG CS,Preston North End,2:1,Leicester City,England Championship
+16.08. 16:00,ENG CS,Sheffield Wednes.,0:3,Stoke City,England Championship
+16.08. 16:00,ENG CS,Swansea City,1:0,Sheffield United,England Championship
+16.08. 16:00,ENG CS,FC Watford,2:1,Queens Park R.,England Championship
+16.08. 16:00,BEL 1,SV Zulte Waregem,0:1,Club Brügge,Belgien Jupiler Pro League
+16.08. 17:00,AUT BL,TSV Hartberg*,1:2,RB Salzburg,Österreich Bundesliga
+16.08. 17:00,AUT BL,TSV Hartberg+1,2:2,RB Salzburg,Österreich Bundesliga
+16.08. 17:00,AUT BL,Grazer AK,1:1,WSG Tirol,Österreich Bundesliga
+16.08. 17:00,FRA 1,RC Lens,0:1,Olympique Lyon,Frankreich Ligue 1
+16.08. 17:30,AUT RLO,SV Leobendorf,4:2,SC Parndorf,Österreich Regionalliga Ost
+16.08. 17:30,AUT RLO,SC Retz,0:3,Wiener Viktoria,Österreich Regionalliga Ost
+16.08. 18:00,GER CUP,VfB Lübeck,1:2,SV Darmstadt 98,Deutschland DFB Pokal
+16.08. 18:00,GER CUP,SF Lotte,0:2,SC Freiburg,Deutschland DFB Pokal
+16.08. 18:00,GER CUP,Energie Cottbus,1:0,Hannover 96,Deutschland DFB Pokal
+16.08. 18:00,ITA CUP,Venezia FC,4:0,AC Mantova,Coppa Italia
+16.08. 18:15,BEL 1,KV Mechelen,1:1,KAA Gent,Belgien Jupiler Pro League
+16.08. 18:30,ENG PL,Wolverhampton,0:4,Manchester City,England Premier League
+16.08. 18:30,ITA CUP,Como Calcio,3:1,FC Südtirol,Coppa Italia
+16.08. 18:45,NL 1,Excel. Rotterdam,1:2,Feyenoord,Niederlande Eredivisie
+16.08. 19:00,FRA 1,AS Monaco,3:1,Le Havre AC,Frankreich Ligue 1
+16.08. 19:30,ESP 1,RCD Mallorca,0:3,FC Barcelona,Spanien La Liga
+16.08. 19:30,AUT BL,SV Ried,1:3,SK Sturm Graz,Österreich Bundesliga
+16.08. 20:00,AUT 2,Young Violets A.W.,1:1,Admira Wacker,Österreich Zweite Liga
+16.08. 20:00,NL 1,Heracles Almelo,1:4,NEC Nijmegen,Niederlande Eredivisie
+16.08. 20:30,GER SC,VfB Stuttgart,1:2,Bayern München,Deutschland Supercup
+16.08. 20:30,GER SC,VfB Stuttgart+1,2:2,Bayern München,Deutschland Supercup
+16.08. 20:30,TUR 1,Göztepe,0:0,Fenerbahce,Türkei Süper Lig
+16.08. 20:45,ITA CUP,Cagliari Calcio,1:1,Virtus Entella,Coppa Italia
+16.08. 20:45,BEL 1,Saint Gilloise,3:0,Standard Lüttich,Belgien Jupiler Pro League
+16.08. 21:00,NL 1,FC Groningen,2:1,SC Heerenveen,Niederlande Eredivisie
+16.08. 21:05,FRA 1,OGC Nizza,0:1,FC Toulouse,Frankreich Ligue 1
+16.08. 21:15,ITA CUP,US Cremonese,0:0,Palermo FC,Coppa Italia
+16.08. 21:30,ESP 1,CD Alaves,2:1,Levante UD,Spanien La Liga
+16.08. 21:30,ESP 1,FC Valencia,1:1,Real Sociedad,Spanien La Liga
+17.08. 10:30,AUT 2,Austria Salzburg,4:2,SK Rapid Wien II,Österreich Zweite Liga
+17.08. 12:15,NL 1,Go Ahead Eagles,2:2,Ajax Amsterdam,Niederlande Eredivisie
+17.08. 13:00,GER CUP,FC Viktoria Köln,1:3,SC Paderborn,Deutschland DFB Pokal
+17.08. 13:00,ENG CS,Ipswich Town,1:1,FC Southampton,England Championship
+17.08. 13:30,BEL 1,FCV Dender EH,0:2,RSC Anderlecht,Belgien Jupiler Pro League
+17.08. 14:30,NL 1,Twente Enschede,0:2,PSV Eindhoven,Niederlande Eredivisie
+17.08. 14:30,NL 1,Sparta Rotterdam,2:1,FC Utrecht,Niederlande Eredivisie
+17.08. 14:30,NOR 1,Tromsö IL,1:2,SK Brann,Norwegen Tippeligaen
+17.08. 15:00,ENG PL,Nottingham Forest,3:1,FC Brentford,England Premier League
+17.08. 15:00,ENG PL,FC Chelsea,0:0,Crystal Palace,England Premier League
+17.08. 15:00,ENG PL,FC Chelsea,0:1,Crystal Palace+1,England Premier League
+17.08. 15:00,FRA 1,Stade Brest,3:3,Lille OSC,Frankreich Ligue 1
+17.08. 15:30,GER CUP,Jahn Regensburg,1:2,1. FC Köln,Deutschland DFB Pokal
+17.08. 15:30,GER CUP,Lokomotive Leipzig,0:0,FC Schalke 04,Deutschland DFB Pokal
+17.08. 15:30,GER CUP,ZFC Meuselwitz,0:5,Karlsruher SC,Deutschland DFB Pokal
+17.08. 16:00,ENG CS,Hull City,3:2,Oxford United,England Championship
+17.08. 16:00,BEL 1,St. Truiden VV,2:1,RAAL La Louviere,Belgien Jupiler Pro League
+17.08. 16:00,SCO LC,FC Livingston,0:2,Hibernian FC,Schottland League Cup
+17.08. 16:00,SCO LC,FC Kilmarnock,2:1,Dundee United,Schottland League Cup
+17.08. 16:45,NL 1,FC Volendam,2:2,AZ Alkmaar,Niederlande Eredivisie
+17.08. 17:00,AUT BL,SK Rapid Wien,0:0,SCR Altach,Österreich Bundesliga
+17.08. 17:00,AUT BL,SK Rapid Wien,0:1,SCR Altach+1,Österreich Bundesliga
+17.08. 17:00,AUT BL,LASK,2:1,FK Austria Wien,Österreich Bundesliga
+17.08. 17:00,AUT BL,Wolfsberger AC,3:0,BW Linz,Österreich Bundesliga
+17.08. 17:00,ESP 1,Celta de Vigo,0:2,Getafe CF,Spanien La Liga
+17.08. 17:15,FRA 1,SCO Angers,1:0,Paris FC 98,Frankreich Ligue 1
+17.08. 17:15,FRA 1,AJ Auxerre,1:0,FC Lorient,Frankreich Ligue 1
+17.08. 17:15,FRA 1,FC Metz,0:1,Racing Strasbourg,Frankreich Ligue 1
+17.08. 17:30,ENG PL,Manchester United,0:1,FC Arsenal,England Premier League
+17.08. 18:00,GER CUP,SSV Ulm 1846,0:1,SV 07 Elversberg,Deutschland DFB Pokal
+17.08. 18:00,GER CUP,Hallescher FC,0:2,FC Augsburg,Deutschland DFB Pokal
+17.08. 18:00,GER CUP,FC Homburg,0:2,Holstein Kiel,Deutschland DFB Pokal
+17.08. 18:00,TUR 1,Genclerbirligi,0:1,Antalyaspor,Türkei Süper Lig
+17.08. 18:30,BEL 1,Sporting Charleroi,1:1,Royal Antwerpen,Belgien Jupiler Pro League
+17.08. 19:15,BEL 1,Cercle Brügge,4:1,KVC Westerlo,Belgien Jupiler Pro League
+17.08. 19:15,NOR 1,Valerenga IF,4:0,Sarpsborg 08,Norwegen Tippeligaen
+17.08. 19:30,ESP 1,Athletic Bilbao,3:2,FC Sevilla,Spanien La Liga
+17.08. 20:30,TUR 1,Besiktas Istanbul,2:1,Eyupspor,Türkei Süper Lig
+17.08. 20:30,TUR 1,Basaksehir,1:1,Kayserispor,Türkei Süper Lig
+17.08. 20:45,FRA 1,FC Nantes,0:1,Paris SG,Frankreich Ligue 1
+17.08. 21:15,ITA CUP,AC Milan,2:0,AS Bari,Coppa Italia
+17.08. 21:30,ESP 1,Espanyol Barcelona,2:1,Atletico Madrid,Spanien La Liga
+18.08. 18:00,GER CUP,Dynamo Dresden,0:1,FSV Mainz 05,Deutschland DFB Pokal
+18.08. 18:00,GER CUP,Preussen Münster,0:0,Hertha BSC,Deutschland DFB Pokal
+18.08. 18:00,GER CUP,Schweinfurt 05,2:4,Fortuna Düsseldorf,Deutschland DFB Pokal
+18.08. 18:00,FIN 1,FF Jaro,0:4,Seinajoen JK,Finnland Veikkausliiga
+18.08. 18:30,ITA CUP,Spezia Calcio,1:1,Sampdoria Genua,Coppa Italia
+18.08. 19:00,ESP 2,Sporting Gijon,2:1,Cordoba CF,Spanien Segunda Division
+18.08. 19:00,DEN 1,Odense BK,1:5,AGF Aarhus,Dänemark Superligaen
+18.08. 19:00,SWE 1,IFK Värnamo,3:2,Degerfors IF,Schweden Allsvenskan
+18.08. 19:00,NOR 2,Aasane Fotball,4:2,Raufoss IL,Norwegen Adeccoligaen
+18.08. 19:00,NOR 2,Aalesunds FK,6:0,Ranheim IL,Norwegen Adeccoligaen
+18.08. 19:00,NOR 2,Stabaek IF,1:2,Sogndal Fotball,Norwegen Adeccoligaen
+18.08. 19:00,NOR 2,Kongsvinger IL,4:3,Mjöndalen,Norwegen Adeccoligaen
+18.08. 20:15,BUL 1,FK Arda Kardzhali,abgesagt,ZSKA Sofia,Bulgarien Premier League
+18.08. 20:30,TUR 1,Kasimpasa,0:1,Trabzonspor,Türkei Süper Lig
+18.08. 20:30,TUR 2,Amed SK,2:2,Erzurumspor FK,Türkei TFF 1. Lig
+18.08. 20:30,ROU 1,FC Farul Constanta,0:1,Universitatea Cluj,Rumänien Liga 1
+18.08. 20:45,FRA 2,Le Mans FC,1:2,HSC Montpellier,Frankreich Ligue 2
+18.08. 20:45,ITA CUP,Udinese Calcio,2:0,Carrarese Calcio,Coppa Italia
+18.08. 20:45,GER CUP,Rot Weiss Essen,0:1,Borussia Dortmund,Deutschland DFB Pokal
+18.08. 20:45,GER CUP,Rot Weiss Essen+1,1:1,Borussia Dortmund,Deutschland DFB Pokal
+18.08. 20:45,GER CUP,Rot Weiss Essen+2,2:1,Borussia Dortmund,Deutschland DFB Pokal
+18.08. 21:00,ENG PL,Leeds United,1:0,FC Everton,England Premier League
+18.08. 21:00,ESP 1,Elche CF,1:1,Betis Sevilla,Spanien La Liga
+18.08. 21:15,POR 1,Gil Vicente,0:2,FC Porto,Portugal Primeira Liga
+18.08. 21:15,ITA CUP,FC Torino,1:0,FC Modena,Coppa Italia
+18.08. 21:30,ESP 2,UD Almeria,4:4,Albacete Balompie,Spanien Segunda Division
+19.08. 00:00,ARG 1,CA Sarmiento,2:2,Atletico Tucuman,Argentinien Primera Division
+19.08. 01:00,BRA 1,Mirassol FC SP,1:1,Cruzeiro EC MG,Brasilien Brasilero Serie A
+19.08. 02:00,ARG 1,CA Talleres,0:0,CA San Martin,Argentinien Primera Division

@@ -129,13 +129,90 @@ Webcache.root = '/sports/cache'  ### c:\sports\cache
 <option value="1339">26.04.2024 - 29.04.2024</option>
 <option value="1338">23.04.2024 - 25.04.2024</option>
 <option value="1337">19.04.2024 - 22.04.2024</option>
+
+
+-- update on august/26, 2025
+<option value="1473" selected="selected">22.08.2025 - 25.08.2025</option>
+<option value="1472">19.08.2025 - 21.08.2025</option>
+<option value="1471">16.08.2025 - 18.08.2025</option>
+<option value="1470">12.08.2025 - 15.08.2025</option>
+<option value="1469">08.08.2025 - 11.08.2025</option>
+<option value="1468">05.08.2025 - 07.08.2025</option>
+<option value="1467">01.08.2025 - 04.08.2025</option>
+<option value="1466">29.07.2025 - 31.07.2025</option>
+<option value="1465">25.07.2025 - 28.07.2025</option>
+<option value="1464">22.07.2025 - 24.07.2025</option>
+<option value="1463">18.07.2025 - 21.07.2025</option>
+<option value="1462">15.07.2025 - 17.07.2025</option>
+<option value="1461">11.07.2025 - 14.07.2025</option>
+<option value="1460">08.07.2025 - 10.07.2025</option>
+<option value="1459">04.07.2025 - 07.07.2025</option>
+<option value="1458">01.07.2025 - 03.07.2025</option>
+<option value="1457">27.06.2025 - 30.06.2025</option>
+<option value="1456">24.06.2025 - 26.06.2025</option>
+<option value="1455">20.06.2025 - 23.06.2025</option>
+<option value="1454">17.06.2025 - 19.06.2025</option>
+<option value="1453">13.06.2025 - 16.06.2025</option>
+<option value="1452">10.06.2025 - 12.06.2025</option>
+<option value="1451">06.06.2025 - 09.06.2025</option>
+<option value="1450">03.06.2025 - 05.06.2025</option>
+<option value="1449">30.05.2025 - 02.06.2025</option>
+<option value="1448">27.05.2025 - 29.05.2025</option>
+<option value="1447">23.05.2025 - 26.05.2025</option>
+<option value="1446">20.05.2025 - 22.05.2025</option>
+<option value="1445">16.05.2025 - 19.05.2025</option>
+<option value="1444">13.05.2025 - 15.05.2025</option>
+<option value="1443">09.05.2025 - 12.05.2025</option>
+<option value="1442">06.05.2025 - 08.05.2025</option>
+<option value="1441">02.05.2025 - 05.05.2025</option>
+<option value="1440">29.04.2025 - 01.05.2025</option>
+<option value="1439">25.04.2025 - 28.04.2025</option>
+<option value="1438">22.04.2025 - 24.04.2025</option>
+<option value="1437">18.04.2025 - 21.04.2025</option>
+<option value="1436">15.04.2025 - 17.04.2025</option>
+<option value="1435">11.04.2025 - 14.04.2025</option>
+<option value="1434">08.04.2025 - 10.04.2025</option>
+<option value="1433">04.04.2025 - 07.04.2025</option>
+<option value="1432">01.04.2025 - 03.04.2025</option>
+<option value="1431">28.03.2025 - 31.03.2025</option>
+<option value="1430">25.03.2025 - 27.03.2025</option>
+<option value="1429">21.03.2025 - 24.03.2025</option>
+<option value="1428">18.03.2025 - 20.03.2025</option>
+<option value="1427">14.03.2025 - 17.03.2025</option>
+<option value="1426">11.03.2025 - 13.03.2025</option>
+<option value="1425">07.03.2025 - 10.03.2025</option>
+<option value="1424">04.03.2025 - 06.03.2025</option>
+<option value="1423">28.02.2025 - 03.03.2025</option>
+<option value="1422">25.02.2025 - 27.02.2025</option>
+<option value="1421">21.02.2025 - 24.02.2025</option>
+<option value="1420">18.02.2025 - 20.02.2025</option>
+<option value="1419">14.02.2025 - 17.02.2025</option>
+<option value="1418">11.02.2025 - 13.02.2025</option>
+<option value="1417">07.02.2025 - 10.02.2025</option>
+<option value="1416">04.02.2025 - 06.02.2025</option>
+<option value="1415">31.01.2025 - 03.02.2025</option>
+<option value="1414">28.01.2025 - 30.01.2025</option>
+<option value="1413">24.01.2025 - 27.01.2025</option>
+<option value="1412">21.01.2025 - 23.01.2025</option>
+<option value="1411">17.01.2025 - 20.01.2025</option>
+<option value="1410">14.01.2025 - 16.01.2025</option>
+<option value="1409">07.01.2025 - 13.01.2025</option>
+<option value="1408">30.12.2024 - 06.01.2025</option>
+
+
 =end
+
+
+## no.1473 -  22.08.2025 - 25.08.2025
+## no.1438 -  22.04.2025 - 24.04.2025
+
+
 
 ## note - .. (two dots) is an inclusive range
 ##  e.g.  (1367..1408).include?( 1408 ) == true  !!
 
 ## try latest     - was last five
-prog_ids = ( 1407..1440
+prog_ids = ( 1410..1473    # 1407..1440
             ).to_a.reverse
 
 

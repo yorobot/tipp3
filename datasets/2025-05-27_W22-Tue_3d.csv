@@ -1,0 +1,120 @@
+Date,League,Team 1,Score,Team 2,League Name
+27.05. 11:00,TEN ATP,"Medvedev, Daniil",2:3,"Norrie, Cameron",Tennis ATP
+27.05. 12:15,TEN ATP,"Quinn, Ethan",abgesagt,"Dimitrov, Grigor",Tennis ATP
+27.05. 13:55,TEN ATP,"Muller, Alexandre",1:3,"Mensik, Jakub",Tennis ATP
+27.05. 17:05,TEN ATP,"Arnaldi, Matteo",3:2,"Auger-Aliassime, F",Tennis ATP
+27.05. 17:25,TEN ATP,"Cilic, Marin",0:3,"Cobolli, Flavio",Tennis ATP
+27.05. 18:30,BB GER,USC Heidelberg,92:64,Niners Chemnitz,Deutschland BBL
+27.05. 19:00,SWE 2,Trelleborgs FF,0:0,Helsingborgs IF,Schweden Superettan
+27.05. 19:00,SWE 2,Sandvikens IF,0:1,GIF Sundsvall,Schweden Superettan
+27.05. 19:10,TEN ATP,"Hurkacz, Hubert",0:3,"Fonseca, Joao",Tennis ATP
+27.05. 20:00,BB GER,Würzburg Baskets,79:72,Braunschweig,Deutschland BBL
+27.05. 20:15,TEN ATP,"Monfils, Gael",3:2,"Dellien, Hugo",Tennis ATP
+27.05. 20:30,GER 2,E. Braunschweig,0:2,FC Saarbrücken,Deutschland 2. Bundesliga
+27.05. 20:30,GER 2,E. Braunschweig,0:3,FC Saarbrücken+1,Deutschland 2. Bundesliga
+27.05. 20:30,SUI SL,Grasshoppers,4:0,FC Aarau,Schweiz Super League
+27.05. 20:30,SUI SL,Grasshoppers,4:1,FC Aarau+1,Schweiz Super League
+27.05. 20:45,INT FS,Jamaika*,3:2,Trinidad & Tobago,Internationale Freundschaftsspiele
+28.05. 00:00,COPA L,Sao Paulo SP BRA,2:1,CA Talleres ARG,Copa Libertadores
+28.05. 00:00,COPA S,Vasco Da Gama BRA,3:0,FBC Melgar PER,Copa Sudamericana
+28.05. 00:00,COPA S,Atletico Lanus ARG,2:2,A.Pu. Cabello VEN,Copa Sudamericana
+28.05. 00:30,COPA L,Club Libertad PAR,2:2,Alianza Lima PER,Copa Libertadores
+28.05. 00:30,BRA 2,America Mineiro MG,2:1,Atletico GO,Brasilien Brasilero Serie B
+28.05. 02:00,NHL,Edmonton Oilers,4:1,Dallas Stars,USA NHL
+28.05. 02:00,NBA,Indiana Pacers,130:121,New York Knicks,USA NBA
+28.05. 02:30,COPA L,Botafogo RJ BRA,1:0,Univ. de Chile CHI,Copa Libertadores
+28.05. 02:30,COPA L,Estudiantes LP ARG,2:0,Carabobo FC VEN,Copa Libertadores
+28.05. 02:30,COPA L,CA River Plate ARG,1:1,Universitario PER,Copa Libertadores
+28.05. 02:30,COPA L,Indep. d.Valle ECU,2:1,Barcelona G. ECU,Copa Libertadores
+28.05. 02:30,COPA S,CA Huracan ARG,1:0,Corinthians SP BRA,Copa Sudamericana
+28.05. 02:30,COPA S,Am. de Cali COL,1:1,RC Montevideo URU,Copa Sudamericana
+28.05. 11:00,TEN ATP,"Cerundolo, Juan Ma",0:3,"Medjedovic, Hamad",Tennis ATP
+28.05. 12:30,JPN 1,Urawa RD,0:0,Cerezo Osaka,Japan J-League 1
+28.05. 13:35,TEN WTA,"Bondar, Anna",0:2,"Svitolina, Elina",Tennis WTA
+28.05. 15:35,TEN ATP,Mpetshi P.,1:3,"Dzumhur, Damir",Tennis ATP
+28.05. 16:20,TEN ATP,"Fucsovics, Marton",2:3,"Paul, Tommy",Tennis ATP
+28.05. 17:30,FIN CUP,IF Gnistan,3:0,Tampereen Ilves,Finnland Cup
+28.05. 19:00,TEN WTA,"Shnaider, Diana",0:2,"Yastremska, Daya.",Tennis WTA
+28.05. 19:00,NOR 1,Fredrikstad FK,0:2,Rosenborg BK,Norwegen Tippeligaen
+28.05. 19:00,EGY 1,Al-Masry Club,2:0,Haras El Hodood,Ägypten Premier League
+28.05. 19:00,EGY 1,Petrojet FC,0:0,Nat. Bank Egypt,Ägypten Premier League
+28.05. 19:00,EGY 1,Ceramica Cleopatra,1:5,Pyramids FC,Ägypten Premier League
+28.05. 19:00,EGY 1,Al Ahly Kairo,6:0,Pharco FC,Ägypten Premier League
+28.05. 19:30,LUX CUP,Differdange FC 03*,1:1,F91 Dudelange,Luxemburg Coupe de Luxembourg
+28.05. 19:30,RSA PL,Orlando Pirates FC,1:1,FC Magesi,"Südafrika, Premier League"
+28.05. 20:00,ITACRPO,Delfino Pescara,1:1,Audace Cerignola,"Italien Serie C, Relegations Playoff"
+28.05. 20:00,ITACRPO,Ternana Calcio,3:1,LR Vicenza,"Italien Serie C, Relegations Playoff"
+28.05. 20:10,TEN ATP,"Tiafoe, Frances",3:0,"Carreno-Busta, Pa.",Tennis ATP
+28.05. 21:00,CON LG,Betis Sevilla ESP*,1:4,FC Chelsea ENG,UEFA Conference League
+28.05. 21:00,CON LG,Betis Sevilla+1,2:4,FC Chelsea,UEFA Conference League
+28.05. 21:00,NOR 1,Bodö Glimt,2:4,Viking FK,Norwegen Tippeligaen
+28.05. 21:00,NOR 1,Bodö Glimt,2:5,Viking FK+1,Norwegen Tippeligaen
+29.05. 00:00,COPA L,Club Nacional URU,1:0,Atletico Nac. COL,Copa Libertadores
+29.05. 00:00,COPA L,Internacional BRA,2:1,EC Bahia BA BRA,Copa Libertadores
+29.05. 00:00,COPA S,Guar. Asuncion PAR,0:5,Boston River URU,Copa Sudamericana
+29.05. 00:00,COPA S,Independiente ARG,7:0,Nac. Potosi BOL,Copa Sudamericana
+29.05. 01:30,USA MLS,Inter Miami CF,4:2,CF Montreal,USA Major League Soccer
+29.05. 01:30,USA MLS,NY Red Bulls,4:2,Charlotte FC,USA Major League Soccer
+29.05. 01:30,USA MLS,FC Toronto,1:2,Philadelphia Union,USA Major League Soccer
+29.05. 01:30,USA MLS,New York City FC,0:3,Houston Dynamo,USA Major League Soccer
+29.05. 01:30,USA MLS,DC United,1:1,New England Rev.,USA Major League Soccer
+29.05. 01:30,USA MLS,FC Cincinnati,3:3,FC Dallas,USA Major League Soccer
+29.05. 01:30,USA MLS,Atlanta United FC,3:2,Orlando City SC,USA Major League Soccer
+29.05. 02:00,USA MLS,Columbus Crew,2:2,Nashville SC,USA Major League Soccer
+29.05. 02:30,USA MLS,Seattle Sounders,1:0,San Diego FC,USA Major League Soccer
+29.05. 02:30,USA MLS,Austin FC,1:1,Real Salt Lake,USA Major League Soccer
+29.05. 02:30,COPA L,Flamengo RJ BRA,1:0,Dep. Tachira VEN,Copa Libertadores
+29.05. 02:30,COPA L,LDU Quito ECU,3:0,CA Central Cor ARG,Copa Libertadores
+29.05. 02:30,COPA L,SE Palmeiras S BRA,6:0,Sp. Cristal PER,Copa Libertadores
+29.05. 02:30,COPA L,Bolivar La Paz BOL,4:0,Cerro Porteno PAR,Copa Libertadores
+29.05. 02:30,COPA S,Palestino CHI,0:2,Mushuc Runa SC ECU,Copa Sudamericana
+29.05. 02:30,COPA S,Cruzeiro EC MG BRA,0:0,Union Santa Fe ARG,Copa Sudamericana
+29.05. 02:30,COPA S,CD Catolica ECU,1:0,EC Vitoria BA BRA,Copa Sudamericana
+29.05. 02:30,COPA S,Defensa y Jus. ARG,1:2,Cerro Largo FC URU,Copa Sudamericana
+29.05. 02:30,NBA,Oklahoma City Th.,124:94,Minnesota T.,USA NBA
+29.05. 04:15,USA MLS,LA Galaxy,0:1,San Jose Earthqua,USA Major League Soccer
+29.05. 04:30,USA MLS,Vancouver W'caps,0:0,FC Minnesota Utd.,USA Major League Soccer
+29.05. 04:30,USA MLS,Portland Timbers,2:1,Colorado Rapids,USA Major League Soccer
+29.05. 15:00,SWE CUP,Malmö FF,0:0,BK Häcken,Schweden Cup
+29.05. 15:00,SWE CUP,Malmö FF,0:1,BK Häcken+1,Schweden Cup
+29.05. 16:00,ISL 1,IF Vestri,0:1,Vikingur Reykjavik,Island Bestadeild
+29.05. 17:00,AUT BL,LASK,3:1,SK Rapid Wien,Österreich Bundesliga
+29.05. 17:00,DEN CUP,FC Kopenhagen*,3:0,Silkeborg IF,Dänemark Landspokalturneringen
+29.05. 17:00,DEN CUP,FC Kopenhagen,3:1,Silkeborg IF+1,Dänemark Landspokalturneringen
+29.05. 18:00,NOR 1,SK Brann,0:3,Molde FK,Norwegen Tippeligaen
+29.05. 18:00,NOR 1,SK Brann,0:4,Molde FK+1,Norwegen Tippeligaen
+29.05. 18:00,SWE 1,IF Brommapojkarna,0:1,Djurgardens,Schweden Allsvenskan
+29.05. 18:15,ISL 1,Breidablik,1:4,IA Akranes,Island Bestadeild
+29.05. 18:15,ISL 1,Fram Reykjavik,1:2,KA Akureyri,Island Bestadeild
+29.05. 18:15,ISL 1,IBV Vestmannaeyjar,2:1,FH Hafnarfjördur,Island Bestadeild
+29.05. 18:15,ISL 1,Afturelding,0:2,Valur Reykjavik,Island Bestadeild
+29.05. 18:30,BEL 1,Royal Antwerpen,1:2,Sporting Charleroi,Belgien Jupiler Pro League
+29.05. 18:30,BEL 1,Royal Antwerpen,1:3,Sp. Charleroi+1,Belgien Jupiler Pro League
+29.05. 19:00,TUR 2,Karagümrük,1:1,Bandirmaspor,Türkei TFF 1. Lig
+29.05. 19:00,CRO CUP,HNK Rijeka,1:0,NK Slaven Belupo,Kroatien Croatian Cup
+29.05. 19:00,CRO CUP,HNK Rijeka,1:1,NK Slaven Belupo+1,Kroatien Croatian Cup
+29.05. 19:00,NOR 2,FK Lyn,1:3,Mjöndalen,Norwegen Adeccoligaen
+29.05. 19:30,ISR CUP,Beitar Jerusalem*,0:2,Hap. Beer Sheva,Israel Cup
+29.05. 19:30,ISR CUP,Beitar Jerusalem+1,1:2,Hap. Beer Sheva,Israel Cup
+29.05. 20:00,NL 1,SC Telstar,2:2,Willem II Tilburg,Niederlande Eredivisie
+29.05. 20:00,HB GER,Füchse Berlin,37:29,MT Melsungen,Deutsche Handball Bundesliga
+29.05. 20:30,FRA 1,Stade de Reims,1:1,FC Metz,Frankreich Ligue 1
+29.05. 20:30,FRA 1,Stade de Reims,1:2,FC Metz+1,Frankreich Ligue 1
+29.05. 20:30,ITA B,US Cremonese,0:0,Spezia Calcio,Italien Serie B
+29.05. 20:30,MNE CUP,FK Mornar Bar*,0:1,FK Decic Tuzi,Montenegro Cup Crne Gore
+29.05. 21:15,ISL 1,Stjarnan Gardab.,4:2,KR Reykjavik,Island Bestadeild
+30.05. 00:00,COPA L,CA Penarol URU,0:0,Velez Sarsf. ARG,Copa Libertadores
+30.05. 00:00,COPA L,Ol. Asuncion PAR,4:0,San Ant. Bulo Bulo,Copa Libertadores
+30.05. 00:00,COPA S,CD Godoy Cruz ARG,2:2,Atletico Grau,Copa Sudamericana
+30.05. 00:00,COPA S,Gremio RS BRA,1:0,Sp. Luqueno PAR,Copa Sudamericana
+30.05. 02:00,NHL,Dallas Stars,3:6,Edmonton Oilers,USA NHL
+30.05. 02:00,NBA,New York Knicks,111:94,Indiana Pacers,USA NBA
+30.05. 02:30,COPA L,Racing Club ARG,1:0,Fortaleza EC C BRA,Copa Libertadores
+30.05. 02:30,COPA L,Colo Colo CHI,1:0,CA Bucaramanga COL,Copa Libertadores
+30.05. 02:30,COPA S,Fluminense RJ BRA,2:0,CD Once Caldas COL,Copa Sudamericana
+30.05. 02:30,COPA S,Caracas FC VEN,2:1,Dep. Iquique CHI,Copa Sudamericana
+30.05. 02:30,COPA S,Atletico MG BRA,1:1,Club Cienciano PER,Copa Sudamericana
+30.05. 02:35,BRA 2,Ferroviaria Araraq,1:1,Botafogo FC SP,Brasilien Brasilero Serie B
+31.05. 21:00,CL,Paris SG FRA*,5:0,Inter Mailand ITA,UEFA Champions League
+31.05. 21:00,CL,Paris SG,5:1,Inter Mailand+1,UEFA Champions League
+31.05. 21:00,CL,Paris SG+1,6:0,Inter Mailand,UEFA Champions League

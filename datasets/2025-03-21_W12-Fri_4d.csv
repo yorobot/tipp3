@@ -1,6 +1,6 @@
 Date,League,Team 1,Score,Team 2,League Name
-21.03. 17:00,WM Q,Ruanda,0:2,Nigeria,"WM Qualifikation, Afrika"
-21.03. 17:00,WM Q,Südafrika,2:0,Lesotho,"WM Qualifikation, Afrika"
+21.03. 17:00,WMQ AFR,Ruanda,0:2,Nigeria,"WM Qualifikation, Afrika"
+21.03. 17:00,WMQ AFR,Südafrika,2:0,Lesotho,"WM Qualifikation, Afrika"
 21.03. 18:00,WM Q,Zypern,2:0,San Marino,"WM Qualifikation, Europa"
 21.03. 18:00,WM Q,Zypern,2:2,San Marino+2,"WM Qualifikation, Europa"
 21.03. 18:00,FS U21,Schweiz U21*,0:2,Österreich U21,U21 Freundschaftsspiele
@@ -15,7 +15,7 @@ Date,League,Team 1,Score,Team 2,League Name
 21.03. 19:30,EH GER,Adler Mannheim,2:5,EHC München,Deutschland Eishockey Liga
 21.03. 19:30,EH AUT,Black Wings Linz,2:4,EC KAC,win2day ICE Hockey League
 21.03. 19:45,EH AUT,HC Bozen Foxes,2:3,EC RB Salzburg,win2day ICE Hockey League
-21.03. 20:00,WM Q,Burundi*,0:1,Elfenbeinküste,"WM Qualifikation, Afrika"
+21.03. 20:00,WMQ AFR,Burundi*,0:1,Elfenbeinküste,"WM Qualifikation, Afrika"
 21.03. 20:00,EH SUI,HC Ajoie,3:3,HC Lugano,Schweiz National League A
 21.03. 20:00,EH SUI,HC Lausanne,4:1,SCL Tigers Langnau,Schweiz National League A
 21.03. 20:00,EH SUI,Zürcher SC Lions,5:2,EHC Kloten Flyers,Schweiz National League A
@@ -33,10 +33,10 @@ Date,League,Team 1,Score,Team 2,League Name
 21.03. 20:45,INT FS,Nordirland,1:1,Schweiz,Internationale Freundschaftsspiele
 21.03. 20:45,SCO CS,Partick Thistle,0:0,FC Raith Rovers,Schottland Championship
 21.03. 21:00,FS U21,Frankreich U21,5:3,England U21,U21 Freundschaftsspiele
-21.03. 22:00,WM Q,Ecuador,2:1,Venezuela,"WM Qualifikation, CONMEBOL"
-21.03. 22:00,WM Q,Äthiopien*,0:2,Ägypten,"WM Qualifikation, Afrika"
-21.03. 22:30,WM Q,Niger*,1:2,Marokko,"WM Qualifikation, Afrika"
-22.03. 00:30,WM Q,Uruguay,0:1,Argentinien,"WM Qualifikation, CONMEBOL"
+21.03. 22:00,WMQCONM,Ecuador,2:1,Venezuela,"WM Qualifikation, CONMEBOL"
+21.03. 22:00,WMQ AFR,Äthiopien*,0:2,Ägypten,"WM Qualifikation, Afrika"
+21.03. 22:30,WMQ AFR,Niger*,1:2,Marokko,"WM Qualifikation, Afrika"
+22.03. 00:30,WMQCONM,Uruguay,0:1,Argentinien,"WM Qualifikation, CONMEBOL"
 22.03. 15:00,WM Q,Liechtenstein,0:3,Nordmazedonien,"WM Qualifikation, Europa"
 22.03. 15:00,WM Q,Liechtenstein+2,2:3,Nordmazedonien,"WM Qualifikation, Europa"
 22.03. 15:00,U19 EMQ,Österreich U19*,3:1,Island U19,"U19 EM, Qualifikation"
@@ -117,5 +117,5 @@ Date,League,Team 1,Score,Team 2,League Name
 24.03. 20:45,WM Q,Bosnien-Herzegowi.,2:2,Zypern+1,"WM Qualifikation, Europa"
 24.03. 20:45,FS U21,England U21,4:2,Portugal U21,U21 Freundschaftsspiele
 24.03. 21:00,NIRL 1,FC Dungannon,0:3,FC Linfield,Nordirland JJB Sports Premiership
-24.03. 22:00,WM Q,Tunesien,2:0,Malawi,"WM Qualifikation, Afrika"
+24.03. 22:00,WMQ AFR,Tunesien,2:0,Malawi,"WM Qualifikation, Afrika"
 24.03. 22:00,COL 1,Deportes Tolima,1:0,FC Llaneros,Kolumbien Primera Liga
