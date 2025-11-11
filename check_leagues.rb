@@ -207,6 +207,194 @@ puts "bye"
 
 __END__
 
+dump from nov 11, 2025
+
+!!!      6 BUL 2    Bulgarien, B PFG
+!!!      6 ESA PD   El Salvador, Primera Division
+!!!      5 NOR 3    Norwegen 2. Division, avd. 1
+!!!      4 PAR 2    Paraguay, Segunda Divison
+!!!      3 GEO SC   Supercup
+!!!      2 EGT LC   Ägypten Liga Cup
+!!!      2 ENG COM  England Community Shield
+!!!      2 FRO 2    Färöer Inseln 2. Liga
+!!!      2 WAL LC   Wales Loosemores League Cup
+!!!      1 CYP SC   Zypern Supercup
+
+sorted - 170 league(s) in 33 program(s):
+  OK     204 UEFA CL  UEFA Champions League   --  UEFA Champions League
+  OK     157 UEFA CONF UEFA Conference League   --  UEFA Conference League
+  OK     155 UEFA CONF Q UEFA Conference League Qualifikation   --  UEFA Conference League - Quali
+  OK     153 UEFA EL  UEFA Europa League   --  UEFA Europa League
+  OK     139 ESP 1    Spanien La Liga   --  Primera División, Spain (ESP)
+  OK     133 AUT BL   Österreich Bundesliga   --  Bundesliga, Austria (AUT)
+  OK     133 GER BL   Deutschland Bundesliga   --  Bundesliga, Germany (GER)
+  OK     129 ENG PL   England Premier League   --  Premier League, England (ENG)
+  OK     128 UEFA CL Q UEFA Champions League, Qualifikation   --  UEFA Champions League - Quali
+  OK     123 ITA A    Italien Serie A   --  Serie A, Italy (ITA)
+  OK     115 AUT 2    Österreich Zweite Liga   --  2. Liga, Austria (AUT)
+  OK     111 GER 2    Deutschland 2. Bundesliga   --  2. Bundesliga, Germany (GER)
+  OK      90 NOR 1    Norwegen Tippeligaen   --  Eliteserien, Norway (NOR)
+  OK      85 FRA 1    Frankreich Ligue 1   --  Ligue 1, France (FRA)
+  OK      84 SWE 1    Schweden Allsvenskan   --  Allsvenskan, Sweden (SWE)
+  OK      81 UEFA EL Q UEFA Europa League, Qualifikation   --  UEFA Europa League - Quali
+  OK      81 USA MLS  USA Major League Soccer   --  Major League Soccer, United States (USA)
+  OK      77 BRA 1    Brasilien Brasilero Serie A   --  Brasileiro Série A, Brazil (BRA)
+  OK      77 ENG LC   England - EFL Cup   --  EFL Cup, England (ENG)
+  OK      71 ENG CS   England Championship   --  Championship, England (ENG)
+  OK      68 SWE 2    Schweden Superettan   --  Superettan, Sweden (SWE)
+  OK      67 NOR 2    Norwegen Adeccoligaen   --  1. Division, Norway (NOR)
+  OK      66 AUT CUP  Österreich ÖFB Cup   --  ÖFB Cup, Austria (AUT)
+  OK      66 ESP 2    Spanien Segunda Division   --  Segunda División, Spain (ESP)
+  OK      65 FIN 1    Finnland Veikkausliiga   --  Veikkausliiga, Finland (FIN)
+  OK      63 TUR 1    Türkei Süper Lig   --  Süper Lig, Turkey (TUR)
+  OK      59 GER CUP  Deutschland DFB Pokal   --  DFB Pokal, Germany (GER)
+  OK      58 BEL 1    Belgien Jupiler Pro League   --  First Division A, Belgium (BEL)
+  OK      57 BRA 2    Brasilien Brasilero Serie B   --  Brasileiro Série B, Brazil (BRA)
+  OK      51 IRL 1    Irland Premier Division   --  Premier Division, Ireland (IRL)
+  OK      48 ISL 1    Island Bestadeild   --  Úrvalsdeild, Iceland (ISL)
+  OK      48 ISL 2    Island 2. Liga   --  1. Deild, Iceland (ISL)
+  OK      47 GER 3    Deutschland 3. Liga   --  3. Liga, Germany (GER)
+  OK      46 COPA S   Copa Sudamericana   --  Copa Sudamericana
+  OK      46 ROU 1    Rumänien Liga 1   --  Liga 1, Romania (ROU)
+  OK      43 NL 1     Niederlande Eredivisie   --  Eredivisie, Netherlands (NED)
+  OK      43 SUI SL   Schweiz Super League   --  Super League, Switzerland (SUI)
+  OK      42 SCO LC   Schottland League Cup   --  League Cup, Scotland (SCO)
+ !! ambigious (multiple) matches (2)[
+    <League CLUBS: League One, England (ENG)>, 
+    <League CLUBS: League Two, England (ENG)>]
+    40 ENG 3    England League One
+  OK      40 POL 1    Polen Orange Ekstraklasa   --  Ekstraklasa, Poland (POL)
+  OK      39 DEN 1    Dänemark Superligaen   --  Superligaen, Denmark (DEN)
+  OK      38 AUT RLO  Österreich Regionalliga Ost   --  Regionalliga Ost, Austria (AUT)
+  OK      37 ARG 1    Argentinien Primera Division   --  Primera Division, Argentina (ARG)
+  OK      37 FIN 2    Finnland Ykkosliiga   --  Ykkonen, Finland (FIN)
+  OK      33 NL 2     Niederlande Jupiler League   --  Eerste Divisie, Netherlands (NED)
+  OK      32 BUL 1    Bulgarien Premier League   --  Premier League, Bulgaria (BUL)
+  OK      30 IRL 2    Irland First Division   --  First Division, Ireland (IRL)
+  OK      29 BRA CUP  Brasilien Cup   --  Copa do Brasil, Brazil (BRA)
+  OK      29 COPA L   Copa Libertadores   --  Copa Libertadores
+  OK      28 ENG LTR  England Football League Trophy   --  EFL Trophy, England (ENG)
+  OK      27 DEN 2    Dänemark 1. Division   --  1. Division, Denmark (DEN)
+  OK      26 POR 1    Portugal Primeira Liga   --  Primeira Liga, Portugal (POR)
+  OK      24 SCO PS   Schottland Premiership   --  Premiership, Scotland (SCO)
+  OK      22 ITA B    Italien Serie B   --  Serie B, Italy (ITA)
+  OK      21 CZE 1    1. Tschechische Liga   --  First League, Czech Republic (CZE)
+  OK      21 URU 1    Uruguay Primera Division   --  Primera División, Uruguay (URU)
+  OK      20 FRA 2    Frankreich Ligue 2   --  Ligue 2, France (FRA)
+  OK      19 NOR CUP  Norwegen Cup   --  Cupen, Norway (NOR)
+  OK      17 ECU 2    Ecuador, LigaPro Primera B   --  Serie B, Ecuador (ECU)
+  OK      17 ITA CUP  Coppa Italia   --  Coppa Italia, Italy (ITA)
+  OK      17 SWE 3S   Schweden Div 1 Södra   --  Div 1 Södra, Sweden (SWE)
+  OK      16 BOL 1    Bolivien, Copa Division Profesional   --  Primera División, Bolivia (BOL)
+  OK      16 US CUP   USA US Open Cup   --  US Open Cup, United States (USA)
+  OK      15 CHN SL   China Chinese Super League   --  Super League, China (CHN)
+  OK      15 FIN CUP  Finnland Cup   --  Cup, Finland (FIN)
+  OK      15 JPN LC   Japan Nabisco Cup   --  J. League Cup, Japan (JPN)
+  OK      15 SUI 2    Schweiz Challenge League   --  Challenge League, Switzerland (SUI)
+  OK      15 SWE 3N   Schweden Div 1 Norra   --  Div 1 Norra, Sweden (SWE)
+  OK      15 USMXLC   US & Mexican Leagues Cup   --  US & Mexican Leagues Cup
+  OK      14 COL 1    Kolumbien Primera Liga   --  Primera A, Colombia (COL)
+  OK      14 PAR 1    Paraguay Primera Division   --  Primera Division, Paraguay (PAR)
+  OK      12 FIN 3    Finnland Ykkonen   --  Kakkonen, Finland (FIN)
+  OK      12 JPN 1    Japan J-League 1   --  J. League, Japan (JPN)
+  OK      12 JPN CUP  Japan Emperor Cup   --  Emperor's Cup, Japan (JPN)
+  OK      11 CHI 1    Chile Primera Divison   --  Primera Divison, Chile (CHI)
+  OK      11 DEN CUP  Dänemark Landspokalturneringen   --  Landspokalturneringen, Denmark (DEN)
+  OK      11 LIT 1    Litauen A lyga   --  First Division, Lithuania (LTU)
+  OK      11 PER 1    Peru Primera Division   --  Primera Division, Peru (PER)
+  OK      11 RSA PL   Südafrika, Premier League   --  Premier League, South Africa (RSA)
+!!!     11 UEFA FR  UEFA Europa Cup, Frauen
+  OK      10 LAT 1    Lettland LMT Virsliga   --  Higher League, Latvia (LVA)
+  OK      10 POL 2    Polen I Liga   --  I Liga, Poland (POL)
+  OK       9 ARG CUP  Argentinien Cup   --  Copa Argentina, Argentina (ARG)
+  OK       9 ESP 3    Spanien, Primera Federacion RFEF, Gruppe 2   --  Segunda División B, Spain (ESP)
+!!!      8 BB EM    Europameisterschaft
+  OK       8 CRO 1    Kroatien 1. HNL   --  HNL, Croatia (CRO)
+  OK       8 ECU 1    Ecuador Serie A   --  Serie A, Ecuador (ECU)
+  OK       8 ISR 1    Israel Premier League   --  Premier League, Israel (ISR)
+  OK       8 SERB 1   Serbien Meridijan Superliga   --  Super League, Serbia (SRB)
+  OK       7 ALG 1    Algeria Ligue 1   --  Ligue 1, Algeria (ALG)
+  OK       7 CHI CUP  Copa Chile   --  Copa Chile, Chile (CHI)
+  OK       7 HUN 1    Ungarn NB I   --  Nemzeti Bajnokság I, Hungary (HUN)
+!!!      6 BUL 2    Bulgarien, B PFG
+  OK       6 EGY 1    Ägypten Premier League   --  Premiership, Egypt (EGY)
+!!!      6 ESA PD   El Salvador, Primera Division
+  OK       6 GRE 1    Griechenland Super League   --  Super League, Greece (GRE)
+  OK       6 ISL CUP  Island Cup   --  Cup, Iceland (ISL)
+  OK       6 ITA C1A  Italien Lega Pro Prima Divisione, Girone A   --  Serie C (North & Central West), Italy (ITA)
+  OK       6 SLO 1    Slowenien PrvaLiga Telekom   --  First League, Slovenia (SVN)
+  OK       6 TUR 2    Türkei TFF 1. Lig   --  1. Lig, Turkey (TUR)
+  OK       5 CYP 1    Zypern 1. Division   --  First Division, Cyprus (CYP)
+  OK       5 KOR 1    Südkorea, K-League 1   --  K-League, South Korea (KOR)
+!!!      5 NOR 3    Norwegen 2. Division, avd. 1
+  OK       5 SCO CS   Schottland Championship   --  Championship, Scotland (SCO)
+  OK       5 WAL 1    Wales Premier League   --  Premier League, Wales (WAL)
+  OK       4 COL COP  Copa Colombia   --  Copa Colombia, Colombia (COL)
+  OK       4 ENG FA   England FA Cup   --  FA Cup, England (ENG)
+  OK       4 KOR CUP  Südkorea FA Cup   --  Cup, South Korea (KOR)
+  OK       4 MEX 1    Mexiko Primera Division   --  Liga MX, Mexico (MEX)
+!!!      4 PAR 2    Paraguay, Segunda Divison
+  OK       4 POR 2    Portugal Segunda Liga   --  Segunda Liga, Portugal (POR)
+  OK       4 ROU 2    Rumänien, Liga 2   --  Liga 2, Romania (ROU)
+  OK       4 SWE CUP  Schweden Cup   --  Cup, Sweden (SWE)
+  OK       3 CRC 1    Costa Rica Primera División   --  Primera División, Costa Rica (CRC)
+  OK       3 CZE 2    Tschechien 2. Liga   --  National League, Czech Republic (CZE)
+  OK       3 EST 1    Estland Meistriliiga   --  Meistriliiga, Estonia (EST)
+!!!      3 GEO SC   Supercup
+  OK       3 IRL CUP  Irland FAI Ford Cup   --  FAI Cup, Ireland (IRL)
+  OK       2 AUT RLM  Österreich Regionalliga Mitte   --  Regionalliga Mitte, Austria (AUT)
+  OK       2 BEL CUP  Belgium Beker van Belgie   --  Beker van België, Belgium (BEL)
+  OK       2 CHI 2    Chile, Primera B   --  Primera B, Chile (CHI)
+  OK       2 COL 2    Categoría Primera B   --  Primera B, Colombia (COL)
+  OK       2 CRO CUP  Kroatien Croatian Cup   --  Cup, Croatia (CRO)
+  OK       2 CZE CUP  Tschechien Cup   --  Cup, Czech Republic (CZE)
+!!!      2 EGT LC   Ägypten Liga Cup
+!!!      2 ENG COM  England Community Shield
+!!!      2 FRO 2    Färöer Inseln 2. Liga
+  OK       2 FRO CUP  Färöer Inseln, Cup   --  Cup, Faroe Islands (FRO)
+  OK       2 GER SC   Deutschland Supercup   --  Supercup, Germany (GER)
+  OK       2 HUN 2    Ungarn NB II   --  Nemzeti Bajnokság II, Hungary (HUN)
+  OK       2 ISR CUP  Israel Cup   --  State Cup, Israel (ISR)
+  OK       2 ISR LCP  Israel, League Cup Premier   --  Toto Cup Al, Israel (ISR)
+  OK       2 ITA C1B  Italien Lega Pro Prima Divisione, Girone B   --  Serie C (North & Central East), Italy (ITA)
+  OK       2 KAZ CUP  Kasachstan Cup   --  Kubok, Kazakhstan (KAZ)
+  OK       2 NL CUP   Niederlande KNVB Cup   --  Cup, Netherlands (NED)
+  OK       2 POL CUP  Polen Cup   --  Cup, Poland (POL)
+  OK       2 POR SC   Portugal Supercup   --  Supercup, Portugal (POR)
+  OK       2 SCO FA   Schottland FA Cup   --  FA Cup, Scotland (SCO)
+  OK       2 SER CUP  Serbien Cup   --  Cup, Serbia (SRB)
+  OK       2 UEFA SC  UEFA Super Cup   --  UEFA Super Cup
+!!!      2 WAL LC   Wales Loosemores League Cup
+  OK       1 ARG SC   Argentinien Supercup   --  Supercopa Argentina, Argentina (ARG)
+  OK       1 AUT RLW  Österreich Regionalliga West   --  Regionalliga West, Austria (AUT)
+  OK       1 BEL 2    Belgium Tweede Klasse   --  First Division B, Belgium (BEL)
+  OK       1 BEL SC   Belgien Supercup   --  Supercup, Belgium (BEL)
+  OK       1 BOS 1    Bosnien Premier Liga   --  Premier Liga, Bosnia and Herzegovina (BIH)
+  OK       1 BUL CUP  Bulgarien Cup   --  Cup, Bulgaria (BUL)
+!!!      1 CYP SC   Zypern Supercup
+  OK       1 EGT CUP  Ägypten, Cup   --  Cup, Egypt (EGY)
+!!!      1 EH DEN   Dänemark AL-Bank Ligaen
+!!!      1 EH FIN2  Finnland Mestis
+  OK       1 FRA 3    Frankreich National   --  National, France (FRA)
+  OK       1 FRA CUP  Frankreich Coupe de France   --  Coupe de France, France (FRA)
+  OK       1 FRO 1    Färöer Inseln Premier League   --  Premier Division, Faroe Islands (FRO)
+  OK       1 GEO 1    Georgien Umaglesi Liga   --  Premier League A, Georgia (GEO)
+  OK       1 GRE CUP  Griechenland Cup   --  Greek Cup, Greece (GRE)
+  OK       1 ISL 3    Island 3. Liga   --  2. Delid, Iceland (ISL)
+  OK       1 ISR SC   Israel Supercup   --  Supercup, Israel (ISR)
+  OK       1 LIT CUP  LFF Cup   --  LFF Taurė, Lithuania (LTU)
+  OK       1 LUX 1    Luxemburg BGL Ligue   --  National Division, Luxembourg (LUX)
+  OK       1 LUX CUP  Luxemburg Coupe de Luxembourg   --  Coupe, Luxembourg (LUX)
+  OK       1 MKD CUP  Mazedonien Cup   --  Kup na Makedonija, North Macedonia (MKD)
+  OK       1 MNE CUP  Montenegro Cup Crne Gore   --  Cup, Montenegro (MNE)
+  OK       1 NL SC    Niederlande Johan Cruijff Schaal in Amsterdam   --  Johan Cruijff Schaal, Netherlands (NED)
+  OK       1 PER 2    Peru, Segunda Division   --  Segunda Division, Peru (PER)
+  OK       1 POL SC   Polen Supercup   --  Supercup, Poland (POL)
+  OK       1 POR CUP  Portugal Taca de Portugal   --  Taça de Portugal, Portugal (POR)
+  OK       1 ROU SC   Rumänien Supercup   --  Supercup, Romania (ROU)
+  OK       1 SUI CUP  Schweiz Cup   --  Cup, Switzerland (SUI)
+  OK       1 UZB 1    Usbekistan PFL   --  Super League, Uzbekistan (UZB)
+
 dump from jan 7, 2025
 
 sorted - 53 league(s) in 14 program(s):
