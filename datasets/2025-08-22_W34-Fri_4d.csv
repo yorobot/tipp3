@@ -8,14 +8,14 @@ Date,League,Team 1,Score,Team 2,League Name
 22.08. 19:00,NOR 1,KFUM Oslo,2:2,HamKam,Norwegen Tippeligaen
 22.08. 19:30,AUT RLO,Kremser SC,6:1,SC Retz,Österreich Regionalliga Ost
 22.08. 19:30,ESP 2,SD Eibar,3:0,Granada CF,Spanien Segunda Division
-22.08. 19:30,SUI 2,Xamax Neuchatel,2:1,Etoile Carouge FC,Schweiz Challenge League
+22.08. 19:30,SUI 2,Xamax Neuchatel,2:1,Etoile Carouge,Schweiz Challenge League
 22.08. 19:30,SUI 2,FC Vaduz,6:0,AC Bellinzona,Schweiz Challenge League
 22.08. 20:00,FRA 2,Clermont Foot,2:1,Grenoble Foot,Frankreich Ligue 2
 22.08. 20:00,FRA 2,Amiens SC,0:1,Annecy FC,Frankreich Ligue 2
-22.08. 20:00,NL 2,Helmond Sport,2:0,FC Emmen,Niederlande Jupiler League
-22.08. 20:00,NL 2,FC Eindhoven,1:0,RKC Waalwijk,Niederlande Jupiler League
-22.08. 20:00,NL 2,De Graafschap,0:1,MVV Maastricht,Niederlande Jupiler League
-22.08. 20:00,NL 2,Almere City FC,0:1,Willem II Tilburg,Niederlande Jupiler League
+22.08. 20:00,NL 2,Helmond Sport,2:0,FC Emmen,Niederlande Eerste Divisie
+22.08. 20:00,NL 2,FC Eindhoven,1:0,RKC Waalwijk,Niederlande Eerste Divisie
+22.08. 20:00,NL 2,De Graafschap,0:1,MVV Maastricht,Niederlande Eerste Divisie
+22.08. 20:00,NL 2,Almere City FC,0:1,Willem II Tilburg,Niederlande Eerste Divisie
 22.08. 20:00,HUN 1,Puskas Akademia FC,1:3,Debreceni VSC,Ungarn NB I
 22.08. 20:30,GER BL,Bayern München,6:0,RB Leipzig,Deutschland Bundesliga
 22.08. 20:30,GER BL,Bayern München,6:1,RB Leipzig+1,Deutschland Bundesliga
@@ -70,7 +70,7 @@ Date,League,Team 1,Score,Team 2,League Name
 24.08. 13:30,GER 2,SV Darmstadt 98,0:0,Hertha BSC,Deutschland 2. Bundesliga
 24.08. 13:30,GER 2,Greuther Fürth,0:2,Holstein Kiel,Deutschland 2. Bundesliga
 24.08. 14:00,SUI SL,Grasshoppers,2:2,FC Winterthur,Schweiz Super League
-24.08. 15:00,ENG PL,FC Everton,2:0,Brighton & Hove,England Premier League
+24.08. 15:00,ENG PL,FC Everton,2:0,Brighton & Hove FC,England Premier League
 24.08. 15:00,ENG PL,Crystal Palace,1:1,Nottingham Forest,England Premier League
 24.08. 15:30,GER BL,FSV Mainz 05,0:1,1. FC Köln,Deutschland Bundesliga
 24.08. 16:30,SUI SL,FC St. Gallen,0:1,FC Luzern,Schweiz Super League

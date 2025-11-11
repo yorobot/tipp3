@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+23.09. 17:00,ITA CUP,Cagliari Calcio,4:1,Frosinone Calcio,Coppa Italia
+23.09. 17:00,FIN 1,Tampereen Ilves,3:2,IF Gnistan,Finnland Veikkausliiga
+23.09. 17:00,FIN 1,Kuopio PS,3:2,Seinajoen JK,Finnland Veikkausliiga
+23.09. 18:00,FIN 1,FC Inter Turku,0:0,HJK Helsinki,Finnland Veikkausliiga
+23.09. 18:30,ITA CUP,Udinese Calcio,2:1,Palermo FC,Coppa Italia
+23.09. 18:30,EH AUT,EC Graz 99ers,9:4,Fehervar AV19,win2day ICE Hockey League
+23.09. 19:00,ESP 1,Espanyol Barcelona,2:2,FC Valencia,Spanien La Liga
+23.09. 19:00,ESP 1,Athletic Bilbao,1:1,FC Girona,Spanien La Liga
+23.09. 20:00,BEL 2,Francs Borains,0:0,RFC Seraing,Belgium Tweede Klasse
+23.09. 20:30,BEL 1,RSC Anderlecht,1:0,KAA Gent,Belgien Jupiler Pro League
+23.09. 20:30,BEL 1,RSC Anderlecht,1:1,KAA Gent+1,Belgien Jupiler Pro League
+23.09. 20:30,FRA 2,Stade de Reims,4:1,Clermont Foot,Frankreich Ligue 2
+23.09. 20:30,FRA 2,Amiens SC,0:1,AS Saint Etienne,Frankreich Ligue 2
+23.09. 20:30,FRA 2,Le Mans FC,1:0,Grenoble Foot,Frankreich Ligue 2
+23.09. 20:30,FRA 2,EA Guingamp,2:1,Dunkerque,Frankreich Ligue 2
+23.09. 20:30,FRA 2,SC Bastia,2:3,Rodez Aveyron,Frankreich Ligue 2
+23.09. 20:30,FRA 2,Red Star FC,1:3,Troyes AC,Frankreich Ligue 2
+23.09. 20:30,FRA 2,HSC Montpellier,1:3,Boulogne Sur Mer,Frankreich Ligue 2
+23.09. 20:45,SCO PS,FC Falkirk,2:2,Hibernian FC,Schottland Premiership
+23.09. 20:45,SCO PS,Dundee United,2:0,FC Aberdeen,Schottland Premiership
+23.09. 20:45,ENG LC,FC Burnley,1:2,Cardiff City,England - EFL Cup
+23.09. 20:45,ENG LC,Wrexham FC,2:0,FC Reading,England - EFL Cup
+23.09. 20:45,ENG LC,FC Fulham,1:0,Cambridge United,England - EFL Cup
+23.09. 20:45,ENG LC,FC Barnsley,0:6,Brighton & Hove FC,England - EFL Cup
+23.09. 20:45,ENG LC,Lincoln City,1:2,FC Chelsea,England - EFL Cup
+23.09. 20:45,ENG LC,Lincoln City+2,3:2,FC Chelsea,England - EFL Cup
+23.09. 20:45,ENG LC,Wolverhampton,2:0,FC Everton,England - EFL Cup
+23.09. 20:45,ENG LC,Wigan Athletic,0:2,Wycombe Wanderers,England - EFL Cup
+23.09. 21:00,ENG LC,FC Liverpool,2:1,FC Southampton,England - EFL Cup
+23.09. 21:00,ENG LC,FC Liverpool,2:3,FC Southampton+2,England - EFL Cup
+23.09. 21:00,ITA CUP,AC Milan,3:0,US Lecce,Coppa Italia
+23.09. 21:00,ITA CUP,AC Milan,3:1,US Lecce+1,Coppa Italia
+23.09. 21:15,POR 1,Benfica Lissabon,1:1,Rio Ave FC,Portugal Primeira Liga
+23.09. 21:30,ESP 1,FC Sevilla,1:2,Villarreal CF,Spanien La Liga
+23.09. 21:30,ESP 1,Levante UD,1:4,Real Madrid,Spanien La Liga
+23.09. 21:30,ESP 1,Levante UD+1,2:4,Real Madrid,Spanien La Liga
+24.09. 17:00,ITA CUP,FC Parma,2:2,Spezia Calcio,Coppa Italia
+24.09. 18:30,ITA CUP,Hellas Verona,0:0,Venezia FC,Coppa Italia
+24.09. 18:45,EL,PAOK Thessalon GRE,0:0,Macc. Tel Aviv ISR,UEFA Europa League
+24.09. 18:45,EL,PAOK Thessaloniki,0:1,Maccabi Tel Aviv+1,UEFA Europa League
+24.09. 18:45,EL,FC Midtjylland DEN,2:0,SK Sturm Graz AUT,UEFA Europa League
+24.09. 18:45,EL,FC Midtjylland,2:1,SK Sturm Graz+1,UEFA Europa League
+24.09. 18:45,POL 1,Rakow Czestochowa,2:2,Lech Posen,Polen Orange Ekstraklasa
+24.09. 18:45,HB CL,Aalborg Handbo DEN,35:30,Sporting CP POR,Champions League
+24.09. 18:45,HB CL,D.Bucuresti ROU,27:30,Veszprem HC HUN,Champions League
+24.09. 19:00,ESP 1,Getafe CF,1:1,CD Alaves,Spanien La Liga
+24.09. 19:00,TUR 1,Kayserispor,0:4,Besiktas Istanbul,Türkei Süper Lig
+24.09. 19:00,TUR 1,Kayserispor+1,1:4,Besiktas Istanbul,Türkei Süper Lig
+24.09. 19:00,SWE 2,Landskrona BoIS,0:0,Kalmar FF,Schweden Superettan
+24.09. 19:00,SWE 2,IK Brage,0:1,GIF Sundsvall,Schweden Superettan
+24.09. 20:00,NL 1,AZ Alkmaar,2:2,FC Zwolle,Niederlande Eredivisie
+24.09. 20:00,NL 1,AZ Alkmaar,2:3,FC Zwolle+1,Niederlande Eredivisie
+24.09. 20:30,BEL 1,Club Brügge,5:5,KVC Westerlo,Belgien Jupiler Pro League
+24.09. 20:30,BEL 1,Club Brügge,5:6,KVC Westerlo+1,Belgien Jupiler Pro League
+24.09. 20:45,ENG LC,Newcastle United,4:1,Bradford City FC,England - EFL Cup
+24.09. 20:45,ENG LC,Huddersfield Town,0:2,Manchester City,England - EFL Cup
+24.09. 20:45,ENG LC,Huddersfield+2,2:2,Manchester City,England - EFL Cup
+24.09. 20:45,ENG LC,Tottenham,3:0,Doncaster Rovers,England - EFL Cup
+24.09. 21:00,ENG LC,Port Vale FC,0:2,FC Arsenal,England - EFL Cup
+24.09. 21:00,ENG LC,Port Vale FC+2,2:2,FC Arsenal,England - EFL Cup
+24.09. 21:00,EL,OGC Nizza FRA,1:2,AS Roma ITA,UEFA Europa League
+24.09. 21:00,EL,OGC Nizza+1,2:2,AS Roma,UEFA Europa League
+24.09. 21:00,EL,Malmö FF SWE,1:2,Ludogorets BUL,UEFA Europa League
+24.09. 21:00,EL,Malmö FF,1:3,Ludogorets+1,UEFA Europa League
+24.09. 21:00,EL,SC Freiburg GER,2:1,FC Basel SUI,UEFA Europa League
+24.09. 21:00,EL,SC Freiburg,2:2,FC Basel+1,UEFA Europa League
+24.09. 21:00,EL,Dinamo Zagreb CRO,3:1,Fenerbahce TUR,UEFA Europa League
+24.09. 21:00,EL,NK Dinamo Zagreb+1,4:1,Fenerbahce,UEFA Europa League
+24.09. 21:00,EL,Roter Stern B. SRB,1:1,Celtic Glasgow SCO,UEFA Europa League
+24.09. 21:00,EL,Roter Stern B.,1:2,Celtic Glasgow+1,UEFA Europa League
+24.09. 21:00,EL,Roter Stern B.+1,2:1,Celtic Glasgow,UEFA Europa League
+24.09. 21:00,EL,Sporting Braga POR,1:0,Feyenoord NED,UEFA Europa League
+24.09. 21:00,EL,Sporting Braga,1:1,Feyenoord+1,UEFA Europa League
+24.09. 21:00,EL,Betis Sevilla ESP,2:2,Nottingham F. ENG,UEFA Europa League
+24.09. 21:00,EL,Betis Sevilla,2:3,Nottingham For.+1,UEFA Europa League
+24.09. 21:00,ITA CUP,Como Calcio,3:0,US Sassuolo,Coppa Italia
+24.09. 21:00,POL 1,Legia Warschau,0:0,Jagiellonia Bial.,Polen Orange Ekstraklasa
+24.09. 21:30,ESP 1,Real Sociedad,1:0,RCD Mallorca,Spanien La Liga
+24.09. 21:30,ESP 1,Real Sociedad,1:1,RCD Mallorca+1,Spanien La Liga
+24.09. 21:30,ESP 1,Atletico Madrid,3:2,Rayo Vallecano,Spanien La Liga
+24.09. 21:30,ESP 1,Atletico Madrid,3:3,Rayo Vallecano+1,Spanien La Liga
+25.09. 01:30,USA MLS,New York City FC,0:4,Inter Miami CF,USA Major League Soccer
+25.09. 04:30,USA MLS,Vancouver W'caps,1:1,Portland Timbers,USA Major League Soccer
+25.09. 18:30,ITA CUP,FC Genua,3:1,FC Empoli,Coppa Italia
+25.09. 18:30,ITA C1A,Giana Erminio,1:3,Virtus Verona,"Italien Lega Pro Prima Divisione, Girone A"
+25.09. 18:30,ITA C1A,AS Cittadella,0:1,AC Lumezzane,"Italien Lega Pro Prima Divisione, Girone A"
+25.09. 18:45,EL,Lille OSC FRA,2:1,SK Brann NOR,UEFA Europa League
+25.09. 18:45,EL,Lille OSC,2:2,SK Brann+1,UEFA Europa League
+25.09. 18:45,EL,Go A. Eagles NED,0:1,FCS Bukarest ROU,UEFA Europa League
+25.09. 18:45,EL,Go Ahead Eagles,0:2,FCS Bukarest+1,UEFA Europa League
+25.09. 18:45,HB CL,Pick Szeged HUN,31:29,Paris Handball FRA,Champions League
+25.09. 18:45,HB CL,Targi Kielce POL,32:37,Füchse Berlin GER,Champions League
+25.09. 19:00,TUR 2,Pendikspor,4:1,Sakaryaspor,Türkei TFF 1. Lig
+25.09. 19:00,SWE 2,Östersunds FK,2:1,Utsiktens BK,Schweden Superettan
+25.09. 19:00,SWE 2,Umea FC,1:2,Västeras SK,Schweden Superettan
+25.09. 19:00,SWE 2,Trelleborgs FF,0:2,Örgryte Göteborg,Schweden Superettan
+25.09. 19:00,SWE 2,Sandvikens IF,0:1,Helsingborgs IF,Schweden Superettan
+25.09. 19:30,ESP 1,CA Osasuna,1:1,Elche CF,Spanien La Liga
+25.09. 20:45,ITA C1A,Dolomiti Bellunesi,1:2,LR Vicenza,"Italien Lega Pro Prima Divisione, Girone A"
+25.09. 20:45,ITA C1A,Union Brescia,1:1,Novara Calcio,"Italien Lega Pro Prima Divisione, Girone A"
+25.09. 20:45,HB CL,SC Magdeburg GER,27:26,Wisla Plock POL,Champions League
+25.09. 21:00,EL,YB Bern SUI,1:4,Panathinaikos GRE,UEFA Europa League
+25.09. 21:00,EL,Young Boys Bern,1:5,Panathinaikos+1,UEFA Europa League
+25.09. 21:00,EL,FC Utrecht NED,0:1,Ol. Lyon FRA,UEFA Europa League
+25.09. 21:00,EL,FC Utrecht+1,1:1,Olympique Lyon,UEFA Europa League
+25.09. 21:00,EL,VfB Stuttgart GER,2:1,Celta de Vigo ESP,UEFA Europa League
+25.09. 21:00,EL,VfB Stuttgart,2:2,Celta de Vigo+1,UEFA Europa League
+25.09. 21:00,EL,RB Salzburg AUT,0:1,FC Porto POR,UEFA Europa League
+25.09. 21:00,EL,RB Salzburg,0:2,FC Porto+1,UEFA Europa League
+25.09. 21:00,EL,RB Salzburg+1,1:1,FC Porto,UEFA Europa League
+25.09. 21:00,EL,Gl.Rangers SCO,0:1,KRC Genk BEL,UEFA Europa League
+25.09. 21:00,EL,Glasgow Rangers,0:2,KRC Genk+1,UEFA Europa League
+25.09. 21:00,EL,Ferencvaros HUN,1:1,Vikt. Pilsen CZE,UEFA Europa League
+25.09. 21:00,EL,Ferencvaros,1:2,Viktoria Pilsen+1,UEFA Europa League
+25.09. 21:00,EL,Aston Villa ENG,1:0,Bologna FC ITA,UEFA Europa League
+25.09. 21:00,EL,Aston Villa,1:1,Bologna FC+1,UEFA Europa League
+25.09. 21:00,ITA CUP,FC Torino,1:0,SC Pisa,Coppa Italia
+25.09. 21:30,ESP 1,Real Oviedo,1:3,FC Barcelona,Spanien La Liga
+25.09. 21:30,ESP 1,Real Oviedo+1,2:3,FC Barcelona,Spanien La Liga
+26.09. 02:15,NFL,Arizona Cardinals,20:23,Seattle Seahawks,USA NFL

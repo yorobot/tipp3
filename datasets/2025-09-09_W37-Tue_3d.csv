@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+09.09. 18:00,WM Q,Armenien,2:1,Irland,"WM Qualifikation, Europa"
+09.09. 18:00,WM Q,Armenien+1,3:1,Irland,"WM Qualifikation, Europa"
+09.09. 18:00,WM Q,Aserbaidschan,1:1,Ukraine,"WM Qualifikation, Europa"
+09.09. 18:00,WM Q,Aserbaidschan+1,2:1,Ukraine,"WM Qualifikation, Europa"
+09.09. 18:00,WMQ AFR,Südafrika,1:1,Nigeria,"WM Qualifikation, Afrika"
+09.09. 18:00,WMQ AFR,Burkina Faso,0:0,Ägypten,"WM Qualifikation, Afrika"
+09.09. 18:00,U21 EMQ,Norwegen U21,5:0,Slowenien U21,U21 EM Qualifikation
+09.09. 18:15,U21 EMQ,Nordmazedonien U21,0:1,Italien U21,U21 EM Qualifikation
+09.09. 19:00,U21 EMQ,Türkei U21,1:1,Kroatien U21,U21 EM Qualifikation
+09.09. 19:00,U21 EMQ,Kosovo U21,1:3,Spanien U21,U21 EM Qualifikation
+09.09. 19:30,EH GER,Eisbären Berlin,6:2,Dresdner Eislöwen,Deutschland Eishockey Liga
+09.09. 19:45,EH SUI,EV Zug,3:0,SC Bern,Schweiz National League A
+09.09. 19:45,EH SUI,Zürcher SC Lions,4:3,EHC Biel Bienne,Schweiz National League A
+09.09. 19:45,EH SUI,HC Servette Genf,5:3,HC Ajoie,Schweiz National League A
+09.09. 19:45,EH SUI,Fribourg Gotteron,2:2,HC Lugano,Schweiz National League A
+09.09. 19:45,EH SUI,HC Davos,4:1,HC Lausanne,Schweiz National League A
+09.09. 19:45,EH SUI,HC Ambri Piotta,2:1,EHC Kloten Flyers,Schweiz National League A
+09.09. 20:00,U21 EMQ,Montenegro U21,2:0,Schweden U21,U21 EM Qualifikation
+09.09. 20:00,U21 EMQ,Schottland U21,0:2,Portugal U21,U21 EM Qualifikation
+09.09. 20:30,U21 EMQ,Deutschland U21,5:0,Lettland U21,U21 EM Qualifikation
+09.09. 20:30,U21 EMQ,Deutschland U21,5:1,Lettland U21+1,U21 EM Qualifikation
+09.09. 20:45,WM Q,Serbien,0:5,England,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Serbien+1,1:5,England,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Albanien,1:0,Lettland,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Albanien,1:1,Lettland+1,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Norwegen,11:1,Moldawien,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Norwegen,11:2,Moldawien+1,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Norwegen,11:3,Moldawien+2,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Ungarn,2:3,Portugal,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Ungarn+1,3:3,Portugal,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Bosnien-Herzegowi.,1:2,Österreich,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Bosnien-Herzegow+1,2:2,Österreich,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Zypern,2:2,Rumänien,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Zypern+1,3:2,Rumänien,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Frankreich,2:1,Island,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Frankreich,2:2,Island+1,"WM Qualifikation, Europa"
+09.09. 20:45,WM Q,Frankreich,2:3,Island+2,"WM Qualifikation, Europa"
+09.09. 20:45,INT FS,Wales,0:1,Kanada,Internationale Freundschaftsspiele
+09.09. 21:00,WMQ AFR,Gabun,0:0,Elfenbeinküste,"WM Qualifikation, Afrika"
+10.09. 01:00,WMQCONM,Ecuador,1:0,Argentinien,"WM Qualifikation, CONMEBOL"
+10.09. 01:00,WMQCONM,Ecuador+1,2:0,Argentinien,"WM Qualifikation, CONMEBOL"
+10.09. 01:30,WMQCONM,Bolivien,1:0,Brasilien,"WM Qualifikation, CONMEBOL"
+10.09. 01:30,WMQCONM,Bolivien+1,2:0,Brasilien,"WM Qualifikation, CONMEBOL"
+10.09. 01:30,WMQCONM,Venezuela,3:6,Kolumbien,"WM Qualifikation, CONMEBOL"
+10.09. 01:30,WMQCONM,Peru,0:1,Paraguay,"WM Qualifikation, CONMEBOL"
+10.09. 01:30,WMQCONM,Chile,0:0,Uruguay,"WM Qualifikation, CONMEBOL"
+10.09. 01:30,INT FS,USA,2:0,Japan,Internationale Freundschaftsspiele
+10.09. 02:00,WMQCONC,Jamaika,2:0,Trinidad & Tobago,"WM Qualifikation, CONCACAF"
+10.09. 03:30,INT FS,Mexiko*,2:2,Südkorea,Internationale Freundschaftsspiele
+10.09. 04:00,WMQCONC,Honduras,2:0,Nicaragua,"WM Qualifikation, CONCACAF"
+10.09. 04:00,WMQCONC,Costa Rica,3:3,Haiti,"WM Qualifikation, CONCACAF"
+10.09. 16:00,BB EM,Finnland,93:79,Georgien,Europameisterschaft
+10.09. 17:00,EH CZE,HC Trinec,8:2,HC Olmütz,Tschechische Republik Extraliga
+10.09. 17:30,EH FIN,Lukko Rauma,1:4,Tappara Tampere,Finnland SM-Liiga
+10.09. 17:30,EH FIN,JYP Jyväskylä,4:3,Ilves Tampere,Finnland SM-Liiga
+10.09. 18:00,EH CZE,HC Kometa Brünn,4:2,HC Litvinov,Tschechische Republik Extraliga
+10.09. 18:00,EH CZE,HC Karlsbad,4:7,HC Vitkovice,Tschechische Republik Extraliga
+10.09. 18:00,EH CZE,HC Kladno,1:2,BK Mlada Boleslav,Tschechische Republik Extraliga
+10.09. 18:00,EH CZE,HC Pardubice,7:1,Mountfield HK,Tschechische Republik Extraliga
+10.09. 18:00,EH CZE,HC Liberec,1:3,HC Pilsen,Tschechische Republik Extraliga
+10.09. 18:45,HB CL,Aalborg Handbo DEN,32:28,Veszprem HC HUN,Champions League
+10.09. 18:45,HB CL,D.Bucuresti ROU,30:33,Sporting CP POR,Champions League
+10.09. 19:00,FIN CUP,Kuopio PS,2:0,FF Jaro,Finnland Cup
+10.09. 19:00,EH DEN,Herlev Eagles,4:3,Odense Bulldogs,Dänemark AL-Bank Ligaen
+10.09. 19:30,HB AUT,Vöslauer HC,35:18,UHC Hollabrunn,Österreich HLA
+10.09. 20:00,BOS 1,Zrinjski Mostar,2:0,FK Sarajevo,Bosnien Premier Liga
+10.09. 20:00,BB EM,Deutschland,99:91,Slowenien,Europameisterschaft
+10.09. 20:45,WAL LC,Pen-y-Bont FC,2:2,Briton Ferry,Wales Loosemores League Cup
+10.09. 20:45,WAL LC,Connah's Quay,1:3,The New Saints,Wales Loosemores League Cup
+10.09. 20:45,HB CL,SC Magdeburg GER,37:31,Paris Handball FRA,Champions League
+10.09. 20:45,HB CL,Pelister Rabotnik,25:23,Croatia Zagreb CRO,Champions League
+10.09. 22:30,ECU 2,22 de Julio,1:1,Chacaritas FC,"Ecuador, LigaPro Primera B"
+10.09. 22:30,ECU 2,CA Vinotinto,0:0,CSD Vargas Torres,"Ecuador, LigaPro Primera B"
+11.09. 00:00,BRA CUP,Fluminense RJ,2:0,EC Bahia BA,Brasilien Cup
+11.09. 00:00,COL 2,Inter. de Palmira,1:0,Leones FC,Categoría Primera B
+11.09. 02:00,ECU 2,Imbabura SC,0:0,Cumbaya FC,"Ecuador, LigaPro Primera B"
+11.09. 02:30,BRA CUP,Corinthians SP,2:0,CA Paranaense,Brasilien Cup
+11.09. 02:30,COL 1,Los Millonarios,1:0,Deportivo Pasto,Kolumbien Primera Liga
+11.09. 03:00,CRC 1,Puntarenas FC,3:1,Deportivo Saprissa,Costa Rica Primera División
+11.09. 04:00,CRC 1,CS Cartagines,2:0,CS Herediano,Costa Rica Primera División
+11.09. 17:00,ROU 2,FC Voluntari,1:0,Concordia Chiajna,"Rumänien, Liga 2"
+11.09. 17:30,EH FIN2,Jokerit Helsinki,4:1,Iisalmen Peli-K.,Finnland Mestis
+11.09. 18:45,HB CL,Pick Szeged HUN,33:34,Wisla Plock POL,Champions League
+11.09. 19:00,HB GER,FA Göppingen,24:24,SC DHfK Leipzig,Deutsche Handball Bundesliga
+11.09. 19:00,ISL 1,IA Akranes,3:0,Breidablik,Island Bestadeild
+11.09. 19:00,DEN 2,Hobro IK,1:4,Lyngby BK,Dänemark 1. Division
+11.09. 19:00,CL FR,Brann Frauen NOR,1:0,Man. United Fr ENG,UEFA Champions League Frauen
+11.09. 19:00,CL FR,Frankfurt (F) GER,1:2,Real Madrid (F ESP,UEFA Champions League Frauen
+11.09. 19:00,CL FR,FC Paris (F) FRA,0:0,Austria W. Fr AUT,UEFA Champions League Frauen
+11.09. 19:00,CL FR,FC Paris Frauen,0:2,Austria W. Fr+2,UEFA Champions League Frauen
+11.09. 19:30,CL FR,St. Pölten (F) AUT,3:1,For. Hjörring DEN,UEFA Champions League Frauen
+11.09. 19:30,UEFA FR,Ajax Frauen NED,2:0,Sturm Graz Frauen,"UEFA Europa Cup, Frauen"
+11.09. 19:30,ROU 2,Steaua Bukarest,2:1,ASA Targu Mures,"Rumänien, Liga 2"
+11.09. 20:00,EH SUI,EHC Biel Bienne,1:4,HC Davos,Schweiz National League A
+11.09. 20:30,CL FR,AS Roma Frauen ITA,1:2,Sporting Frauen,UEFA Champions League Frauen
+11.09. 20:45,HB CL,FC Barcelona ESP,37:32,GOG Handbold DEN,Champions League
+11.09. 20:45,HB CL,HBC Nantes FRA,34:40,Füchse Berlin GER,Champions League
+11.09. 20:45,HB CL,Targi Kielce POL,38:27,Kolstad HB NOR,Champions League
+11.09. 22:30,ECU 2,Guayaquil City FC,1:0,San Antonio FC,"Ecuador, LigaPro Primera B"
+11.09. 22:30,ECU 2,Club Leones Norte,1:2,Gualaceo SC,"Ecuador, LigaPro Primera B"
+12.09. 00:30,BRA CUP,Cruzeiro EC MG,2:0,Atletico MG,Brasilien Cup
+12.09. 01:00,ARG 1,CA Belgrano,0:0,CA San Martin,Argentinien Primera Division
+12.09. 02:15,NFL,Green Bay Packers,27:18,Washington Com.,USA NFL
+12.09. 02:30,BRA CUP,Botafogo RJ,1:1,Vasco Da Gama RJ,Brasilien Cup
+12.09. 04:00,CRC 1,Guadalupe FC,2:3,AD San Carlos,Costa Rica Primera División
+12.09. 20:30,GER BL,Bayer Leverkusen,3:1,Eintr. Frankfurt,Deutschland Bundesliga
+13.09. 15:30,GER BL,FC Heidenheim,0:2,Borussia Dortmund,Deutschland Bundesliga
+13.09. 15:30,GER BL,Union Berlin,2:4,TSG Hoffenheim,Deutschland Bundesliga
+13.09. 15:30,GER BL,VfL Wolfsburg,3:3,1. FC Köln,Deutschland Bundesliga
+13.09. 15:30,GER BL,FSV Mainz 05,0:1,RB Leipzig,Deutschland Bundesliga
+13.09. 15:30,GER BL,SC Freiburg,3:1,VfB Stuttgart,Deutschland Bundesliga
+13.09. 17:00,AUT BL,Wolfsberger AC,3:1,RB Salzburg,Österreich Bundesliga
+13.09. 17:00,AUT BL,SCR Altach,1:0,LASK,Österreich Bundesliga
+13.09. 17:00,AUT BL,BW Linz,3:0,Grazer AK,Österreich Bundesliga
+13.09. 18:30,GER BL,Bayern München,5:0,Hamburger SV,Deutschland Bundesliga
+14.09. 14:30,AUT BL,SV Ried,0:2,TSV Hartberg,Österreich Bundesliga
+14.09. 14:30,AUT BL,SK Rapid Wien,4:1,WSG Tirol,Österreich Bundesliga
+14.09. 15:30,GER BL,FC St. Pauli,2:1,FC Augsburg,Deutschland Bundesliga
+14.09. 17:00,AUT BL,SK Sturm Graz,0:1,FK Austria Wien,Österreich Bundesliga
+14.09. 17:30,GER BL,Mönchengladbach,0:4,SV Werder Bremen,Deutschland Bundesliga

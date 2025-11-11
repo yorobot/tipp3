@@ -17,13 +17,13 @@ Date,League,Team 1,Score,Team 2,League Name
 19.08. 20:45,ENG 1,Huddersfield Town,2:0,Doncaster Rovers,England League One
 19.08. 20:45,ENG 1,AFC Wimbledon,0:1,Cardiff City,England League One
 19.08. 20:45,ENG LC,Tranmere Rovers,1:1,Burton Albion,England - EFL Cup
-19.08. 21:00,CL Q,Ferencvaros HUN,1:3,Qarabag FK AZE,"UEFA Champions League, Qualifikation"
-19.08. 21:00,CL Q,Ferencvaros,1:4,Qarabag FK+1,"UEFA Champions League, Qualifikation"
-19.08. 21:00,CL Q,Roter Stern B. SRB,1:2,FC Pafos CYP,"UEFA Champions League, Qualifikation"
-19.08. 21:00,CL Q,Roter Stern B.,1:3,FC Pafos+1,"UEFA Champions League, Qualifikation"
-19.08. 21:00,CL Q,Gl.Rangers SCO,1:3,Club Brügge BEL,"UEFA Champions League, Qualifikation"
-19.08. 21:00,CL Q,Glasgow Rangers,1:4,Club Brügge+1,"UEFA Champions League, Qualifikation"
-19.08. 21:00,CL Q,Glasgow Rangers+1,2:3,Club Brügge,"UEFA Champions League, Qualifikation"
+19.08. 21:00,CL,Ferencvaros HUN,1:3,Qarabag FK AZE,UEFA Champions League
+19.08. 21:00,CL,Ferencvaros,1:4,Qarabag FK+1,UEFA Champions League
+19.08. 21:00,CL,Roter Stern B. SRB,1:2,FC Pafos CYP,UEFA Champions League
+19.08. 21:00,CL,Roter Stern B.,1:3,FC Pafos+1,UEFA Champions League
+19.08. 21:00,CL,Gl.Rangers SCO,1:3,Club Brügge BEL,UEFA Champions League
+19.08. 21:00,CL,Glasgow Rangers,1:4,Club Brügge+1,UEFA Champions League
+19.08. 21:00,CL,Glasgow Rangers+1,2:3,Club Brügge,UEFA Champions League
 19.08. 21:00,ESP 1,Real Madrid,1:0,CA Osasuna,Spanien La Liga
 19.08. 21:00,ESP 1,Real Madrid,1:1,CA Osasuna+1,Spanien La Liga
 19.08. 21:00,ESP 1,Real Madrid,1:2,CA Osasuna+2,Spanien La Liga
@@ -43,16 +43,16 @@ Date,League,Team 1,Score,Team 2,League Name
 20.08. 19:30,RSA PL,Orlando Pirates FC,1:0,Stellenbosch FC,"Südafrika, Premier League"
 20.08. 20:00,EGY 1,El Gouna FC,0:0,Ghazl El Mahallah,Ägypten Premier League
 20.08. 20:30,POL 2,Ruch Chorzow,4:0,ZKS Stal Rzeszow,Polen I Liga
-20.08. 21:00,CL Q,Bodö Glimt NOR,5:0,SK Sturm Graz AUT,"UEFA Champions League, Qualifikation"
-20.08. 21:00,CL Q,Bodö Glimt,5:1,SK Sturm Graz+1,"UEFA Champions League, Qualifikation"
-20.08. 21:00,CL Q,Celtic Glasgow SCO,0:0,Kairat Almaty KAZ,"UEFA Champions League, Qualifikation"
-20.08. 21:00,CL Q,Celtic Glasgow,0:1,FC Kairat Almaty+1,"UEFA Champions League, Qualifikation"
-20.08. 21:00,CL Q,Celtic Glasgow,0:2,FC Kairat Almaty+2,"UEFA Champions League, Qualifikation"
-20.08. 21:00,CL Q,FC Basel SUI,1:1,FC Kopenhagen DEN,"UEFA Champions League, Qualifikation"
-20.08. 21:00,CL Q,FC Basel,1:2,FC Kopenhagen+1,"UEFA Champions League, Qualifikation"
-20.08. 21:00,CL Q,Fenerbahce TUR,0:0,Benfica Lissab POR,"UEFA Champions League, Qualifikation"
-20.08. 21:00,CL Q,Fenerbahce,0:1,Benfica Lissabon+1,"UEFA Champions League, Qualifikation"
-20.08. 21:00,CL Q,Fenerbahce+1,1:0,Benfica Lissabon,"UEFA Champions League, Qualifikation"
+20.08. 21:00,CL,Bodö Glimt NOR,5:0,SK Sturm Graz AUT,UEFA Champions League
+20.08. 21:00,CL,Bodö Glimt,5:1,SK Sturm Graz+1,UEFA Champions League
+20.08. 21:00,CL,Celtic Glasgow SCO,0:0,Kairat Almaty KAZ,UEFA Champions League
+20.08. 21:00,CL,Celtic Glasgow,0:1,FC Kairat Almaty+1,UEFA Champions League
+20.08. 21:00,CL,Celtic Glasgow,0:2,FC Kairat Almaty+2,UEFA Champions League
+20.08. 21:00,CL,FC Basel SUI,1:1,FC Kopenhagen DEN,UEFA Champions League
+20.08. 21:00,CL,FC Basel,1:2,FC Kopenhagen+1,UEFA Champions League
+20.08. 21:00,CL,Fenerbahce TUR,0:0,Benfica Lissab POR,UEFA Champions League
+20.08. 21:00,CL,Fenerbahce,0:1,Benfica Lissabon+1,UEFA Champions League
+20.08. 21:00,CL,Fenerbahce+1,1:0,Benfica Lissabon,UEFA Champions League
 20.08. 21:00,ENG 1,Bolton Wanderers,1:1,FC Reading,England League One
 21.08. 00:00,COPA L,Estudiantes LP ARG,0:0,Cerro Porteno PAR,Copa Libertadores
 21.08. 00:00,COPA S,Club Cienciano PER,0:2,Bolivar La Paz BOL,Copa Sudamericana
@@ -66,54 +66,54 @@ Date,League,Team 1,Score,Team 2,League Name
 21.08. 05:00,USMXLC,Seattle Sounde USA,0:0,FC Puebla MEX,US & Mexican Leagues Cup
 21.08. 06:15,USMXLC,LA Galaxy USA,2:1,CF Pachuca MEX,US & Mexican Leagues Cup
 21.08. 18:00,FIN CUP,HJK Helsinki,1:0,AC Oulu,Finnland Cup
-21.08. 18:00,CON LGQ,Rosenborg BK NOR,2:1,FSV Mainz 05 GER,UEFA Conference League Qualifikation
-21.08. 18:00,CON LGQ,Rosenborg BK+1,3:1,FSV Mainz 05,UEFA Conference League Qualifikation
-21.08. 18:30,EL Q,FC Midtjylland DEN,4:0,Kuopio PS FIN,"UEFA Europa League, Qualifikation"
-21.08. 19:00,EL Q,SK Brann NOR,2:1,AEK Larnaca CYP,"UEFA Europa League, Qualifikation"
-21.08. 19:00,EL Q,SK Brann,2:2,AEK Larnaca+1,"UEFA Europa League, Qualifikation"
-21.08. 19:00,EL Q,Malmö FF SWE,3:0,Sigma Olmütz CZE,"UEFA Europa League, Qualifikation"
-21.08. 19:00,CON LGQ,Wolfsberger AC AUT,2:1,Omonia Nikosia CYP,UEFA Conference League Qualifikation
-21.08. 19:00,CON LGQ,Wolfsberger AC,2:2,Omonia Nikosia+1,UEFA Conference League Qualifikation
-21.08. 19:00,CON LGQ,BK Häcken SWE,7:2,CFR 1907 Cluj ROU,UEFA Conference League Qualifikation
-21.08. 19:00,CON LGQ,Győri ETO FC HUN,2:1,SK Rapid Wien AUT,UEFA Conference League Qualifikation
-21.08. 19:00,CON LGQ,Győri ETO FC+1,3:1,SK Rapid Wien,UEFA Conference League Qualifikation
-21.08. 19:00,CON LGQ,Hamrun Spartan MLT,1:0,Rigas Fb.Sk LAT,UEFA Conference League Qualifikation
-21.08. 19:45,CON LGQ,Basaksehir TUR,1:2,CS Uni Craiova ROU,UEFA Conference League Qualifikation
-21.08. 19:45,CON LGQ,Basaksehir,1:3,CS Uni Craiova+1,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Shakhtar Don. UKR*,1:1,Servette Genf SUI,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,FC Polissya UKR*,0:3,AC Fiorentina ITA,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Sparta Prag CZE,2:0,FC Riga LAT,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Sparta Prag,2:1,FC Riga+1,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Neman Grodno BLR,0:1,Rayo Vallecano ESP,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Levski Sofia BUL,0:2,AZ Alkmaar NED,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Levski Sofia+1,1:2,AZ Alkmaar,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,NK Celje SLO,1:0,Banik Ostrava CZE,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,KF Drita KOS,2:1,Differdange FC LUX,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,RSC Anderlecht BEL,1:1,AEK Athen GRE,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,RSC Anderlecht,1:2,AEK Athen+1,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Strasbourg FRA,0:0,Bröndby IF DEN,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Racing Strasbourg,0:1,Bröndby IF+1,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Ol. Ljubljana SLO,1:4,FC Noah ARM,UEFA Conference League Qualifikation
-21.08. 20:00,CON LGQ,Breidablik ISL,2:1,Virtus Acquav SMR,UEFA Conference League Qualifikation
-21.08. 20:00,EL Q,Zrinjs. Mostar BIH,0:2,FC Utrecht NED,"UEFA Europa League, Qualifikation"
-21.08. 20:00,EL Q,Panathinaikos GRE,2:1,Samsunspor TUR,"UEFA Europa League, Qualifikation"
-21.08. 20:00,EL Q,Panathinaikos,2:2,Samsunspor+1,"UEFA Europa League, Qualifikation"
-21.08. 20:00,EL Q,Shk.Tetovo MKD,2:1,Ludogorets BUL,"UEFA Europa League, Qualifikation"
-21.08. 20:00,EL Q,M. Tel Aviv ISR*,3:1,FC Dynamo Kiew UKR,"UEFA Europa League, Qualifikation"
-21.08. 20:15,EL Q,Slov. Bratisl. SVK,0:1,YB Bern SUI,"UEFA Europa League, Qualifikation"
-21.08. 20:15,CON LGQ,Jagiellonia B. POL,3:0,FC Dinamo City ALB,UEFA Conference League Qualifikation
-21.08. 20:15,CON LGQ,Lausanne Sport SUI,1:1,Besiktas TUR,UEFA Conference League Qualifikation
-21.08. 20:30,EL Q,Lech Posen POL,1:5,KRC Genk BEL,"UEFA Europa League, Qualifikation"
-21.08. 20:45,EL Q,HNK Rijeka CRO,1:0,PAOK Thessalon GRE,"UEFA Europa League, Qualifikation"
-21.08. 20:45,EL Q,FC Aberdeen SCO,2:2,FCS Bukarest ROU,"UEFA Europa League, Qualifikation"
-21.08. 20:45,CON LGQ,FC Shelbourne IRL,3:1,FC Linfield NIR,UEFA Conference League Qualifikation
-21.08. 21:00,EL Q,Lincoln Red Im GIB,0:4,Sporting Braga POR,"UEFA Europa League, Qualifikation"
-21.08. 21:00,EL Q,Lincoln Red Imps+2,2:4,Sporting Braga,"UEFA Europa League, Qualifikation"
-21.08. 21:00,CON LGQ,Hibernian FC SCO,1:2,Legia Warschau POL,UEFA Conference League Qualifikation
-21.08. 21:00,CON LGQ,Rakow Czestoch POL,1:0,Arda Kardzhali BUL,UEFA Conference League Qualifikation
-21.08. 21:00,CON LGQ,CD Santa Clara POR,1:2,Shamrock IRL,UEFA Conference League Qualifikation
-21.08. 21:00,CON LGQ,Crystal Palace ENG,1:0,Fredrikstad FK NOR,UEFA Conference League Qualifikation
-21.08. 21:00,CON LGQ,Crystal Palace,1:2,Fredrikstad FK+2,UEFA Conference League Qualifikation
+21.08. 18:00,CON LG,Rosenborg BK NOR,2:1,FSV Mainz 05 GER,UEFA Conference League
+21.08. 18:00,CON LG,Rosenborg BK+1,3:1,FSV Mainz 05,UEFA Conference League
+21.08. 18:30,EL,FC Midtjylland DEN,4:0,Kuopio PS FIN,UEFA Europa League
+21.08. 19:00,EL,SK Brann NOR,2:1,AEK Larnaca CYP,UEFA Europa League
+21.08. 19:00,EL,SK Brann,2:2,AEK Larnaca+1,UEFA Europa League
+21.08. 19:00,EL,Malmö FF SWE,3:0,Sigma Olmütz CZE,UEFA Europa League
+21.08. 19:00,CON LG,Wolfsberger AC AUT,2:1,Omonia Nikosia CYP,UEFA Conference League
+21.08. 19:00,CON LG,Wolfsberger AC,2:2,Omonia Nikosia+1,UEFA Conference League
+21.08. 19:00,CON LG,BK Häcken SWE,7:2,CFR 1907 Cluj ROU,UEFA Conference League
+21.08. 19:00,CON LG,Győri ETO FC HUN,2:1,SK Rapid Wien AUT,UEFA Conference League
+21.08. 19:00,CON LG,Győri ETO FC+1,3:1,SK Rapid Wien,UEFA Conference League
+21.08. 19:00,CON LG,Hamrun Spartan MLT,1:0,Rigas Fb.Sk LAT,UEFA Conference League
+21.08. 19:45,CON LG,Basaksehir TUR,1:2,CS Uni Craiova ROU,UEFA Conference League
+21.08. 19:45,CON LG,Basaksehir,1:3,CS Uni Craiova+1,UEFA Conference League
+21.08. 20:00,CON LG,Shakhtar Don. UKR*,1:1,Servette Genf SUI,UEFA Conference League
+21.08. 20:00,CON LG,FC Polissya UKR*,0:3,AC Fiorentina ITA,UEFA Conference League
+21.08. 20:00,CON LG,Sparta Prag CZE,2:0,FC Riga LAT,UEFA Conference League
+21.08. 20:00,CON LG,Sparta Prag,2:1,FC Riga+1,UEFA Conference League
+21.08. 20:00,CON LG,Neman Grodno BLR,0:1,Rayo Vallecano ESP,UEFA Conference League
+21.08. 20:00,CON LG,Levski Sofia BUL,0:2,AZ Alkmaar NED,UEFA Conference League
+21.08. 20:00,CON LG,Levski Sofia+1,1:2,AZ Alkmaar,UEFA Conference League
+21.08. 20:00,CON LG,NK Celje SLO,1:0,Banik Ostrava CZE,UEFA Conference League
+21.08. 20:00,CON LG,KF Drita KOS,2:1,Differdange FC LUX,UEFA Conference League
+21.08. 20:00,CON LG,RSC Anderlecht BEL,1:1,AEK Athen GRE,UEFA Conference League
+21.08. 20:00,CON LG,RSC Anderlecht,1:2,AEK Athen+1,UEFA Conference League
+21.08. 20:00,CON LG,Strasbourg FRA,0:0,Bröndby IF DEN,UEFA Conference League
+21.08. 20:00,CON LG,Racing Strasbourg,0:1,Bröndby IF+1,UEFA Conference League
+21.08. 20:00,CON LG,Ol. Ljubljana SLO,1:4,FC Noah ARM,UEFA Conference League
+21.08. 20:00,CON LG,Breidablik ISL,2:1,Virtus Acquav SMR,UEFA Conference League
+21.08. 20:00,EL,Zrinjs. Mostar BIH,0:2,FC Utrecht NED,UEFA Europa League
+21.08. 20:00,EL,Panathinaikos GRE,2:1,Samsunspor TUR,UEFA Europa League
+21.08. 20:00,EL,Panathinaikos,2:2,Samsunspor+1,UEFA Europa League
+21.08. 20:00,EL,Shk.Tetovo MKD,2:1,Ludogorets BUL,UEFA Europa League
+21.08. 20:00,EL,M. Tel Aviv ISR*,3:1,FC Dynamo Kiew UKR,UEFA Europa League
+21.08. 20:15,EL,Slov. Bratisl. SVK,0:1,YB Bern SUI,UEFA Europa League
+21.08. 20:15,CON LG,Jagiellonia B. POL,3:0,FC Dinamo City ALB,UEFA Conference League
+21.08. 20:15,CON LG,Lausanne Sport SUI,1:1,Besiktas TUR,UEFA Conference League
+21.08. 20:30,EL,Lech Posen POL,1:5,KRC Genk BEL,UEFA Europa League
+21.08. 20:45,EL,HNK Rijeka CRO,1:0,PAOK Thessalon GRE,UEFA Europa League
+21.08. 20:45,EL,FC Aberdeen SCO,2:2,FCS Bukarest ROU,UEFA Europa League
+21.08. 20:45,CON LG,FC Shelbourne IRL,3:1,FC Linfield NIR,UEFA Conference League
+21.08. 21:00,EL,Lincoln Red Im GIB,0:4,Sporting Braga POR,UEFA Europa League
+21.08. 21:00,EL,Lincoln Red Imps+2,2:4,Sporting Braga,UEFA Europa League
+21.08. 21:00,CON LG,Hibernian FC SCO,1:2,Legia Warschau POL,UEFA Conference League
+21.08. 21:00,CON LG,Rakow Czestoch POL,1:0,Arda Kardzhali BUL,UEFA Conference League
+21.08. 21:00,CON LG,CD Santa Clara POR,1:2,Shamrock IRL,UEFA Conference League
+21.08. 21:00,CON LG,Crystal Palace ENG,1:0,Fredrikstad FK NOR,UEFA Conference League
+21.08. 21:00,CON LG,Crystal Palace,1:2,Fredrikstad FK+2,UEFA Conference League
 22.08. 00:00,COPA L,LDU Quito ECU,2:0,Botafogo RJ BRA,Copa Libertadores
 22.08. 00:00,COPA S,CD Godoy Cruz ARG,0:1,Atletico MG BRA,Copa Sudamericana
 22.08. 02:30,COPA L,CA River Plate ARG,1:1,Club Libertad PAR,Copa Libertadores
