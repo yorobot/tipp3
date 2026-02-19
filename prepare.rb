@@ -17,7 +17,7 @@ Webcache.root = '/sports/cache'  ### c:\sports\cache
 ##  e.g.  (1367..1408).include?( 1408 ) == true  !!
 
 ## try latest     - was last five
-prog_ids = (  1470..1494   ##1410..1473    # 1407..1440
+prog_ids = (  1491..1521 ## 1470..1494   ##1410..1473    # 1407..1440
             ).to_a.reverse
 
 

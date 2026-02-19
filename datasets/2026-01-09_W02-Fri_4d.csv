@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+09.01. 17:00,AFR CUP,Mali,0:1,Senegal,Afrika Cup
+09.01. 17:00,AFR CUP,Mali+1,1:1,Senegal,Afrika Cup
+09.01. 18:00,CYP 1,AEL Limassol,0:2,Omonia Nikosia,Zypern 1. Division
+09.01. 18:30,EH AUT,EC Graz 99ers,2:2,HC Bozen Foxes,win2day ICE Hockey League
+09.01. 18:30,EH AUT,Ferencvaros TC,5:4,Pion. Vorarlberg,win2day ICE Hockey League
+09.01. 19:15,EH AUT,Fehervar AV19,4:2,HC Innsbruck,win2day ICE Hockey League
+09.01. 19:15,EH AUT,EC VSV,2:3,EC KAC,win2day ICE Hockey League
+09.01. 19:15,EH AUT,EC RB Salzburg,5:1,HK Olimpija,win2day ICE Hockey League
+09.01. 19:15,EH AUT,Vienna Capitals,2:2,Black Wings Linz,win2day ICE Hockey League
+09.01. 19:30,EH GER,EHC Wolfsburg,3:3,Augsburger Panth.,Deutschland Eishockey Liga
+09.01. 19:30,EH GER,Straubing Tigers,3:6,EHC München,Deutschland Eishockey Liga
+09.01. 19:30,EH GER,ERC Ingolstadt,4:5,Kölner Haie,Deutschland Eishockey Liga
+09.01. 19:30,EH GER,Bremerhaven P.,3:1,Nürnberg Ice Tiger,Deutschland Eishockey Liga
+09.01. 19:30,EH GER,Löwen Frankfurt,2:6,Adler Mannheim,Deutschland Eishockey Liga
+09.01. 20:00,AFR CUP,Kamerun,0:2,Marokko,Afrika Cup
+09.01. 20:00,AFR CUP,Kamerun+1,1:2,Marokko,Afrika Cup
+09.01. 20:30,GER BL,Eintr. Frankfurt,3:3,Borussia Dortmund,Deutschland Bundesliga
+09.01. 20:30,GER BL,Eintr. Frankfurt+1,4:3,Borussia Dortmund,Deutschland Bundesliga
+09.01. 20:30,ENG FA,Wrexham FC,3:3,Nottingham Forest,England FA Cup
+09.01. 20:30,ENG FA,Preston North End,0:1,Wigan Athletic,England FA Cup
+09.01. 20:30,ENG FA,Port Vale FC,1:0,Fleetwood Town,England FA Cup
+09.01. 20:30,ENG FA,MK Dons,1:1,Oxford United,England FA Cup
+09.01. 20:30,ITA C1B,Ascoli FC,1:0,Ternana Calcio,"Italien Lega Pro Prima Divisione, Girone B"
+09.01. 20:30,ITA C1C,Audace Cerignola,4:0,Potenza SC,"Italien, Lega Pro Prima Divisione, Girone C"
+09.01. 20:30,ESP 2,Cadiz CF,3:2,Sporting Gijon,Spanien Segunda Division
+09.01. 21:00,ESP 1,Getafe CF,1:2,Real Sociedad,Spanien La Liga
+10.01. 13:15,ENG FA,Macclesfield FC,2:1,Crystal Palace,England FA Cup
+10.01. 13:15,ENG FA,Wolverhampton,6:1,Shrewsbury Town,England FA Cup
+10.01. 13:15,ENG FA,FC Everton,1:1,AFC Sunderland,England FA Cup
+10.01. 13:15,ENG FA,Cheltenham Town,0:2,Leicester City,England FA Cup
+10.01. 14:00,ESP 1,Real Oviedo,1:1,Betis Sevilla,Spanien La Liga
+10.01. 15:00,ITA A,Udinese Calcio,2:2,SC Pisa,Italien Serie A
+10.01. 15:00,ITA A,Como Calcio,1:1,Bologna FC,Italien Serie A
+10.01. 15:30,GER BL,FC St. Pauli,abgesagt,RB Leipzig,Deutschland Bundesliga
+10.01. 15:30,GER BL,FC St. Pauli+1,abgesagt,RB Leipzig,Deutschland Bundesliga
+10.01. 15:30,GER BL,SV Werder Bremen,abgesagt,TSG Hoffenheim,Deutschland Bundesliga
+10.01. 15:30,GER BL,SC Freiburg,2:1,Hamburger SV,Deutschland Bundesliga
+10.01. 15:30,GER BL,Union Berlin,2:2,FSV Mainz 05,Deutschland Bundesliga
+10.01. 15:30,GER BL,FC Heidenheim,2:2,1. FC Köln,Deutschland Bundesliga
+10.01. 16:00,ENG FA,Stoke City,1:0,Coventry City,England FA Cup
+10.01. 16:00,ENG FA,Sheffield Wednes.,0:2,FC Brentford,England FA Cup
+10.01. 16:00,ENG FA,Newcastle United,2:2,AFC Bournemouth,England FA Cup
+10.01. 16:00,ENG FA,Manchester City,10:4,Exeter City+3,England FA Cup
+10.01. 16:00,ENG FA,FC Fulham,3:1,Middlesbrough,England FA Cup
+10.01. 16:00,ENG FA,FC Burnley,5:1,FC Millwall,England FA Cup
+10.01. 16:00,ENG FA,Ipswich Town,2:1,FC Blackpool,England FA Cup
+10.01. 16:00,ENG FA,Doncaster Rovers,2:3,FC Southampton,England FA Cup
+10.01. 16:00,SCO PS,Celtic Glasgow,4:0,Dundee United,Schottland Premiership
+10.01. 16:15,ESP 1,Villarreal CF,3:1,CD Alaves,Spanien La Liga
+10.01. 16:45,TUR SC,Galatasaray*,0:2,Fenerbahce,Türkei Süper Kupa
+10.01. 17:00,AFR CUP,Algerien,0:2,Nigeria,Afrika Cup
+10.01. 17:30,BB AUT,Klosterneuburg,66:71,Oberwart Gunners,Basketball Superliga
+10.01. 18:00,ITA A,AS Roma,2:0,US Sassuolo,Italien Serie A
+10.01. 18:30,GER BL,Bayer Leverkusen,1:4,VfB Stuttgart,Deutschland Bundesliga
+10.01. 18:30,GER BL,Bayer Leverkusen,1:5,VfB Stuttgart+1,Deutschland Bundesliga
+10.01. 18:30,ESP 1,FC Girona,1:0,CA Osasuna,Spanien La Liga
+10.01. 18:45,ENG FA,Tottenham,1:2,Aston Villa,England FA Cup
+10.01. 18:45,ENG FA,Cambridge United,2:3,Birmingham City,England FA Cup
+10.01. 18:45,ENG FA,Bristol City,5:1,FC Watford,England FA Cup
+10.01. 20:00,AFR CUP,Ägypten,3:2,Elfenbeinküste,Afrika Cup
+10.01. 20:45,ITA A,Atalanta Bergamo,2:0,FC Torino,Italien Serie A
+10.01. 21:00,ESP 1,FC Valencia,1:1,Elche CF,Spanien La Liga
+10.01. 21:00,ENG FA,Charlton Athletic,1:5,FC Chelsea,England FA Cup
+10.01. 21:00,ENG FA,Charlton Athl.+1,2:5,FC Chelsea,England FA Cup
+10.01. 22:30,NFL,Carolina Panthers,31:34,Los Angeles Rams,USA NFL
+11.01. 02:00,NFL,Chicago Bears,31:27,Green Bay Packers,USA NFL
+11.01. 12:30,ITA A,US Lecce,1:2,FC Parma,Italien Serie A
+11.01. 13:00,ENG FA,Derby County,1:3,Leeds United,England FA Cup
+11.01. 14:00,ESP 1,Rayo Vallecano,2:1,RCD Mallorca,Spanien La Liga
+11.01. 15:00,ITA A,AC Fiorentina,1:1,AC Milan,Italien Serie A
+11.01. 15:00,ENG FA,FC Portsmouth,1:4,FC Arsenal,England FA Cup
+11.01. 15:00,SCO PS,FC Dundee,0:1,Heart of Midl.,Schottland Premiership
+11.01. 15:30,GER BL,Mönchengladbach,4:0,FC Augsburg,Deutschland Bundesliga
+11.01. 15:30,GER BL,Mönchengladbach,4:1,FC Augsburg+1,Deutschland Bundesliga
+11.01. 15:30,ENG FA,West Ham United,1:1,Queens Park R.,England FA Cup
+11.01. 15:30,ENG FA,Swansea City,1:1,West Bromwich,England FA Cup
+11.01. 15:30,ENG FA,Sheffield United,3:4,Mansfield Town,England FA Cup
+11.01. 15:30,ENG FA,Norwich City,5:1,FC Walsall,England FA Cup
+11.01. 15:30,ENG FA,Hull City,0:0,Blackburn Rovers,England FA Cup
+11.01. 16:00,EH AUT,HC Bozen Foxes,4:4,EC VSV,win2day ICE Hockey League
+11.01. 16:15,ESP 1,Levante UD,1:1,Espanyol Barcelona,Spanien La Liga
+11.01. 17:30,GER BL,Bayern München,8:1,VfL Wolfsburg,Deutschland Bundesliga
+11.01. 17:30,GER BL,Bayern München,8:2,VfL Wolfsburg+1,Deutschland Bundesliga
+11.01. 17:30,GER BL,Bayern München,8:3,VfL Wolfsburg+2,Deutschland Bundesliga
+11.01. 17:30,ENG FA,Manchester United,1:2,Brighton & Hove FC,England FA Cup
+11.01. 17:30,SCO PS,FC Aberdeen,0:2,Glasgow Rangers,Schottland Premiership
+11.01. 17:30,EH AUT,EC Graz 99ers,4:0,Vienna Capitals,win2day ICE Hockey League
+11.01. 18:00,ITA A,Hellas Verona,0:1,Lazio Rom,Italien Serie A
+11.01. 18:00,FRA CUP,FC Nantes,1:1,OGC Nizza,Frankreich Coupe de France
+11.01. 18:00,FRA CUP,FC Metz,0:4,HSC Montpellier,Frankreich Coupe de France
+11.01. 18:00,EH AUT,HC Pustertal,4:1,EC RB Salzburg,win2day ICE Hockey League
+11.01. 18:30,GRE 1,Aris Thessaloniki,1:1,AEK Athen,Griechenland Super League
+11.01. 19:00,NFL,Jacksonv. Jaguars,24:27,Buffalo Bills,USA NFL
+11.01. 20:00,ESP SC,FC Barcelona*,3:2,Real Madrid,Spanien Supercopa
+11.01. 20:45,ITA A,Inter Mailand,2:2,SSC Napoli,Italien Serie A
+11.01. 20:45,ITA A,Inter Mailand,2:3,SSC Napoli+1,Italien Serie A
+11.01. 21:00,FRA CUP,Lille OSC,1:2,Olympique Lyon,Frankreich Coupe de France
+11.01. 22:30,NFL,Philadelph. Eagles,19:23,San Francisco 49,USA NFL
+12.01. 02:00,NFL,N.England Patriots,16:3,LA Chargers,USA NFL
+12.01. 17:30,EH CZE,HC Pilsen,3:2,HC Olmütz,Tschechische Republik Extraliga
+12.01. 18:00,TUR 2,Manisa FK,1:0,Ümraniyespor,Türkei TFF 1. Lig
+12.01. 18:00,ISR 2,Hapoel Akko,1:1,Hapoel Hadera,Israel National League
+12.01. 18:00,ISR 2,Mac. Petach Tikva,2:2,Hapoel Ramat Gan,Israel National League
+12.01. 18:00,ISR 2,Hapoel Afula FC,2:2,Hap.Kfar Shalem,Israel National League
+12.01. 18:00,CYP 1,Ypsonas FC,1:0,Olympiakos Nikosia,Zypern 1. Division
+12.01. 18:00,CYP 1,FC Pafos,2:0,Omonia Aradippou,Zypern 1. Division
+12.01. 18:30,SAUD 1,Al Hilal Riyadh,3:1,Al Nassr Riad,Saudi Professional League
+12.01. 18:30,ITA A,FC Genua,3:0,Cagliari Calcio,Italien Serie A
+12.01. 20:30,ITA C1C,Salernitana Calcio,0:0,Cosenza Calcio,"Italien, Lega Pro Prima Divisione, Girone C"
+12.01. 20:30,ITA C1C,FC Giugliano 1928,0:1,AZ Picerno,"Italien, Lega Pro Prima Divisione, Girone C"
+12.01. 20:30,ESP 2,SD Huesca,1:2,Cordoba CF,Spanien Segunda Division
+12.01. 20:45,ITA A,Juventus Turin,5:0,US Cremonese,Italien Serie A
+12.01. 20:45,ITA A,Juventus Turin,5:1,US Cremonese+1,Italien Serie A
+12.01. 20:45,ENG FA,FC Liverpool,4:1,FC Barnsley,England FA Cup
+12.01. 20:45,ENG FA,FC Liverpool,4:3,FC Barnsley+2,England FA Cup
+12.01. 21:00,ESP 1,FC Sevilla,0:1,Celta de Vigo,Spanien La Liga
+12.01. 21:00,ESP 1,FC Sevilla,0:2,Celta de Vigo+1,Spanien La Liga
+12.01. 21:10,FRA CUP,Paris SG,0:1,Paris FC 98,Frankreich Coupe de France
+12.01. 21:10,FRA CUP,Paris SG,0:2,Paris FC 98+1,Frankreich Coupe de France
+13.01. 02:15,NFL,Pittsbgh. Steelers,6:30,Houston Texans,USA NFL

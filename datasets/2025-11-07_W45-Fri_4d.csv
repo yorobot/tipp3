@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+07.11. 18:00,AUT 2,FC Hertha Wels,0:0,First Vienna FC,Österreich Zweite Liga
+07.11. 18:00,AUT 2,FC Liefering,5:2,Kapfenberger SV,Österreich Zweite Liga
+07.11. 18:00,TUR 1,Genclerbirligi,2:1,Basaksehir,Türkei Süper Lig
+07.11. 18:30,GER 2,Dynamo Dresden,1:2,1. FC Nürnberg,Deutschland 2. Bundesliga
+07.11. 18:30,GER 2,Greuther Fürth,1:0,Preussen Münster,Deutschland 2. Bundesliga
+07.11. 19:00,GER 3,MSV Duisburg,2:1,W. Mannheim,Deutschland 3. Liga
+07.11. 19:00,DEN 1,Odense BK,1:1,Silkeborg IF,Dänemark Superligaen
+07.11. 19:00,AUT RLO,SC Neusiedl,2:0,Wiener Sport-Club,Österreich Regionalliga Ost
+07.11. 19:00,AUT RLO,FCM Traiskirchen,4:1,SV Oberwart,Österreich Regionalliga Ost
+07.11. 19:30,AUT RLO,Kremser SC,1:0,FC Marchfeld,Österreich Regionalliga Ost
+07.11. 19:30,HB AUT,Alpla HC Hard,38:29,Fivers Margareten,Österreich HLA
+07.11. 19:30,SUI 2,Rapperswil-Jona,1:2,FC Wil 1900,Schweiz Challenge League
+07.11. 19:30,SUI 2,FC Stade Nyonnais,0:0,Etoile Carouge,Schweiz Challenge League
+07.11. 20:00,NL 1,Twente Enschede,0:0,SC Telstar,Niederlande Eredivisie
+07.11. 20:00,NL 2,ADO Den Haag,4:0,Roda JC Kerkrade,Niederlande Eerste Divisie
+07.11. 20:00,NL 2,Willem II Tilburg,1:1,FC Oss,Niederlande Eerste Divisie
+07.11. 20:00,NL 2,Almere City FC,4:0,MVV Maastricht,Niederlande Eerste Divisie
+07.11. 20:00,NL 2,FC Eindhoven,1:3,FC Den Bosch,Niederlande Eerste Divisie
+07.11. 20:15,SUI 2,Xamax Neuchatel,2:2,Yverdon-Sport,Schweiz Challenge League
+07.11. 20:30,GER BL,SV Werder Bremen,2:1,VfL Wolfsburg,Deutschland Bundesliga
+07.11. 20:30,AUT 2,Admira Wacker,2:1,SKN St. Pölten,Österreich Zweite Liga
+07.11. 20:30,AUT 2,Admira Wacker,2:2,SKN St. Pölten+1,Österreich Zweite Liga
+07.11. 20:30,ESP 2,CD Mirandes,2:1,Sporting Gijon,Spanien Segunda Division
+07.11. 20:30,ITA B,Spezia Calcio,1:1,AS Bari,Italien Serie B
+07.11. 20:45,ITA A,SC Pisa,1:0,US Cremonese,Italien Serie A
+07.11. 20:45,FRA 1,Paris FC 98,0:1,Stade Rennes,Frankreich Ligue 1
+07.11. 20:45,BEL 1,FCV Dender EH,2:2,SV Zulte Waregem,Belgien Jupiler Pro League
+07.11. 21:00,ESP 1,Elche CF,1:1,Real Sociedad,Spanien La Liga
+07.11. 21:00,ENG CS,FC Watford,1:1,Bristol City,England Championship
+07.11. 21:15,POR 1,Estoril Praia,4:3,FC Arouca,Portugal Primeira Liga
+08.11. 13:00,GER 2,FC Schalke 04,1:0,SV 07 Elversberg,Deutschland 2. Bundesliga
+08.11. 13:00,GER 2,Arminia Bielefeld,4:0,Karlsruher SC,Deutschland 2. Bundesliga
+08.11. 13:00,GER 2,Hannover 96,2:3,SV Darmstadt 98,Deutschland 2. Bundesliga
+08.11. 13:30,ENG PL,Tottenham,2:2,Manchester United,England Premier League
+08.11. 14:00,ESP 1,FC Girona,1:0,CD Alaves,Spanien La Liga
+08.11. 14:30,AUT 2,Austria Salzburg,1:2,SK Sturm Graz II,Österreich Zweite Liga
+08.11. 14:30,AUT 2,SK Rapid Wien II,2:1,Austria Klagenfurt,Österreich Zweite Liga
+08.11. 14:30,AUT 2,SW Bregenz,1:2,Austria Lustenau,Österreich Zweite Liga
+08.11. 15:00,ITA A,Como Calcio,0:0,Cagliari Calcio,Italien Serie A
+08.11. 15:00,ITA A,US Lecce,0:0,Hellas Verona,Italien Serie A
+08.11. 15:30,GER BL,Union Berlin,2:2,Bayern München,Deutschland Bundesliga
+08.11. 15:30,GER BL,Union Berlin+1,3:2,Bayern München,Deutschland Bundesliga
+08.11. 15:30,GER BL,Hamburger SV,1:1,Borussia Dortmund,Deutschland Bundesliga
+08.11. 15:30,GER BL,TSG Hoffenheim,3:1,RB Leipzig,Deutschland Bundesliga
+08.11. 15:30,GER BL,Bayer Leverkusen,6:0,FC Heidenheim,Deutschland Bundesliga
+08.11. 16:00,ENG PL,West Ham United,3:2,FC Burnley,England Premier League
+08.11. 16:00,ENG PL,FC Everton,2:0,FC Fulham,England Premier League
+08.11. 16:15,ESP 1,FC Sevilla,1:0,CA Osasuna,Spanien La Liga
+08.11. 17:00,AUT BL,FK Austria Wien,2:1,Grazer AK,Österreich Bundesliga
+08.11. 17:00,AUT BL,Wolfsberger AC,1:2,TSV Hartberg,Österreich Bundesliga
+08.11. 17:00,AUT BL,SV Ried,2:1,BW Linz,Österreich Bundesliga
+08.11. 17:00,FRA 1,Olymp. Marseille,3:0,Stade Brest,Frankreich Ligue 1
+08.11. 18:00,ITA A,Juventus Turin,0:0,FC Torino,Italien Serie A
+08.11. 18:00,TUR 1,Antalyaspor,1:3,Besiktas Istanbul,Türkei Süper Lig
+08.11. 18:30,GER BL,Mönchengladbach,3:1,1. FC Köln,Deutschland Bundesliga
+08.11. 18:30,ENG PL,AFC Sunderland,2:2,FC Arsenal,England Premier League
+08.11. 18:30,ESP 1,Atletico Madrid,3:1,Levante UD,Spanien La Liga
+08.11. 18:45,EHGERC,Deutschland,2:5,Österreich,Germany Cup
+08.11. 19:00,HB AUT,UHK Krems,26:26,Bregenz Handball,Österreich HLA
+08.11. 19:00,FRA 1,Le Havre AC,1:1,FC Nantes,Frankreich Ligue 1
+08.11. 20:30,GER 2,FC Kaiserslautern,0:1,Hertha BSC,Deutschland 2. Bundesliga
+08.11. 20:45,ITA A,FC Parma,2:2,AC Milan,Italien Serie A
+08.11. 21:00,ENG PL,FC Chelsea,3:0,Wolverhampton,England Premier League
+08.11. 21:00,ESP 1,Espanyol Barcelona,0:2,Villarreal CF,Spanien La Liga
+08.11. 21:05,FRA 1,AS Monaco,1:4,RC Lens,Frankreich Ligue 1
+09.11. 10:30,AUT 2,Floridsdorfer AC,2:1,Young Violets A.W.,Österreich Zweite Liga
+09.11. 12:15,NL 1,FC Utrecht,2:1,Ajax Amsterdam,Niederlande Eredivisie
+09.11. 12:30,ITA A,Atalanta Bergamo,0:3,US Sassuolo,Italien Serie A
+09.11. 13:30,GER 2,E. Braunschweig,0:2,VfL Bochum,Deutschland 2. Bundesliga
+09.11. 13:30,GER 2,FC Magdeburg,0:1,SC Paderborn,Deutschland 2. Bundesliga
+09.11. 13:30,GER 2,Holstein Kiel,1:0,Fortuna Düsseldorf,Deutschland 2. Bundesliga
+09.11. 13:30,BEL 1,RSC Anderlecht,1:0,Club Brügge,Belgien Jupiler Pro League
+09.11. 14:00,ESP 1,Athletic Bilbao,1:0,Real Oviedo,Spanien La Liga
+09.11. 14:30,AUT BL,WSG Tirol,1:1,SK Rapid Wien,Österreich Bundesliga
+09.11. 14:30,AUT BL,LASK,1:0,SCR Altach,Österreich Bundesliga
+09.11. 15:00,ENG PL,Nottingham Forest,3:1,Leeds United,England Premier League
+09.11. 15:00,ENG PL,Crystal Palace,0:0,Brighton & Hove FC,England Premier League
+09.11. 15:00,ENG PL,FC Brentford,3:1,Newcastle United,England Premier League
+09.11. 15:00,ENG PL,Aston Villa,4:0,AFC Bournemouth,England Premier League
+09.11. 15:00,ITA A,FC Genua,2:2,AC Fiorentina,Italien Serie A
+09.11. 15:00,ITA A,Bologna FC,2:0,SSC Napoli,Italien Serie A
+09.11. 15:30,GER BL,SC Freiburg,2:1,FC St. Pauli,Deutschland Bundesliga
+09.11. 15:30,NFL,Indiana. Colts*,25:25,Atlanta Falcons,USA NFL
+09.11. 16:00,SCO PS,FC Dundee,0:3,Glasgow Rangers,Schottland Premiership
+09.11. 16:15,ESP 1,Rayo Vallecano,0:0,Real Madrid,Spanien La Liga
+09.11. 16:30,SUI SL,FC St. Gallen,1:4,Young Boys Bern,Schweiz Super League
+09.11. 16:45,NL 1,AZ Alkmaar,1:5,PSV Eindhoven,Niederlande Eredivisie
+09.11. 17:00,AUT BL,SK Sturm Graz,1:1,Red Bull Salzburg,Österreich Bundesliga
+09.11. 17:15,FRA 1,Racing Strasbourg,2:0,Lille OSC,Frankreich Ligue 1
+09.11. 17:30,GER BL,VfB Stuttgart,3:2,FC Augsburg,Deutschland Bundesliga
+09.11. 17:30,ENG PL,Manchester City,3:0,FC Liverpool,England Premier League
+09.11. 18:00,ITA A,AS Roma,2:0,Udinese Calcio,Italien Serie A
+09.11. 18:30,ESP 1,RCD Mallorca,1:0,Getafe CF,Spanien La Liga
+09.11. 18:30,ESP 1,FC Valencia,1:1,Betis Sevilla,Spanien La Liga
+09.11. 19:30,GER BL,Eintr. Frankfurt,1:0,FSV Mainz 05,Deutschland Bundesliga
+09.11. 20:00,NL 1,Go Ahead Eagles,2:1,Feyenoord,Niederlande Eredivisie
+09.11. 20:45,ITA A,Inter Mailand,2:0,Lazio Rom,Italien Serie A
+09.11. 20:45,FRA 1,Olympique Lyon,2:3,Paris SG,Frankreich Ligue 1
+09.11. 21:00,ESP 1,Celta de Vigo,2:4,FC Barcelona,Spanien La Liga
+10.11. 16:30,BUL 2,FC Dunav Ruse,2:0,FC Fratria Varna,"Bulgarien, B PFG"
+10.11. 18:00,GER DA,SC Freiburg Frauen,2:1,Leverkusen Frauen,Deutschland Frauen Bundesliga
+10.11. 18:00,ISR 2,Hap. Rishon LeZion,1:1,Hapoel Hadera,Israel National League
+10.11. 18:00,ISR 2,FC Kiryat Yam,0:6,Maccabi Jaffa,Israel National League
+10.11. 18:00,ISR 2,Ironi Modiin,3:1,Hapoel Afula FC,Israel National League
+10.11. 18:30,ROU 2,ASA Targu Mures,4:0,CSM Poli. Iasi,"Rumänien, Liga 2"
+10.11. 19:00,DEN 2,Esbjerg FB,4:2,Middelfart BK,Dänemark 1. Division
+10.11. 20:30,ESP 2,Burgos CF,0:0,CD Castellon,Spanien Segunda Division
+10.11. 20:30,ITA C1C,Salernitana Calcio,0:0,FC Crotone,"Italien, Lega Pro Prima Divisione, Girone C"
+10.11. 21:00,ARG 1,Gimnasia La Plata,2:0,Velez Sarsfield,Argentinien Primera Division
+10.11. 23:00,ARG 1,Deportivo Riestra,0:1,CA Independiente,Argentinien Primera Division
+10.11. 23:00,BRA 2,Botafogo FC SP,1:0,Amazonas FC AM,Brasilien Brasilero Serie B
+10.11. 23:00,BRA 2,Chapecoense SC,0:1,America Mineiro MG,Brasilien Brasilero Serie B
+11.11. 01:00,ECU 1,SD Aucas,8:0,Delfin SC,Ecuador Serie A
+11.11. 01:00,NHL,New York Rangers,6:3,Nashville Pred.,USA NHL
+11.11. 01:00,NHL,New Jersey Devils,2:2,NY Islanders,USA NHL
+11.11. 01:15,ARG 1,Indep. Rivadavia,0:0,CA Central Cordoba,Argentinien Primera Division
+11.11. 01:15,ARG 1,Argentinos Juniors,1:0,CA Belgrano,Argentinien Primera Division
+11.11. 02:15,NFL,Green Bay Packers,7:10,Philadelph. Eagles,USA NFL
+11.11. 02:30,NHL,Edmonton Oilers,4:4,Columbus Blue J.,USA NHL
+11.11. 04:00,NHL,Vegas Gold.Knights,2:3,Florida Panthers,USA NHL

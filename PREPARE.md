@@ -6,10 +6,65 @@ to check on (latest) program ids, see
     https://www.tipp3.at/sportwetten/sportwetten-classic-ergebnisse?oddsetProgramID=1345
 
 
+## update - feb/19 2026
+
+```
+<option value="1522">17.02.2026 - 19.02.2026</option>
+<option value="1521" selected="selected" >13.02.2026 - 16.02.2026</option>
+<option value="1520">10.02.2026 - 12.02.2026</option>
+<option value="1519">06.02.2026 - 09.02.2026</option>
+<option value="1518">03.02.2026 - 05.02.2026</option>
+<option value="1517">30.01.2026 - 02.02.2026</option>
+<option value="1516">27.01.2026 - 29.01.2026</option>
+<option value="1515">23.01.2026 - 26.01.2026</option>
+<option value="1514">20.01.2026 - 22.01.2026</option>
+<option value="1513">16.01.2026 - 19.01.2026</option>
+<option value="1512">13.01.2026 - 15.01.2026</option>
+<option value="1511">09.01.2026 - 12.01.2026</option>
+<option value="1510">05.01.2026 - 08.01.2026</option>
+<option value="1509">30.12.2025 - 04.01.2026</option>
+<option value="1508">23.12.2025 - 29.12.2025</option>
+<option value="1507">19.12.2025 - 22.12.2025</option>
+<option value="1506">16.12.2025 - 18.12.2025</option>
+<option value="1505">12.12.2025 - 15.12.2025</option>
+<option value="1504">09.12.2025 - 11.12.2025</option>
+<option value="1503">05.12.2025 - 08.12.2025</option>
+<option value="1502">02.12.2025 - 04.12.2025</option>
+<option value="1501">28.11.2025 - 01.12.2025</option>
+<option value="1500">25.11.2025 - 27.11.2025</option>
+<option value="1499">21.11.2025 - 24.11.2025</option>
+<option value="1498">18.11.2025 - 20.11.2025</option>
+<option value="1497">14.11.2025 - 17.11.2025</option>
+<option value="1496">11.11.2025 - 13.11.2025</option>
+<option value="1495">07.11.2025 - 10.11.2025</option>
+<option value="1494">04.11.2025 - 06.11.2025</option>
+<option value="1493">31.10.2025 - 03.11.2025</option>
+<option value="1492">28.10.2025 - 30.10.2025</option>
+<option value="1491">24.10.2025 - 27.10.2025</option>
+<option value="1490">21.10.2025 - 23.10.2025</option>
+<option value="1489">17.10.2025 - 20.10.2025</option>
+<option value="1488">14.10.2025 - 16.10.2025</option>
+<option value="1487">10.10.2025 - 13.10.2025</option>
+<option value="1486">07.10.2025 - 09.10.2025</option>
+<option value="1485">03.10.2025 - 06.10.2025</option>
+<option value="1484">30.09.2025 - 02.10.2025</option>
+<option value="1483">26.09.2025 - 29.09.2025</option>
+<option value="1482">23.09.2025 - 25.09.2025</option>
+<option value="1481">19.09.2025 - 22.09.2025</option>
+<option value="1480">16.09.2025 - 18.09.2025</option>
+<option value="1479">12.09.2025 - 15.09.2025</option>
+<option value="1478">09.09.2025 - 11.09.2025</option>
+<option value="1477">05.09.2025 - 08.09.2025</option>
+<option value="1476">02.09.2025 - 04.09.2025</option>
+<option value="1475">29.08.2025 - 01.09.2025</option>
+<option value="1474">26.08.2025 - 28.08.2025</option>
+<option value="1473">22.08.2025 - 25.08.2025</option>
+```
+
 ## update - nov/11 2025
 
 ```
-<select name="oddsetProgramID" id="oddsetProgramID" class="t3-list-filter__filter" style="" data-errordiv="oddsetProgramID_error_message" data-defaultcssclass="t3-list-filter__filter" data-elementdiv="oddsetProgramID" data-inputobject='{"id":"oddsetProgramID","valueType":"comboBox","requiredField":false,"formName":"programDatesForm","errorDiv":"oddsetProgramID_error_message","errorText":"oddsetProgramID_error_message","checkAllErrors":false,"defaultClassName":"t3-list-filter__filter","elementId":"oddsetProgramID","elementDivId":"oddsetProgramID"}' data-events="{&#34;change&#34;:[{&#34;functionName&#34;:&#34;UEP.components.combobox.comboboxChange&#34;,&#34;parameterValues&#34;:[&#34;oddsetProgramID&#34;]}]}">
+<select name="oddsetProgramID" id="oddsetProgramID" ...>
 <option value="1495" selected="selected">07.11.2025 - 10.11.2025</option>
 <option value="1494">04.11.2025 - 06.11.2025</option>
 <option value="1493">31.10.2025 - 03.11.2025</option>
