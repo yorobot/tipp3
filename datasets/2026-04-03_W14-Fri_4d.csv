@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+03.04. 13:30,ENG CS,FC Middlesbrough,,FC Millwall,England Championship
+03.04. 16:00,ENG CS,Sheffield United,,Swansea City,England Championship
+03.04. 16:00,ENG CS,Birmingham City,,Blackburn Rovers,England Championship
+03.04. 16:00,ENG CS,West Bromwich Albion,,Wrexham FC,England Championship
+03.04. 16:00,ENG CS,Queens Park Rangers,,FC Watford,England Championship
+03.04. 16:00,ENG CS,Oxford United,,Hull City,England Championship
+03.04. 16:00,ENG CS,Norwich City,,FC Portsmouth,England Championship
+03.04. 16:00,ENG CS,Leicester City,,Preston North End,England Championship
+03.04. 16:00,ENG CS,Charlton Athletic,,Bristol City,England Championship
+03.04. 18:00,AUT 2,Austria Salzburg,,Schwarz Weiß Bregenz,Österreich Zweite Liga
+03.04. 18:00,AUT 2,SK Rapid Wien II,,Floridsdorfer AC,Österreich Zweite Liga
+03.04. 18:00,AUT 2,SKU Amstetten,,Young Violets Austria Wien,Österreich Zweite Liga
+03.04. 18:00,AUT 2,SK Sturm Graz II,,SKN St. Pölten,Österreich Zweite Liga
+03.04. 18:00,AUT 2,FC Hertha Wels,,Austria Klagenfurt,Österreich Zweite Liga
+03.04. 18:00,AUT 2,First Vienna FC,,Kapfenberger SV,Österreich Zweite Liga
+03.04. 19:00,POR 1,Vitoria SC Guimaraes,,CD Tondela,Portugal Primeira Liga
+03.04. 19:30,AUT BL,SV Ried,,SCR Altach,Österreich Bundesliga
+03.04. 19:30,AUT BL,SV Ried,,SCR Altach+1,Österreich Bundesliga
+03.04. 19:30,AUT RLO,Wiener Sport-Club,,Kremser SC,Österreich Regionalliga Ost
+03.04. 19:30,HB AUTC,Fivers Margareten,,UHC Hollabrunn,Handball Cup Österreich
+03.04. 19:30,SUI 2,Yverdon-Sport FC,,AC Bellinzona,Schweiz Challenge League
+03.04. 19:30,SUI 2,FC Stade Lausanne-Ouchy,,FC Wil 1900,Schweiz Challenge League
+03.04. 20:15,SUI 2,Etoile Carouge,,FC Stade Nyonnais,Schweiz Challenge League
+03.04. 20:15,SUI 2,Xamax Neuchatel FC,,FC Vaduz,Schweiz Challenge League
+03.04. 20:30,AUT 2,Austria Lustenau,,Admira Wacker,Österreich Zweite Liga
+03.04. 20:45,FRA 1,Paris St. Germain,,FC Toulouse,Frankreich Ligue 1
+03.04. 20:45,BEL 1,FC Royal Antwerpen,,KRC Genk,Belgien Jupiler Pro League
+03.04. 21:00,ESP 1,Rayo Vallecano,,Elche CF,Spanien La Liga
+03.04. 21:00,ENG CS,Coventry City,,Derby County,England Championship
+03.04. 21:30,POR 1,Sporting Lissabon,,CD Santa Clara,Portugal Primeira Liga
+04.04. 13:00,GER 2,1. FC Kaiserslautern,,Fortuna Düsseldorf,Deutschland 2. Bundesliga
+04.04. 13:00,GER 2,Arminia Bielefeld,,SV Darmstadt 98,Deutschland 2. Bundesliga
+04.04. 13:00,GER 2,FC Magdeburg,,VfL Bochum,Deutschland 2. Bundesliga
+04.04. 13:45,ENG FA,Manchester City,,FC Liverpool,England FA Cup
+04.04. 13:45,ENG FA,Manchester City,,FC Liverpool+1,England FA Cup
+04.04. 14:00,ESP 1,Real Sociedad,,Levante UD,Spanien La Liga
+04.04. 15:00,ITA A,US Sassuolo,,Cagliari Calcio,Italien Serie A
+04.04. 15:30,GER BL,SC Freiburg,,FC Bayern München,Deutschland Bundesliga
+04.04. 15:30,GER BL,SC Freiburg+1,,FC Bayern München,Deutschland Bundesliga
+04.04. 15:30,GER BL,Bayer Leverkusen,,VfL Wolfsburg,Deutschland Bundesliga
+04.04. 15:30,GER BL,Bayer Leverkusen,,VfL Wolfsburg+1,Deutschland Bundesliga
+04.04. 15:30,GER BL,SV Werder Bremen,,RB Leipzig,Deutschland Bundesliga
+04.04. 15:30,GER BL,Hamburger SV,,FC Augsburg,Deutschland Bundesliga
+04.04. 15:30,GER BL,Borussia Mönchengladbach,,FC Heidenheim,Deutschland Bundesliga
+04.04. 15:30,GER BL,TSG 1899 Hoffenheim,,FSV Mainz 05,Deutschland Bundesliga
+04.04. 16:00,SCO PS,Glasgow Rangers,,Dundee United,Schottland Premiership
+04.04. 16:15,ESP 1,RCD Mallorca,,Real Madrid,Spanien La Liga
+04.04. 16:30,NL 1,PSV Eindhoven,,FC Utrecht,Niederlande Eredivisie
+04.04. 17:00,AUT BL,Grazer AK,,BW Linz,Österreich Bundesliga
+04.04. 17:00,AUT BL,WSG Tirol,,Wolfsberger AC,Österreich Bundesliga
+04.04. 17:00,FRA 1,Racing Strasbourg,,OGC Nizza,Frankreich Ligue 1
+04.04. 17:15,HB AUTC,Vöslauer HC,,Alpla HC Hard,Handball Cup Österreich
+04.04. 18:00,ITA A,Hellas Verona,,AC Fiorentina,Italien Serie A
+04.04. 18:00,SUI SL,FC Lugano,,FC Thun,Schweiz Super League
+04.04. 18:15,ENG FA,FC Chelsea,,Port Vale FC,England FA Cup
+04.04. 18:30,GER BL,VfB Stuttgart,,Borussia Dortmund,Deutschland Bundesliga
+04.04. 18:30,GER BL,VfB Stuttgart,,Borussia Dortmund+1,Deutschland Bundesliga
+04.04. 18:30,ESP 1,Betis Sevilla,,Espanyol Barcelona,Spanien La Liga
+04.04. 19:00,NL 1,AZ Alkmaar,,Fortuna Sittard,Niederlande Eredivisie
+04.04. 19:00,FRA 1,Stade Brest,,Stade Rennes,Frankreich Ligue 1
+04.04. 19:00,TUR 1,Trabzonspor,,Galatasaray Istanbul,Türkei Süper Lig
+04.04. 20:30,GER 2,Dynamo Dresden,,Hertha BSC,Deutschland 2. Bundesliga
+04.04. 20:30,SUI SL,FC Basel,,BSC Young Boys Bern,Schweiz Super League
+04.04. 20:45,ITA A,Lazio Rom,,FC Parma,Italien Serie A
+04.04. 21:00,ESP 1,Atletico Madrid,,FC Barcelona,Spanien La Liga
+04.04. 21:00,ENG FA,FC Southampton,,FC Arsenal,England FA Cup
+04.04. 21:00,NL 1,Ajax Amsterdam,,FC Twente Enschede,Niederlande Eredivisie
+04.04. 21:05,FRA 1,Lille OSC,,RC Lens,Frankreich Ligue 1
+04.04. 21:30,POR 1,FC Porto,,FC Famalicao,Portugal Primeira Liga
+05.04. 13:30,GER 2,FC Schalke 04,,Karlsruher SC,Deutschland 2. Bundesliga
+05.04. 13:30,GER 2,Eintracht Braunschweig,,1. FC Nürnberg,Deutschland 2. Bundesliga
+05.04. 13:30,GER 2,Greuther Fürth,,SC Paderborn,Deutschland 2. Bundesliga
+05.04. 13:30,GER 2,Hannover 96,,SV 07 Elversberg,Deutschland 2. Bundesliga
+05.04. 13:30,GER 2,Holstein Kiel,,Preussen Münster,Deutschland 2. Bundesliga
+05.04. 14:00,ESP 1,Getafe CF,,Athletic Bilbao,Spanien La Liga
+05.04. 14:30,AUT BL,TSV Hartberg,,Red Bull Salzburg,Österreich Bundesliga
+05.04. 14:30,AUT BL,LASK,,FK Austria Wien,Österreich Bundesliga
+05.04. 14:30,NL 1,FC Volendam,,Feyenoord Rotterdam,Niederlande Eredivisie
+05.04. 15:00,ITA A,US Cremonese,,Bologna FC,Italien Serie A
+05.04. 15:00,FRA 1,SCO Angers,,Olympique Lyon,Frankreich Ligue 1
+05.04. 15:30,GER BL,FC Union Berlin,,FC St. Pauli,Deutschland Bundesliga
+05.04. 16:15,ESP 1,FC Valencia,,Celta de Vigo,Spanien La Liga
+05.04. 16:30,EH AUT,Fehervar AV19,,EC Graz 99ers,win2day ICE Hockey League
+05.04. 17:00,AUT BL,SK Rapid Wien,,SK Sturm Graz,Österreich Bundesliga
+05.04. 17:00,AUT BL,SK Rapid Wien,,SK Sturm Graz+1,Österreich Bundesliga
+05.04. 17:15,FRA 1,Le Havre AC,,AJ Auxerre,Frankreich Ligue 1
+05.04. 17:30,GER BL,Eintracht Frankfurt,,1. FC Köln,Deutschland Bundesliga
+05.04. 17:30,ENG FA,West Ham United,,Leeds United,England FA Cup
+05.04. 17:30,SCO PS,FC Dundee,,Celtic Glasgow,Schottland Premiership
+05.04. 18:00,ITA A,SC Pisa,,FC Torino,Italien Serie A
+05.04. 18:00,GRE 1,PAOK Thessaloniki,,Panathinaikos Athen,Griechenland Super League
+05.04. 18:00,EH AUT,HK Olimpija,,HC Pustertal,win2day ICE Hockey League
+05.04. 18:30,ESP 1,Real Oviedo,,FC Sevilla,Spanien La Liga
+05.04. 19:00,TUR 1,Fenerbahce Istanbul,,Besiktas Istanbul,Türkei Süper Lig
+05.04. 20:00,GRE 1,Olympiakos Piräus,,AEK Athen,Griechenland Super League
+05.04. 20:45,ITA A,Inter Mailand,,AS Roma,Italien Serie A
+05.04. 20:45,FRA 1,AS Monaco,,Olympique Marseille,Frankreich Ligue 1
+05.04. 21:00,ESP 1,CD Alaves,,CA Osasuna,Spanien La Liga
+06.04. 12:30,ITA A,Udinese Calcio,,Como Calcio,Italien Serie A
+06.04. 13:30,BEL 1,Club Brügge,,RSC Anderlecht,Belgien Jupiler Pro League
+06.04. 14:00,ENG CS,FC Millwall,,Norwich City,England Championship
+06.04. 14:00,AUT 2,FC Liefering,,SKU Amstetten,Österreich Zweite Liga
+06.04. 14:00,AUT 2,Kapfenberger SV,,SK Rapid Wien II,Österreich Zweite Liga
+06.04. 14:00,AUT 2,Young Violets Austria Wien,,Austria Lustenau,Österreich Zweite Liga
+06.04. 14:00,AUT 2,FC Hertha Wels,,Austria Salzburg,Österreich Zweite Liga
+06.04. 15:00,ITA A,US Lecce,,Atalanta Bergamo,Italien Serie A
+06.04. 16:00,ENG CS,Preston North End,,Queens Park Rangers,England Championship
+06.04. 16:00,ENG CS,Ipswich Town,,Birmingham City,England Championship
+06.04. 16:00,ENG CS,Derby County,,Stoke City,England Championship
+06.04. 16:00,AUT 2,Floridsdorfer AC,,First Vienna FC,Österreich Zweite Liga
+06.04. 17:00,AUT 2,SKN St. Pölten,,Austria Klagenfurt,Österreich Zweite Liga
+06.04. 17:00,AUT 2,Schwarz Weiß Bregenz,,SK Sturm Graz II,Österreich Zweite Liga
+06.04. 18:00,ITA A,Juventus Turin,,FC Genua,Italien Serie A
+06.04. 18:30,ENG CS,Swansea City,,FC Middlesbrough,England Championship
+06.04. 19:00,TUR 1,Kocaelispor,,Istanbul Basaksehir FK,Türkei Süper Lig
+06.04. 19:00,ESP 2,CD Castellon,,Granada CF,Spanien Segunda Division
+06.04. 20:30,ESP 2,Sporting Gijon,,Real Sociedad B,Spanien Segunda Division
+06.04. 20:45,ITA A,SSC Napoli,,AC Milan,Italien Serie A
+06.04. 21:00,ESP 1,FC Girona,,Villarreal CF,Spanien La Liga
+06.04. 21:00,ENG CS,Hull City,,Coventry City,England Championship

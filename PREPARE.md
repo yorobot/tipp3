@@ -3,7 +3,51 @@
 
 
 to check on (latest) program ids, see
-    https://www.tipp3.at/sportwetten/sportwetten-classic-ergebnisse?oddsetProgramID=1345
+    https://www.tipp3.at/sportwetten/sportwetten-classic-ergebnisse?oddsetProgramID=1557
+
+
+## upate - jul/2 2026
+
+```
+<option value="1557" selected="selected" >29.06.2026 - 02.07.2026</option>
+<option value="1556">26.06.2026 - 28.06.2026</option>
+<option value="1555">23.06.2026 - 25.06.2026</option>
+<option value="1554">19.06.2026 - 22.06.2026</option>
+<option value="1553">16.06.2026 - 18.06.2026</option>
+<option value="1552">11.06.2026 - 15.06.2026</option>
+<option value="1551">05.06.2026 - 10.06.2026</option>
+<option value="1550">29.05.2026 - 04.06.2026</option>
+<option value="1549">26.05.2026 - 28.05.2026</option>
+<option value="1548">22.05.2026 - 25.05.2026</option>
+<option value="1547">19.05.2026 - 21.05.2026</option>
+<option value="1546">15.05.2026 - 18.05.2026</option>
+<option value="1545">12.05.2026 - 14.05.2026</option>
+<option value="1544">08.05.2026 - 11.05.2026</option>
+<option value="1543">05.05.2026 - 07.05.2026</option>
+<option value="1542">28.04.2026 - 04.05.2026</option>
+<option value="1541">24.04.2026 - 27.04.2026</option>
+<option value="1540">21.04.2026 - 23.04.2026</option>
+<option value="1539">17.04.2026 - 20.04.2026</option>
+<option value="1538">14.04.2026 - 16.04.2026</option>
+<option value="1537">10.04.2026 - 13.04.2026</option>
+<option value="1536">07.04.2026 - 09.04.2026</option>
+<option value="1535">03.04.2026 - 06.04.2026</option>
+<option value="1534">31.03.2026 - 02.04.2026</option>
+<option value="1533">27.03.2026 - 30.03.2026</option>
+<option value="1532">24.03.2026 - 26.03.2026</option>
+<option value="1531">20.03.2026 - 23.03.2026</option>
+<option value="1530">17.03.2026 - 19.03.2026</option>
+<option value="1529">13.03.2026 - 16.03.2026</option>
+<option value="1528">10.03.2026 - 12.03.2026</option>
+<option value="1527">06.03.2026 - 09.03.2026</option>
+<option value="1526">03.03.2026 - 05.03.2026</option>
+<option value="1525">27.02.2026 - 02.03.2026</option>
+<option value="1524">24.02.2026 - 26.02.2026</option>
+<option value="1523">20.02.2026 - 23.02.2026</option>
+<option value="1522">17.02.2026 - 19.02.2026</option>
+<option value="1521">13.02.2026 - 16.02.2026</option>
+<option value="1520">10.02.2026 - 12.02.2026</option>
+```
 
 
 ## update - feb/19 2026
@@ -285,4 +329,3 @@ to check on (latest) program ids, see
 <option value="1409">07.01.2025 - 13.01.2025</option>
 <option value="1408">30.12.2024 - 06.01.2025</option>
 ```
-

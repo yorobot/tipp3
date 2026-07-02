@@ -1,0 +1,121 @@
+Date,League,Team 1,Score,Team 2,League Name
+14.04. 16:00,CYP 1,APOEL Nikosia,,Apollon Limassol FC,Zypern 1. Division
+14.04. 16:00,CYP 1,Aris Limassol FC,,FC Pafos,Zypern 1. Division
+14.04. 17:00,BUL 1,Botev Vratsa,,Lokomotive Sofia,Bulgarien Premier League
+14.04. 17:30,EH SVK,HC Kosice,,Slovan Bratislava,Slowakei Extraliga
+14.04. 18:00,CYP 1,AEK Larnaca,,AC Omonia Nikosia,Zypern 1. Division
+14.04. 18:00,SVK CUP,ZP Sport Podbrezova,,MSK Zilina,Slowakei Cup
+14.04. 18:00,SLO 1,FC Koper,,NK Maribor,Slowenien PrvaLiga Telekom
+14.04. 18:00,WMQ FR,Polen Frauen,,Irland Frauen,"WM Qualifikation Frauen, Europa"
+14.04. 18:00,WMQ FR,Norwegen Frauen,,Slowenien Frauen,"WM Qualifikation Frauen, Europa"
+14.04. 18:15,WMQ FR,Deutschland Frauen,,Österreich Frauen,"WM Qualifikation Frauen, Europa"
+14.04. 18:15,WMQ FR,Deutschland Frauen,,Österreich Frauen+1,"WM Qualifikation Frauen, Europa"
+14.04. 18:15,WMQ FR,Deutschland Frauen,,Österreich Frauen+2,"WM Qualifikation Frauen, Europa"
+14.04. 18:15,WMQ FR,Serbien Frauen,,Italien Frauen,"WM Qualifikation Frauen, Europa"
+14.04. 18:50,HUN 1,Ferencvaros Budapest,,Puskas Akademia FC,Ungarn NB I
+14.04. 19:00,WMQ FR,Schweden Frauen,,Dänemark Frauen,"WM Qualifikation Frauen, Europa"
+14.04. 19:00,EH SWE,Rögle BK,,Växjö Lakers,Schweden Elitserien
+14.04. 19:00,SWE 2,IFK Värnamo,,GIF Sundsvall,Schweden Superettan
+14.04. 19:00,ITA B,US Catanzaro,,FC Modena,Italien Serie B
+14.04. 19:00,AUT RLO,SC Parndorf,,SV Oberwart,Österreich Regionalliga Ost
+14.04. 19:30,AUT RLO,Kremser SC,,SC Neusiedl,Österreich Regionalliga Ost
+14.04. 19:30,BUL 1,PFC Dobrudzha Dobrich,,Botev Plovdiv,Bulgarien Premier League
+14.04. 19:30,EH GER,EHC Red Bull München,,Adler Mannheim,Deutschland Eishockey Liga
+14.04. 20:00,WMQ FR,England Frauen,,Spanien Frauen,"WM Qualifikation Frauen, Europa"
+14.04. 20:30,EH FRA,Bordeaux GHC,,Grenoble Bruleurs Loups,Frankreich Ligue Magnus
+14.04. 20:45,WMQ FR,Niederlande Frauen,,Frankreich Frauen,"WM Qualifikation Frauen, Europa"
+14.04. 20:45,SCO CS,FC Queens Park,,FC Raith Rovers,Schottland Championship
+14.04. 20:45,SCO CS,Airdrie Utd.,,Dunfermline Athletic,Schottland Championship
+14.04. 20:45,ENG 1,Port Vale FC,,FC Barnsley,England League One
+14.04. 20:45,ENG 1,Wigan Athletic,,Rotherham United,England League One
+14.04. 20:45,ENG 1,Leyton Orient,,Mansfield Town,England League One
+14.04. 20:45,ENG 1,Bolton Wanderers,,FC Stevenage,England League One
+14.04. 20:45,ENG 1,Huddersfield Town,,Cardiff City,England League One
+14.04. 21:00,ENG CS,FC Southampton,,Blackburn Rovers,England Championship
+14.04. 21:00,ENG CS,FC Portsmouth,,Ipswich Town,England Championship
+14.04. 21:00,CL,FC Liverpool ENG,,Paris St. Germain FRA,UEFA Champions League
+14.04. 21:00,CL,FC Liverpool,,Paris St. Germain+1,UEFA Champions League
+14.04. 21:00,CL,FC Liverpool+1,,Paris St. Germain,UEFA Champions League
+14.04. 21:00,CL,Atletico Madrid ESP,,FC Barcelona ESP,UEFA Champions League
+14.04. 21:00,CL,Atletico Madrid+1,,FC Barcelona,UEFA Champions League
+15.04. 00:00,COPA L,Estudiantes de La Plata ARG,,Cusco FC PER,Copa Libertadores
+15.04. 00:00,COPA L,Nacional de Football URU,,Deportes Tolima COL,Copa Libertadores
+15.04. 00:00,COPA L,Club Cerro Porteno PAR,,Club Atletico Junior COL,Copa Libertadores
+15.04. 00:00,COPA S,Sao Paulo SP BRA,,O Higgins CHI,Copa Sudamericana
+15.04. 00:00,COPA S,Gremio RS BRA,,Deportivo Riestra,Copa Sudamericana
+15.04. 02:00,COPA L,Bolivar La Paz BOL,,Deportivo La Guaira VEN,Copa Libertadores
+15.04. 02:00,COPA L,Boca Juniors ARG,,Barcelona Guayaquil ECU,Copa Libertadores
+15.04. 02:00,COPA S,Vasco da Gama RJ BRA,,Audax Italiano CHI,Copa Sudamericana
+15.04. 03:00,CCC CL,Cruz Azul MEX,,Los Angeles FC USA,CONCACAF Champions League
+15.04. 04:00,COPA L,Universitario Deportes PER,,Coquimbo Unido CHI,Copa Libertadores
+15.04. 04:00,COPA L,LDU Quito ECU,,Mirassol FC SP BRA,Copa Libertadores
+15.04. 04:00,INT FSF,USA Frauen,,Japan Frauen,"Freundschaftsspiele, Frauen"
+15.04. 05:30,CCC CL,Club America MEX,,Nashville SC USA,CONCACAF Champions League
+15.04. 16:30,SLO 1,NK Bravo,,ND Primorje,Slowenien PrvaLiga Telekom
+15.04. 17:00,BUL 1,Cherno More Varna,,CSKA 1948 Sofia,Bulgarien Premier League
+15.04. 18:00,SVK CUP,FC Kosice,,1. FC Tatran Presov,Slowakei Cup
+15.04. 18:00,HB AUT,Vöslauer HC,,Handball Tirol,Österreich HLA
+15.04. 18:30,SLO 1,NK Celje,,NK Olimpija Ljubljana,Slowenien PrvaLiga Telekom
+15.04. 18:45,ISR CUP,Maccabi Tel Aviv,,Maccabi Haifa,Israel Cup
+15.04. 19:00,NOR 1,Sarpsborg 08 FF,,Bodö Glimt,Norwegen Tippeligaen
+15.04. 19:00,NOR 1,Sarpsborg 08 FF+1,,Bodö Glimt,Norwegen Tippeligaen
+15.04. 19:00,NOR 1,Tromsö IL,,Lilleström SK,Norwegen Tippeligaen
+15.04. 19:10,ARG CUP,Gimnasia Y Esgrima Mendoza*,,Gimnasia Ytiro,Argentinien Cup
+15.04. 19:30,BUL 1,FK Arda Kardzhali,,Ludogorets Razgrad,Bulgarien Premier League
+15.04. 19:30,EH GER,Kölner Haie,,Eisbären Berlin,Deutschland Eishockey Liga
+15.04. 19:30,HB AUT,HSG Bärnbach/Köflach,,Alpla HC Hard,Österreich HLA
+15.04. 19:30,HB AUT,Bregenz Handball,,HSG Graz,Österreich HLA
+15.04. 19:30,HB AUT,HC Linz AG,,SC Ferlach,Österreich HLA
+15.04. 19:30,HB AUT,Fivers Margareten,,UHK Krems,Österreich HLA
+15.04. 19:30,HB AUT,HC BT-Füchse,,UHC Hollabrunn,Österreich HLA
+15.04. 19:45,EH AUT,EC Graz 99ers,,HC Pustertal,win2day ICE Hockey League
+15.04. 20:30,EH FRA,Bordeaux GHC,,Grenoble Bruleurs Loups,Frankreich Ligue Magnus
+15.04. 20:45,ENG 1,Luton Town,,Northampton Town,England League One
+15.04. 20:45,ENG 1,AFC Wimbledon,,Stockport County,England League One
+15.04. 21:00,CL,Bayern München GER,,Real Madrid ESP,UEFA Champions League
+15.04. 21:00,CL,FC Bayern München,,Real Madrid+1,UEFA Champions League
+15.04. 21:00,CL,FC Arsenal ENG,,Sporting Lissabon POR,UEFA Champions League
+15.04. 21:00,CL,FC Arsenal,,Sporting Lissabon+1,UEFA Champions League
+15.04. 21:00,CL,FC Arsenal,,Sporting Lissabon+2,UEFA Champions League
+15.04. 22:00,PER 1,UTC de Cajamarca,,Sport Huancayo,Peru Primera Division
+16.04. 00:00,COPA L,Cruzeiro EC MG BRA,,Universidad Catolica CHI,Copa Libertadores
+16.04. 00:00,COPA L,Club Libertad Asuncion PAR,,CA Rosario Central ARG,Copa Libertadores
+16.04. 00:00,COPA S,Caracas FC VEN,,Independiente Petrolero BOL,Copa Sudamericana
+16.04. 00:00,COPA S,Racing Club ARG,,Botafogo RJ BRA,Copa Sudamericana
+16.04. 02:00,COPA S,Olimpia Asuncion PAR,,CA Barracas Central ARG,Copa Sudamericana
+16.04. 02:30,COPA L,Fluminense RJ BRA,,Independiente Rivadavia ARG,Copa Libertadores
+16.04. 02:30,COPA L,Corinthians SP BRA,,Independiente Santa Fe COL,Copa Libertadores
+16.04. 02:30,COPA S,CA River Plate ARG,,Carabobo FC VEN,Copa Sudamericana
+16.04. 03:00,CCC CL,LA Galaxy USA,,Deportivo Toluca MEX,CONCACAF Champions League
+16.04. 04:00,COPA S,America de Cali COL,,Alianza Atletico PER,Copa Sudamericana
+16.04. 04:00,COPA S,Los Millonarios COL,,CA Boston River URU,Copa Sudamericana
+16.04. 05:30,CCC CL,Seattle Sounders USA,,UANL Tigres MEX,CONCACAF Champions League
+16.04. 16:00,BUL 1,FK Septemvri Sofia,,FK Spartak 1918 Varna,Bulgarien Premier League
+16.04. 16:30,EH FS,Slowakei,,Schweiz,Freundschaftsspiele
+16.04. 17:00,SLO 1,NK Aluminij,,NS Mura,Slowenien PrvaLiga Telekom
+16.04. 17:30,EH FS,Tschechien,,Deutschland,Freundschaftsspiele
+16.04. 18:30,BUL 1,PFC Montana 1921,,PFC Slavia Sofia,Bulgarien Premier League
+16.04. 18:45,EL,Celta de Vigo ESP,,SC Freiburg GER,UEFA Europa League
+16.04. 18:45,EL,Celta de Vigo,,SC Freiburg+1,UEFA Europa League
+16.04. 18:45,CON LG,AZ Alkmaar NED,,FC Shakhtar Donetsk UKR,UEFA Conference League
+16.04. 18:45,CON LG,AZ Alkmaar,,FC Shakhtar Donetsk+1,UEFA Conference League
+16.04. 19:00,EH FS,Österreich,,Italien,Freundschaftsspiele
+16.04. 19:00,EH SWE,Växjö Lakers,,Rögle BK,Schweden Elitserien
+16.04. 20:45,ENG 1,Peterborough United,,Port Vale FC,England League One
+16.04. 21:00,EL,Betis Sevilla ESP,,Sporting Braga POR,UEFA Europa League
+16.04. 21:00,EL,Betis Sevilla,,Sporting Braga+1,UEFA Europa League
+16.04. 21:00,EL,Aston Villa ENG,,Bologna FC ITA,UEFA Europa League
+16.04. 21:00,EL,Aston Villa,,Bologna FC+1,UEFA Europa League
+16.04. 21:00,EL,Nottingham Forest ENG,,FC Porto POR,UEFA Europa League
+16.04. 21:00,EL,Nottingham Forest,,FC Porto+1,UEFA Europa League
+16.04. 21:00,CON LG,AC Fiorentina ITA,,Crystal Palace ENG,UEFA Conference League
+16.04. 21:00,CON LG,AC Fiorentina,,Crystal Palace+1,UEFA Conference League
+16.04. 21:00,CON LG,AC Fiorentina+1,,Crystal Palace,UEFA Conference League
+16.04. 21:00,CON LG,AEK Athen GRE,,Rayo Vallecano ESP,UEFA Conference League
+16.04. 21:00,CON LG,AEK Athen,,Rayo Vallecano+1,UEFA Conference League
+16.04. 21:00,CON LG,Racing Strasbourg FRA,,FSV Mainz 05 GER,UEFA Conference League
+16.04. 21:00,CON LG,Racing Strasbourg,,FSV Mainz 05+1,UEFA Conference League
+17.04. 00:00,COPA L,Atletico Lanus ARG,,Always Ready La Paz BOL,Copa Libertadores
+17.04. 00:00,COPA S,CA Tigre ARG,,CSD Macara ECU,Copa Sudamericana
+17.04. 02:30,COPA L,CA Penarol URU,,CA Platense ARG,Copa Libertadores
+17.04. 02:30,COPA S,CA San Lorenzo ARG,,CD Cuenca ECU,Copa Sudamericana

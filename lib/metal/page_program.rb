@@ -7,6 +7,12 @@ class Program < Page
 
 ## clean-up html source a little
 #note: use .+? e.g. non-greedy/lazy minimal match
+
+##
+## e.g.
+##    <div class="t3-tooltip-container">Finnland Veikkausliiga</div>
+
+
 DIV_TOOLTIP_RE = %r{<div [ ]+
                      class="t3-tooltip-container">
                     .+?
@@ -26,7 +32,7 @@ end
 
 
 def self.get( id, cache: true )
-    url = Metal.program_url( id ) 
+    url = Metal.program_url( id )
     ## check check first
     if cache && Webcache.cached?( url )
       ## puts "  reuse local (cached) copy >#{Webcache.url_to_id( url )}<"
@@ -63,11 +69,11 @@ def initialize( html, id: )
   @program_id  = program_meta[0]
 
   assert( @program_id == id,
-          "program id NOT matching - expected #{id} but got #{@program_id})" ) 
+          "program id NOT matching - expected #{id} but got #{@program_id})" )
 end
 
 def program_id()     program_meta[0]; end
-def program_dates()  _parse_dates(program_meta[1] ); end 
+def program_dates()  _parse_dates(program_meta[1] ); end
 
 def program_meta   ## use program_selected or such - why? why not?
   @program_meta ||= begin
@@ -80,13 +86,13 @@ def program_meta   ## use program_selected or such - why? why not?
     ## pp opts
     ## todo - assert one el returned
 
-  
+
     ## return value and text e.g.
     ##    1350, 04.06.2024 - 06.06.2024
-    ##    etc. 
+    ##    etc.
     ##   note - convert program id to integer number here!!!!
     [squish( opts[0]['value'] ).to_i(10),
-     squish( opts[0].text ) 
+     squish( opts[0].text )
     ]
     end
 end
@@ -118,7 +124,7 @@ end
 # e.g.  2024-12-03_W44-Tue_3d
 ##  use W01 or W1 ??
 ##
-##  plus add 3d  (for duration) 
+##  plus add 3d  (for duration)
 ##
 ## ## note: use calendar year (e.g. date.cwyear) ???
 ##   (e.g. 2019/12/30 => 2020/W01!)
@@ -137,10 +143,10 @@ end
 ##   04.06.2024 - 06.06.2024  =>  2024-06-04_W23-Tue_3d
 ##
 ##
-##  note: looks like double programs 6d or 7days, 
+##  note: looks like double programs 6d or 7days,
 ##         program with 5days (still single, that is, A or B)
 ##
-## renamed (was - fixing outliers with new generic scheme - examples before/after):  
+## renamed (was - fixing outliers with new generic scheme - examples before/after):
 ##  datasets_v1/2023-51b_fri-dec-22:csv -> datasets/2023-12-22_W51-Fri_5d.csv
 ##     is (double ??) 51B + 52A in real world??
 ##  datasets_v1/2023-52b_wed-dec-27.csv -> datasets/2023-12-27_W52-Wed_7d.csv
@@ -158,21 +164,21 @@ end
 ##  53B, 31.12.2020-04.01.2021      #=> 2020-12-31_W53-Thu_5d    -- Week 53B!!!
 ##  01A, 05.01.2021-07.01.2021      #=> 2021-01-05_W01-Tue_3d
 ##  02B, 15.01.2021-18.01.2021
-##  
+##
 ##  24B,    18.06.2021-20.06.2021   #=> 2021-06-18_W24-Fri_3d
 ##  25A,    21.06.2021-24.06.2021   #=> 2021-06-21_W25-Mon_4d
-##  25B/26A, 25.06.2021-30.06.2021  #=> 2021-06-25_W25-Fri_6d 
+##  25B/26A, 25.06.2021-30.06.2021  #=> 2021-06-25_W25-Fri_6d
 ##  26B, 01.07.2021-04.07.2021      #=> 2021-07-01_W26-Thu_4d
 ##  27A, 05.07.2021-08.07.2021      #=> 2021-07-05_W27-Mon_4d
-##  
+##
 ##  51AB, 21.12.2021-27.12.2021      #=> 2021-12-21_W51-Tue_7d
 ##  52A,  28.12.2021-30.12.2021      #=> 2021-12-28_W52-Tue_3d
 ##  52B, 31.12.2021-03.01.2022       #=> 2021-12-31_W52-Fri_4d
 ##  01A, 04.01.2022-06.01.2022       #=> 2022-01-04_W01-Tue_3d
-##  
+##
 ##  02A, 11.01.2022-13.01.2022
 ##  06B, 11.02.2022-14.02.2022
-##  
+##
 ##  50B/51A,  16.12.2022-22.12.2022   #=> 2022-12-16_W50-Fri_7d
 ##  51B/52A,  23.12.2022-29.12.2022   #=> 2022-12-23_W51-Fri_7d
 ##  52B/01A,  30.12.2022-04.01.2023   #=> 2022-12-30_W52-Fri_6d
@@ -204,7 +210,7 @@ def matches
   assert( table, "no list entries container found" )
 
   trs = table.css( 'div.t3-list-entry' )
-  puts " #{trs.size} table row(s) via div.t3-list-entry"  
+  puts " #{trs.size} table row(s) via div.t3-list-entry"
 
 
   trs.each_with_index do |tr,i|
@@ -230,7 +236,7 @@ assert( el, "no datetime found" )
 
 #####
 #   use embedded timestamp (with leagueid) in
-#    data-sort-starttime  ??? 
+#    data-sort-starttime  ???
 
 =begin
 ## datetime_sort
@@ -241,7 +247,7 @@ ts       = sort[0,10]
 leagueid = sort[10..-1]
 pp  [ts,
      Time.at(ts.to_i(10)),
-     Time.at(ts.to_i(10)).utc,   ## try utc 
+     Time.at(ts.to_i(10)).utc,   ## try utc
      leagueid]
 
 assert( ts+leagueid == sort, 'startime split not working?')
@@ -276,14 +282,21 @@ date = squish( el1.text )
     liga       = squish( el1.text )
     liga_title = squish( el2.text )
 
-                      
+
     el = tr.css( 'div.t3-list-entry__players' )[0]
     assert( el, "no players found" )
 
 
     ## note: change div to span
+    ##       change span to a
+    ##  e.g.
+    #   <a href="#" class="t3-list-entry__player">
+    ##                                        Vaasa PS
+    ##                                      </a>
+
+
     players = []
-    els = el.css( 'span.t3-list-entry__player' )
+    els = el.css( 'a.t3-list-entry__player' )
     assert( els && els.size==2, "no players found or players.size != 2" )
 
     els.each do |el|
@@ -293,10 +306,13 @@ date = squish( el1.text )
     end
 
 
-    el  = tr.css( 'div.t3-list-entry__result' )[0]
-    assert( el, "no result found" )
-    score = squish( el.text )
-
+    #
+    # el  = tr.css( 'div.t3-list-entry__result' )[0]
+    # assert( el, "no result found" )
+    # score = squish( el.text )
+    #
+    #  note - score no longer available on static page
+    score = '?'
 
     puts "#{i+1} | >#{date}<  >#{liga}< >#{liga_title}< >#{players[0]}< >#{players[1]}< >#{score}<"
 
@@ -316,4 +332,3 @@ end # (nested) class Program
 
 end # class Page
 end # module Tipp3
-
