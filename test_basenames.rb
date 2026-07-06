@@ -118,6 +118,7 @@ recs = parse_csv( <<TXT )
   44B,       02.11.2024-04.11.2024
 
   51B,       20.12.2024-22.12.2024   ## friday to sunday
+  52AB,      23.12.2024-29.12.2024   ## mon to sun
 
   01AB,     30.12.2024-06.01.2025    ## monday to monday (8d!)
   02AB,     07.01.2025-13.01.2025    ## tuesday to monday (7d)
@@ -134,6 +135,8 @@ recs = parse_csv( <<TXT )
   23B/24A,   05.06.2026-10.06.2026   ## fri to wed (6d)
   24B,       11.06.2026-15.06.2026   ## thu to mon (5d)
   26B,       26.06.2026-28.06.2026   ## fri to sun (3d)
+  27A,       29.06.2026-02.07.2026   ## mon to thu (4d)   -- std is tue to thu (3d)
+  27B,       03.07.2026-05.07.2026   ## fri to sun (3d)   -- std is to mon (4d)
 TXT
 
 
